@@ -1,4 +1,4 @@
-package nucleus.eti.br.bottombarnavigationview;
+package hash.application;
 
 import org.junit.Test;
 

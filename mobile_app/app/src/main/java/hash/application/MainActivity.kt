@@ -1,12 +1,13 @@
-package com.eti.nucleus.bottombarnavigationview
+package com.hash.application
 
 import android.support.v7.app.AppCompatActivity
 import android.os.Bundle
 import android.support.design.widget.BottomNavigationView
 import android.support.v4.app.Fragment
-import nucleus.eti.br.bottombarnavigationview.R
-import nucleus.eti.br.bottombarnavigationview.fragments.*
-import nucleus.eti.br.bottombarnavigationview.helpers.BottomNavigationViewHelper
+import hash.application.fragments.Fragment3
+import hash.application.R
+import hash.application.fragments.*
+import hash.application.helpers.BottomNavigationViewHelper
 
 class MainActivity : AppCompatActivity() {
 

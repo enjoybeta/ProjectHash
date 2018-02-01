@@ -1,4 +1,4 @@
-package nucleus.eti.br.bottombarnavigationview;
+package hash.application;
 
 import android.content.Context;
 import android.support.test.InstrumentationRegistry;
@@ -21,6 +21,6 @@ public class ExampleInstrumentedTest {
         // Context of the app under test.
         Context appContext = InstrumentationRegistry.getTargetContext();
 
-        assertEquals("nucleus.eti.br.bottombarnavigationview", appContext.getPackageName());
+        assertEquals("hash.application", appContext.getPackageName());
     }
 }
