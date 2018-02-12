@@ -4,7 +4,7 @@
     android:layout_height="match_parent"
     xmlns:app="http://schemas.android.com/apk/res-auto"
     xmlns:tools="http://schemas.android.com/tools"
-    tools:context="com.eti.nucleus.bottombarnavigationview.MainActivity">
+    tools:context="com.hash.application.MainActivity">
 
     <android.support.v7.widget.Toolbar
         android:id="@+id/toolbar"
