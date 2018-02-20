@@ -1,15 +1,31 @@
 <resources>
 
     <string name="app_name">Hash</string>
+    <string name="num_1">1</string>
 
-    <!-- Strings Menu Bottom Bar Navigation -->
+    <!-- SBottom Bar Navigation -->
     <string name="menu_item1">Home</string>
     <string name="menu_item2">Suggestion</string>
     <string name="menu_item3">Ingredients</string>
     <string name="menu_item4">Favorite</string>
     <string name="menu_item5">Profile</string>
-    <!-- /Strings Menu Bottom Bar Navigation/ -->
+
+    <!-- Fragment 1 -->
     <string name="menu_item1_top">"Today's special"</string>
     <string name="notification_badge">9</string>
+
+    <!-- Fragment 2 -->
+    <string name="peopleCount">"Number of people attending"</string>
+    <string name="checkbox1">"willing to purchase"</string>
+    <string name="checkbox2">"No egg"</string>
+    <string name="checkbox3">"No fish"</string>
+    <string name="checkbox4">"No milk"</string>
+    <string name="checkbox5">"No peanut"</string>
+    <string name="checkbox6">"No shellfish"</string>
+    <string name="checkbox7">"No soy"</string>
+    <string name="checkbox8">"No tree nuts"</string>
+    <string name="checkbox9">"No wheat"</string>
+    <string name="search">"Search"</string>
+
 
 </resources>

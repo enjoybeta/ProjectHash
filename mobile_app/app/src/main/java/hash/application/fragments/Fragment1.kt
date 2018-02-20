@@ -15,11 +15,11 @@ class Fragment1: Fragment() {
     }
 
     override fun onStart() {
-        retrivePhoto()
+        retrievePhoto()
         super.onStart()
     }
 
-    fun retrivePhoto() {
+    private fun retrievePhoto() {
         Picasso.with(activity).load("https://cdn.shopify.com/s/files/1/1190/4748/t/10/assets/logo.png").into(imageView3);
         Picasso.with(activity).load(R.drawable.image_item4).into(imageView4);
     }
