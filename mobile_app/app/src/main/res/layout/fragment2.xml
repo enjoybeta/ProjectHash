@@ -4,10 +4,114 @@
     android:layout_height="match_parent">
 
     <TextView
+        android:id="@+id/textView1"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
+        android:layout_marginTop="64dp"
+        android:layout_marginStart="32dp"
+        android:text="@string/peopleCount"
+        android:labelFor="@+id/editText"/>
+
+    <EditText
+        android:id="@+id/editText"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/textView1"
         android:layout_centerHorizontal="true"
-        android:text="@string/menu_item2"
-        android:textSize="30sp"/>
+        android:ems="10"
+        android:inputType="number"
+        android:text="@string/num_1"
+        android:gravity="center_horizontal"
+        android:selectAllOnFocus="true"/>
+
+    <CheckBox
+        android:id="@+id/checkBox1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/editText"
+        android:layout_marginTop="16dp"
+        android:layout_toStartOf="@+id/checkBox6"
+        android:text="@string/checkbox1" />
+
+    <CheckBox
+        android:id="@+id/checkBox2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignStart="@+id/checkBox1"
+        android:layout_below="@+id/checkBox1"
+        android:layout_marginTop="16dp"
+        android:text="@string/checkbox2" />
+
+    <CheckBox
+        android:id="@+id/checkBox3"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignStart="@+id/checkBox2"
+        android:layout_below="@+id/checkBox2"
+        android:layout_marginTop="16dp"
+        android:text="@string/checkbox3" />
+
+    <CheckBox
+        android:id="@+id/checkBox4"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignStart="@+id/checkBox3"
+        android:layout_below="@+id/checkBox3"
+        android:layout_marginTop="16dp"
+        android:text="@string/checkbox4" />
+
+    <CheckBox
+        android:id="@+id/checkBox5"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignStart="@+id/checkBox4"
+        android:layout_below="@+id/checkBox4"
+        android:layout_marginTop="16dp"
+        android:text="@string/checkbox5" />
+
+    <CheckBox
+        android:id="@+id/checkBox6"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignBaseline="@+id/checkBox2"
+        android:layout_alignBottom="@+id/checkBox2"
+        android:layout_alignEnd="@+id/editText"
+        android:text="@string/checkbox6" />
+
+    <CheckBox
+        android:id="@+id/checkBox7"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignStart="@+id/checkBox6"
+        android:layout_below="@+id/checkBox6"
+        android:layout_marginTop="16dp"
+        android:text="@string/checkbox7" />
+
+    <CheckBox
+        android:id="@+id/checkBox8"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignStart="@+id/checkBox7"
+        android:layout_below="@+id/checkBox7"
+        android:layout_marginTop="16dp"
+        android:text="@string/checkbox8" />
+
+    <CheckBox
+        android:id="@+id/checkBox9"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignStart="@+id/checkBox8"
+        android:layout_below="@+id/checkBox8"
+        android:layout_marginTop="16dp"
+        android:text="@string/checkbox9" />
+
+    <Button
+        android:id="@+id/button"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginBottom="80dp"
+        android:text="@string/search" />
 
 </RelativeLayout>

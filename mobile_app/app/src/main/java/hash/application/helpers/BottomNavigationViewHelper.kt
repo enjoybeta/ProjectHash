@@ -1,6 +1,5 @@
 package hash.application.helpers
 
-import android.support.annotation.IdRes
 import android.support.design.internal.BottomNavigationItemView
 import android.support.design.internal.BottomNavigationMenuView
 import android.support.design.widget.BottomNavigationView
