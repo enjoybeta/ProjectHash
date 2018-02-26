@@ -1,9 +1,9 @@
 import urllib.request, urllib.parse, json
 
 class YummlySearch:
-    def __init__(self, baseSearchAddress_ = 'http://api.yummly.com/v1/api/recipes?', baseRecipeDetailAddress_ = 'http://api.yummly.com/v1/api/recipe/', appId_ = '4a4d16bf', appKey_ = 'c60f961fefede4811a9f5e9709cb6829'):
-        self.baseSearchAddress = baseSearchAddress_
-        self.baseRecipeDetailAddress = baseRecipeDetailAddress_
+    def __init__(self, appId_, appKey_):
+        self.baseSearchAddress = 'http://api.yummly.com/v1/api/recipes?'
+        self.baseRecipeDetailAddress = 'http://api.yummly.com/v1/api/recipe/'
         self.appId = appId_
         self.appKey = appKey_
 
@@ -23,18 +23,13 @@ class YummlySearch:
         parameter = {'_app_id': self.appId, '_app_key': self.appKey}
         return self.baseRecipeDetailAddress + recipeId + '?' + urllib.parse.urlencode(parameter)
 
-class RecipeSearchResult:
-    pass
-
-class Recipe:
-    def __init__(self):
-        pass
+def saveJsonToFile(json, fileName):
+    with open(fileName, 'w') as output:
+        output.write(json.dumps(json, indent = 4))
 
 if __name__ == '__main__':
-    search = YummlySearch()
-    searchRequest = search.generateSearchRequest(['onion', 'soup'])
-    print(searchRequest)
+    appId = '4a4d16bf'
+    appKey = 'c60f961fefede4811a9f5e9709cb6829'
+    search = YummlySearch(appId, appKey)
     searchRequest = search.generateRecipeDetailRequest('French-Onion-Soup-2141595')
-    print(searchRequest)
-    with open('test_data_recipe.json', 'w') as output:
-        output.write(json.dumps(search.getResult(searchRequest), indent = 4))
+    saveJsonToFile(search.getResult(searchRequest), 'test_data_recipe.json')
