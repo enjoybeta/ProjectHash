@@ -1,8 +1,9 @@
 import urllib.request, urllib.parse, json
 
 class YummlySearch:
-    def __init__(self, baseSearchAddress_ = 'http://api.yummly.com/v1/api/recipes?', appId_ = '4a4d16bf', appKey_ = 'c60f961fefede4811a9f5e9709cb6829'):
+    def __init__(self, baseSearchAddress_ = 'http://api.yummly.com/v1/api/recipes?', baseRecipeDetailAddress_ = 'http://api.yummly.com/v1/api/recipe/', appId_ = '4a4d16bf', appKey_ = 'c60f961fefede4811a9f5e9709cb6829'):
         self.baseSearchAddress = baseSearchAddress_
+        self.baseRecipeDetailAddress = baseRecipeDetailAddress_
         self.appId = appId_
         self.appKey = appKey_
 
@@ -12,12 +13,15 @@ class YummlySearch:
         queryWord = keyWords[0]
         for i in range(1, len(keyWords)):
             queryWord += '+' + keyWords[i]
-        parameter = {'_app_id':self.appId, '_app_key':self.appKey, 'q': queryWord}
-        addressParameter = urllib.parse.urlencode(parameter)
-        return self.baseSearchAddress + addressParameter
+        parameter = {'_app_id': self.appId, '_app_key': self.appKey, 'q': queryWord}
+        return self.baseSearchAddress + urllib.parse.urlencode(parameter)
 
-    def getSearchResult(self, searchRequest, requestTimeout = 10):
+    def getResult(self, searchRequest, requestTimeout = 10):
         return json.loads(urllib.request.urlopen(searchRequest, timeout = requestTimeout).read())
+
+    def generateRecipeDetailRequest(self, recipeId):
+        parameter = {'_app_id': self.appId, '_app_key': self.appKey}
+        return self.baseRecipeDetailAddress + recipeId + '?' + urllib.parse.urlencode(parameter)
 
 class RecipeSearchResult:
     pass
@@ -29,5 +33,8 @@ class Recipe:
 if __name__ == '__main__':
     search = YummlySearch()
     searchRequest = search.generateSearchRequest(['onion', 'soup'])
-    with open('test_data.json', 'w') as output:
-        output.write(json.dumps(search.getSearchResult(searchRequest), indent = 4))
+    print(searchRequest)
+    searchRequest = search.generateRecipeDetailRequest('French-Onion-Soup-2141595')
+    print(searchRequest)
+    with open('test_data_recipe.json', 'w') as output:
+        output.write(json.dumps(search.getResult(searchRequest), indent = 4))
