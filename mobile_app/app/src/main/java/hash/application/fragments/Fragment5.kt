@@ -7,6 +7,7 @@ import android.view.View
 import android.view.ViewGroup
 import hash.application.R
 
+//"profile" fragment
 class Fragment5: Fragment() {
 
     override fun onCreateView(inflater: LayoutInflater?, container: ViewGroup?, savedInstanceState: Bundle?): View? {
