@@ -19,7 +19,15 @@ class YummlySearch:
     def getSearchResult(self, searchRequest, requestTimeout = 10):
         return json.loads(urllib.request.urlopen(searchRequest, timeout = requestTimeout).read())
 
+class RecipeSearchResult:
+    pass
+
+class Recipe:
+    def __init__(self):
+        pass
+
 if __name__ == '__main__':
     search = YummlySearch()
     searchRequest = search.generateSearchRequest(['onion', 'soup'])
-    print(json.dumps(search.getSearchResult(searchRequest), indent=4))
+    with open('test_data.json', 'w') as output:
+        output.write(json.dumps(search.getSearchResult(searchRequest), indent = 4))
