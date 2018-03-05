@@ -8,6 +8,12 @@ import android.view.ViewGroup
 import com.squareup.picasso.Picasso
 import hash.application.R
 import kotlinx.android.synthetic.main.fragment1.*
+import android.content.ContentValues.TAG
+import android.util.Log
+import android.widget.Toast
+import android.content.Intent
+import hash.application.ViewDish
+
 
 //"home" fragment
 class Fragment1: Fragment() {
@@ -16,7 +22,14 @@ class Fragment1: Fragment() {
     }
 
     override fun onStart() {
+        searchview.queryHint = "Search anything you like"
         retrievePhoto()
+
+        imageView1.setOnClickListener(View.OnClickListener{
+            Toast.makeText(context, "clicked on image1", Toast.LENGTH_SHORT).show()
+            val intent = Intent(context, ViewDish::class.java)
+            startActivity(intent)
+        })
         super.onStart()
     }
 
