@@ -4,6 +4,11 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent">
 
+    <FrameLayout
+        android:id="@+id/container_frame_layout"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent" />
+
     <android.support.v7.widget.Toolbar
         android:id="@+id/toolbar"
         android:layout_width="match_parent"
@@ -15,11 +20,9 @@
         android:theme="?attr/actionBarTheme" />
 
     <SearchView
-        android:id="@+id/searchview"
+        android:id="@+id/searchView"
         android:layout_width="match_parent"
-        android:layout_height="match_parent"
-        android:layout_above="@+id/textView"
-        android:layout_alignParentEnd="true" />
+        android:layout_height="50dp" />
 
     <TextView
         android:id="@+id/textView"
@@ -29,7 +32,7 @@
         android:layout_centerHorizontal="true"
         android:layout_marginTop="12dp"
         android:fontFamily="cursive"
-        android:text="@string/menu_item1_top"
+        android:text="@string/today_s_special"
         android:textSize="30sp" />
 
     <ImageView
