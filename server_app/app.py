@@ -9,11 +9,15 @@ def guidance():
     
 @app.route("/today1")
 def today1():
-    return "https://lh3.googleusercontent.com/kkQn03LTrlEB9fmkoeP9N5z3USYAdgw7BxDSM9xoKp29AofRsT5KqyUy1qrKh1ySBeWhGvBRu-uTxXY61dXee68=s300-c-e365"
+    with open ("../Database/return.json", "r") as myfile:
+        data=myfile.readline()
+    return data
     
 @app.route("/today2")
 def today2():
-    return "today2"
+    with open ("../Database/return2.json", "r") as myfile:
+        data=myfile.readline()
+    return data
     
 @app.route("/today3")
 def today3():

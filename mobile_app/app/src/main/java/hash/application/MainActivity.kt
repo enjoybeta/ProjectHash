@@ -9,6 +9,8 @@ import hash.application.fragments.*
 import hash.application.helpers.BottomNavigationViewHelper
 import kotlinx.android.synthetic.main.activity_main.*
 
+val serverAddress: String = "172.26.10.12"
+
 class MainActivity : AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)

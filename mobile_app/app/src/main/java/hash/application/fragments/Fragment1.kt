@@ -10,6 +10,9 @@ import hash.application.R
 import kotlinx.android.synthetic.main.fragment1.*
 import android.widget.Toast
 import android.content.Intent
+import com.github.kittinunf.fuel.httpGet
+import com.github.kittinunf.result.Result
+import com.hash.application.serverAddress
 import hash.application.SearchActivity
 import hash.application.ViewDish
 
@@ -21,20 +24,32 @@ class Fragment1: Fragment() {
 
     override fun onStart() {
         retrievePhoto()
+        provideSearch()
 
         imageView1.setOnClickListener({
             Toast.makeText(context, "clicked on image1", Toast.LENGTH_SHORT).show()
             val intent = Intent(context, ViewDish::class.java)
             startActivity(intent)
         })
-        provideSearch()
 
         super.onStart()
     }
 
     private fun retrievePhoto() {
         Picasso.with(activity).load("https://cdn.shopify.com/s/files/1/1190/4748/t/10/assets/logo.png").into(imageView3);
-        Picasso.with(activity).load(R.drawable.image_item4).into(imageView4);
+        Picasso.with(activity).load(R.drawable.image_item4).into(imageView4)
+        serverAddress+"/today1".httpGet().responseString { request, response, result ->
+            when (result) {
+                is Result.Failure -> {
+                    val error = result.getException()
+                    print(error)
+                }
+                is Result.Success -> {
+                    val data = result.get()
+                    print(data)
+                }
+            }
+        }
     }
 
     private fun provideSearch(){
@@ -51,6 +66,7 @@ class Fragment1: Fragment() {
             override fun onQueryTextSubmit(query: String): Boolean {
                 Toast.makeText(context, "onQueryTextSubmit:$query", Toast.LENGTH_SHORT).show()
                 val intent = Intent(context, SearchActivity::class.java)
+                intent.putExtra("query",query)
                 startActivity(intent)
                 return true
             }

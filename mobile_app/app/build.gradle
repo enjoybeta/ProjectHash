@@ -40,8 +40,16 @@ dependencies {
     compile "org.jetbrains.kotlin:kotlin-stdlib-jdk7:$kotlin_version"
     compile 'com.squareup.picasso:picasso:2.5.2'
     compile 'com.google.code.gson:gson:2.8.2'
+    compile 'com.github.kittinunf.fuel:fuel:1.12.1' //for JVM
+    compile 'com.github.kittinunf.fuel:fuel-android:1.12.1' //for Android
+    compile 'com.github.kittinunf.fuel:fuel-livedata:1.12.1' //for LiveData support
+    compile 'com.github.kittinunf.fuel:fuel-rxjava:1.12.1' //for RxJava support
+    compile 'com.github.kittinunf.fuel:fuel-gson:1.12.1' //for Gson support
+    compile 'com.github.kittinunf.fuel:fuel-jackson:1.12.1' //for Jackson support
+    compile 'com.github.kittinunf.fuel:fuel-moshi:1.12.1' //for Moshi support
 }
 
 repositories {
     mavenCentral()
+    jcenter()
 }

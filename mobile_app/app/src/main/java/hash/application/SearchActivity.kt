@@ -14,6 +14,9 @@ class SearchActivity : AppCompatActivity() {
 
     override fun onStart(){
         super.onStart()
+        val query = intent.extras.getString("query")
+
+
         val players = arrayOf("Lionel Messi", "Christiano Ronaldo", "Neymar", "Gareth Bale")
         val adapter : ArrayAdapter<String> = ArrayAdapter<String>(this, android.R.layout.simple_list_item_1, players)
         listView1.adapter = adapter
