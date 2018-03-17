@@ -9,7 +9,7 @@ import hash.application.fragments.*
 import hash.application.helpers.BottomNavigationViewHelper
 import kotlinx.android.synthetic.main.activity_main.*
 
-val serverAddress: String = "172.26.10.12"
+val serverAddress: String = "https://34.213.169.244:5000"
 
 class MainActivity : AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
