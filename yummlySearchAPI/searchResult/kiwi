@@ -1,0 +1,371 @@
+{
+    "criteria": {
+        "q": "k+i+w+i",
+        "allowedIngredient": null,
+        "excludedIngredient": null
+    },
+    "matches": [
+        {
+            "imageUrlsBySize": {
+                "90": "http://lh3.googleusercontent.com/gAKZN3dN1bKV1Wt47lWZ6e2tSeCl6QldpSjwdbjIcdcDjVunnA_JTSjcOFp7r9JT5eA2DWk8sfegVNN9R4GB=s90-c"
+            },
+            "sourceDisplayName": "The Dutch Baker's Daughter",
+            "ingredients": [
+                "granulated sugar",
+                "light corn syrup",
+                "peanut butter",
+                "Special K Cereal",
+                "chocolate chips",
+                "butterscotch chips"
+            ],
+            "id": "K-Bars-1049674",
+            "smallImageUrls": [
+                "http://lh3.googleusercontent.com/TyC_d8GrkzEWgqAuLYvcZOIgJpTgw28NgGMcuOhU7B2mqmQ5XEbemSikazjA4yG6BPrxqbpUIH4GqoClpuI0l8o=s90"
+            ],
+            "recipeName": "K Bars",
+            "totalTimeInSeconds": 1800,
+            "attributes": {},
+            "flavors": null,
+            "rating": 4
+        },
+        {
+            "imageUrlsBySize": {
+                "90": "http://lh3.googleusercontent.com/xZNeEWO0LHnSHHfmQMq4BIj43j4ySBJi7H6x3pEJVF0gcORU_0OzlQrHXzXd346kWeeZg2WXIzV0pEZwUk-H_BE=s90-c"
+            },
+            "sourceDisplayName": "Carnal Dish",
+            "ingredients": [
+                "new york strip steaks",
+                "heavy cream",
+                "extra-virgin olive oil",
+                "worcestershire sauce",
+                "gruyere cheese",
+                "tomatoes",
+                "arugula",
+                "hamburger buns",
+                "Montr\u00e9al steak seasoning",
+                "cayenne pepper",
+                "granulated garlic",
+                "onion powder",
+                "kosher salt",
+                "jumbo shrimp",
+                "panko breadcrumbs",
+                "Italian style breadcrumbs",
+                "all-purpose flour",
+                "eggs",
+                "salt",
+                "black pepper",
+                "old bay seasoning",
+                "paprika",
+                "oil",
+                "yellow onion",
+                "low-fat cultured buttermilk",
+                "seasoning salt",
+                "dried parsley",
+                "mayonnaise",
+                "flat leaf parsley",
+                "prepar pesto",
+                "garlic",
+                "lemon juice",
+                "capers",
+                "crushed red pepper flakes",
+                "pepper"
+            ],
+            "id": "The-Big-K_R_I_T_-King-Burger-1058545",
+            "smallImageUrls": [
+                "http://lh3.googleusercontent.com/nAg143-KhKp6w4KxBvyADo3S_MSakLW0h7osELlyK4YBbyibxbovfE5HxC3hNyY7q_5KISj9bqGPPpf_wNJT-rE=s90"
+            ],
+            "recipeName": "The Big K.R.I.T. \u201cKing\u201d Burger",
+            "totalTimeInSeconds": 3300,
+            "attributes": {
+                "course": [
+                    "Lunch",
+                    "Main Dishes"
+                ]
+            },
+            "flavors": null,
+            "rating": 4
+        },
+        {
+            "imageUrlsBySize": {
+                "90": "https://lh3.googleusercontent.com/HgdP9aqvIvNXVDM6M0-2F4X2gFIM0Nc1YRcy016eQumZtyO0ZMMqeNX12lzn8N8vZr56pn62stXpdUxevVh7VeY=s90-c"
+            },
+            "sourceDisplayName": "Gigi Eats Celebrities",
+            "ingredients": [
+                "sweet potatoes",
+                "sugar",
+                "hickory smoke",
+                "beef brisket",
+                "bbq sauce",
+                "spinach"
+            ],
+            "id": "Nacho-Average-B_R_I_S_K_E_T_-1952403",
+            "smallImageUrls": [
+                "https://lh3.googleusercontent.com/MrXnL83XjSwGVTFf2xMbAMU45DSUoC6Ti5Aws3HW0k_1DXt5ZpEhn-QiyyHKafCLKQOJxwr6PvUjDjrpNJEhWw=s90"
+            ],
+            "recipeName": "Nacho Average B.R.I.S.K.E.T.",
+            "totalTimeInSeconds": 1800,
+            "attributes": {
+                "course": [
+                    "Main Dishes"
+                ]
+            },
+            "flavors": null,
+            "rating": 4
+        },
+        {
+            "imageUrlsBySize": {
+                "90": "http://lh6.ggpht.com/2cl4zDgaf1bR0s_XOQohHyvE1ESFpfKH13atr7BsohWmWVedoEVRr2pUadBzkxPTN1FijfAnjiwHRn_k3j5liQ=s90-c"
+            },
+            "sourceDisplayName": "101 Cookbooks",
+            "ingredients": [
+                "black lentil",
+                "large eggs",
+                "fine sea salt",
+                "onions",
+                "bread crumbs",
+                "extra-virgin olive oil"
+            ],
+            "id": "Vegetarian-Lentil-Burger-575506",
+            "smallImageUrls": [
+                "http://lh3.ggpht.com/mBWk4n68RDlAMd02mmrOlKb54jJRYcHUbpfgZyZUPFXM3I1tjWrgFPIpDJX_87h0QhBc58FCsOWyvWXR2vXa=s90"
+            ],
+            "recipeName": "Vegetarian Lentil Burger",
+            "totalTimeInSeconds": 2100,
+            "attributes": {
+                "course": [
+                    "Lunch",
+                    "Main Dishes"
+                ],
+                "cuisine": [
+                    "American"
+                ]
+            },
+            "flavors": null,
+            "rating": 5
+        },
+        {
+            "imageUrlsBySize": {
+                "90": "https://lh3.googleusercontent.com/KxvbRs4wyv8K_cIE2-t1VQO9FQxfEaQ40GlU33d1HuXKLxKR2HnFAFkFm4rF5lwiogWE6YYOLdHx0jFc2DIw=s90-c"
+            },
+            "sourceDisplayName": "Gimme Some Oven",
+            "ingredients": [
+                "red enchilada sauce",
+                "corn tortillas",
+                "black beans",
+                "whole kernel corn, drained",
+                "scallions",
+                "cooked chicken",
+                "jack cheese",
+                "avocado",
+                "chopped fresh cilantro"
+            ],
+            "id": "Chicken-Enchilada-Casserole-_a_k_a_-_Stacked_-Chicken-Enchiladas_-2073264",
+            "smallImageUrls": [
+                "https://lh3.googleusercontent.com/EJ-GPOvL8FBqBzsrAI7p6vZ7_Kc9CVA1G7mG_A1Ght0ib9nJ2mX15hXJWxmuTKYVraUHkdXRnScYJX4HfO6FiKU=s90"
+            ],
+            "recipeName": "Chicken Enchilada Casserole (a.k.a. \"Stacked\" Chicken Enchiladas)",
+            "totalTimeInSeconds": 2700,
+            "attributes": {
+                "course": [
+                    "Main Dishes"
+                ],
+                "cuisine": [
+                    "Southwestern",
+                    "Mexican"
+                ]
+            },
+            "flavors": {
+                "piquant": 0.8333333333333334,
+                "meaty": 0.5,
+                "bitter": 0.8333333333333334,
+                "sweet": 0.16666666666666666,
+                "sour": 0.16666666666666666,
+                "salty": 0.8333333333333334
+            },
+            "rating": 4
+        },
+        {
+            "imageUrlsBySize": {
+                "90": "https://lh3.googleusercontent.com/ZERf8pf_HBVeryPhy3732EZBhw5Gr6ZYfG4e88QGeI98wgYiUkNgZ82sVmN_MpQYSsczJvzchmK9OFjsM18MOw=s90-c"
+            },
+            "sourceDisplayName": "Make Life Lovely",
+            "ingredients": [
+                "sugar",
+                "corn syrup",
+                "peanut butter",
+                "Special K Cereal",
+                "chocolate chips",
+                "butterscotch chips"
+            ],
+            "id": "Special-K-Bars-1745546",
+            "smallImageUrls": [
+                "https://lh3.googleusercontent.com/0oYnN0zyJMER5krWrjDgOBemxq9Wx-0s5jmnrEJE_Relq-hcuI8bQqqW8F7FKVl1DqpzNcOIxKZp42L7W9eJRA=s90"
+            ],
+            "recipeName": "Special K Bars",
+            "totalTimeInSeconds": 1800,
+            "attributes": {
+                "course": [
+                    "Lunch",
+                    "Desserts"
+                ],
+                "cuisine": [
+                    "Kid-Friendly"
+                ]
+            },
+            "flavors": null,
+            "rating": 4
+        },
+        {
+            "imageUrlsBySize": {
+                "90": "http://lh3.googleusercontent.com/B9_tEAacLkqNfgMGBt9cW8ymVrWCPt_Vo7_zMjxLOSgRmoA8M_agCugFa_1lS6LfhD98xT-73nHtTXKFYvMq=s90-c"
+            },
+            "sourceDisplayName": "Veggie Inspired",
+            "ingredients": [
+                "non-dairy milk",
+                "apple cider vinegar",
+                "butternut squash",
+                "coconut sugar",
+                "aquafaba",
+                "spelt flour",
+                "ground cinnamon",
+                "ground nutmeg",
+                "ground ginger",
+                "salt",
+                "baking soda",
+                "baking powder",
+                "cashew nuts",
+                "pure maple syrup",
+                "cinnamon"
+            ],
+            "id": "Cinnamon-Squash-Bread-w_-Cinnamon-Squash-Icing-1332373",
+            "smallImageUrls": [
+                "https://lh3.googleusercontent.com/OT0XSGQ3FJ9yJe6CSkCUlTW-jiHdUmmju2vgV1vuHZCUxY7BEbdTn7mlmuwk26xS4WiZl3ajiJDU9JSwECLI=s90"
+            ],
+            "recipeName": "Cinnamon Squash Bread w/ Cinnamon Squash Icing",
+            "totalTimeInSeconds": 3300,
+            "attributes": {},
+            "flavors": null,
+            "rating": 4
+        },
+        {
+            "imageUrlsBySize": {
+                "90": "http://lh3.ggpht.com/j1h-eOxt9O-LIuSRyCf1bY8DOCpK96tSZT-2xn7aRlFYy2jTgAHnQ4to6TW1PmQZDQ4rU5GKl8YT_PoGXCggKQ=s90-c"
+            },
+            "sourceDisplayName": "Allergy Free Alaska",
+            "ingredients": [
+                "coconut milk",
+                "palm sugar",
+                "pure maple syrup",
+                "coconut oil",
+                "vanilla extract",
+                "sea salt"
+            ],
+            "id": "Liquid-Gold-a_k_a_-Dairy-Free-Caramel-Sauce-_Paleo_-vegan-_-refined-sugar-free_-749466",
+            "smallImageUrls": [
+                "http://lh5.ggpht.com/6kj-VIT_efYuIMdPexZkFhG47xMWkoOAiF_X4tGV0qRMxK2r31HRHLcpRu8FWqKJ9PooT-YOQBtmrexAIcGI=s90"
+            ],
+            "recipeName": "\u201cLiquid Gold\u201d a.k.a. Dairy Free Caramel Sauce (Paleo, vegan & refined sugar free)",
+            "totalTimeInSeconds": 2100,
+            "attributes": {
+                "course": [
+                    "Desserts",
+                    "Condiments and Sauces"
+                ]
+            },
+            "flavors": {
+                "sweet": 0.8333333333333334,
+                "piquant": 0.0,
+                "sour": 0.16666666666666666,
+                "salty": 0.16666666666666666,
+                "meaty": 0.3333333333333333,
+                "bitter": 0.16666666666666666
+            },
+            "rating": 4
+        },
+        {
+            "imageUrlsBySize": {
+                "90": "http://lh3.googleusercontent.com/HSrgE_oMI6mnUkQkwHvCLaJHyVgp1z5VpiqR4djrfGN6j7JJJ3sBLzlpNkKrxIhkThcdTsBDZCw3Wgz-7z9CTg=s90-c"
+            },
+            "sourceDisplayName": "Rock Recipes",
+            "ingredients": [
+                "potatoes",
+                "olive oil",
+                "melted butter",
+                "salt",
+                "pepper",
+                "large garlic cloves"
+            ],
+            "id": "Garlic-Concertina-Potatoes-a_k_a-Hasselback-Potatoes-1132074",
+            "smallImageUrls": [
+                "http://lh3.googleusercontent.com/5bPs727tN5MzFXbeFchLuGYIR-B5OWl2i-_S2y7xNW3FJjXVD71qTPvzeB7ZxjCzAuD-y1n5RUNHrtPx7-Xx1j0=s90"
+            ],
+            "recipeName": "Garlic Concertina Potatoes a.k.a Hasselback Potatoes",
+            "totalTimeInSeconds": 4500,
+            "attributes": {
+                "course": [
+                    "Side Dishes"
+                ],
+                "holiday": [
+                    "Sunday Lunch"
+                ]
+            },
+            "flavors": {
+                "piquant": 0.0,
+                "meaty": 0.16666666666666666,
+                "bitter": 0.16666666666666666,
+                "sweet": 0.16666666666666666,
+                "sour": 0.8333333333333334,
+                "salty": 0.16666666666666666
+            },
+            "rating": 4
+        },
+        {
+            "imageUrlsBySize": {
+                "90": "https://lh3.googleusercontent.com/DGGp1nJI-_aoYsdPqyQ4H0mNhafJWUzxwqHz5Ei-OOmIUIaV7xwVUPyEDPmQ10LM5VAQtfVyXo53kAMWJ2iuOWg=s90-c"
+            },
+            "sourceDisplayName": "Kitchen Confidante",
+            "ingredients": [
+                "butter",
+                "granulated sugar",
+                "brown sugar",
+                "buttermilk",
+                "semi-sweet chocolate morsels",
+                "large eggs",
+                "vanilla",
+                "all-purpose flour",
+                "unsweetened cocoa powder",
+                "baking soda",
+                "baking powder",
+                "salt"
+            ],
+            "id": "K_I_S_S_-_Keep-it-Simple-_-Sweet_-Brownies-_-Simple-Sundays-2348484",
+            "smallImageUrls": [
+                "https://lh3.googleusercontent.com/qMQyCp0PtAz9gyakmR0_a1n2g1Q55MyVn5V0CEMuO5ziGrGqb5gtpSlkgxFuwZH41xh2psYowPl-A5AXdXBBuA=s90"
+            ],
+            "recipeName": "K.I.S.S. {Keep it Simple & Sweet} Brownies | Simple Sundays",
+            "totalTimeInSeconds": 2400,
+            "attributes": {
+                "course": [
+                    "Desserts"
+                ]
+            },
+            "flavors": {
+                "piquant": 0.0,
+                "meaty": 0.6666666666666666,
+                "bitter": 0.6666666666666666,
+                "sweet": 0.8333333333333334,
+                "sour": 0.16666666666666666,
+                "salty": 0.6666666666666666
+            },
+            "rating": 4
+        }
+    ],
+    "facetCounts": {},
+    "totalMatchCount": 3288,
+    "attribution": {
+        "html": "Recipe search powered by <a href='http://www.yummly.co/recipes'><img alt='Yummly' src='https://static.yummly.co/api-logo.png'/></a>",
+        "url": "http://www.yummly.co/recipes/",
+        "text": "Recipe search powered by Yummly",
+        "logo": "https://static.yummly.co/api-logo.png"
+    }
+}

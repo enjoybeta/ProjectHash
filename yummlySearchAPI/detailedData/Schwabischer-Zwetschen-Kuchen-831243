@@ -1,0 +1,46 @@
+{
+    "yield": "Zutaten f\u00fcr ca. 16 St\u00fccke:",
+    "nutritionEstimates": [],
+    "totalTime": "2 hr 30 min",
+    "images": [
+        {
+            "imageUrlsBySize": {
+                "90": "null=s90-c",
+                "360": "null=s360-c"
+            }
+        }
+    ],
+    "name": "Schwa\u0308bischer Zwetschen-Kuchen",
+    "source": {
+        "sourceDisplayName": "Lecker",
+        "sourceSiteUrl": "lecker.de",
+        "sourceRecipeUrl": "http://www.lecker.de/rezept/888554/Schwaebischer-Zwetschen-Kuchen.html"
+    },
+    "id": "Schwabischer-Zwetschen-Kuchen-831243",
+    "ingredientLines": [
+        "Fett f\u00fcr die Form",
+        "250 g + 100 g Mehl",
+        "1/2 P\u00e4ckchen Backpulver",
+        "100 g + 80 g + 80 g Zucker",
+        "2 P\u00e4ckchen Vanillin-Zucker",
+        "1 Prise Salz, 6 Eier (Gr. M)",
+        "80 g kalte + 80 g weiche Butter/Margarine",
+        "1/2 l Milch",
+        "1 kg Zwetschen/Pflaumen",
+        "abger. Schale v. 1 unbeh. Zitrone",
+        "2 EL Paniermehl",
+        "Puderzucker zum Best\u00e4uben",
+        "evtl. Sahne, Pflaumen u. Minze"
+    ],
+    "attribution": {
+        "html": "<a href='http://www.yummly.co/recipe/Schwabischer-Zwetschen-Kuchen-831243'>Schwa\u0308bischer Zwetschen-Kuchen recipe</a> information powered by <img alt='Yummly' src='https://static.yummly.co/api-logo.png'/>",
+        "url": "http://www.yummly.co/recipe/Schwabischer-Zwetschen-Kuchen-831243",
+        "text": "Schwa\u0308bischer Zwetschen-Kuchen recipes: information powered by Yummly",
+        "logo": "https://static.yummly.co/api-logo.png"
+    },
+    "numberOfServings": 16,
+    "totalTimeInSeconds": 9000,
+    "attributes": {},
+    "flavors": {},
+    "rating": 3
+}

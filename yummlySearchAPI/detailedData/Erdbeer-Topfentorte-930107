@@ -1,0 +1,50 @@
+{
+    "yield": "Zutaten f\u00fcr ca. 12 St\u00fccke:",
+    "nutritionEstimates": [],
+    "totalTime": "1 hr",
+    "images": [
+        {
+            "hostedSmallUrl": "http://lh3.googleusercontent.com/EPvlCS3E4PcQHGMSzOv1huMWwxaL1jKZ6eXgBkHkyyaKJ1YQYp2DX2dvgQUaFF7qeQGij8cNI5YB8I-OWhOiqg=s90",
+            "hostedMediumUrl": "http://lh3.googleusercontent.com/EPvlCS3E4PcQHGMSzOv1huMWwxaL1jKZ6eXgBkHkyyaKJ1YQYp2DX2dvgQUaFF7qeQGij8cNI5YB8I-OWhOiqg=s180",
+            "hostedLargeUrl": "http://lh3.googleusercontent.com/EPvlCS3E4PcQHGMSzOv1huMWwxaL1jKZ6eXgBkHkyyaKJ1YQYp2DX2dvgQUaFF7qeQGij8cNI5YB8I-OWhOiqg=s360",
+            "imageUrlsBySize": {
+                "90": "http://lh3.googleusercontent.com/39DJENOYVdzjYLzPjJ_Q5p6lKrRwsRvemHnaCDrCAHlgTwXDhzCFvGujPZtygbOy5h5Z0uu0rznDPRrz6QXRcQ=s90-c",
+                "360": "http://lh3.googleusercontent.com/39DJENOYVdzjYLzPjJ_Q5p6lKrRwsRvemHnaCDrCAHlgTwXDhzCFvGujPZtygbOy5h5Z0uu0rznDPRrz6QXRcQ=s360-c"
+            }
+        }
+    ],
+    "name": "Erdbeer-Topfentorte",
+    "source": {
+        "sourceDisplayName": "Lecker",
+        "sourceSiteUrl": "lecker.de",
+        "sourceRecipeUrl": "http://www.lecker.de/rezept/3396639/Erdbeer-Topfentorte.html"
+    },
+    "id": "Erdbeer-Topfentorte-930107",
+    "ingredientLines": [
+        "2 Eier (Gr\u00f6\u00dfe M)",
+        "175 g Zucker",
+        "35 g Mehl",
+        "1 P\u00e4ckchen So\u00dfenpulver \"Vanille-Geschmack\" (zum Kochen)",
+        "1/2 TL Backpulver",
+        "5 Blatt Gelatine",
+        "750 g Speisequark (20 % i. d. Tr.)",
+        "1 P\u00e4ckchen Vanillin-Zucker",
+        "Saft von 1/2 Zitrone",
+        "200 g Schlagsahne",
+        "750 g Erdbeeren",
+        "1 P\u00e4ckchen Tortenguss \"Erdbeer-Geschmack\"",
+        "1 TL Puderzucker",
+        "Fett f\u00fcr die Form"
+    ],
+    "attribution": {
+        "html": "<a href='http://www.yummly.co/recipe/Erdbeer-Topfentorte-930107'>Erdbeer-Topfentorte recipe</a> information powered by <img alt='Yummly' src='https://static.yummly.co/api-logo.png'/>",
+        "url": "http://www.yummly.co/recipe/Erdbeer-Topfentorte-930107",
+        "text": "Erdbeer-Topfentorte recipes: information powered by Yummly",
+        "logo": "https://static.yummly.co/api-logo.png"
+    },
+    "numberOfServings": 12,
+    "totalTimeInSeconds": 3600,
+    "attributes": {},
+    "flavors": {},
+    "rating": 3
+}

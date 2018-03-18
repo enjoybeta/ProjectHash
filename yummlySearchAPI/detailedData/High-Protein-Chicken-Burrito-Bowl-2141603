@@ -1,0 +1,55 @@
+{
+    "yield": "Makes 2 servings",
+    "nutritionEstimates": [],
+    "prepTimeInSeconds": 1800,
+    "totalTime": "50 min",
+    "images": [
+        {
+            "hostedSmallUrl": "https://lh3.googleusercontent.com/D4Zf9FnFZ_TVWrbQrsLANq3C2vOyaou89wu0Uq3k0wJ5UCnFNsXEsvkgtrfYQIADAlNte7An6Se6Elw7SImJAg=s90",
+            "hostedMediumUrl": "https://lh3.googleusercontent.com/D4Zf9FnFZ_TVWrbQrsLANq3C2vOyaou89wu0Uq3k0wJ5UCnFNsXEsvkgtrfYQIADAlNte7An6Se6Elw7SImJAg=s180",
+            "hostedLargeUrl": "https://lh3.googleusercontent.com/D4Zf9FnFZ_TVWrbQrsLANq3C2vOyaou89wu0Uq3k0wJ5UCnFNsXEsvkgtrfYQIADAlNte7An6Se6Elw7SImJAg=s360",
+            "imageUrlsBySize": {
+                "90": "https://lh3.googleusercontent.com/ice_fMPiDmacQUyAQqCahVLrTIScRqWs-nC29JKdmhfgItsltNDbrFwPQD6h9zXTfUkGGZYhhGWAbCV-VBmy-Q=s90-c",
+                "360": "https://lh3.googleusercontent.com/ice_fMPiDmacQUyAQqCahVLrTIScRqWs-nC29JKdmhfgItsltNDbrFwPQD6h9zXTfUkGGZYhhGWAbCV-VBmy-Q=s360-c"
+            }
+        }
+    ],
+    "name": "High Protein Chicken Burrito Bowl",
+    "source": {
+        "sourceDisplayName": "Muscle and Strength",
+        "sourceSiteUrl": "muscleandstrength.com",
+        "sourceRecipeUrl": "https://www.muscleandstrength.com/recipes/high-protein-chicken-burrito-bowl"
+    },
+    "prepTime": "30 Min",
+    "id": "High-Protein-Chicken-Burrito-Bowl-2141603",
+    "ingredientLines": [
+        "2 cups cooked white rice*",
+        "1 lime",
+        "2 tbs cilantro",
+        "12 oz chicken breast, raw weight**",
+        "Favorite Mexican seasoning",
+        "&frac13; cup no salt added black beans",
+        "\u00bd cup fresh pico de gallo or salsa",
+        "\u00bc cup guacamole",
+        "\u00bc cup nonfat greek yogurt",
+        "\u00bc cup shredded cheddar cheese",
+        "1 cup shredded lettuce"
+    ],
+    "cookTime": "20 Min",
+    "attribution": {
+        "html": "<a href='http://www.yummly.co/recipe/High-Protein-Chicken-Burrito-Bowl-2141603'>High Protein Chicken Burrito Bowl recipe</a> information powered by <img alt='Yummly' src='https://static.yummly.co/api-logo.png'/>",
+        "url": "http://www.yummly.co/recipe/High-Protein-Chicken-Burrito-Bowl-2141603",
+        "text": "High Protein Chicken Burrito Bowl recipes: information powered by Yummly",
+        "logo": "https://static.yummly.co/api-logo.png"
+    },
+    "numberOfServings": 2,
+    "totalTimeInSeconds": 3000,
+    "attributes": {
+        "course": [
+            "Main Dishes"
+        ]
+    },
+    "cookTimeInSeconds": 1200,
+    "flavors": {},
+    "rating": 4
+}

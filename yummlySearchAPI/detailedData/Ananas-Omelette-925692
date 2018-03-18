@@ -1,0 +1,49 @@
+{
+    "yield": "Zutaten f\u00fcr 6 St\u00fcck:",
+    "nutritionEstimates": [],
+    "totalTime": "40 min",
+    "images": [
+        {
+            "hostedSmallUrl": "http://lh3.googleusercontent.com/BMH7lJz1xLKnC8IkW5J4VcfDPBxDHcxmUxzUx22GEj_-fiSdgLbNRhVRLtl1-LE1-HE183XEXyKZ07AmkYMa=s90",
+            "hostedMediumUrl": "http://lh3.googleusercontent.com/BMH7lJz1xLKnC8IkW5J4VcfDPBxDHcxmUxzUx22GEj_-fiSdgLbNRhVRLtl1-LE1-HE183XEXyKZ07AmkYMa=s180",
+            "hostedLargeUrl": "http://lh3.googleusercontent.com/BMH7lJz1xLKnC8IkW5J4VcfDPBxDHcxmUxzUx22GEj_-fiSdgLbNRhVRLtl1-LE1-HE183XEXyKZ07AmkYMa=s360",
+            "imageUrlsBySize": {
+                "90": "http://lh3.googleusercontent.com/HeqmlukUjyexTj4GRIEnK_beRmYyReToT1_eazgtEsviGdkEVMM299LVuR9ypEPlIkUUQsMxs76T0dR9W0o2kLs=s90-c",
+                "360": "http://lh3.googleusercontent.com/HeqmlukUjyexTj4GRIEnK_beRmYyReToT1_eazgtEsviGdkEVMM299LVuR9ypEPlIkUUQsMxs76T0dR9W0o2kLs=s360-c"
+            }
+        }
+    ],
+    "name": "Ananas-Omelette",
+    "source": {
+        "sourceDisplayName": "Lecker",
+        "sourceSiteUrl": "lecker.de",
+        "sourceRecipeUrl": "http://www.lecker.de/rezept/753233/Ananas-Omelette.html"
+    },
+    "id": "Ananas-Omelette-925692",
+    "ingredientLines": [
+        "3 Eier (Gr\u00f6\u00dfe M)",
+        "75 g Zucker",
+        "2 P\u00e4ckchen Vanillin-Zucker",
+        "abgeriebene Schale von 1 unbehandelten Zitrone",
+        "40 g Mehl",
+        "10 g Speisest\u00e4rke",
+        "1 Packung (200 g) Doppelrahm-Frischk\u00e4se",
+        "2 EL Ananassaft",
+        "250 g Schlagsahne",
+        "1 P\u00e4ckchen Sahnefestiger",
+        "3 Scheiben (\u00e0 35 g) Ananas (a.d. Dose)",
+        "1 EL Puderzucker",
+        "nach Belieben Minze zum Verzieren"
+    ],
+    "attribution": {
+        "html": "<a href='http://www.yummly.co/recipe/Ananas-Omelette-925692'>Ananas-Omelette recipe</a> information powered by <img alt='Yummly' src='https://static.yummly.co/api-logo.png'/>",
+        "url": "http://www.yummly.co/recipe/Ananas-Omelette-925692",
+        "text": "Ananas-Omelette recipes: information powered by Yummly",
+        "logo": "https://static.yummly.co/api-logo.png"
+    },
+    "numberOfServings": 6,
+    "totalTimeInSeconds": 2400,
+    "attributes": {},
+    "flavors": {},
+    "rating": 3
+}

@@ -1,0 +1,42 @@
+{
+    "yield": "1",
+    "nutritionEstimates": [],
+    "prepTimeInSeconds": 300,
+    "totalTime": "6 min",
+    "images": [
+        {
+            "imageUrlsBySize": {
+                "90": "null=s90-c",
+                "360": "null=s360-c"
+            }
+        }
+    ],
+    "name": "Eierpunsch - Total Easy",
+    "source": {
+        "sourceDisplayName": "Chefkoch",
+        "sourceSiteUrl": "chefkoch.de",
+        "sourceRecipeUrl": "http://www.chefkoch.de/rezepte/2057121332653511/Eierpunsch-total-easy.html"
+    },
+    "prepTime": "5 Min",
+    "id": "Eierpunsch---Total-Easy-959436",
+    "ingredientLines": [
+        "1 Teil/e Eierlik\u00f6r",
+        "1 Teil/e Wei\u00dfwein (z.B. Wei\u00dfburgunder)",
+        "1 Teil/e Milch (3,5 g Fett)",
+        "etwas Sahne (Spr\u00fchsahne)",
+        "n. B. Schokostreusel"
+    ],
+    "cookTime": "1 Min",
+    "attribution": {
+        "html": "<a href='http://www.yummly.co/recipe/Eierpunsch---Total-Easy-959436'>Eierpunsch - Total Easy recipe</a> information powered by <img alt='Yummly' src='https://static.yummly.co/api-logo.png'/>",
+        "url": "http://www.yummly.co/recipe/Eierpunsch---Total-Easy-959436",
+        "text": "Eierpunsch - Total Easy recipes: information powered by Yummly",
+        "logo": "https://static.yummly.co/api-logo.png"
+    },
+    "numberOfServings": 1,
+    "totalTimeInSeconds": 360,
+    "attributes": {},
+    "cookTimeInSeconds": 60,
+    "flavors": {},
+    "rating": 3
+}

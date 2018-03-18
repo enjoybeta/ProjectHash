@@ -1,0 +1,83 @@
+{
+    "criteria": {
+        "q": "c+i+n+n+a+m+o+n+ +s+t+i+c+k+s",
+        "allowedIngredient": null,
+        "excludedIngredient": null
+    },
+    "matches": [
+        {
+            "imageUrlsBySize": {
+                "90": "http://lh5.ggpht.com/CUNjZYJU4-GJF9NqVQPDU4nqGnddyVyxbXa2ds_qyoULA_9ppdGvsjqx3LrSlXewIUluh1vGdL1bpmBYWmex=s90-c"
+            },
+            "sourceDisplayName": "101 Cookbooks",
+            "ingredients": [
+                "rye flour",
+                "all-purpose flour",
+                "salt",
+                "salted butter",
+                "cold water",
+                "brown sugar",
+                "flour",
+                "cinnamon",
+                "thyme",
+                "berries",
+                "lemon juice",
+                "butter",
+                "eggs",
+                "sugar"
+            ],
+            "id": "Flaky-rye-pie-crust-308621",
+            "smallImageUrls": [
+                "http://lh5.ggpht.com/rsZo8zsQef2-ZhXqRu2-Z83grcbTT1Siozn3NZwHijzmxdlXsDpTVplJ9FdouzOdrFRyHPxPRrqN5lDGPZ6ixw=s90"
+            ],
+            "recipeName": "A Nice Berry Pie",
+            "totalTimeInSeconds": 5400,
+            "attributes": {
+                "course": [
+                    "Desserts"
+                ]
+            },
+            "flavors": {
+                "sweet": 0.5,
+                "piquant": 0.0,
+                "sour": 0.8333333333333334,
+                "salty": 0.16666666666666666,
+                "meaty": 0.16666666666666666,
+                "bitter": 0.16666666666666666
+            },
+            "rating": 5
+        },
+        {
+            "imageUrlsBySize": {
+                "90": "http://lh3.googleusercontent.com/KGfAHdczSusDi8WFViGaRcvKom7xc8RKCa0EzAoA19ECibZ0kgI4HhfjSRoCYrEsSmMHwYu0OK5mUApyxojHgg=s90-c"
+            },
+            "sourceDisplayName": "K.O Rasoi",
+            "ingredients": [
+                "chickpeas",
+                "powdered sugar",
+                "cream of tartar",
+                "vanilla pods",
+                "ros\u00e9 wine",
+                "food gel",
+                "extract"
+            ],
+            "id": "Vegan-Mango_-Raspberry-and-Vanilla-Meringues-1185086",
+            "smallImageUrls": [
+                "http://lh3.googleusercontent.com/7y6CyuO0kvwexNeipg7qBUn56_EwTxQgj3qyhDjIbt2EQW_BdG-E5wuEes7DT8JLKB-eGpbTZRz4ZFx5YfnNLkw=s90"
+            ],
+            "recipeName": "Vegan Mango, Raspberry and Vanilla Meringues",
+            "totalTimeInSeconds": 2400,
+            "attributes": {},
+            "flavors": null,
+            "rating": 4
+        }
+    ],
+    "facetCounts": {},
+    "totalMatchCount": 2,
+    "attribution": {
+        "html": "Recipe search powered by <a href='http://www.yummly.co/recipes'><img alt='Yummly' src='https://static.yummly.co/api-logo.png'/></a>",
+        "url": "http://www.yummly.co/recipes/",
+        "text": "Recipe search powered by Yummly",
+        "logo": "https://static.yummly.co/api-logo.png"
+    }
+}

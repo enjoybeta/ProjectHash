@@ -1,0 +1,398 @@
+{
+    "criteria": {
+        "q": "a+p+p+l+e+s",
+        "allowedIngredient": null,
+        "excludedIngredient": null
+    },
+    "matches": [
+        {
+            "imageUrlsBySize": {
+                "90": "http://lh4.ggpht.com/QEod7jh9lNLVG6HREnL8_d_cAY-aQ0cYmI-Lt0ntEVVMidizM3CdYWrwUZgXd8_kmcFZDbhuMhMYLREChcepIg=s90-c"
+            },
+            "sourceDisplayName": "Epicurious",
+            "ingredients": [
+                "broccoli",
+                "boiling potatoes",
+                "onions",
+                "red bell pepper",
+                "large garlic cloves",
+                "unsalted butter",
+                "ground cumin",
+                "salt",
+                "black pepper",
+                "dry mustard",
+                "all-purpose flour",
+                "heavy cream",
+                "cheddar cheese"
+            ],
+            "id": "Broccoli_-Red-Pepper_-And-Cheddar-Chowder-Epicurious",
+            "smallImageUrls": [
+                "http://lh4.ggpht.com/zL58iRhe1gEJkl4lahdGDUTOJ0JWFIuBW1CsiO71GLyJDsyeOLxQGWAvW0Ws0AZ5Ne99arFIDj9KtwzLIkhorxc=s90"
+            ],
+            "recipeName": "Broccoli, Red Pepper, and Cheddar Chowder",
+            "totalTimeInSeconds": 3000,
+            "attributes": {},
+            "flavors": null,
+            "rating": 5
+        },
+        {
+            "imageUrlsBySize": {
+                "90": "http://lh3.googleusercontent.com/AZ-Ug2hJ2u-Oy_sX2sDrcimVhDekM--bZmjzWw2Fi4FeLD783XfoewLN26Ei0cM8__yAqKoo_el_7CHQNwWfWA=s90-c"
+            },
+            "sourceDisplayName": "Melissa's Southern Style Kitchen",
+            "ingredients": [
+                "steak",
+                "herb seasoning",
+                "herbs",
+                "all-purpose flour",
+                "black pepper",
+                "olive oil",
+                "green bell pepper, sliced",
+                "sweet onion",
+                "worcestershire sauce",
+                "roasted tomatoes",
+                "beef",
+                "brown sugar",
+                "bay leaves",
+                "red pepper flakes",
+                "salt",
+                "tomato paste",
+                "flat leaf parsley",
+                "grated parmesan cheese"
+            ],
+            "id": "Slow-Cooked-Smothered-Swiss-Steak-1218297",
+            "smallImageUrls": [
+                "http://lh3.googleusercontent.com/PnTRsfR7isiRNe0vN_LBsfD36ws1TbliOwneJC4egRFUv7qiQPpPBJqPl-6cAnI1lSrDYQdz4XAz9ELpbsVg4w=s90"
+            ],
+            "recipeName": "Slow Cooked Smothered Swiss Steak",
+            "totalTimeInSeconds": 2700,
+            "attributes": {},
+            "flavors": null,
+            "rating": 4
+        },
+        {
+            "imageUrlsBySize": {
+                "90": "https://lh3.googleusercontent.com/AhJ3yQOH0MvPw0RHKJmeJl-Tt7Y8_iwEMu5hGsX-WQGZdDrUhR1kUTdJYMpq4cyqdonGWpnAy9z2Un9s32gj3w=s90-c"
+            },
+            "sourceDisplayName": "Reader's Digest.ca",
+            "ingredients": [
+                "sweet potatoes",
+                "olive oil",
+                "salt",
+                "lasagna noodles",
+                "vegetable oil",
+                "all-purpose flour",
+                "milk",
+                "pepper",
+                "nutmeg",
+                "cayenne",
+                "cheese",
+                "parmigiano reggiano cheese"
+            ],
+            "id": "Sweet-Potato-Lasagna-2060559",
+            "smallImageUrls": [
+                "https://lh3.googleusercontent.com/numcJmyejJVZUJfhPzYKqHxQxcvxzAL8CaB6iP0huymGqadIbOujHTpSssFDmQo5hTuW716NiyYllIDRYEtusg=s90"
+            ],
+            "recipeName": "Sweet Potato Lasagna",
+            "totalTimeInSeconds": 3600,
+            "attributes": {
+                "course": [
+                    "Main Dishes"
+                ]
+            },
+            "flavors": null,
+            "rating": 3
+        },
+        {
+            "imageUrlsBySize": {
+                "90": "https://lh3.googleusercontent.com/0Dfm2oqlMlZS05-bqLqS7Y3UiCYFSm1EBiMbkVL5Hc6RWyKPprnBps5EaU6Ew3qYXhRVBxsJb7g8RFfkjon4FA=s90-c"
+            },
+            "sourceDisplayName": "Broma Bakery",
+            "ingredients": [
+                "tomatoes",
+                "extra-virgin olive oil",
+                "salt",
+                "shallots",
+                "garlic",
+                "all-purpose flour",
+                "white wine",
+                "milk",
+                "heavy cream",
+                "parmesan cheese",
+                "spaghetti"
+            ],
+            "id": "Spaghetti-with-White-Wine-_-Roasted-Tomato-Cream-Sauce-1314580",
+            "smallImageUrls": [
+                "https://lh3.googleusercontent.com/ezLRu93_Pvct5OWwn5JuRDIA95YgcYqAJ3UjuPdtj3blnFHdv-OBoGqEFo3SkyqAcWF8oIf0BtzQr9u51Gjk3g=s90"
+            ],
+            "recipeName": "Spaghetti with White Wine & Roasted Tomato Cream Sauce",
+            "totalTimeInSeconds": 4500,
+            "attributes": {},
+            "flavors": null,
+            "rating": 4
+        },
+        {
+            "imageUrlsBySize": {
+                "90": "https://lh3.googleusercontent.com/8V0ZkaknjOK8khXc9AHIqusLExDC9U3LDxs3uS_vxHU-qNFNQ1o3T9qCkxfL0v-G7bzA6DxBkvNBHV93LcLQ2tM=s90-c"
+            },
+            "sourceDisplayName": "Serious Eats",
+            "ingredients": [
+                "sugar",
+                "Diamond Crystal\u00ae Kosher Salt",
+                "baking powder",
+                "unsalted butter",
+                "milk",
+                "vanilla extract",
+                "all-purpose flour",
+                "powdered sugar",
+                "cocoa powder"
+            ],
+            "id": "E_L_-Fudge-Style-Chocolate-and-Vanilla-Sandwich-Cookies-2059393",
+            "smallImageUrls": [
+                "https://lh3.googleusercontent.com/NB4W9W622JcehlCd6hxFHfSYKJH8Mgp8UN5g8xiOKc_l-k_h7iONVPccz7MpqRRd_RedITT6-ljzvSVplaVvp9U=s90"
+            ],
+            "recipeName": "E.L. Fudge-Style Chocolate and Vanilla Sandwich Cookies",
+            "totalTimeInSeconds": 3000,
+            "attributes": {
+                "course": [
+                    "Desserts"
+                ]
+            },
+            "flavors": {
+                "piquant": 0.0,
+                "meaty": 0.6666666666666666,
+                "bitter": 0.16666666666666666,
+                "sweet": 0.8333333333333334,
+                "sour": 0.16666666666666666,
+                "salty": 0.3333333333333333
+            },
+            "rating": 3
+        },
+        {
+            "imageUrlsBySize": {
+                "90": "http://lh3.ggpht.com/e5cNuExQD_kwwI3ommnwUKr0aWsgQQcPtMVVOZtfFwBFkVbRwM9b0DViZpsOJnyFaqtfMoXLhr9C1vhByvuUmQ=s90-c"
+            },
+            "sourceDisplayName": "Bake to the Roots",
+            "ingredients": [
+                "dried fruit",
+                "raisins",
+                "walnuts",
+                "hazelnuts",
+                "rum",
+                "milk",
+                "fresh yeast",
+                "honey",
+                "vanilla beans",
+                "lemon",
+                "all-purpose flour",
+                "curd cheese",
+                "butter",
+                "sugar",
+                "salt",
+                "confectioners sugar"
+            ],
+            "id": "Christstollen-with-Nuts-940177",
+            "smallImageUrls": [
+                "http://lh4.ggpht.com/8YOsCFolR2GOXGc3x_EPSibI3I6ytXxMBcGZxbpEQgjpW9amzVmTmu2qxWDWLKZP_6b85FLiNhP3nDSKJd2z35o=s90"
+            ],
+            "recipeName": "Christstollen with Nuts",
+            "totalTimeInSeconds": 27000,
+            "attributes": {},
+            "flavors": null,
+            "rating": 3
+        },
+        {
+            "imageUrlsBySize": {
+                "90": "https://lh3.googleusercontent.com/RQZ_a6aEQVs0TO3YCw8V9eRIq1OFiQ8jZTvlxA9QVoUGpUJw5273ZTWn4l2KbRR7zJykVASDUQWiOwUuTYR3=s90-c"
+            },
+            "sourceDisplayName": "Flipped-Out Food",
+            "ingredients": [
+                "pearl barley",
+                "vegetable oil",
+                "red wine",
+                "chuck roast",
+                "onions",
+                "celery ribs",
+                "large carrots",
+                "garlic",
+                "small new potatoes",
+                "broth",
+                "bay leaves",
+                "herb mix",
+                "parsley",
+                "oregano",
+                "basil",
+                "thyme",
+                "salt",
+                "pepper",
+                "fresh parsley",
+                "grating cheese"
+            ],
+            "id": "Beef-_-Barley-Stew-1989677",
+            "smallImageUrls": [
+                "https://lh3.googleusercontent.com/zfvZL1u-1iWzyJ-062V9FH1oJvvkB0u6ybXw9SfdI6FHW57QHNMQFU8Ci1Oo6TJ4UjC0YeH-fIi3njxIluEsxw=s90"
+            ],
+            "recipeName": "Beef & Barley Stew",
+            "totalTimeInSeconds": 4800,
+            "attributes": {
+                "course": [
+                    "Main Dishes",
+                    "Soups"
+                ]
+            },
+            "flavors": null,
+            "rating": 4
+        },
+        {
+            "imageUrlsBySize": {
+                "90": "https://lh3.googleusercontent.com/PH7W7KNGOE3cCFZMcICWBwdmofLQ-UOCqb0YK0V2uu_ZMDg2V2DkisakgjgvSmNslJYlK82fqCL0XZiq5oYN=s90-c"
+            },
+            "sourceDisplayName": "Life Made Sweeter",
+            "ingredients": [
+                "brownie mix",
+                "graham cracker crust",
+                "unsalted butter",
+                "graham cracker crumbs",
+                "ground cinnamon",
+                "sugar",
+                "salt",
+                "brownies",
+                "granulated sugar",
+                "large eggs",
+                "olive oil",
+                "pure vanilla extract",
+                "all-purpose flour",
+                "unsweetened cocoa powder",
+                "baking powder",
+                "semi-sweet chocolate morsels",
+                "large marshmallows",
+                "graham crackers",
+                "caramel sauce"
+            ],
+            "id": "Salted-Caramel-Smores-Brownies-1810348",
+            "smallImageUrls": [
+                "https://lh3.googleusercontent.com/o0GATo3qHSqLxhA-lVOT5ALLUyO-wChkJLlihjQX4calocDTcS085iWh2xNqmkq16Kq0-b2XVjOCnlQc0Qf3=s90"
+            ],
+            "recipeName": "Salted Caramel S\u2019mores Brownies",
+            "totalTimeInSeconds": 3300,
+            "attributes": {
+                "course": [
+                    "Desserts"
+                ],
+                "cuisine": [
+                    "Kid-Friendly"
+                ]
+            },
+            "flavors": {
+                "piquant": 0.0,
+                "meaty": 0.5,
+                "bitter": 0.3333333333333333,
+                "sweet": 0.8333333333333334,
+                "sour": 0.0,
+                "salty": 0.6666666666666666
+            },
+            "rating": 4
+        },
+        {
+            "imageUrlsBySize": {
+                "90": "https://lh3.googleusercontent.com/B9IMEWUVK7zfxxX86vAUWWmgjy3tn5YWzB2A0xqxdI51p-ixXtmxIqLW5XzG-E5Yl9QYsNg5JdcpHIYCmirj=s90-c"
+            },
+            "sourceDisplayName": "Melissa's Southern Style Kitchen",
+            "ingredients": [
+                "steak",
+                "herb seasoning",
+                "all-purpose flour",
+                "herbs",
+                "black pepper",
+                "olive oil",
+                "green bell pepper, sliced",
+                "sweet onion",
+                "worcestershire sauce",
+                "roasted tomatoes",
+                "beef",
+                "brown sugar",
+                "bay leaves",
+                "red pepper flakes",
+                "salt",
+                "tomato paste",
+                "flat leaf parsley",
+                "grated parmesan cheese"
+            ],
+            "id": "Slow-Cooked-Smothered-Swiss-Steak-2238704",
+            "smallImageUrls": [
+                "https://lh3.googleusercontent.com/RE67zdwagSdu_3_gavO2WsOdUAAsc44x6vDKA2jPlw58BPeXvPk_AyULAukwVYR2lhgNDIM5txtzV7W61Efcrg=s90"
+            ],
+            "recipeName": "Slow Cooked Smothered Swiss Steak",
+            "totalTimeInSeconds": 2700,
+            "attributes": {
+                "course": [
+                    "Main Dishes"
+                ]
+            },
+            "flavors": {
+                "piquant": 0.8333333333333334,
+                "meaty": 0.3333333333333333,
+                "bitter": 0.16666666666666666,
+                "sweet": 0.16666666666666666,
+                "sour": 0.5,
+                "salty": 0.16666666666666666
+            },
+            "rating": 4
+        },
+        {
+            "imageUrlsBySize": {
+                "90": "http://lh3.googleusercontent.com/EWHHrnddLol9O9JaGZaD42Zl45cVWnmaiCynSkz0l9woC1XCNKkwv9ghL-vkR_IWHNOCvFX4ciMn3Jq8GH0iKRc=s90-c"
+            },
+            "sourceDisplayName": "Food52",
+            "ingredients": [
+                "duck breasts",
+                "sunflower oil",
+                "large garlic cloves",
+                "ground coriander",
+                "ground cumin",
+                "scallions",
+                "milk",
+                "bread crumbs",
+                "fresh thyme leaves",
+                "ground black pepper",
+                "salt",
+                "sugar",
+                "fresh orange juice",
+                "white wine vinegar",
+                "white wine",
+                "duck stock",
+                "unsalted butter",
+                "all-purpose flour",
+                "orange"
+            ],
+            "id": "Duck-Meatballs-a-LOrange-1222423",
+            "smallImageUrls": [
+                "http://lh3.googleusercontent.com/wrZW1O8_6ddg36ZZlpBQ0gzzyhOdvTOakViFOqo76if_eAfcADSB5tTOXTUX7-LPmL5ZYUdDq2cEhut6mp4Rjw=s90"
+            ],
+            "recipeName": "Duck Meatballs a\u0300 L\u2019Orange",
+            "totalTimeInSeconds": 6300,
+            "attributes": {
+                "course": [
+                    "Main Dishes"
+                ]
+            },
+            "flavors": {
+                "piquant": 0.0,
+                "meaty": 0.5,
+                "bitter": 0.16666666666666666,
+                "sweet": 0.5,
+                "sour": 0.6666666666666666,
+                "salty": 0.3333333333333333
+            },
+            "rating": 3
+        }
+    ],
+    "facetCounts": {},
+    "totalMatchCount": 95,
+    "attribution": {
+        "html": "Recipe search powered by <a href='http://www.yummly.co/recipes'><img alt='Yummly' src='https://static.yummly.co/api-logo.png'/></a>",
+        "url": "http://www.yummly.co/recipes/",
+        "text": "Recipe search powered by Yummly",
+        "logo": "https://static.yummly.co/api-logo.png"
+    }
+}

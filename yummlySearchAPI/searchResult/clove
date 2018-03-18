@@ -1,0 +1,206 @@
+{
+    "criteria": {
+        "q": "c+l+o+v+e",
+        "allowedIngredient": null,
+        "excludedIngredient": null
+    },
+    "matches": [
+        {
+            "imageUrlsBySize": {
+                "90": "http://lh3.ggpht.com/PHEdhp3vEBL03DR87dhrELeLOr6EkXNqnnYGgmNp8YBiqLqNtSeRuU46hE--mvksRF3JMUlcLaoQ4QWv2YWhdA=s90-c"
+            },
+            "sourceDisplayName": "AllRecipes",
+            "ingredients": [
+                "white sugar",
+                "heavy cream",
+                "baking soda",
+                "butter",
+                "vanilla extract",
+                "pecan halves"
+            ],
+            "id": "Aunt-Bill_s-Brown-Candy-Allrecipes",
+            "smallImageUrls": [
+                "http://lh3.ggpht.com/0nno8jMU3PHuSx6t7BE0q1k1soA6OGe1nAIe7c4-CqDc4na9Ji7COVRWDqxFlhAR0hM5uNOdFkLGEGIa1R4tAN0=s90"
+            ],
+            "recipeName": "Aunt Bill's Brown Candy",
+            "totalTimeInSeconds": 7200,
+            "attributes": {},
+            "flavors": null,
+            "rating": 5
+        },
+        {
+            "imageUrlsBySize": {
+                "90": "https://lh3.googleusercontent.com/dROF_f9xoN65wCDyzrvjgzBQFL_1v01LCg5nTVOMUjvKvYyVxTuEBpSXml8CesRI_sfA0wTHudwRB9W2yA3MtQ=s90-c"
+            },
+            "sourceDisplayName": "A Veggie Venture",
+            "ingredients": [
+                "fresh brussels sprouts",
+                "unsalted butter",
+                "kosher salt",
+                "freshly ground pepper",
+                "heavy cream",
+                "panko",
+                "parmesan cheese"
+            ],
+            "id": "CREAMY-BRUSSELS-SPROUTS-GRATIN-1369758",
+            "smallImageUrls": [
+                "https://lh3.googleusercontent.com/Wa2SWveA4jIF2qHAi0jsJKMT4vVT5q0VjHg-IhD4LzUbo44C0U9Vw6nRijeAuI3kji_AkoIgrnkbr9BQiivS=s90"
+            ],
+            "recipeName": "CREAMY BRUSSELS SPROUTS GRATIN",
+            "totalTimeInSeconds": 1800,
+            "attributes": {},
+            "flavors": null,
+            "rating": 4
+        },
+        {
+            "imageUrlsBySize": {
+                "90": "http://lh3.googleusercontent.com/cOocC8wN7FYTHXa00ep80ti4ijljJB2SVrFIpBWxaL6FwZPPJ0opF7Nudu0u8ccNysvRyPs-nyuWqnqGvbGWtQ=s90-c"
+            },
+            "sourceDisplayName": "Lecker",
+            "ingredients": [
+                "Biskuit",
+                "Ei",
+                "Zucker",
+                "Mehl",
+                "Speisest\u00e4rke",
+                "Backpulver",
+                "Kakaopulver",
+                "F\u00fcllung",
+                "\u00c4pfel",
+                "Apelsaft",
+                "Zitrone",
+                "Kuvert\u00fcre",
+                "Schlabgobers",
+                "Kirsch\u00e4pfel"
+            ],
+            "id": "Sahnige-Apfeltorte-Schwarzwalder-Art-827795",
+            "smallImageUrls": [
+                "http://lh3.googleusercontent.com/sVC58VICTckiXpFOMEBQdpXRoQT0oV2TERsBh7msvc8eaWJGUHzfLHTjEY7qhBkaW3wXj-xKL_Rm8fZdQa_Hrw=s90"
+            ],
+            "recipeName": "Sahnige Apfeltorte Schwarzwa\u0308lder Art",
+            "totalTimeInSeconds": 5400,
+            "attributes": {},
+            "flavors": null,
+            "rating": 3
+        },
+        {
+            "imageUrlsBySize": {
+                "90": "http://lh3.googleusercontent.com/4-z2F-5DOD3OhgKXvFOGxI7kn8aR0FkOxycYpZGL_hcfaF749DTDARVJBvhosZCBmBR8jdIDQqfr6u5OmUjh6A=s90-c"
+            },
+            "sourceDisplayName": "Lecker",
+            "ingredients": [
+                "Teig",
+                "Butter",
+                "Zucker",
+                "Salz",
+                "Ei",
+                "Mehl",
+                "Backpulver",
+                "Milch",
+                "Fett",
+                "Schlabgobers",
+                "Mandelbl\u00e4tter",
+                "F\u00fcllung",
+                "Marille",
+                "Saucenpulver",
+                "Zitronenmelisse"
+            ],
+            "id": "Bienenstich-826075",
+            "smallImageUrls": [
+                "http://lh3.googleusercontent.com/IIjfNdESVu3kFWSNYE5O99rwDtJy195hCsHrGSo8qNX4Btl4an0Zsn1Fav50SX5G9pNQGsDGe45JFp9F2uhQT-Q=s90"
+            ],
+            "recipeName": "Bienenstich",
+            "totalTimeInSeconds": 5400,
+            "attributes": {},
+            "flavors": null,
+            "rating": 3
+        },
+        {
+            "imageUrlsBySize": {
+                "90": "http://lh3.googleusercontent.com/7lFptGKcqZEG8zpe1bZOUMKS_xPkrVVAuMXEZajtp6NMD_oh7HwpmdijIeENjjeirApIuPoLx3V2ZIEthOAE=s90-c"
+            },
+            "sourceDisplayName": "Lecker",
+            "ingredients": [
+                "Nudelteig",
+                "Mehl",
+                "Ei",
+                "\u00d6l",
+                "Salz",
+                "So\u00dfe",
+                "Butter",
+                "Fleischbr\u00fche",
+                "Schlabgobers",
+                "Kr\u00e4uter",
+                "Muskat",
+                "curry",
+                "Pfeffer",
+                "F\u00fcllung",
+                "Blumenkohlkopf",
+                "Tomate",
+                "Salami",
+                "Fett",
+                "Niere"
+            ],
+            "id": "Gemuse-Nudel-Auflauf-mit-Salami-824662",
+            "smallImageUrls": [
+                "http://lh3.googleusercontent.com/kXA7S2f6JbzYyJU3h3BmhYmrpK87cv2GIh4z0hN-Zf64ZAnLJM2RAl8TICPAwg9KigIicag9Ygg1bmDfWhCKViY=s90"
+            ],
+            "recipeName": "Gemu\u0308se-Nudel-Auflauf mit Salami",
+            "totalTimeInSeconds": 5400,
+            "attributes": {},
+            "flavors": null,
+            "rating": 3
+        },
+        {
+            "recipeName": "Schachbrett-Torte",
+            "ingredients": [
+                "Ei",
+                "Zucker",
+                "Mehl",
+                "Kakao",
+                "Gelatine",
+                "Schlabgobers",
+                "Milch",
+                "ale",
+                "Zitrone"
+            ],
+            "totalTimeInSeconds": 6300,
+            "sourceDisplayName": "Lecker",
+            "id": "Schachbrett-Torte-830544",
+            "rating": 3,
+            "flavors": null,
+            "attributes": {}
+        },
+        {
+            "recipeName": "Schwa\u0308bischer Zwetschen-Kuchen",
+            "ingredients": [
+                "Fett",
+                "Mehl",
+                "Backpulver",
+                "Zucker",
+                "Salz",
+                "weiche Butter",
+                "Milch",
+                "Zwetscken",
+                "ale",
+                "Semmelbr\u00f6sel",
+                "Puderzucker",
+                "Rahm"
+            ],
+            "totalTimeInSeconds": 9000,
+            "sourceDisplayName": "Lecker",
+            "id": "Schwabischer-Zwetschen-Kuchen-831243",
+            "rating": 3,
+            "flavors": null,
+            "attributes": {}
+        }
+    ],
+    "facetCounts": {},
+    "totalMatchCount": 7,
+    "attribution": {
+        "html": "Recipe search powered by <a href='http://www.yummly.co/recipes'><img alt='Yummly' src='https://static.yummly.co/api-logo.png'/></a>",
+        "url": "http://www.yummly.co/recipes/",
+        "text": "Recipe search powered by Yummly",
+        "logo": "https://static.yummly.co/api-logo.png"
+    }
+}

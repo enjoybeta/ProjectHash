@@ -1,0 +1,72 @@
+{
+    "criteria": {
+        "q": "c+o+o+k+e+d+ +b+a+c+o+n",
+        "allowedIngredient": null,
+        "excludedIngredient": null
+    },
+    "matches": [
+        {
+            "imageUrlsBySize": {
+                "90": "http://lh3.googleusercontent.com/tXcXTLa8zsdtPFOnR-qay6KOoamI4u9t4V4M0o_imNSXo_sMy1C4DAEK7zuFT1oPaT-436XzurRoHNj33Cm_cQ=s90-c"
+            },
+            "sourceDisplayName": "Lecker",
+            "ingredients": [
+                "Mehl",
+                "Lebkuchengew\u00fcrz",
+                "weiche Butter",
+                "Puderzucker",
+                "Salz",
+                "Ei",
+                "Amarenakirschen",
+                "Nuss",
+                "Kuvert\u00fcre"
+            ],
+            "id": "Lebkuchen-Amarena-Taschen-925853",
+            "smallImageUrls": [
+                "http://lh3.googleusercontent.com/yFSaquO_3vVHiSPRtAxcNdOOCdcQ0cdwuGZPjVrsrhQ6yo7lhQY3WNf8ghHJI4-HxV0nWYEr4aUOP2WQShkv=s90"
+            ],
+            "recipeName": "Lebkuchen-Amarena-Taschen",
+            "totalTimeInSeconds": 5400,
+            "attributes": {},
+            "flavors": null,
+            "rating": 3
+        },
+        {
+            "imageUrlsBySize": {
+                "90": "http://lh3.googleusercontent.com/HeqmlukUjyexTj4GRIEnK_beRmYyReToT1_eazgtEsviGdkEVMM299LVuR9ypEPlIkUUQsMxs76T0dR9W0o2kLs=s90-c"
+            },
+            "sourceDisplayName": "Lecker",
+            "ingredients": [
+                "Ei",
+                "Zucker",
+                "Zitrone",
+                "Mehl",
+                "Speisest\u00e4rke",
+                "Obersk\u00e4se",
+                "Ananassaft",
+                "Schlabgobers",
+                "Sahnefestiger",
+                "Ananas",
+                "Puderzucker",
+                "Minze"
+            ],
+            "id": "Ananas-Omelette-925692",
+            "smallImageUrls": [
+                "http://lh3.googleusercontent.com/BMH7lJz1xLKnC8IkW5J4VcfDPBxDHcxmUxzUx22GEj_-fiSdgLbNRhVRLtl1-LE1-HE183XEXyKZ07AmkYMa=s90"
+            ],
+            "recipeName": "Ananas-Omelette",
+            "totalTimeInSeconds": 2400,
+            "attributes": {},
+            "flavors": null,
+            "rating": 3
+        }
+    ],
+    "facetCounts": {},
+    "totalMatchCount": 2,
+    "attribution": {
+        "html": "Recipe search powered by <a href='http://www.yummly.co/recipes'><img alt='Yummly' src='https://static.yummly.co/api-logo.png'/></a>",
+        "url": "http://www.yummly.co/recipes/",
+        "text": "Recipe search powered by Yummly",
+        "logo": "https://static.yummly.co/api-logo.png"
+    }
+}

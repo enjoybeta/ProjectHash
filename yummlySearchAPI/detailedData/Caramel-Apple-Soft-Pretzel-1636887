@@ -1,0 +1,54 @@
+{
+    "yield": "8 large or 16 minis",
+    "nutritionEstimates": [],
+    "prepTimeInSeconds": 2400,
+    "totalTime": "1 hr 2 min",
+    "images": [
+        {
+            "hostedSmallUrl": "https://lh3.googleusercontent.com/Aay5K7qk_lJx-OKHcdFEaDKA-LuT39yTBtZRTjhbIJINhKYHoyKU5BCa8blD-pd1TJCxwwqxiXW75uIvH5t9Ir8=s90",
+            "hostedMediumUrl": "https://lh3.googleusercontent.com/Aay5K7qk_lJx-OKHcdFEaDKA-LuT39yTBtZRTjhbIJINhKYHoyKU5BCa8blD-pd1TJCxwwqxiXW75uIvH5t9Ir8=s180",
+            "hostedLargeUrl": "https://lh3.googleusercontent.com/Aay5K7qk_lJx-OKHcdFEaDKA-LuT39yTBtZRTjhbIJINhKYHoyKU5BCa8blD-pd1TJCxwwqxiXW75uIvH5t9Ir8=s360",
+            "imageUrlsBySize": {
+                "90": "https://lh3.googleusercontent.com/i8-0eq3hNQVokT9ItuKISPmoxipBKAtB8BrAECwUSTYkwRnvQG9sMnwsyDT-JG9EtlFv3gAxtqEF2WrQ0bl52S0=s90-c",
+                "360": "https://lh3.googleusercontent.com/i8-0eq3hNQVokT9ItuKISPmoxipBKAtB8BrAECwUSTYkwRnvQG9sMnwsyDT-JG9EtlFv3gAxtqEF2WrQ0bl52S0=s360-c"
+            }
+        }
+    ],
+    "name": "Caramel Apple Soft Pretzel",
+    "source": {
+        "sourceDisplayName": "A Spicy Perspective",
+        "sourceSiteUrl": "http://aspicyperspective.com",
+        "sourceRecipeUrl": "http://www.aspicyperspective.com/caramel-apple-soft-pretzels-recipe/2/"
+    },
+    "prepTime": "40 Min",
+    "id": "Caramel-Apple-Soft-Pretzel-1636887",
+    "ingredientLines": [
+        "1 1/2 cups warm water",
+        "2 tablespoons sugar",
+        "2 1/2 teaspoons dry active yeast (1 packet)",
+        "2 teaspoons salt",
+        "4 1/2 cups (24 ounces) all-purpose flour + 1 tablespoon",
+        "6 tablespoons melted butter",
+        "1 1/2 cups diced apple",
+        "1/2 teaspoon cinnamon",
+        "1/8 teaspoon nutmeg",
+        "3 quarts water",
+        "3/4 cup baking soda",
+        "1 egg yolk + 1 tablespoon water for egg wash",
+        "1 can Dulce de Leche",
+        "Course Sea Salt"
+    ],
+    "cookTime": "22 Min",
+    "attribution": {
+        "html": "<a href='http://www.yummly.co/recipe/Caramel-Apple-Soft-Pretzel-1636887'>Caramel Apple Soft Pretzel recipe</a> information powered by <img alt='Yummly' src='https://static.yummly.co/api-logo.png'/>",
+        "url": "http://www.yummly.co/recipe/Caramel-Apple-Soft-Pretzel-1636887",
+        "text": "Caramel Apple Soft Pretzel recipes: information powered by Yummly",
+        "logo": "https://static.yummly.co/api-logo.png"
+    },
+    "numberOfServings": 8,
+    "totalTimeInSeconds": 3720,
+    "attributes": {},
+    "cookTimeInSeconds": 1320,
+    "flavors": {},
+    "rating": 4
+}

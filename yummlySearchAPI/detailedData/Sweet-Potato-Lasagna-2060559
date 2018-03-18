@@ -1,0 +1,54 @@
+{
+    "nutritionEstimates": [],
+    "prepTimeInSeconds": 1500,
+    "totalTime": "1 hr",
+    "images": [
+        {
+            "hostedSmallUrl": "https://lh3.googleusercontent.com/numcJmyejJVZUJfhPzYKqHxQxcvxzAL8CaB6iP0huymGqadIbOujHTpSssFDmQo5hTuW716NiyYllIDRYEtusg=s90",
+            "hostedMediumUrl": "https://lh3.googleusercontent.com/numcJmyejJVZUJfhPzYKqHxQxcvxzAL8CaB6iP0huymGqadIbOujHTpSssFDmQo5hTuW716NiyYllIDRYEtusg=s180",
+            "hostedLargeUrl": "https://lh3.googleusercontent.com/numcJmyejJVZUJfhPzYKqHxQxcvxzAL8CaB6iP0huymGqadIbOujHTpSssFDmQo5hTuW716NiyYllIDRYEtusg=s360",
+            "imageUrlsBySize": {
+                "90": "https://lh3.googleusercontent.com/AhJ3yQOH0MvPw0RHKJmeJl-Tt7Y8_iwEMu5hGsX-WQGZdDrUhR1kUTdJYMpq4cyqdonGWpnAy9z2Un9s32gj3w=s90-c",
+                "360": "https://lh3.googleusercontent.com/AhJ3yQOH0MvPw0RHKJmeJl-Tt7Y8_iwEMu5hGsX-WQGZdDrUhR1kUTdJYMpq4cyqdonGWpnAy9z2Un9s32gj3w=s360-c"
+            }
+        }
+    ],
+    "name": "Sweet Potato Lasagna",
+    "source": {
+        "sourceDisplayName": "Reader's Digest.ca",
+        "sourceSiteUrl": "readersdigest.ca",
+        "sourceRecipeUrl": "http://www.readersdigest.ca/food/recipes/sweet-potato-lasagna/"
+    },
+    "prepTime": "25 minutes",
+    "id": "Sweet-Potato-Lasagna-2060559",
+    "ingredientLines": [
+        "3 lbs (1.5 kg) sweet potatoes",
+        "2 tbsp (25 mL) olive oil",
+        "1 tsp (5 mL) salt",
+        "8 lasagna noodles",
+        "3 tbsp (50 mL) vegetable oil or butter",
+        "\u00bc cup (50 mL) all-purpose flour",
+        "4 cups (1 L) 1% milk, hot",
+        "1 tsp (5 mL) salt or to taste",
+        "\u00bc tsp (1 mL) pepper",
+        "generous pinch nutmeg",
+        "pinch cayenne",
+        "2 cups (500 mL) grated mild cheese (e.g. Lappi or mozzarella)",
+        "\u00bc cup (50 mL) grated Parmigiano Reggiano"
+    ],
+    "attribution": {
+        "html": "<a href='http://www.yummly.co/recipe/Sweet-Potato-Lasagna-2060559'>Sweet Potato Lasagna recipe</a> information powered by <img alt='Yummly' src='https://static.yummly.co/api-logo.png'/>",
+        "url": "http://www.yummly.co/recipe/Sweet-Potato-Lasagna-2060559",
+        "text": "Sweet Potato Lasagna recipes: information powered by Yummly",
+        "logo": "https://static.yummly.co/api-logo.png"
+    },
+    "numberOfServings": 4,
+    "totalTimeInSeconds": 3600,
+    "attributes": {
+        "course": [
+            "Main Dishes"
+        ]
+    },
+    "flavors": {},
+    "rating": 3
+}

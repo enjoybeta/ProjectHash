@@ -1,0 +1,62 @@
+{
+    "yield": "makes one 9\u2033 pan \u2013 so i doubled it.)",
+    "nutritionEstimates": [],
+    "totalTime": "1 hr",
+    "images": [
+        {
+            "hostedSmallUrl": "https://lh3.googleusercontent.com/8y9EWknF1WQKg9NLbZu4T6_UP7cCpAgUrDWWn0bI2vT8hb1SeI3UlJnZp_A2bgN6G-wSntPx3i0snNTk2xNk=s90",
+            "hostedMediumUrl": "https://lh3.googleusercontent.com/8y9EWknF1WQKg9NLbZu4T6_UP7cCpAgUrDWWn0bI2vT8hb1SeI3UlJnZp_A2bgN6G-wSntPx3i0snNTk2xNk=s180",
+            "hostedLargeUrl": "https://lh3.googleusercontent.com/8y9EWknF1WQKg9NLbZu4T6_UP7cCpAgUrDWWn0bI2vT8hb1SeI3UlJnZp_A2bgN6G-wSntPx3i0snNTk2xNk=s360",
+            "imageUrlsBySize": {
+                "90": "https://lh3.googleusercontent.com/a2_75Fh2sNaqkRfXmKCrrXhk0Mt8HMYTNjW9AvxWWLHi7pPuuDgpeeX3fj52-4OObVS7yHvEZDhN857RHE2o=s90-c",
+                "360": "https://lh3.googleusercontent.com/a2_75Fh2sNaqkRfXmKCrrXhk0Mt8HMYTNjW9AvxWWLHi7pPuuDgpeeX3fj52-4OObVS7yHvEZDhN857RHE2o=s360-c"
+            }
+        }
+    ],
+    "name": "Cinnamon Roll Bread",
+    "source": {
+        "sourceDisplayName": "Thrifty T's Treasures",
+        "sourceSiteUrl": "thriftytstreasures.com",
+        "sourceRecipeUrl": "http://thriftytstreasures.com/2011/11/cinnamon-roll-bread/"
+    },
+    "id": "Cinnamon-Roll-Bread-1817464",
+    "ingredientLines": [
+        "1/2 cup very warm water",
+        "1/2 tablespoon yeast",
+        "1 tablespoon sugar",
+        "1 tablespoon melted butter OR cooking oil",
+        "1/2 teaspoon salt",
+        "1 1/4 to 1 1/2 cups flour",
+        "1/4 cup cold butter",
+        "1/2 cup white and/or brown sugar (I used brown)",
+        "1 tablespoon cinnamon (or more if you like lots of cinnamon)",
+        "1 cup plus 1 tablespoon powdered sugar",
+        "2 tablespoons milk",
+        "1/2 cup very warm Water",
+        "1/2 tablespoon Yeast",
+        "1 tablespoon Sugar",
+        "1 tablespoon Melted Butter OR Cooking Oil",
+        "1/2 teaspoon Salt",
+        "1 1/4 to 1 1/2 cups Flour",
+        "1/4 cup cold Butter",
+        "1/2 cup White and/or Brown Sugar (I used brown)",
+        "1 tablespoon Cinnamon (or more if you like lots of cinnamon)",
+        "1 cup plus 1 tablespoon Powdered Sugar",
+        "2 tablespoons Milk"
+    ],
+    "attribution": {
+        "html": "<a href='http://www.yummly.co/recipe/Cinnamon-Roll-Bread-1817464'>Cinnamon Roll Bread recipe</a> information powered by <img alt='Yummly' src='https://static.yummly.co/api-logo.png'/>",
+        "url": "http://www.yummly.co/recipe/Cinnamon-Roll-Bread-1817464",
+        "text": "Cinnamon Roll Bread recipes: information powered by Yummly",
+        "logo": "https://static.yummly.co/api-logo.png"
+    },
+    "numberOfServings": 1,
+    "totalTimeInSeconds": 3600,
+    "attributes": {
+        "course": [
+            "Breads"
+        ]
+    },
+    "flavors": {},
+    "rating": 4
+}

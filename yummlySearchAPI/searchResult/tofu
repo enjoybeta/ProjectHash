@@ -1,0 +1,330 @@
+{
+    "criteria": {
+        "q": "t+o+f+u",
+        "allowedIngredient": null,
+        "excludedIngredient": null
+    },
+    "matches": [
+        {
+            "imageUrlsBySize": {
+                "90": "https://lh3.googleusercontent.com/eGgawPU64wysbo2DFlCTRG4BUUOgVzJZuHH6amVkaDfSUiTmVhe4rDb_4ssFuqLpmHCZc0TPAfEZGSZTViBuyg=s90-c"
+            },
+            "sourceDisplayName": "Kalyn's Kitchen",
+            "ingredients": [
+                "sweet potatoes",
+                "feta cheese crumbles",
+                "ground fennel",
+                "ground coriander",
+                "minced garlic",
+                "crushed red pepper flakes",
+                "olive oil",
+                "ground sumac"
+            ],
+            "id": "Twice-Baked-Sweet-Potatoes-Recipe-with-Feta-and-Sumac-_Gluten-Free_-Meatless_-1455489",
+            "smallImageUrls": [
+                "https://lh3.googleusercontent.com/vQbd442PJtmAeKE9XONRSxuBOaIoqENe_OV-VpQDV8zaJPkh7GWXEw6rj9VcgnNfbu3utPMGYBvm3b9aVpuBaA=s90"
+            ],
+            "recipeName": "Twice-Baked Sweet Potatoes Recipe with Feta and Sumac (Gluten-Free, Meatless)",
+            "totalTimeInSeconds": 5100,
+            "attributes": {},
+            "flavors": null,
+            "rating": 5
+        },
+        {
+            "imageUrlsBySize": {
+                "90": "https://lh3.googleusercontent.com/Q2vWFiogzwGTJ9ityWuSB-TUu3iD2JZmvc3tgo22DScEowStw_9FF33G6AAKCCPlLQt-bJEWZ9qVMYWw9AUO=s90-c"
+            },
+            "sourceDisplayName": "Food52",
+            "ingredients": [
+                "barley flakes",
+                "stout",
+                "unbleached all-purpose flour",
+                "whole wheat flour",
+                "dry yeast",
+                "sea salt",
+                "dark chocolate chips"
+            ],
+            "id": "Barley_-beer-and-dark-chocolate-artisan-bread-332776",
+            "smallImageUrls": [
+                "https://lh3.googleusercontent.com/rXCSZeSLM6OB0bQCLU5UR32vBTfC6W2Qeu6MBqhGkDrR0FCm5T7w_hTCGmQy8IKgJNTBVv8iOtYAnnPxqKUd=s90"
+            ],
+            "recipeName": "Barley, Beer and Dark Chocolate Artisan Bread",
+            "totalTimeInSeconds": 5400,
+            "attributes": {},
+            "flavors": null,
+            "rating": 5
+        },
+        {
+            "imageUrlsBySize": {
+                "90": "http://lh6.ggpht.com/mhZYGK3qCB2WJ6df-EFcKrVA4ljC6bQCMCKZnyjN8NNr-O0UlJHSycSqQs-Ak5JnuJq0xP2rYCKYz3JqcRMYuA=s90-c"
+            },
+            "sourceDisplayName": "Tasting Table",
+            "ingredients": [
+                "baking soda",
+                "active dry yeast",
+                "warm water",
+                "dark brown sugar",
+                "bread flour",
+                "pilsner",
+                "unsalted butter",
+                "fine sea salt",
+                "egg yolks",
+                "pretzel salt",
+                "coarse salt",
+                "fennel seeds",
+                "sunflower seeds",
+                "caraway seeds",
+                "poppy seeds",
+                "pumpkin seeds"
+            ],
+            "id": "Traditional-Soft-Pretzels-630956",
+            "smallImageUrls": [
+                "http://lh6.ggpht.com/JNmxXI1gTxi5AYwctHz2pKq2Xmgi7eiOCHqfZ46qotIrlo6IUA0tXaBzLOcXoeL3QovOPrsJp1XH_kiVGAMmhg=s90"
+            ],
+            "recipeName": "Traditional Soft Pretzels",
+            "totalTimeInSeconds": 3300,
+            "attributes": {
+                "course": [
+                    "Breads",
+                    "Lunch",
+                    "Snacks"
+                ]
+            },
+            "flavors": {
+                "piquant": 0.0,
+                "meaty": 0.3333333333333333,
+                "bitter": 0.8333333333333334,
+                "sweet": 0.16666666666666666,
+                "sour": 0.16666666666666666,
+                "salty": 0.8333333333333334
+            },
+            "rating": 3
+        },
+        {
+            "imageUrlsBySize": {
+                "90": "https://lh3.googleusercontent.com/5dVXIbYd_bGJ5wjRm-qiykAAW10aM46JPv67YFykR8YaleXaEzxn5SoIxuoslzfK5u-DpIAHPPESG1Tu_yRulQ=s90-c"
+            },
+            "sourceDisplayName": "The Mommypotamus",
+            "ingredients": [
+                "water",
+                "apple cider vinegar",
+                "sea salt",
+                "warm water",
+                "gluten",
+                "maple syrup",
+                "eggs",
+                "cassava root flour",
+                "psyllium husks",
+                "coconut flour",
+                "ghee",
+                "baking soda",
+                "coarse sea salt"
+            ],
+            "id": "Soft-Pretzel-Recipe-_Gluten-Free_-Paleo_-1712013",
+            "smallImageUrls": [
+                "https://lh3.googleusercontent.com/GUF4EIbYJZ7pyYwNo-kOrF-6V3fAaLPi0Wlyf6bOL3ATJgwGdB7UJGkUeYgIvZObdft6JilHXaDuap_hxOLb=s90"
+            ],
+            "recipeName": "Soft Pretzel Recipe (Gluten-Free, Paleo)",
+            "totalTimeInSeconds": 3600,
+            "attributes": {
+                "course": [
+                    "Breads"
+                ]
+            },
+            "flavors": null,
+            "rating": 3
+        },
+        {
+            "imageUrlsBySize": {
+                "90": "https://lh3.googleusercontent.com/OdAiPXoaiRVGHVFS6zxwxMaKu5y4CrSbLhvel9UwLFT2mCJC4I_6zJ7h4gBPlWSgKgZO8iuGqV6YkGGNmlWiJfE=s90-c"
+            },
+            "sourceDisplayName": "4u1s",
+            "ingredients": [
+                "chocolate cake mix",
+                "chocolate instant pudding",
+                "plain greek yogurt",
+                "canola oil",
+                "large eggs",
+                "brewed coffee",
+                "raspberry liqueur",
+                "raspberry pie filling",
+                "fresh raspberries",
+                "chocolate chips",
+                "butter",
+                "light corn syrup"
+            ],
+            "id": "Best-Ever-Chocolate-Raspberry-Bundt-Cake-2225153",
+            "smallImageUrls": [
+                "https://lh3.googleusercontent.com/QDau0C9QUw8472kp7C4ru7UUYu81u8RHtp1x6-CYb_sK4LKYalAQEt0f_AW3hqEB_bps6VLhvEDkAouEW8fKDC8=s90"
+            ],
+            "recipeName": "Best Ever Chocolate Raspberry Bundt Cake",
+            "totalTimeInSeconds": 2700,
+            "attributes": {
+                "course": [
+                    "Desserts"
+                ]
+            },
+            "flavors": null,
+            "rating": 4
+        },
+        {
+            "imageUrlsBySize": {
+                "90": "https://lh3.googleusercontent.com/D2jCRQE5P7Tjt3N_jEGdyxCiOqrxIs67fdfoKk56Fg7g-ivoU1LgQinzj91Z2R-giTVjggsQssGQWR61-RwcA3g=s90-c"
+            },
+            "sourceDisplayName": "Tasting Table",
+            "ingredients": [
+                "baking soda",
+                "active dry yeast",
+                "warm water",
+                "dark brown sugar",
+                "bread flour",
+                "pilsner",
+                "unsalted butter",
+                "fine sea salt",
+                "egg yolks",
+                "fennel seeds",
+                "pumpkin seeds",
+                "coarse salt",
+                "pretzel salt",
+                "poppy seeds",
+                "caraway seeds",
+                "sunflower seeds"
+            ],
+            "id": "Traditional-Soft-Pretzels-2243531",
+            "smallImageUrls": [
+                "https://lh3.googleusercontent.com/OKXTHyc0D5ouaqVed1GyydPZHC7DgEpgypgH5py3upUHR5LAwLXgMHM5TczffVZZ0Wt2GumuQFrUf6ZuTipDpQ=s90"
+            ],
+            "recipeName": "Traditional Soft Pretzels",
+            "totalTimeInSeconds": 3300,
+            "attributes": {
+                "course": [
+                    "Breads",
+                    "Lunch",
+                    "Snacks"
+                ]
+            },
+            "flavors": {
+                "piquant": 0.0,
+                "meaty": 0.3333333333333333,
+                "bitter": 0.8333333333333334,
+                "sweet": 0.16666666666666666,
+                "sour": 0.16666666666666666,
+                "salty": 0.8333333333333334
+            },
+            "rating": 3
+        },
+        {
+            "imageUrlsBySize": {
+                "90": "https://lh3.googleusercontent.com/pBRlERM6-xOv8BXkLZK-EvipTdZZY7nk3flgpRfubmXPMMaO3Sa8kYqeKq7dI4ki7Cw3ZS_IMeSsSA6_hpGSZw=s90-c"
+            },
+            "sourceDisplayName": "Epicurious",
+            "ingredients": [
+                "active dry yeast",
+                "warm water",
+                "barley malt syrup",
+                "bread flour",
+                "pilsner",
+                "unsalted butter",
+                "fine sea salt",
+                "baking soda"
+            ],
+            "id": "Traditional-Soft-Pretzels-recipe-_-Epicurious_com-2225933",
+            "smallImageUrls": [
+                "https://lh3.googleusercontent.com/iHC5dZHIKaQBkURSvzNZWtUiUtD2MzyV54PCzCOHWOciLpDpe5CzDNHmKiOi_QTLiE7VyubyiJlEiw-hBaUOgg=s90"
+            ],
+            "recipeName": "Traditional Soft Pretzels recipe | Epicurious.com",
+            "totalTimeInSeconds": 3300,
+            "attributes": {
+                "course": [
+                    "Breads",
+                    "Lunch"
+                ]
+            },
+            "flavors": {
+                "piquant": 0.0,
+                "meaty": 0.16666666666666666,
+                "bitter": 0.8333333333333334,
+                "sweet": 0.16666666666666666,
+                "sour": 0.0,
+                "salty": 0.8333333333333334
+            },
+            "rating": 3
+        },
+        {
+            "recipeName": "U F O Enchiladas",
+            "ingredients": [
+                "ground beef",
+                "onions",
+                "tomato sauce",
+                "chili powder",
+                "corn starch",
+                "cold water",
+                "corn tortillas",
+                "vegetable oil",
+                "cheddar cheese",
+                "eggs",
+                "iceberg lettuce"
+            ],
+            "totalTimeInSeconds": 4200,
+            "sourceDisplayName": "Food.com",
+            "id": "U-F-O-Enchiladas-Recipezaar",
+            "rating": 3,
+            "flavors": null,
+            "attributes": {}
+        },
+        {
+            "recipeName": "Pumpkin Pie Made from a Real Pumpkin",
+            "ingredients": [
+                "pie pumpkin",
+                "sugar",
+                "ground cinnamon",
+                "ground cloves",
+                "ground allspice",
+                "ground ginger",
+                "salt",
+                "large eggs",
+                "pumpkin",
+                "evaporated milk"
+            ],
+            "totalTimeInSeconds": 11700,
+            "sourceDisplayName": "Food.com",
+            "id": "Pumpkin-Pie-Made-From-A-Real-Pumpkin-Recipezaar",
+            "rating": 4,
+            "flavors": null,
+            "attributes": {}
+        },
+        {
+            "recipeName": "Butter Cream-Filled Cake",
+            "ingredients": [
+                "egg yolks",
+                "warm water",
+                "sugar",
+                "vanilla sugar",
+                "egg whites",
+                "plain flour",
+                "corn starch",
+                "baking powder",
+                "pudding",
+                "cream",
+                "cold milk",
+                "butter",
+                "jam",
+                "almonds"
+            ],
+            "totalTimeInSeconds": 4800,
+            "sourceDisplayName": "Food.com",
+            "id": "Butter-Cream-Filled-Cake-Food_com-123398",
+            "rating": 3,
+            "flavors": null,
+            "attributes": {}
+        }
+    ],
+    "facetCounts": {},
+    "totalMatchCount": 11,
+    "attribution": {
+        "html": "Recipe search powered by <a href='http://www.yummly.co/recipes'><img alt='Yummly' src='https://static.yummly.co/api-logo.png'/></a>",
+        "url": "http://www.yummly.co/recipes/",
+        "text": "Recipe search powered by Yummly",
+        "logo": "https://static.yummly.co/api-logo.png"
+    }
+}

@@ -1,0 +1,63 @@
+{
+    "yield": "6 large servings",
+    "nutritionEstimates": [],
+    "totalTime": "2 hr 18 min",
+    "images": [
+        {
+            "hostedSmallUrl": "https://lh3.googleusercontent.com/BOnpSmB2QAUVQwSB2UiNFg0crwu_MSz-mtOkM12iI9tiv-f9QXpR8yaT5HwdR0NXrb5w3cb-I3-8ltIRuIUg1w=s90",
+            "hostedMediumUrl": "https://lh3.googleusercontent.com/BOnpSmB2QAUVQwSB2UiNFg0crwu_MSz-mtOkM12iI9tiv-f9QXpR8yaT5HwdR0NXrb5w3cb-I3-8ltIRuIUg1w=s180",
+            "hostedLargeUrl": "https://lh3.googleusercontent.com/BOnpSmB2QAUVQwSB2UiNFg0crwu_MSz-mtOkM12iI9tiv-f9QXpR8yaT5HwdR0NXrb5w3cb-I3-8ltIRuIUg1w=s360",
+            "imageUrlsBySize": {
+                "90": "https://lh3.googleusercontent.com/duOkaLHwdP9N-6sdbcWE1UdTK3t78-4jPychVdakDcmBeA-NeLQ0VjutqzOZSUOmYPXHOifWrPV_jY3rp78m-w=s90-c",
+                "360": "https://lh3.googleusercontent.com/duOkaLHwdP9N-6sdbcWE1UdTK3t78-4jPychVdakDcmBeA-NeLQ0VjutqzOZSUOmYPXHOifWrPV_jY3rp78m-w=s360-c"
+            }
+        }
+    ],
+    "name": "The Science Of Cooking Prime Rib, Tenderloin, And Other Beef Roasts",
+    "source": {
+        "sourceDisplayName": "Amazing Ribs",
+        "sourceSiteUrl": "amazingribs.com",
+        "sourceRecipeUrl": "https://amazingribs.com/tested-recipes/beef-and-bison-recipes/science-cooking-prime-rib-tenderloin-and-other-beef-roasts"
+    },
+    "id": "The-Science-Of-Cooking-Prime-Rib_-Tenderloin_-And-Other-Beef-Roasts-2289505",
+    "ingredientLines": [
+        "1 beef rib roast, bones on, about 3 bones wide, about 8 pounds before trimming, about 5 pounds after trimming, cooking, and shrinkage",
+        "1/2 teaspoon kosher salt per pound of trimmed meat (1/4 teaspoon table salt)",
+        "1 teaspoon Mrs. O'Leary's Cow Crust per pound of trimmed meat",
+        "3 or more beef ribs or other beef bones",
+        "Meaty trimmings from the roast with a little fat",
+        "Meaty trimmings from the roast with a little fat",
+        "2 medium onions, root end removed, skin left on, and cut into quarters",
+        "2 carrots, peeled and chopped into 1\" lengths",
+        "1 stalk celery, leaves left on, cleaned, and chopped into 1\" lengths",
+        "3 tablespoons soy sauce",
+        "2 dried mushrooms",
+        "1 cup dry red wine",
+        "1 teaspoon Mrs. O'Leary's Cow Crust",
+        "1 bay leaf",
+        "32 ounces of water"
+    ],
+    "cookTime": "2 Hr 18 Min",
+    "attribution": {
+        "html": "<a href='http://www.yummly.co/recipe/The-Science-Of-Cooking-Prime-Rib_-Tenderloin_-And-Other-Beef-Roasts-2289505'>The Science Of Cooking Prime Rib, Tenderloin, And Other Beef Roasts recipe</a> information powered by <img alt='Yummly' src='https://static.yummly.co/api-logo.png'/>",
+        "url": "http://www.yummly.co/recipe/The-Science-Of-Cooking-Prime-Rib_-Tenderloin_-And-Other-Beef-Roasts-2289505",
+        "text": "The Science Of Cooking Prime Rib, Tenderloin, And Other Beef Roasts recipes: information powered by Yummly",
+        "logo": "https://static.yummly.co/api-logo.png"
+    },
+    "numberOfServings": 6,
+    "totalTimeInSeconds": 8280,
+    "attributes": {
+        "cuisine": [
+            "Barbecue"
+        ],
+        "holiday": [
+            "Sunday Lunch"
+        ],
+        "course": [
+            "Main Dishes"
+        ]
+    },
+    "cookTimeInSeconds": 8280,
+    "flavors": {},
+    "rating": 4
+}

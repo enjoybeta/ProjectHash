@@ -1,0 +1,45 @@
+{
+    "nutritionEstimates": [],
+    "totalTime": "30 min",
+    "images": [
+        {
+            "hostedSmallUrl": "https://lh3.googleusercontent.com/MrXnL83XjSwGVTFf2xMbAMU45DSUoC6Ti5Aws3HW0k_1DXt5ZpEhn-QiyyHKafCLKQOJxwr6PvUjDjrpNJEhWw=s90",
+            "hostedMediumUrl": "https://lh3.googleusercontent.com/MrXnL83XjSwGVTFf2xMbAMU45DSUoC6Ti5Aws3HW0k_1DXt5ZpEhn-QiyyHKafCLKQOJxwr6PvUjDjrpNJEhWw=s180",
+            "hostedLargeUrl": "https://lh3.googleusercontent.com/MrXnL83XjSwGVTFf2xMbAMU45DSUoC6Ti5Aws3HW0k_1DXt5ZpEhn-QiyyHKafCLKQOJxwr6PvUjDjrpNJEhWw=s360",
+            "imageUrlsBySize": {
+                "90": "https://lh3.googleusercontent.com/HgdP9aqvIvNXVDM6M0-2F4X2gFIM0Nc1YRcy016eQumZtyO0ZMMqeNX12lzn8N8vZr56pn62stXpdUxevVh7VeY=s90-c",
+                "360": "https://lh3.googleusercontent.com/HgdP9aqvIvNXVDM6M0-2F4X2gFIM0Nc1YRcy016eQumZtyO0ZMMqeNX12lzn8N8vZr56pn62stXpdUxevVh7VeY=s360-c"
+            }
+        }
+    ],
+    "name": "Nacho Average B.R.I.S.K.E.T.",
+    "source": {
+        "sourceDisplayName": "Gigi Eats Celebrities",
+        "sourceSiteUrl": "gigieatscelebrities.com",
+        "sourceRecipeUrl": "http://gigieatscelebrities.com/us-wellness-meats-brisket-nachos/"
+    },
+    "id": "Nacho-Average-B_R_I_S_K_E_T_-1952403",
+    "ingredientLines": [
+        "1 Whole Sweet Potato, thinly sliced",
+        "US Wellness Sugar-Free Hickory Smoked Sliced Beef Brisket",
+        "US Wellness Sugar-Free Hickory Smoked Sliced Beef Brisket",
+        "US Wellness Sugar-Free Hickory Smoked Sliced Beef Brisket",
+        "Xyla Brand Xylitol BBQ Sauce",
+        "Spinach, optional"
+    ],
+    "attribution": {
+        "html": "<a href='http://www.yummly.co/recipe/Nacho-Average-B_R_I_S_K_E_T_-1952403'>Nacho Average B.R.I.S.K.E.T. recipe</a> information powered by <img alt='Yummly' src='https://static.yummly.co/api-logo.png'/>",
+        "url": "http://www.yummly.co/recipe/Nacho-Average-B_R_I_S_K_E_T_-1952403",
+        "text": "Nacho Average B.R.I.S.K.E.T. recipes: information powered by Yummly",
+        "logo": "https://static.yummly.co/api-logo.png"
+    },
+    "numberOfServings": 4,
+    "totalTimeInSeconds": 1800,
+    "attributes": {
+        "course": [
+            "Main Dishes"
+        ]
+    },
+    "flavors": {},
+    "rating": 4
+}

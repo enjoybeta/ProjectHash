@@ -1,0 +1,311 @@
+{
+    "criteria": {
+        "q": "c+o+n+e+s",
+        "allowedIngredient": null,
+        "excludedIngredient": null
+    },
+    "matches": [
+        {
+            "imageUrlsBySize": {
+                "90": "https://lh3.googleusercontent.com/CzZc4H0XZhoIvKW3jMDJeDcimdFinrbP6muKlIgOeIel1TihH4twWR1IVvtUSNhiOnTUwWgON1TpAL9ynK5Y-A=s90-c"
+            },
+            "sourceDisplayName": "Cake Whiz",
+            "ingredients": [
+                "orange",
+                "water",
+                "marshmallows",
+                "sugar"
+            ],
+            "id": "JELL-O-Marshmallow-Candy-2286152",
+            "smallImageUrls": [
+                "https://lh3.googleusercontent.com/mDzHHHR-4NmQCb382wmZ3B1ZZe4aEqRbjeLg9ZrJqgh6ep_VMbkZ64VRen2wxPEWOFMRICXU4L_4QkLYHlYAZeE=s90"
+            ],
+            "recipeName": "JELL-O Marshmallow Candy",
+            "totalTimeInSeconds": 3600,
+            "attributes": {
+                "course": [
+                    "Desserts"
+                ]
+            },
+            "flavors": {
+                "piquant": 0.0,
+                "meaty": 0.16666666666666666,
+                "bitter": 0.16666666666666666,
+                "sweet": 0.8333333333333334,
+                "sour": 0.6666666666666666,
+                "salty": 0.16666666666666666
+            },
+            "rating": 4
+        },
+        {
+            "imageUrlsBySize": {
+                "90": "http://lh3.googleusercontent.com/k4vF_16omOqFcZMAQsqx5mH2UuEVu6Ck0Wv3bpPHTQfUKME-B9fJSmQk8Y0BeAEOvNEB-rMgQrEBEXCa_K1Zhg=s90-c"
+            },
+            "sourceDisplayName": "Vegan Noga",
+            "ingredients": [
+                "cauliflower",
+                "bread crumbs",
+                "chickpea flour",
+                "soy sauce",
+                "water"
+            ],
+            "id": "Low-fat-Vegan-Breaded-Cauliflower-Chunks-1241121",
+            "smallImageUrls": [
+                "http://lh3.googleusercontent.com/3yLWcaGkHhk7crodJQmY_v2QYkcOCW9JHIeXqArGSxlhpFBAAItH-ODLOZ3Tz8TPRx7ykdyaZEnzfAGmu2FM=s90"
+            ],
+            "recipeName": "Low fat Vegan Breaded Cauliflower Chunks",
+            "totalTimeInSeconds": 2100,
+            "attributes": {},
+            "flavors": null,
+            "rating": 4
+        },
+        {
+            "imageUrlsBySize": {
+                "90": "https://lh3.googleusercontent.com/PjBs54zsE7phSEI_S7VOUXUdpx9TipzKw3IJ_6geUdUcfzPoUFN_tJmEJAxfnKkmi3UxrTI2seyrxFk2zi1q4-Q=s90-c"
+            },
+            "sourceDisplayName": "Delightful E Made",
+            "ingredients": [
+                "pretzel sticks",
+                "butter",
+                "granulated sugar",
+                "cream cheese",
+                "frozen whipped topping",
+                "peaches",
+                "boiling water"
+            ],
+            "id": "Peaches-and-Cream-Pretzel-Salad-2162809",
+            "smallImageUrls": [
+                "https://lh3.googleusercontent.com/n72TTTX4ND2Y4OpvTtr0mydRwfyOoUH9SL32BcM-6C06cm5gSuuP_7UScymFyIO611tm4ZuajIW_hysXT5f2=s90"
+            ],
+            "recipeName": "Peaches and Cream Pretzel Salad",
+            "totalTimeInSeconds": 9600,
+            "attributes": {
+                "course": [
+                    "Desserts"
+                ]
+            },
+            "flavors": {
+                "piquant": 0.0,
+                "meaty": 0.16666666666666666,
+                "bitter": 0.16666666666666666,
+                "sweet": 0.6666666666666666,
+                "sour": 0.16666666666666666,
+                "salty": 0.16666666666666666
+            },
+            "rating": 4
+        },
+        {
+            "imageUrlsBySize": {
+                "90": "https://lh3.googleusercontent.com/36ktn89fSFwr_h9LSKTWb5-iYP0nu4lKQ_wajs7NklxhBEsbdWYzvKsPEeGXYGZDG5Lj4q1KnZkHh7CukvVzHkw=s90-c"
+            },
+            "sourceDisplayName": "Recipe Roost",
+            "ingredients": [
+                "macaroni",
+                "milk",
+                "Land O Lakes\u00ae Butter",
+                "Kraft Parmesan Cheese",
+                "ground pepper",
+                "nutmeg",
+                "bread crumbs",
+                "paprika"
+            ],
+            "id": "This-Civil-War-Macaroni-And-Cheese-Is-Robert-E_-Lee-Approved-1967111",
+            "smallImageUrls": [
+                "https://lh3.googleusercontent.com/C49kqgkdnOjfiop5mWRxbO1Q9mY4CvldUqotGA4EDDaXOqRxCU87yakIdIXLU1WJ7t8-P8WFUFfDG3zaVVsZJA=s90"
+            ],
+            "recipeName": "This Civil War Macaroni And Cheese Is Robert E. Lee Approved",
+            "totalTimeInSeconds": 3300,
+            "attributes": {},
+            "flavors": null,
+            "rating": 4
+        },
+        {
+            "imageUrlsBySize": {
+                "90": "http://lh3.ggpht.com/PHEdhp3vEBL03DR87dhrELeLOr6EkXNqnnYGgmNp8YBiqLqNtSeRuU46hE--mvksRF3JMUlcLaoQ4QWv2YWhdA=s90-c"
+            },
+            "sourceDisplayName": "AllRecipes",
+            "ingredients": [
+                "white sugar",
+                "heavy cream",
+                "baking soda",
+                "butter",
+                "vanilla extract",
+                "pecan halves"
+            ],
+            "id": "Aunt-Bill_s-Brown-Candy-Allrecipes",
+            "smallImageUrls": [
+                "http://lh3.ggpht.com/0nno8jMU3PHuSx6t7BE0q1k1soA6OGe1nAIe7c4-CqDc4na9Ji7COVRWDqxFlhAR0hM5uNOdFkLGEGIa1R4tAN0=s90"
+            ],
+            "recipeName": "Aunt Bill's Brown Candy",
+            "totalTimeInSeconds": 7200,
+            "attributes": {},
+            "flavors": null,
+            "rating": 5
+        },
+        {
+            "imageUrlsBySize": {
+                "90": "https://lh3.googleusercontent.com/R8GpmbktD79gInldToD5F6iDv0MHHHw8eAey0aEo40_YjTEPzHZT4QAQ3pa9_a1PMza3UJ3UwEjrfoh3aDQfIg=s90-c"
+            },
+            "sourceDisplayName": "Delightful E Made",
+            "ingredients": [
+                "Golden OREO Cookies",
+                "butter",
+                "cream cheese",
+                "sugar",
+                "milk",
+                "strawberry gelatin",
+                "strawberries",
+                "whipped topping"
+            ],
+            "id": "Creamy-Strawberry-Pie-2089391",
+            "smallImageUrls": [
+                "https://lh3.googleusercontent.com/sKkigpga4kvs0Nl-gkqSBV-Nfq1uRpwCCDzuYUiPWAnSSGnc5z6OJK4hW0NmjgyM_MacwTz-NDvjcz7wvh5G=s90"
+            ],
+            "recipeName": "Creamy Strawberry Pie",
+            "totalTimeInSeconds": 1200,
+            "attributes": {
+                "course": [
+                    "Desserts"
+                ]
+            },
+            "flavors": {
+                "piquant": 0.0,
+                "meaty": 0.16666666666666666,
+                "bitter": 0.16666666666666666,
+                "sweet": 0.6666666666666666,
+                "sour": 0.8333333333333334,
+                "salty": 0.16666666666666666
+            },
+            "rating": 4
+        },
+        {
+            "imageUrlsBySize": {
+                "90": "https://lh3.googleusercontent.com/N98kDMHWAwIEua6nUxy2ppu2YgrFiCScJxvWWcY8Ifgzgkw6e4fefZ6XdEObR6i0dDPd3QLROHs8FMVNrGMXK4M=s90-c"
+            },
+            "sourceDisplayName": "Kikalicious",
+            "ingredients": [
+                "shredded coconut",
+                "sugar",
+                "eggs",
+                "yolk",
+                "water",
+                "wine",
+                "chocolate"
+            ],
+            "id": "Traditional-Coconut-Macaroon-_-Coquinhos-Tradicionais-2186892",
+            "smallImageUrls": [
+                "https://lh3.googleusercontent.com/Yqzjvl0O5AjEXu-fZorsrKik-F1bJ5hAPOkwwk9yNXGlkoH-Jcg2Wy0837FrbcIwp3otU3fZVXyiAJnlZJyy=s90"
+            ],
+            "recipeName": "Traditional Coconut Macaroon | Coquinhos Tradicionais",
+            "totalTimeInSeconds": 1500,
+            "attributes": {
+                "course": [
+                    "Desserts"
+                ]
+            },
+            "flavors": null,
+            "rating": 4
+        },
+        {
+            "imageUrlsBySize": {
+                "90": "https://lh3.googleusercontent.com/dROF_f9xoN65wCDyzrvjgzBQFL_1v01LCg5nTVOMUjvKvYyVxTuEBpSXml8CesRI_sfA0wTHudwRB9W2yA3MtQ=s90-c"
+            },
+            "sourceDisplayName": "A Veggie Venture",
+            "ingredients": [
+                "fresh brussels sprouts",
+                "unsalted butter",
+                "kosher salt",
+                "freshly ground pepper",
+                "heavy cream",
+                "panko",
+                "parmesan cheese"
+            ],
+            "id": "CREAMY-BRUSSELS-SPROUTS-GRATIN-1369758",
+            "smallImageUrls": [
+                "https://lh3.googleusercontent.com/Wa2SWveA4jIF2qHAi0jsJKMT4vVT5q0VjHg-IhD4LzUbo44C0U9Vw6nRijeAuI3kji_AkoIgrnkbr9BQiivS=s90"
+            ],
+            "recipeName": "CREAMY BRUSSELS SPROUTS GRATIN",
+            "totalTimeInSeconds": 1800,
+            "attributes": {},
+            "flavors": null,
+            "rating": 4
+        },
+        {
+            "imageUrlsBySize": {
+                "90": "https://lh3.googleusercontent.com/ET6kGHjkkuIiHyjPk4zoxQg5PTiUmX8u7_-NFyqkJZ_CWCE0T42GMfJBUGnbSa0Y47xa-OntNM2Chir_0AVB-g=s90-c"
+            },
+            "sourceDisplayName": "Hugsand Cookies xoxo",
+            "ingredients": [
+                "butter",
+                "light brown sugar",
+                "white sugar",
+                "eggs",
+                "creamy peanut butter",
+                "vanilla",
+                "baking soda",
+                "baking powder",
+                "kosher salt",
+                "flour",
+                "sugar",
+                "peanut butter cookies"
+            ],
+            "id": "Old-School-Peanut-Butter-Cookies-1976464",
+            "smallImageUrls": [
+                "https://lh3.googleusercontent.com/vnIjghHrr-unW5p5J67-mnVfC_Sm7qtaSCW17qORVanH2Pv_0FsXXZ4fdHA-2RavSpJbnqZlKUgB_QZYIXjGMw=s90"
+            ],
+            "recipeName": "Old School Peanut Butter Cookies",
+            "totalTimeInSeconds": 1800,
+            "attributes": {
+                "course": [
+                    "Desserts"
+                ],
+                "cuisine": [
+                    "Kid-Friendly"
+                ]
+            },
+            "flavors": {
+                "piquant": 0.0,
+                "meaty": 1.0,
+                "bitter": 1.0,
+                "sweet": 1.0,
+                "sour": 0.0,
+                "salty": 1.0
+            },
+            "rating": 4
+        },
+        {
+            "imageUrlsBySize": {
+                "90": "https://lh3.googleusercontent.com/sc0HIviWzhID6BErxWEGOin37rBIcbRtpx3wNqSfwvjYg-nJ0JF2o7cS4f3zblKHnWHuF3r-4i44KCyXcbmDlg=s90-c"
+            },
+            "sourceDisplayName": "Delightful E Made",
+            "ingredients": [
+                "crust",
+                "pretzels",
+                "butter",
+                "granulated sugar",
+                "cream cheese",
+                "frozen whipped topping",
+                "cherry Jell-O",
+                "boiling water",
+                "cherries"
+            ],
+            "id": "Cherry-Jello-Pretzel-Salad-1641616",
+            "smallImageUrls": [
+                "https://lh3.googleusercontent.com/3InNJ1u4juvrJ6xUv92cxIMd2_E9yDNkTSzPCotvdqInUed0oE9jkzSQwEBgHXS8gJA7INhQrWzS2ctTyE8gP44=s90"
+            ],
+            "recipeName": "Cherry Jello Pretzel Salad",
+            "totalTimeInSeconds": 10800,
+            "attributes": {},
+            "flavors": null,
+            "rating": 4
+        }
+    ],
+    "facetCounts": {},
+    "totalMatchCount": 5451,
+    "attribution": {
+        "html": "Recipe search powered by <a href='http://www.yummly.co/recipes'><img alt='Yummly' src='https://static.yummly.co/api-logo.png'/></a>",
+        "url": "http://www.yummly.co/recipes/",
+        "text": "Recipe search powered by Yummly",
+        "logo": "https://static.yummly.co/api-logo.png"
+    }
+}

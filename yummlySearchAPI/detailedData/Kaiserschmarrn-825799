@@ -1,0 +1,50 @@
+{
+    "yield": "Zutaten f\u00fcr 2 Personen:",
+    "nutritionEstimates": [],
+    "totalTime": "30 min",
+    "images": [
+        {
+            "hostedSmallUrl": "http://lh3.googleusercontent.com/xQwV2NvS6CX3A3uq6kfDUiW3iLpTpGsbV5spSjjwTgk6amkjlEWQcZCefeWWh_8UHYQjZHElkkLEKHIHSD5bTg=s90",
+            "hostedMediumUrl": "http://lh3.googleusercontent.com/xQwV2NvS6CX3A3uq6kfDUiW3iLpTpGsbV5spSjjwTgk6amkjlEWQcZCefeWWh_8UHYQjZHElkkLEKHIHSD5bTg=s180",
+            "hostedLargeUrl": "http://lh3.googleusercontent.com/xQwV2NvS6CX3A3uq6kfDUiW3iLpTpGsbV5spSjjwTgk6amkjlEWQcZCefeWWh_8UHYQjZHElkkLEKHIHSD5bTg=s360",
+            "imageUrlsBySize": {
+                "90": "http://lh3.googleusercontent.com/8aTUOdbrkz3a8xhnOHV2MDHsK-5IY-MId9MgzOzsnjJrZz3G959UHQMBYXLAXEeyLurbVSXLKPrugKqz42q-jg=s90-c",
+                "360": "http://lh3.googleusercontent.com/8aTUOdbrkz3a8xhnOHV2MDHsK-5IY-MId9MgzOzsnjJrZz3G959UHQMBYXLAXEeyLurbVSXLKPrugKqz42q-jg=s360-c"
+            }
+        }
+    ],
+    "name": "Kaiserschmarrn",
+    "source": {
+        "sourceDisplayName": "Lecker",
+        "sourceSiteUrl": "lecker.de",
+        "sourceRecipeUrl": "http://www.lecker.de/rezept/747524/Kaiserschmarrn.html"
+    },
+    "id": "Kaiserschmarrn-825799",
+    "ingredientLines": [
+        "1 EL Rosinen",
+        "3 Eier (Gr\u00f6\u00dfe M)",
+        "1 P\u00e4ckchen Vanillin-Zucker",
+        "1 Prise Salz",
+        "1/8 l Milch",
+        "60 g Mehl",
+        "15 g + 1 TL Zucker",
+        "1 TL + 30 g Butter",
+        "1 TL \u00d6l",
+        "2 EL Puderzucker"
+    ],
+    "attribution": {
+        "html": "<a href='http://www.yummly.co/recipe/Kaiserschmarrn-825799'>Kaiserschmarrn recipe</a> information powered by <img alt='Yummly' src='https://static.yummly.co/api-logo.png'/>",
+        "url": "http://www.yummly.co/recipe/Kaiserschmarrn-825799",
+        "text": "Kaiserschmarrn recipes: information powered by Yummly",
+        "logo": "https://static.yummly.co/api-logo.png"
+    },
+    "numberOfServings": 2,
+    "totalTimeInSeconds": 1800,
+    "attributes": {
+        "course": [
+            "Desserts"
+        ]
+    },
+    "flavors": {},
+    "rating": 3
+}

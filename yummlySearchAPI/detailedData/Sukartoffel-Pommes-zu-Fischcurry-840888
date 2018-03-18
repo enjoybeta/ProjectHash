@@ -1,0 +1,50 @@
+{
+    "yield": "Zutaten f\u00fcr 6 Personen:",
+    "nutritionEstimates": [],
+    "totalTime": "50 min",
+    "images": [
+        {
+            "hostedSmallUrl": "http://lh3.googleusercontent.com/5dJ4pxNCIXp7VB11apexTZpWJ4i5q0yEzdQV6TPx8TAKFYRlaYTe9LEQ7Hl7qNiiAih-bu49XBF_0XzFm4Gbgw=s90",
+            "hostedMediumUrl": "http://lh3.googleusercontent.com/5dJ4pxNCIXp7VB11apexTZpWJ4i5q0yEzdQV6TPx8TAKFYRlaYTe9LEQ7Hl7qNiiAih-bu49XBF_0XzFm4Gbgw=s180",
+            "hostedLargeUrl": "http://lh3.googleusercontent.com/5dJ4pxNCIXp7VB11apexTZpWJ4i5q0yEzdQV6TPx8TAKFYRlaYTe9LEQ7Hl7qNiiAih-bu49XBF_0XzFm4Gbgw=s360",
+            "imageUrlsBySize": {
+                "90": "http://lh3.googleusercontent.com/DXUE00jHfo4BKA5M_HMlpK4SvWHxDNTKs2UJKndi6WeQoGq0pKk19dPoUZyGcNdNVlgzGOUK1vRYnJWOIS7Luw=s90-c",
+                "360": "http://lh3.googleusercontent.com/DXUE00jHfo4BKA5M_HMlpK4SvWHxDNTKs2UJKndi6WeQoGq0pKk19dPoUZyGcNdNVlgzGOUK1vRYnJWOIS7Luw=s360-c"
+            }
+        }
+    ],
+    "name": "Su\u0308\u00dfkartoffel-Pommes zu Fischcurry",
+    "source": {
+        "sourceDisplayName": "Lecker",
+        "sourceSiteUrl": "lecker.de",
+        "sourceRecipeUrl": "http://www.lecker.de/rezept/1229419/Suesskartoffel-Pommes-zu-Fischcurry.html"
+    },
+    "id": "Sukartoffel-Pommes-zu-Fischcurry-840888",
+    "ingredientLines": [
+        "1,2 kg S\u00fc\u00dfkartoffeln",
+        "1\u20132 EL + 25 g Speisest\u00e4rke",
+        "300 g M\u00f6hren",
+        "2 rote Paprikaschoten",
+        "2 Lauchzwiebeln",
+        "250 g Champignons",
+        "2\u20133 EL Mehl",
+        "750 g Fischfilet (z. B. Seelachs oder Pangasius)",
+        "2 EL + 1 l \u00d6l",
+        "Salz",
+        "Pfeffer",
+        "1/4 T\u00f6pfchen Koriander",
+        "2\u20133 TL Currypulver + etwas zum Best\u00e4uben",
+        "2 Dosen (\u00e0 400 g) Kokosmilch"
+    ],
+    "attribution": {
+        "html": "<a href='http://www.yummly.co/recipe/Sukartoffel-Pommes-zu-Fischcurry-840888'>Su\u0308&szlig;kartoffel-Pommes zu Fischcurry recipe</a> information powered by <img alt='Yummly' src='https://static.yummly.co/api-logo.png'/>",
+        "url": "http://www.yummly.co/recipe/Sukartoffel-Pommes-zu-Fischcurry-840888",
+        "text": "Su\u0308&szlig;kartoffel-Pommes zu Fischcurry recipes: information powered by Yummly",
+        "logo": "https://static.yummly.co/api-logo.png"
+    },
+    "numberOfServings": 6,
+    "totalTimeInSeconds": 3000,
+    "attributes": {},
+    "flavors": {},
+    "rating": 3
+}

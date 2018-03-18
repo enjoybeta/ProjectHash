@@ -1,0 +1,57 @@
+{
+    "yield": "Zutaten f\u00fcr 4 Personen:",
+    "nutritionEstimates": [],
+    "totalTime": "30 min",
+    "images": [
+        {
+            "hostedSmallUrl": "http://lh3.googleusercontent.com/Np9suFUrO0lyQXRFrY8Hb_NSG1rJwVaE3073OIoe2BUMJMDhzwFyV75oV6PbP_SnD0yjVN-SoUSVBrG8Oxm_uQ=s90",
+            "hostedMediumUrl": "http://lh3.googleusercontent.com/Np9suFUrO0lyQXRFrY8Hb_NSG1rJwVaE3073OIoe2BUMJMDhzwFyV75oV6PbP_SnD0yjVN-SoUSVBrG8Oxm_uQ=s180",
+            "hostedLargeUrl": "http://lh3.googleusercontent.com/Np9suFUrO0lyQXRFrY8Hb_NSG1rJwVaE3073OIoe2BUMJMDhzwFyV75oV6PbP_SnD0yjVN-SoUSVBrG8Oxm_uQ=s360",
+            "imageUrlsBySize": {
+                "90": "http://lh3.googleusercontent.com/RD3rxc7dCEMQtoQsRIFP2zBID6uJPL0VUMOYqamaIQmQD_6_A2MA0cNQ01acHPNZvQOpVc0nhprize61qH1Y=s90-c",
+                "360": "http://lh3.googleusercontent.com/RD3rxc7dCEMQtoQsRIFP2zBID6uJPL0VUMOYqamaIQmQD_6_A2MA0cNQ01acHPNZvQOpVc0nhprize61qH1Y=s360-c"
+            }
+        }
+    ],
+    "name": "Frankfurter Gru\u0308ne So\u00dfe",
+    "source": {
+        "sourceDisplayName": "Lecker",
+        "sourceSiteUrl": "lecker.de",
+        "sourceRecipeUrl": "http://www.lecker.de/rezept/513696/Frankfurter-Gruene-Sosse.html"
+    },
+    "id": "Frankfurter-Grune-Soe-922540",
+    "ingredientLines": [
+        "5 Eier",
+        "3 EL Kr\u00e4uteressig",
+        "1/2 TL Salz",
+        "1 Messerspitze wei\u00dfer Pfeffer",
+        "1-2 TL Zucker",
+        "1/8 l \u00d6l",
+        "1 Eigelb",
+        "8 kleine Stiele Salbei",
+        "2 Stiele Dill",
+        "1 Bund Petersilie",
+        "1/2 Bund Kerbel",
+        "1/2 Bund Estragon",
+        "3 Stiele Liebst\u00f6ckel",
+        "1/2 Bund Schnittlauch",
+        "1/2 Beet Kresse oder",
+        "5 Stiele Brunnenkresse",
+        "10 Bl\u00e4tter Sauerampfer",
+        "3 Bl\u00e4tter Borretsch",
+        "6 Stiele Pimpernelle",
+        "3 Bl\u00e4tter Zitronenmelisse",
+        "ersatzweise 1 Bund fertig gemischte Kr\u00e4uter f\u00fcr Frankfurter So\u00dfe"
+    ],
+    "attribution": {
+        "html": "<a href='http://www.yummly.co/recipe/Frankfurter-Grune-Soe-922540'>Frankfurter Gru\u0308ne So&szlig;e recipe</a> information powered by <img alt='Yummly' src='https://static.yummly.co/api-logo.png'/>",
+        "url": "http://www.yummly.co/recipe/Frankfurter-Grune-Soe-922540",
+        "text": "Frankfurter Gru\u0308ne So&szlig;e recipes: information powered by Yummly",
+        "logo": "https://static.yummly.co/api-logo.png"
+    },
+    "numberOfServings": 4,
+    "totalTimeInSeconds": 1800,
+    "attributes": {},
+    "flavors": {},
+    "rating": 3
+}

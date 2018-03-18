@@ -1,0 +1,119 @@
+{
+    "criteria": {
+        "q": "d+i+j+o+n",
+        "allowedIngredient": null,
+        "excludedIngredient": null
+    },
+    "matches": [
+        {
+            "imageUrlsBySize": {
+                "90": "http://lh3.googleusercontent.com/eNrHrdCZ4pEK_1Rr6YrLaO8z_DildlpDiBjyroD8i_701bVu1haw1BEwWg4Aak8FXsh1pZBb5DEqYlJSpYRj=s90-c"
+            },
+            "sourceDisplayName": "Lecker",
+            "ingredients": [
+                "Fr\u00fchlingszwiebelgr\u00fcn",
+                "Tomate",
+                "Schinken",
+                "Ananasringe",
+                "Champignon",
+                "Kuttelkraut",
+                "Butter",
+                "Salz",
+                "Pfeffer",
+                "Blechpizzateig",
+                "Edelschimmelk\u00e4se",
+                "Mehl"
+            ],
+            "id": "Calzone-925891",
+            "smallImageUrls": [
+                "http://lh3.googleusercontent.com/a7HyEs9OAf18T34Td4caELFJFo9P45TWLzvbA7oVlDHMuqLC7naox63TXHnraky4w0kDgofpIECUTNTnbl-hYg=s90"
+            ],
+            "recipeName": "Calzone",
+            "totalTimeInSeconds": 2700,
+            "attributes": {},
+            "flavors": {
+                "sweet": 0.3333333333333333,
+                "piquant": 0.0,
+                "sour": 0.8333333333333334,
+                "salty": 0.8333333333333334,
+                "meaty": 0.16666666666666666,
+                "bitter": 0.8333333333333334
+            },
+            "rating": 3
+        },
+        {
+            "imageUrlsBySize": {
+                "90": "http://lh3.googleusercontent.com/46UKUqBffpCsp_pqZEERg-whlDEQNXaPePFM44y7MFwd9m-cQYv6HPxhPXvRvM1xmaWPzAzal_nd8m9WAIbBdw=s90-c"
+            },
+            "sourceDisplayName": "Lecker",
+            "ingredients": [
+                "Pinienkerne",
+                "Zwiebel",
+                "Knoblaucknolle",
+                "Oregano",
+                "\u00d6l",
+                "Tomatenkonzentrat",
+                "Mehl",
+                "Tomate",
+                "Gem\u00fcsebr\u00fche",
+                "Salz",
+                "Pfeffer",
+                "Kr\u00e4uter",
+                "Blattspinat",
+                "Musskatnuss",
+                "Parmesank\u00e4se",
+                "Ricottak\u00e4se",
+                "Ei",
+                "Eigelb",
+                "Butter"
+            ],
+            "id": "Spinat-Ricotta-Kloe-in-Tomatensoe-842501",
+            "smallImageUrls": [
+                "http://lh3.googleusercontent.com/PFor_SgwtF3mJtm5l8OHeHjrgBbvEwbSfQLZeZrTI9MjfFDPgqY51s-kb8FnbXoIdbnqfOpRwoPvsz7QwFGozA=s90"
+            ],
+            "recipeName": "Spinat-Ricotta-Klo\u0308\u00dfe in Tomatenso\u00dfe",
+            "totalTimeInSeconds": 3000,
+            "attributes": {},
+            "flavors": null,
+            "rating": 3
+        },
+        {
+            "imageUrlsBySize": {
+                "90": "http://lh3.googleusercontent.com/39DJENOYVdzjYLzPjJ_Q5p6lKrRwsRvemHnaCDrCAHlgTwXDhzCFvGujPZtygbOy5h5Z0uu0rznDPRrz6QXRcQ=s90-c"
+            },
+            "sourceDisplayName": "Lecker",
+            "ingredients": [
+                "Ei",
+                "Zucker",
+                "Mehl",
+                "Saucenpulver",
+                "Backpulver",
+                "Gelatine",
+                "Speisequark",
+                "Zitrone",
+                "Schlabgobers",
+                "Erdbeere",
+                "Tortenguss",
+                "Puderzucker",
+                "Fett"
+            ],
+            "id": "Erdbeer-Topfentorte-930107",
+            "smallImageUrls": [
+                "http://lh3.googleusercontent.com/EPvlCS3E4PcQHGMSzOv1huMWwxaL1jKZ6eXgBkHkyyaKJ1YQYp2DX2dvgQUaFF7qeQGij8cNI5YB8I-OWhOiqg=s90"
+            ],
+            "recipeName": "Erdbeer-Topfentorte",
+            "totalTimeInSeconds": 3600,
+            "attributes": {},
+            "flavors": null,
+            "rating": 3
+        }
+    ],
+    "facetCounts": {},
+    "totalMatchCount": 3,
+    "attribution": {
+        "html": "Recipe search powered by <a href='http://www.yummly.co/recipes'><img alt='Yummly' src='https://static.yummly.co/api-logo.png'/></a>",
+        "url": "http://www.yummly.co/recipes/",
+        "text": "Recipe search powered by Yummly",
+        "logo": "https://static.yummly.co/api-logo.png"
+    }
+}

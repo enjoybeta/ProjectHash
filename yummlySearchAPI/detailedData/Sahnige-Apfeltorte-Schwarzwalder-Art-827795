@@ -1,0 +1,54 @@
+{
+    "yield": "Zutaten f\u00fcr ca. 12 St\u00fccke:",
+    "nutritionEstimates": [],
+    "totalTime": "1 hr 30 min",
+    "images": [
+        {
+            "hostedSmallUrl": "http://lh3.googleusercontent.com/sVC58VICTckiXpFOMEBQdpXRoQT0oV2TERsBh7msvc8eaWJGUHzfLHTjEY7qhBkaW3wXj-xKL_Rm8fZdQa_Hrw=s90",
+            "hostedMediumUrl": "http://lh3.googleusercontent.com/sVC58VICTckiXpFOMEBQdpXRoQT0oV2TERsBh7msvc8eaWJGUHzfLHTjEY7qhBkaW3wXj-xKL_Rm8fZdQa_Hrw=s180",
+            "hostedLargeUrl": "http://lh3.googleusercontent.com/sVC58VICTckiXpFOMEBQdpXRoQT0oV2TERsBh7msvc8eaWJGUHzfLHTjEY7qhBkaW3wXj-xKL_Rm8fZdQa_Hrw=s360",
+            "imageUrlsBySize": {
+                "90": "http://lh3.googleusercontent.com/cOocC8wN7FYTHXa00ep80ti4ijljJB2SVrFIpBWxaL6FwZPPJ0opF7Nudu0u8ccNysvRyPs-nyuWqnqGvbGWtQ=s90-c",
+                "360": "http://lh3.googleusercontent.com/cOocC8wN7FYTHXa00ep80ti4ijljJB2SVrFIpBWxaL6FwZPPJ0opF7Nudu0u8ccNysvRyPs-nyuWqnqGvbGWtQ=s360-c"
+            }
+        }
+    ],
+    "name": "Sahnige Apfeltorte Schwarzwa\u0308lder Art",
+    "source": {
+        "sourceDisplayName": "Lecker",
+        "sourceSiteUrl": "lecker.de",
+        "sourceRecipeUrl": "http://www.lecker.de/rezept/748561/Sahnige-Apfeltorte-Schwarzwaelder-Art.html"
+    },
+    "id": "Sahnige-Apfeltorte-Schwarzwalder-Art-827795",
+    "ingredientLines": [
+        "F\u00fcr den Biskuit:",
+        "3 Eier (Gr\u00f6\u00dfe M)",
+        "125 g Zucker",
+        "1/2 P\u00e4ckchen Bourbon Vanille-Zucker",
+        "75 g Mehl",
+        "75 g Speisest\u00e4rke",
+        "1 geh. TL Backpulver",
+        "20 g Kakaopulver",
+        "F\u00fcr die F\u00fcllung und zum Verzieren:",
+        "750 g s\u00e4uerliche \u00c4pfel (z. B. Boskop)",
+        "90 g Zucker",
+        "1/8 l Apfelsaft",
+        "abgeriebene Schale von 1/2 unbehandelten Zitrone",
+        "1 EL Speisest\u00e4rke",
+        "100-125 g Zartbitter-Kuvert\u00fcre",
+        "3 Becher (\u00e0 200 g) Schlagsahne",
+        "11/2 P\u00e4ckchen Bourbon Vanille-Zucker",
+        "3 Kirsch\u00e4pfel (aus der Dose) und Minzbl\u00e4ttchen zum Verzieren"
+    ],
+    "attribution": {
+        "html": "<a href='http://www.yummly.co/recipe/Sahnige-Apfeltorte-Schwarzwalder-Art-827795'>Sahnige Apfeltorte Schwarzwa\u0308lder Art recipe</a> information powered by <img alt='Yummly' src='https://static.yummly.co/api-logo.png'/>",
+        "url": "http://www.yummly.co/recipe/Sahnige-Apfeltorte-Schwarzwalder-Art-827795",
+        "text": "Sahnige Apfeltorte Schwarzwa\u0308lder Art recipes: information powered by Yummly",
+        "logo": "https://static.yummly.co/api-logo.png"
+    },
+    "numberOfServings": 12,
+    "totalTimeInSeconds": 5400,
+    "attributes": {},
+    "flavors": {},
+    "rating": 3
+}
