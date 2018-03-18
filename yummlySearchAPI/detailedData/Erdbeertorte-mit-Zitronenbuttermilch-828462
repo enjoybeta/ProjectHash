@@ -1,0 +1,50 @@
+{
+    "yield": "Zutaten:",
+    "nutritionEstimates": [],
+    "totalTime": "1 hr 15 min",
+    "images": [
+        {
+            "hostedSmallUrl": "http://lh3.googleusercontent.com/rlnwu2IDHr5wtVkA9uflLIED-CZ92PqwTnb_VMOsuEGweZ2-zTEWz4UrIFlnzZMHqi_aFdd8BNtWLM2Lbu8L=s90",
+            "hostedMediumUrl": "http://lh3.googleusercontent.com/rlnwu2IDHr5wtVkA9uflLIED-CZ92PqwTnb_VMOsuEGweZ2-zTEWz4UrIFlnzZMHqi_aFdd8BNtWLM2Lbu8L=s180",
+            "hostedLargeUrl": "http://lh3.googleusercontent.com/rlnwu2IDHr5wtVkA9uflLIED-CZ92PqwTnb_VMOsuEGweZ2-zTEWz4UrIFlnzZMHqi_aFdd8BNtWLM2Lbu8L=s360",
+            "imageUrlsBySize": {
+                "90": "http://lh3.googleusercontent.com/eY5PUaQrMPr_IH3O6T-i-zQ79qhrtUMOHXBOp5KofuQ5bTjqGrxS3wAvhEAoyKLlHcMbOP84Bm2HmE9tYu9Oew=s90-c",
+                "360": "http://lh3.googleusercontent.com/eY5PUaQrMPr_IH3O6T-i-zQ79qhrtUMOHXBOp5KofuQ5bTjqGrxS3wAvhEAoyKLlHcMbOP84Bm2HmE9tYu9Oew=s360-c"
+            }
+        }
+    ],
+    "name": "Erdbeertorte mit Zitronenbuttermilch",
+    "source": {
+        "sourceDisplayName": "Lecker",
+        "sourceSiteUrl": "lecker.de",
+        "sourceRecipeUrl": "http://www.lecker.de/rezept/725761/Erdbeertorte-mit-Zitronenbuttermilch.html"
+    },
+    "id": "Erdbeertorte-mit-Zitronenbuttermilch-828462",
+    "ingredientLines": [
+        "150 g Butter oder Margarine",
+        "175 g Zucker",
+        "2 P\u00e4ckchen Vanillin-Zucker",
+        "3 Eier (Gr\u00f6\u00dfe M)",
+        "175 g Mehl",
+        "1 TL Backpulver",
+        "75 ml Milch",
+        "1 kg Erdbeeren",
+        "6 Blatt wei\u00dfe Gelatine",
+        "1/4 Becher (125 ml) Frucht-Buttermilch \"Zitronengeschmack\"",
+        "3 1/2 Becher (\u00e0 250 ml) Schlagsahne",
+        "50 g Aprikosen-Konfit\u00fcre",
+        "25 g gehackte Pistazienkerne",
+        "nach Belieben Zitronenmelisse"
+    ],
+    "attribution": {
+        "html": "<a href='http://www.yummly.co/recipe/Erdbeertorte-mit-Zitronenbuttermilch-828462'>Erdbeertorte mit Zitronenbuttermilch recipe</a> information powered by <img alt='Yummly' src='https://static.yummly.co/api-logo.png'/>",
+        "url": "http://www.yummly.co/recipe/Erdbeertorte-mit-Zitronenbuttermilch-828462",
+        "text": "Erdbeertorte mit Zitronenbuttermilch recipes: information powered by Yummly",
+        "logo": "https://static.yummly.co/api-logo.png"
+    },
+    "numberOfServings": 4,
+    "totalTimeInSeconds": 4500,
+    "attributes": {},
+    "flavors": {},
+    "rating": 3
+}

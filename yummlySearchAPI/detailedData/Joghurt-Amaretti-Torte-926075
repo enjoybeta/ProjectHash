@@ -1,0 +1,56 @@
+{
+    "yield": "Zutaten:",
+    "nutritionEstimates": [],
+    "totalTime": "1 hr",
+    "images": [
+        {
+            "hostedSmallUrl": "http://lh3.googleusercontent.com/uzWpAISdYpGh-0c8vX629TUvOhCMJ6AwXiS4LamJNikSX6RebzQLEiximklhndxB_-AlOUm2BjCfl671uDSpGHc=s90",
+            "hostedMediumUrl": "http://lh3.googleusercontent.com/uzWpAISdYpGh-0c8vX629TUvOhCMJ6AwXiS4LamJNikSX6RebzQLEiximklhndxB_-AlOUm2BjCfl671uDSpGHc=s180",
+            "hostedLargeUrl": "http://lh3.googleusercontent.com/uzWpAISdYpGh-0c8vX629TUvOhCMJ6AwXiS4LamJNikSX6RebzQLEiximklhndxB_-AlOUm2BjCfl671uDSpGHc=s360",
+            "imageUrlsBySize": {
+                "90": "http://lh3.googleusercontent.com/Grvqd2vFgzGmyjqTYpeh5WFFjh_vypCN6GlL2v9j7fKsp_oyt23ENhX_xO8o2gB6g2CpjR37NZaiN3mD5FCfEA=s90-c",
+                "360": "http://lh3.googleusercontent.com/Grvqd2vFgzGmyjqTYpeh5WFFjh_vypCN6GlL2v9j7fKsp_oyt23ENhX_xO8o2gB6g2CpjR37NZaiN3mD5FCfEA=s360-c"
+            }
+        }
+    ],
+    "name": "Joghurt-Amaretti-Torte",
+    "source": {
+        "sourceDisplayName": "Lecker",
+        "sourceSiteUrl": "lecker.de",
+        "sourceRecipeUrl": "http://www.lecker.de/rezept/737713/Joghurt-Amaretti-Torte.html"
+    },
+    "id": "Joghurt-Amaretti-Torte-926075",
+    "ingredientLines": [
+        "F\u00fcr den M\u00fcrbeteig:",
+        "125 g Mehl",
+        "50 g Zucker",
+        "60 g Butter oder Margarine",
+        "1 Eigelb (Gew. Kl. 2 oder 3)",
+        "einige Tropfen Bittermandel-Back\u00f6l",
+        "Fett und Mehl f\u00fcr den Springformboden",
+        "F\u00fcr die F\u00fcllung und zum Verzieren:",
+        "1 Glas (370 ml/ 350 g Einw.) Schattenmorellen",
+        "15 g Speisest\u00e4rke",
+        "Schale von 1/2 unbehandelten Zitrone",
+        "2 EL Zucker",
+        "6 Blatt wei\u00dfe Gelatine",
+        "120 g Amaretti Kekse",
+        "600 g Vollmilch-Joghurt",
+        "125 g Mascarpone (ital. Doppelrahm-Frischk\u00e4se)",
+        "2 P\u00e4ckchen Vanillin-Zucker",
+        "325 g Schlagsahne",
+        "1-2 EL Kirschso\u00dfe",
+        "12 Zitronenmelissebl\u00e4ttchen"
+    ],
+    "attribution": {
+        "html": "<a href='http://www.yummly.co/recipe/Joghurt-Amaretti-Torte-926075'>Joghurt-Amaretti-Torte recipe</a> information powered by <img alt='Yummly' src='https://static.yummly.co/api-logo.png'/>",
+        "url": "http://www.yummly.co/recipe/Joghurt-Amaretti-Torte-926075",
+        "text": "Joghurt-Amaretti-Torte recipes: information powered by Yummly",
+        "logo": "https://static.yummly.co/api-logo.png"
+    },
+    "numberOfServings": 4,
+    "totalTimeInSeconds": 3600,
+    "attributes": {},
+    "flavors": {},
+    "rating": 3
+}

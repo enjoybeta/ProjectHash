@@ -1,0 +1,340 @@
+{
+    "criteria": {
+        "q": "c+h+i+a+ +s+e+e+d+s",
+        "allowedIngredient": null,
+        "excludedIngredient": null
+    },
+    "matches": [
+        {
+            "imageUrlsBySize": {
+                "90": "https://lh3.googleusercontent.com/EfY2Uk8bLz8yB5Pj0GjAkyS3VC-YSw4rWe7oYj8iA9z5Q112bGnwgh4GpYw7o-uIMXmTLAu_Sgz_lfG_h8osFg=s90-c"
+            },
+            "sourceDisplayName": "Amanda Mackay",
+            "ingredients": [
+                "rolled oats",
+                "boiling water",
+                "salt",
+                "shortening",
+                "yeast",
+                "warm water",
+                "sugar",
+                "molasses",
+                "flour"
+            ],
+            "id": "Brown-Bread-Recipe-_-Oatmeal-Molasses-_-Heavy-Dense-Bread-2353673",
+            "smallImageUrls": [
+                "https://lh3.googleusercontent.com/olLp9Qc6fzm4bNBdkfHYgZDgbWnzoP6d8gWmne3VJh5Mt9Nnky4uBzuhyqRrGzl1Zrps5gpzI8Z9-kZIZ0_Lew=s90"
+            ],
+            "recipeName": "Brown Bread Recipe | Oatmeal Molasses | Heavy Dense Bread",
+            "totalTimeInSeconds": 5400,
+            "attributes": {
+                "course": [
+                    "Breads"
+                ]
+            },
+            "flavors": {
+                "piquant": 0.0,
+                "meaty": 0.16666666666666666,
+                "bitter": 0.16666666666666666,
+                "sweet": 0.5,
+                "sour": 0.16666666666666666,
+                "salty": 0.5
+            },
+            "rating": 4
+        },
+        {
+            "imageUrlsBySize": {
+                "90": "http://lh3.ggpht.com/5zQTt-Kc61L4JSyaeCs8h4ZyNKFcHZbEty557U_bKfkUv8DVL0IR088lhFCPPqXYchJwozA-Y0JQMQMl2lLO=s90-c"
+            },
+            "sourceDisplayName": "Food52",
+            "ingredients": [
+                "water",
+                "semolina",
+                "butter",
+                "large eggs",
+                "granulated sugar",
+                "salt",
+                "chopped parsley",
+                "grated nutmeg"
+            ],
+            "id": "Semolina-dumplings-324506",
+            "smallImageUrls": [
+                "http://lh5.ggpht.com/SaggDnqTzv3qhx4a3dAS2p_i-67equ_xOVh4wndy0i41qY9xHPDyOxYRHDSBR-bPAyqUWBrVBQf5cpxMy35UmQ=s90"
+            ],
+            "recipeName": "Semolina Dumplings",
+            "totalTimeInSeconds": 1800,
+            "attributes": {},
+            "flavors": null,
+            "rating": 3
+        },
+        {
+            "imageUrlsBySize": {
+                "90": "http://lh3.googleusercontent.com/yaGaEjcAtq9hSFHSM9xT_D7W2dLd7a4cD1EycGO5oJtZRntgLGI1O-A61OpZZNgbWDfTwwM8mMRK_AWHODODpg=s90-c"
+            },
+            "sourceDisplayName": "Healthy Slow Cooking",
+            "ingredients": [
+                "sliced almonds",
+                "vodka",
+                "water",
+                "sugar",
+                "brandy",
+                "rosewater",
+                "orange",
+                "almond extract",
+                "xanthan gum",
+                "light rum",
+                "dark rum",
+                "fresh lime juice",
+                "orgeat syrup",
+                "orange cura\u00e7ao",
+                "mint sprigs",
+                "cocktail cherries",
+                "lime wedges"
+            ],
+            "id": "Orgeat-Syrup-from-Shake_-Stir_-Pour-1286726",
+            "smallImageUrls": [
+                "http://lh3.googleusercontent.com/UYnr8mTYzN1Hai4nS5uj_gJesX5zQmStMYR3BSglvNOxb5rhR3-i59-bBL2BKCFH6eIxzpm0Ab28tKrxyapitSo=s90"
+            ],
+            "recipeName": "Orgeat Syrup from Shake, Stir, Pour",
+            "totalTimeInSeconds": 1200,
+            "attributes": {},
+            "flavors": null,
+            "rating": 4
+        },
+        {
+            "recipeName": "Chicago-Style Steak With Bleu Cheese Butter",
+            "ingredients": [
+                "sirloin steak",
+                "worcestershire sauce",
+                "soy sauce",
+                "cooking sherry",
+                "red wine vinegar",
+                "butter",
+                "blue cheese",
+                "green onions"
+            ],
+            "totalTimeInSeconds": 1200,
+            "sourceDisplayName": "Food.com",
+            "id": "Chicago-Style-Steak-With-Bleu-Cheese-Butter-Food_com-125744",
+            "rating": 4,
+            "flavors": null,
+            "attributes": {}
+        },
+        {
+            "recipeName": "Rillettes De Porc (Potted Pork)",
+            "ingredients": [
+                "pork belly",
+                "bay leaf",
+                "salt",
+                "ground pepper",
+                "water",
+                "garlic cloves",
+                "dried sage",
+                "dried thyme"
+            ],
+            "totalTimeInSeconds": 13500,
+            "sourceDisplayName": "Food.com",
+            "id": "Rillettes-De-Porc-_Potted-Pork_-Food_com-154961",
+            "rating": 3,
+            "flavors": null,
+            "attributes": {}
+        },
+        {
+            "recipeName": "ZUCCHINI ROLL UP WITH RISOTTO RICE",
+            "ingredients": [
+                "zucchini",
+                "olive oil",
+                "salt",
+                "risotto rice",
+                "vegetable broth",
+                "onions",
+                "white wine",
+                "black pepper",
+                "chopped parsley",
+                "grated parmesan cheese",
+                "beets",
+                "ginger",
+                "cream"
+            ],
+            "totalTimeInSeconds": 3300,
+            "sourceDisplayName": "Daisy's Kitchen",
+            "id": "ZUCCHINI-ROLL-UP-WITH-RISOTTO-RICE-1881878",
+            "rating": 4,
+            "flavors": {
+                "piquant": 0.0,
+                "meaty": 0.16666666666666666,
+                "bitter": 0.16666666666666666,
+                "sweet": 0.16666666666666666,
+                "sour": 0.3333333333333333,
+                "salty": 0.6666666666666666
+            },
+            "attributes": {
+                "course": [
+                    "Side Dishes"
+                ]
+            }
+        },
+        {
+            "recipeName": "Gingerbread House",
+            "ingredients": [
+                "butter",
+                "dark brown sugar",
+                "light molasses",
+                "cinnamon",
+                "ground ginger",
+                "ground cloves",
+                "baking soda",
+                "all-purpose flour",
+                "water",
+                "white chocolate",
+                "gumdrops",
+                "peppermint",
+                "licorice",
+                "powdered sugar",
+                "large egg whites",
+                "almond extract"
+            ],
+            "totalTimeInSeconds": 5400,
+            "sourceDisplayName": "Food Network",
+            "id": "Gingerbread-House-Food-Network-284013",
+            "rating": 5,
+            "flavors": null,
+            "attributes": {}
+        },
+        {
+            "imageUrlsBySize": {
+                "90": "http://lh3.googleusercontent.com/MH5boSl07ODgS80Sgcg09jIiLjfu6c-q0-Qz0CPJRCpPSTmILlKtzfgLEqrpwbdaEMTWRUTTpoba4sde5OmKcA=s90-c"
+            },
+            "sourceDisplayName": "Chefkoch",
+            "ingredients": [
+                "Rindsfilet",
+                "B\u00f6hnchen",
+                "bacon",
+                "Kartoffel",
+                "Zwiebel",
+                "Speck",
+                "Petersile",
+                "Eigelb",
+                "semolina",
+                "Muskat",
+                "Butter",
+                "Schalotte",
+                "Essig",
+                "Wei\u00dfwein",
+                "Nelke",
+                "Lorbeer",
+                "Kerbel",
+                "Salz",
+                "Estragon",
+                "Zucker"
+            ],
+            "id": "Chateaubriand-mit-Speckbohnen_-Macaire---Kartoffeln-und-Sauce-Bearnaise-804171",
+            "smallImageUrls": [
+                "http://lh3.googleusercontent.com/IzlnN73zlg0_46lNtItIyTDwUfDhsny6y-1khMrJIg_RV5tVGGLgNMfIW_iH3mh2fxyGxLG9YxsZiGeVPp2lGg=s90"
+            ],
+            "recipeName": "Chateaubriand mit Speckbohnen, Macaire - Kartoffeln und Sauce Be\u0301arnaise",
+            "totalTimeInSeconds": 3600,
+            "attributes": {},
+            "flavors": null,
+            "rating": 3
+        },
+        {
+            "imageUrlsBySize": {
+                "90": "http://lh3.googleusercontent.com/vxz7nunI6MfPYI-f-IjKswtQQlKeCFXYGXhM9t6yrd2Vn9KgBXd04DHUfRuTE7CQ1-h7RlKTZVM0gJd01YiuGg=s90-c"
+            },
+            "sourceDisplayName": "Chefkoch",
+            "ingredients": [
+                "Lammgigot",
+                "Butter",
+                "Oliven\u00f6l",
+                "Salz",
+                "Pfeffer",
+                "F\u00fcllung",
+                "steinpilze",
+                "Champignon",
+                "Schalotte",
+                "Farce",
+                "H\u00fchnchenbrust",
+                "Wei\u00dfbrot",
+                "Rahm",
+                "Lammfond",
+                "Fleischknochen",
+                "H\u00e4hnchenfl\u00fcgel",
+                "M\u00f6hre",
+                "Kuttelkraut",
+                "Lorbeerbl\u00e4tter",
+                "Knoblaucknolle",
+                "Tomatenkonzentrat",
+                "Wein",
+                "Filoteig",
+                "Eigelb",
+                "Zucker"
+            ],
+            "id": "Lammfilets-im-Blatterteigmantel-mit-einer-Steinpilzfullung-796728",
+            "smallImageUrls": [
+                "http://lh3.googleusercontent.com/ilB7GMF0t7E6nPrO1oAn0NCK-FOgCFWXgRVg8sKPwTZHmhRiu9yLnHihtRSnD_UbZXcDrWHTLTKYs2DzAQRlRg=s90"
+            ],
+            "recipeName": "Lammfilets im Bla\u0308tterteigmantel mit einer Steinpilzfu\u0308llung",
+            "totalTimeInSeconds": 5400,
+            "attributes": {},
+            "flavors": null,
+            "rating": 3
+        },
+        {
+            "imageUrlsBySize": {
+                "90": "http://lh3.googleusercontent.com/o93jsscJYda1jHjgQiFv5STc7zChaOrreQkg0PEFx6so2X1GHIuGqKs30NZXn1SCNYAxVnbKHDJRzqqx-QWfeQ=s90-c"
+            },
+            "sourceDisplayName": "Chefkoch",
+            "ingredients": [
+                "Taube",
+                "Schweinenetz",
+                "Butter",
+                "So\u00dfe",
+                "Oliven\u00f6l",
+                "M\u00f6hre",
+                "Selleriestange",
+                "Lauch",
+                "Schalotte",
+                "Rotwein",
+                "Portwein",
+                "H\u00fchnerfond",
+                "Balsamicoessig",
+                "Orangensaft",
+                "Kuttelkraut",
+                "Nelke",
+                "Wacholderbeeren",
+                "Sternanis",
+                "Pfefferkorn",
+                "Pfeffer",
+                "Farce",
+                "Fleisch",
+                "Rahm",
+                "Ente",
+                "Cognac",
+                "Tr\u00fcffeln",
+                "Eigelb",
+                "Wirsingkopf",
+                "Kartoffel",
+                "Gem\u00fcsesud",
+                "Wasser"
+            ],
+            "id": "Crepinette-von-der-Etouffee-Taubenbrust-auf-geschmortem-Wirsing-mit-Wurzelgemuse-806953",
+            "smallImageUrls": [
+                "http://lh3.googleusercontent.com/mDaeyNoacbrJ1frkPN_kXb_wbhifBszPJ_n4bHOZZM9U2iQFSTsr9-cQbf07zXZcqgVzJgrxWbjvCr--gsk8ij8=s90"
+            ],
+            "recipeName": "Cre\u0301pinette von der E\u0301touffe\u0301e Taubenbrust auf geschmortem Wirsing mit Wurzelgemu\u0308se",
+            "totalTimeInSeconds": 7200,
+            "attributes": {},
+            "flavors": null,
+            "rating": 3
+        }
+    ],
+    "facetCounts": {},
+    "totalMatchCount": 10,
+    "attribution": {
+        "html": "Recipe search powered by <a href='http://www.yummly.co/recipes'><img alt='Yummly' src='https://static.yummly.co/api-logo.png'/></a>",
+        "url": "http://www.yummly.co/recipes/",
+        "text": "Recipe search powered by Yummly",
+        "logo": "https://static.yummly.co/api-logo.png"
+    }
+}

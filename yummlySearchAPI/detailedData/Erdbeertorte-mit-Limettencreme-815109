@@ -1,0 +1,52 @@
+{
+    "yield": "Zutaten:",
+    "nutritionEstimates": [],
+    "totalTime": "1 hr",
+    "images": [
+        {
+            "hostedSmallUrl": "http://lh3.googleusercontent.com/PcbUjAusN9UFCt6Nsdza2eZltD0ocezex9rip_aTpC47PtgZnCdHgjA52u5oGM2upKJk_09JXcb0JQx8mVTd=s90",
+            "hostedMediumUrl": "http://lh3.googleusercontent.com/PcbUjAusN9UFCt6Nsdza2eZltD0ocezex9rip_aTpC47PtgZnCdHgjA52u5oGM2upKJk_09JXcb0JQx8mVTd=s180",
+            "hostedLargeUrl": "http://lh3.googleusercontent.com/PcbUjAusN9UFCt6Nsdza2eZltD0ocezex9rip_aTpC47PtgZnCdHgjA52u5oGM2upKJk_09JXcb0JQx8mVTd=s360",
+            "imageUrlsBySize": {
+                "90": "http://lh3.googleusercontent.com/H3UM6ulmQUfgwHAWtMUJp7EJjM5_Ma6gU_ejlfovJuTFZ_YBz5xqBoXkIlTGIFkJrEE3XnhJubMEsIGbMzMqDA=s90-c",
+                "360": "http://lh3.googleusercontent.com/H3UM6ulmQUfgwHAWtMUJp7EJjM5_Ma6gU_ejlfovJuTFZ_YBz5xqBoXkIlTGIFkJrEE3XnhJubMEsIGbMzMqDA=s360-c"
+            }
+        }
+    ],
+    "name": "Erdbeertorte mit Limettencreme",
+    "source": {
+        "sourceDisplayName": "Lecker",
+        "sourceSiteUrl": "lecker.de",
+        "sourceRecipeUrl": "http://www.lecker.de/rezept/539305/Erdbeertorte-mit-Limettencreme.html"
+    },
+    "id": "Erdbeertorte-mit-Limettencreme-815109",
+    "ingredientLines": [
+        "125 g Butter oder Margarine",
+        "150 g Zucker",
+        "2 P\u00e4ckchen Vanillin-Zucker",
+        "2 Eier (Gr\u00f6\u00dfe M)",
+        "125 g Mehl",
+        "50 g gemahlene Mandeln",
+        "1 TL Backpulver",
+        "2 EL Milch",
+        "5 Blatt wei\u00dfe Gelatine",
+        "2 Limetten",
+        "500 g Magerquark",
+        "250 g Schlagsahne",
+        "500 g Erdbeeren",
+        "4 Pfirsiche",
+        "100 g Aprikosen-Konfit\u00fcre",
+        "Fett und Paniermehl f\u00fcr die Form"
+    ],
+    "attribution": {
+        "html": "<a href='http://www.yummly.co/recipe/Erdbeertorte-mit-Limettencreme-815109'>Erdbeertorte mit Limettencreme recipe</a> information powered by <img alt='Yummly' src='https://static.yummly.co/api-logo.png'/>",
+        "url": "http://www.yummly.co/recipe/Erdbeertorte-mit-Limettencreme-815109",
+        "text": "Erdbeertorte mit Limettencreme recipes: information powered by Yummly",
+        "logo": "https://static.yummly.co/api-logo.png"
+    },
+    "numberOfServings": 4,
+    "totalTimeInSeconds": 3600,
+    "attributes": {},
+    "flavors": {},
+    "rating": 3
+}

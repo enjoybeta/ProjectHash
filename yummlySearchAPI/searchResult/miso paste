@@ -1,0 +1,39 @@
+{
+    "criteria": {
+        "q": "m+i+s+o+ +p+a+s+t+e",
+        "allowedIngredient": null,
+        "excludedIngredient": null
+    },
+    "matches": [
+        {
+            "recipeName": "Mary's Zucchini Bread (There's Non Better)",
+            "ingredients": [
+                "zucchini",
+                "all-purpose flour",
+                "sugar",
+                "canola oil",
+                "pure vanilla extract",
+                "cinnamon",
+                "salt",
+                "baking soda",
+                "ground cloves",
+                "baking powder",
+                "chopped walnuts"
+            ],
+            "totalTimeInSeconds": 4800,
+            "sourceDisplayName": "Food.com",
+            "id": "Mary_s-Zucchini-Bread-_there_s-Non-Better_-Recipezaar",
+            "rating": 4,
+            "flavors": null,
+            "attributes": {}
+        }
+    ],
+    "facetCounts": {},
+    "totalMatchCount": 1,
+    "attribution": {
+        "html": "Recipe search powered by <a href='http://www.yummly.co/recipes'><img alt='Yummly' src='https://static.yummly.co/api-logo.png'/></a>",
+        "url": "http://www.yummly.co/recipes/",
+        "text": "Recipe search powered by Yummly",
+        "logo": "https://static.yummly.co/api-logo.png"
+    }
+}

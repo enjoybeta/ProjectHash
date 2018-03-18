@@ -1,0 +1,48 @@
+{
+    "yield": "Zutaten f\u00fcr 4 Personen:",
+    "nutritionEstimates": [],
+    "totalTime": "25 min",
+    "images": [
+        {
+            "hostedSmallUrl": "http://lh3.googleusercontent.com/TO4fZfI-IqV-OFhwwrGUyMfmc2RHpR5c6bE8QLotmHdfq6Uah0T3uqB3Fw1-sw2RhwMjlYaFwPRjP9nWRLUqsA=s90",
+            "hostedMediumUrl": "http://lh3.googleusercontent.com/TO4fZfI-IqV-OFhwwrGUyMfmc2RHpR5c6bE8QLotmHdfq6Uah0T3uqB3Fw1-sw2RhwMjlYaFwPRjP9nWRLUqsA=s180",
+            "hostedLargeUrl": "http://lh3.googleusercontent.com/TO4fZfI-IqV-OFhwwrGUyMfmc2RHpR5c6bE8QLotmHdfq6Uah0T3uqB3Fw1-sw2RhwMjlYaFwPRjP9nWRLUqsA=s360",
+            "imageUrlsBySize": {
+                "90": "http://lh3.googleusercontent.com/tQYogKzFhZRdB4BNYz-m9agEF6SKc2F_bjflNhRWRwpm0tj8izGLcynXUXDozHwxK1nZNVxhDsw3qOiucXoeAQ=s90-c",
+                "360": "http://lh3.googleusercontent.com/tQYogKzFhZRdB4BNYz-m9agEF6SKc2F_bjflNhRWRwpm0tj8izGLcynXUXDozHwxK1nZNVxhDsw3qOiucXoeAQ=s360-c"
+            }
+        }
+    ],
+    "name": "Obstsalat mit Joghurt-Vanille-So\u00dfe",
+    "source": {
+        "sourceDisplayName": "Lecker",
+        "sourceSiteUrl": "lecker.de",
+        "sourceRecipeUrl": "http://www.lecker.de/rezept/757773/Obstsalat-mit-Joghurt-Vanille-Sosse.html"
+    },
+    "id": "Obstsalat-mit-Joghurt-Vanille-Soe-825335",
+    "ingredientLines": [
+        "1/2 Vanilleschote",
+        "1/4 l Milch",
+        "1 EL Speisest\u00e4rke",
+        "1 Eigelb",
+        "25 g Zucker",
+        "1 Apfel",
+        "150 g Weintrauben",
+        "500 g Pflaumen",
+        "Saft von 2 Zitronen",
+        "2 P\u00e4ckchen Vanillin-Zucker",
+        "150 g Vollmilch-Joghurt",
+        "nach Belieben Zitronenmelisse zum Verzieren"
+    ],
+    "attribution": {
+        "html": "<a href='http://www.yummly.co/recipe/Obstsalat-mit-Joghurt-Vanille-Soe-825335'>Obstsalat mit Joghurt-Vanille-So&szlig;e recipe</a> information powered by <img alt='Yummly' src='https://static.yummly.co/api-logo.png'/>",
+        "url": "http://www.yummly.co/recipe/Obstsalat-mit-Joghurt-Vanille-Soe-825335",
+        "text": "Obstsalat mit Joghurt-Vanille-So&szlig;e recipes: information powered by Yummly",
+        "logo": "https://static.yummly.co/api-logo.png"
+    },
+    "numberOfServings": 4,
+    "totalTimeInSeconds": 1500,
+    "attributes": {},
+    "flavors": {},
+    "rating": 3
+}

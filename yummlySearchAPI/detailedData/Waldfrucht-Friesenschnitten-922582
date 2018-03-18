@@ -1,0 +1,47 @@
+{
+    "yield": "Zutaten f\u00fcr 6 Schnitten:",
+    "nutritionEstimates": [],
+    "totalTime": "1 hr",
+    "images": [
+        {
+            "hostedSmallUrl": "http://lh3.googleusercontent.com/BvJBDTQDwcYbYjEpolLyKmQ2L_A5sIUwo8qFp0_x5bZs-ccKWpG8gYCUA3N3pEE8aPFuMtcEGHrRyaCoNsSX=s90",
+            "hostedMediumUrl": "http://lh3.googleusercontent.com/BvJBDTQDwcYbYjEpolLyKmQ2L_A5sIUwo8qFp0_x5bZs-ccKWpG8gYCUA3N3pEE8aPFuMtcEGHrRyaCoNsSX=s180",
+            "hostedLargeUrl": "http://lh3.googleusercontent.com/BvJBDTQDwcYbYjEpolLyKmQ2L_A5sIUwo8qFp0_x5bZs-ccKWpG8gYCUA3N3pEE8aPFuMtcEGHrRyaCoNsSX=s360",
+            "imageUrlsBySize": {
+                "90": "http://lh3.googleusercontent.com/8b2ymMWjslo5SsD6nYyI73ZHrHn9FriLjCkbf7v5SuiUo5VMCLuXuAdXSewTFF7PZXPfkdFRDO-qUuyQD-fgMw=s90-c",
+                "360": "http://lh3.googleusercontent.com/8b2ymMWjslo5SsD6nYyI73ZHrHn9FriLjCkbf7v5SuiUo5VMCLuXuAdXSewTFF7PZXPfkdFRDO-qUuyQD-fgMw=s360-c"
+            }
+        }
+    ],
+    "name": "Waldfrucht-Friesenschnitten",
+    "source": {
+        "sourceDisplayName": "Lecker",
+        "sourceSiteUrl": "lecker.de",
+        "sourceRecipeUrl": "http://www.lecker.de/rezept/501799/Waldfrucht-Friesenschnitten.html"
+    },
+    "id": "Waldfrucht-Friesenschnitten-922582",
+    "ingredientLines": [
+        "1 Packung (450 g; 6 Scheiben \u00e0 75 g) tiefgefrorener Bl\u00e4tterteig",
+        "1 Eigelb (Gr\u00f6\u00dfe M)",
+        "2 TL Milch",
+        "2 EL Hagelzucker",
+        "500 g Schlagsahne",
+        "2 P\u00e4ckchen So\u00dfenpulver \"Vanillegeschmack\" (f\u00fcr 1/2 l Milch; ohne Kochen)",
+        "12 TL (150 g) Fruchtaufstrich \"Waldbeeren\""
+    ],
+    "attribution": {
+        "html": "<a href='http://www.yummly.co/recipe/Waldfrucht-Friesenschnitten-922582'>Waldfrucht-Friesenschnitten recipe</a> information powered by <img alt='Yummly' src='https://static.yummly.co/api-logo.png'/>",
+        "url": "http://www.yummly.co/recipe/Waldfrucht-Friesenschnitten-922582",
+        "text": "Waldfrucht-Friesenschnitten recipes: information powered by Yummly",
+        "logo": "https://static.yummly.co/api-logo.png"
+    },
+    "numberOfServings": 6,
+    "totalTimeInSeconds": 3600,
+    "attributes": {
+        "course": [
+            "Desserts"
+        ]
+    },
+    "flavors": {},
+    "rating": 3
+}

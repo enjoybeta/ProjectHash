@@ -1,0 +1,44 @@
+{
+    "yield": "Zutaten f\u00fcr ca. 16 St\u00fccke:",
+    "nutritionEstimates": [],
+    "totalTime": "1 hr 15 min",
+    "images": [
+        {
+            "imageUrlsBySize": {
+                "90": "null=s90-c",
+                "360": "null=s360-c"
+            }
+        }
+    ],
+    "name": "Erfrischende Mai-Torte mit Waldmeister-Dickmilch-Creme",
+    "source": {
+        "sourceDisplayName": "Lecker",
+        "sourceSiteUrl": "lecker.de",
+        "sourceRecipeUrl": "http://www.lecker.de/rezept/873904/Erfrischende-Mai-Torte-mit-Waldmeister-Dickmilch-Creme.html"
+    },
+    "id": "Erfrischende-Mai-Torte-mit-Waldmeister-Dickmilch-Creme-926917",
+    "ingredientLines": [
+        "2 Eier (Gr. M), 75 g + 75 g Zucker",
+        "2 P\u00e4ckchen Vanillin-Zucker",
+        "75 g Mehl",
+        "1 TL Backpulver",
+        "12 Blatt wei\u00dfe Gelatine",
+        "500 g Dickmilch",
+        "Saft von 1 Zitrone (ca. 5 EL)",
+        "150 ml + 100 ml Waldmeister-Sirup (a. d. Flasche)",
+        "500 g + 100 g Schlagsahne",
+        "1 P\u00e4ckchen klarer Tortenguss (f\u00fcr 1/4 l Fl\u00fcssigkeit)",
+        "evtl. Mandarinen und Limetten-schale zum Verzieren, Backpapier"
+    ],
+    "attribution": {
+        "html": "<a href='http://www.yummly.co/recipe/Erfrischende-Mai-Torte-mit-Waldmeister-Dickmilch-Creme-926917'>Erfrischende Mai-Torte mit Waldmeister-Dickmilch-Creme recipe</a> information powered by <img alt='Yummly' src='https://static.yummly.co/api-logo.png'/>",
+        "url": "http://www.yummly.co/recipe/Erfrischende-Mai-Torte-mit-Waldmeister-Dickmilch-Creme-926917",
+        "text": "Erfrischende Mai-Torte mit Waldmeister-Dickmilch-Creme recipes: information powered by Yummly",
+        "logo": "https://static.yummly.co/api-logo.png"
+    },
+    "numberOfServings": 16,
+    "totalTimeInSeconds": 4500,
+    "attributes": {},
+    "flavors": {},
+    "rating": 3
+}

@@ -1,0 +1,53 @@
+{
+    "nutritionEstimates": [],
+    "totalTime": "1 hr",
+    "images": [
+        {
+            "hostedSmallUrl": "https://lh3.googleusercontent.com/GUF4EIbYJZ7pyYwNo-kOrF-6V3fAaLPi0Wlyf6bOL3ATJgwGdB7UJGkUeYgIvZObdft6JilHXaDuap_hxOLb=s90",
+            "hostedMediumUrl": "https://lh3.googleusercontent.com/GUF4EIbYJZ7pyYwNo-kOrF-6V3fAaLPi0Wlyf6bOL3ATJgwGdB7UJGkUeYgIvZObdft6JilHXaDuap_hxOLb=s180",
+            "hostedLargeUrl": "https://lh3.googleusercontent.com/GUF4EIbYJZ7pyYwNo-kOrF-6V3fAaLPi0Wlyf6bOL3ATJgwGdB7UJGkUeYgIvZObdft6JilHXaDuap_hxOLb=s360",
+            "imageUrlsBySize": {
+                "90": "https://lh3.googleusercontent.com/5dVXIbYd_bGJ5wjRm-qiykAAW10aM46JPv67YFykR8YaleXaEzxn5SoIxuoslzfK5u-DpIAHPPESG1Tu_yRulQ=s90-c",
+                "360": "https://lh3.googleusercontent.com/5dVXIbYd_bGJ5wjRm-qiykAAW10aM46JPv67YFykR8YaleXaEzxn5SoIxuoslzfK5u-DpIAHPPESG1Tu_yRulQ=s360-c"
+            }
+        }
+    ],
+    "name": "Soft Pretzel Recipe (Gluten-Free, Paleo)",
+    "source": {
+        "sourceDisplayName": "The Mommypotamus",
+        "sourceSiteUrl": "mommypotamus.com",
+        "sourceRecipeUrl": "http://www.mommypotamus.com/soft-pretzel-recipe-gluten-free/"
+    },
+    "id": "Soft-Pretzel-Recipe-_Gluten-Free_-Paleo_-1712013",
+    "ingredientLines": [
+        "10 cups (2.5 L) water",
+        "1 tbsp (15 ml) apple cider vinegar",
+        "1 tbsp (18 g) sea salt",
+        "1 cup (240 ml) warm water (around 110\u00b0F [43\u00b0C])",
+        "1 packet gluten-free quick acting yeast",
+        "1 tbsp (15 ml) 100% maple syrup",
+        "1 pastured egg",
+        "1 cup (128 g) cassava flour",
+        "2 tbsp (18 g) psyllium husk powder",
+        "1 tbsp (12 g) coconut flour",
+        "2 tbsp (30 g) ghee, avocado oil, olive oil or preferred cooking fat",
+        "1 tsp baking soda",
+        "1\u20444 tsp sea salt",
+        "2 tbsp (30 g) coarse sea salt"
+    ],
+    "attribution": {
+        "html": "<a href='http://www.yummly.co/recipe/Soft-Pretzel-Recipe-_Gluten-Free_-Paleo_-1712013'>Soft Pretzel Recipe (Gluten-Free, Paleo) recipe</a> information powered by <img alt='Yummly' src='https://static.yummly.co/api-logo.png'/>",
+        "url": "http://www.yummly.co/recipe/Soft-Pretzel-Recipe-_Gluten-Free_-Paleo_-1712013",
+        "text": "Soft Pretzel Recipe (Gluten-Free, Paleo) recipes: information powered by Yummly",
+        "logo": "https://static.yummly.co/api-logo.png"
+    },
+    "numberOfServings": 4,
+    "totalTimeInSeconds": 3600,
+    "attributes": {
+        "course": [
+            "Breads"
+        ]
+    },
+    "flavors": {},
+    "rating": 3
+}

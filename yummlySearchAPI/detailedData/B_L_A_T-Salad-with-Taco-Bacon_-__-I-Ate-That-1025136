@@ -1,0 +1,48 @@
+{
+    "yield": "Serves 2",
+    "nutritionEstimates": [],
+    "totalTime": "25 min",
+    "images": [
+        {
+            "hostedSmallUrl": "http://lh3.ggpht.com/9CUJ3Fiu0CCbEtxJBzLaYouRUdJKdqIS0LXrTflox9r_LbG5dsNvaHE_EjjIss3TBz1KrciAjD5B0xtYeIP8xQ=s90",
+            "hostedMediumUrl": "http://lh3.ggpht.com/9CUJ3Fiu0CCbEtxJBzLaYouRUdJKdqIS0LXrTflox9r_LbG5dsNvaHE_EjjIss3TBz1KrciAjD5B0xtYeIP8xQ=s180",
+            "hostedLargeUrl": "http://lh3.ggpht.com/9CUJ3Fiu0CCbEtxJBzLaYouRUdJKdqIS0LXrTflox9r_LbG5dsNvaHE_EjjIss3TBz1KrciAjD5B0xtYeIP8xQ=s360",
+            "imageUrlsBySize": {
+                "90": "http://lh5.ggpht.com/xnYOgpUe5GspHafV0Cz5sh5xqpHd7JzNSf1EEilbtKic4YcP5GTUxVbgqdzyRAVWe2yb-Gx06Gqc3qUIwOw8=s90-c",
+                "360": "http://lh5.ggpht.com/xnYOgpUe5GspHafV0Cz5sh5xqpHd7JzNSf1EEilbtKic4YcP5GTUxVbgqdzyRAVWe2yb-Gx06Gqc3qUIwOw8=s360-c"
+            }
+        }
+    ],
+    "name": "B.L.A.T Salad with Taco Bacon! // I Ate That",
+    "source": {
+        "sourceDisplayName": "The Sugar Hit",
+        "sourceSiteUrl": "http://www.thesugarhit.com",
+        "sourceRecipeUrl": "http://www.thesugarhit.com/2015/03/b-l-a-t-salad-with-taco-bacon-recipe.html"
+    },
+    "id": "B_L_A_T-Salad-with-Taco-Bacon_-__-I-Ate-That-1025136",
+    "ingredientLines": [
+        "\u00bd tsp smoked paprika",
+        "\u00bd tsp dried oregano",
+        "\u00bc tsp ground cumin",
+        "2 tsp olive oil",
+        "4 rashers short-cut back bacon",
+        "2 small heads of little gem lettuce",
+        "1 punnet (about 1 cup) cherry tomatoes",
+        "1 ripe avocado",
+        "juice of half a lemon",
+        "2 tbsp olive oil",
+        "salt and pepper",
+        "salt and pepper"
+    ],
+    "attribution": {
+        "html": "<a href='http://www.yummly.co/recipe/B_L_A_T-Salad-with-Taco-Bacon_-__-I-Ate-That-1025136'>B.L.A.T Salad with Taco Bacon! // I Ate That recipe</a> information powered by <img alt='Yummly' src='https://static.yummly.co/api-logo.png'/>",
+        "url": "http://www.yummly.co/recipe/B_L_A_T-Salad-with-Taco-Bacon_-__-I-Ate-That-1025136",
+        "text": "B.L.A.T Salad with Taco Bacon! // I Ate That recipes: information powered by Yummly",
+        "logo": "https://static.yummly.co/api-logo.png"
+    },
+    "numberOfServings": 2,
+    "totalTimeInSeconds": 1500,
+    "attributes": {},
+    "flavors": {},
+    "rating": 4
+}

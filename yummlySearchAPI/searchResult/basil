@@ -1,0 +1,348 @@
+{
+    "criteria": {
+        "q": "b+a+s+i+l",
+        "allowedIngredient": null,
+        "excludedIngredient": null
+    },
+    "matches": [
+        {
+            "imageUrlsBySize": {
+                "90": "http://lh3.googleusercontent.com/J18Lv7tt8J3pN8mrbs-yU-6_I_GKngzOs4FuYf4wf_vEYHeuPKkwYGdYOL44Yoc2zd2HQC2DknpLDUYlOm7YKQ=s90-c"
+            },
+            "sourceDisplayName": "The Endless Meal",
+            "ingredients": [
+                "grape tomatoes",
+                "lettuce",
+                "cooked bacon",
+                "bacon",
+                "egg yolks",
+                "lemon juice",
+                "dijon mustard",
+                "seeds",
+                "chipotles in adobo",
+                "soy sauce",
+                "miso paste",
+                "sugar",
+                "liquid smoke",
+                "salt"
+            ],
+            "id": "Bite-Sized-Appetizers---Mini-B_L_T-Cups-1191592",
+            "smallImageUrls": [
+                "http://lh3.googleusercontent.com/nNI0z8QC41_RKwtevH1mg0s-TlIyFzgear4iPg5yiSMZhLUR21ZFBIM7ue2KinnOWLykHixfzrkmDwImfXrJ_A=s90"
+            ],
+            "recipeName": "Bite Sized Appetizers - Mini B.L.T Cups",
+            "totalTimeInSeconds": 1200,
+            "attributes": {
+                "course": [
+                    "Appetizers"
+                ]
+            },
+            "flavors": {
+                "piquant": 0.8333333333333334,
+                "meaty": 0.16666666666666666,
+                "bitter": 0.6666666666666666,
+                "sweet": 0.16666666666666666,
+                "sour": 0.6666666666666666,
+                "salty": 0.5
+            },
+            "rating": 4
+        },
+        {
+            "imageUrlsBySize": {
+                "90": "http://lh3.googleusercontent.com/pMtE060hNjfdlr5AotMyoHrR8ENf4TXIoIUByCbfJjWfuzV5QlSH0P6bNqEzSEVyFaiyZGf3CIblkmTEAeE=s90-c"
+            },
+            "sourceDisplayName": "Gluten Free With L.B.",
+            "ingredients": [
+                "pineapple chunks",
+                "greek yogurt",
+                "coconut",
+                "coconut milk",
+                "bananas",
+                "honey"
+            ],
+            "id": "Pina-Colada-Smoothie-1105763",
+            "smallImageUrls": [
+                "http://lh3.googleusercontent.com/l-GrIY3Yu0qCqwJ-zGJdWaxktk-bKKJ6Tul1tMMAh1F59_eoODajX_PTkLEj1egMLFayL-lVpnb1M08P60AykQ=s90"
+            ],
+            "recipeName": "Pin\u0303a Colada Smoothie",
+            "totalTimeInSeconds": 300,
+            "attributes": {
+                "course": [
+                    "Beverages"
+                ]
+            },
+            "flavors": {
+                "sweet": 0.6666666666666666,
+                "piquant": 0.0,
+                "sour": 0.8333333333333334,
+                "salty": 0.0,
+                "meaty": 0.16666666666666666,
+                "bitter": 0.16666666666666666
+            },
+            "rating": 4
+        },
+        {
+            "imageUrlsBySize": {
+                "90": "https://lh3.googleusercontent.com/AyQZOwfYVUki5wINDypDrVsF-uf7CQ6L5wHGMGuoL3lVpUtgNH7DQwPsgH6oJrZkWHJEGS1rjdf3Gw7A6-GNRA=s90-c"
+            },
+            "sourceDisplayName": "Cookie Dough and Oven Mitt",
+            "ingredients": [
+                "granulated sugar",
+                "unsweetened cocoa powder",
+                "soy milk",
+                "silken tofu",
+                "caramels",
+                "salt"
+            ],
+            "id": "Chocolate-Ice-Cream-with-Salted-Caramel-2146874",
+            "smallImageUrls": [
+                "https://lh3.googleusercontent.com/26Go4sr67zaRncKsp40yiROl4PchBShI3FObUoD6CqlDXN2FQZfJNPvSNLo59CcJ2DgfhfOCKvoAs-Qd_jcgumY=s90"
+            ],
+            "recipeName": "Chocolate Ice Cream with Salted Caramel",
+            "totalTimeInSeconds": 9900,
+            "attributes": {
+                "course": [
+                    "Desserts"
+                ]
+            },
+            "flavors": {
+                "piquant": 0.0,
+                "meaty": 0.16666666666666666,
+                "bitter": 0.5,
+                "sweet": 0.8333333333333334,
+                "sour": 0.16666666666666666,
+                "salty": 0.3333333333333333
+            },
+            "rating": 4
+        },
+        {
+            "imageUrlsBySize": {
+                "90": "http://lh3.googleusercontent.com/zOqhTs7hL_FPTuz02kmrnxkMivZ03jQkjRvnSFjAW8gEn8hjNyfrwdyXEl1-Q6hIIflH7x6jgPdBWShseXoL=s90-c"
+            },
+            "sourceDisplayName": "Gluten Free With L.B.",
+            "ingredients": [
+                "garbanzo beans",
+                "lemon juice",
+                "tahini",
+                "large garlic cloves",
+                "olive oil",
+                "salt",
+                "cumin",
+                "water"
+            ],
+            "id": "Classic-Hummus-1118869",
+            "smallImageUrls": [
+                "http://lh3.googleusercontent.com/gqE9w-kkegskomPISMgI6QrE34hiMCjiBZ66wm0sQbv6fJ10KT9rmwOsm3mVNZquqZeeNRqg_zxGXVTpuuXz1Q=s90"
+            ],
+            "recipeName": "Classic Hummus",
+            "totalTimeInSeconds": 6000,
+            "attributes": {
+                "course": [
+                    "Appetizers"
+                ]
+            },
+            "flavors": {
+                "piquant": 0.0,
+                "meaty": 0.8333333333333334,
+                "bitter": 0.8333333333333334,
+                "sweet": 0.5,
+                "sour": 0.5,
+                "salty": 0.6666666666666666
+            },
+            "rating": 4
+        },
+        {
+            "imageUrlsBySize": {
+                "90": "http://lh3.googleusercontent.com/S0BOBIguZWVF_q_ETWtIa2-SSfwICUqqFS0gsczOvG-E8WCPKK4Y6j2DkxkKDzy4bW5npCRxQUJw_XhblS-agjA=s90-c"
+            },
+            "sourceDisplayName": "Gluten Free With L.B.",
+            "ingredients": [
+                "onions",
+                "olive oil",
+                "salt",
+                "pepper",
+                "hummus",
+                "tahini",
+                "lemon juice",
+                "onion powder",
+                "cumin",
+                "garlic",
+                "garbanzo beans",
+                "water"
+            ],
+            "id": "Caramelized-Onion-Hummus-1100305",
+            "smallImageUrls": [
+                "http://lh3.googleusercontent.com/JvywSEQ-_xcK3BjqJJN8mmA70K67jbdw8f4mIQOb_F-pcd478C0ZevEfaCLBO0FsLI9GLgYPM_xuofbz8IoR=s90"
+            ],
+            "recipeName": "Caramelized Onion Hummus",
+            "totalTimeInSeconds": 2400,
+            "attributes": {
+                "course": [
+                    "Appetizers"
+                ]
+            },
+            "flavors": null,
+            "rating": 4
+        },
+        {
+            "imageUrlsBySize": {
+                "90": "http://lh5.ggpht.com/xnYOgpUe5GspHafV0Cz5sh5xqpHd7JzNSf1EEilbtKic4YcP5GTUxVbgqdzyRAVWe2yb-Gx06Gqc3qUIwOw8=s90-c"
+            },
+            "sourceDisplayName": "The Sugar Hit",
+            "ingredients": [
+                "smoked paprika",
+                "dried oregano",
+                "ground cumin",
+                "olive oil",
+                "back bacon rashers",
+                "baby gem lettuce",
+                "cherry tomatoes",
+                "avocado",
+                "lemon",
+                "salt",
+                "pepper"
+            ],
+            "id": "B_L_A_T-Salad-with-Taco-Bacon_-__-I-Ate-That-1025136",
+            "smallImageUrls": [
+                "http://lh3.ggpht.com/9CUJ3Fiu0CCbEtxJBzLaYouRUdJKdqIS0LXrTflox9r_LbG5dsNvaHE_EjjIss3TBz1KrciAjD5B0xtYeIP8xQ=s90"
+            ],
+            "recipeName": "B.L.A.T Salad with Taco Bacon! // I Ate That",
+            "totalTimeInSeconds": 1500,
+            "attributes": {},
+            "flavors": null,
+            "rating": 4
+        },
+        {
+            "imageUrlsBySize": {
+                "90": "https://lh3.googleusercontent.com/jGIaZ2RN05Q3LhJhFdCXQOZtVgQMVWR4xU5b1mCuKpLQn8ajfrcALjmG2gEzFtTpOZf_7gNITKqwAVnngbRrjA=s90-c"
+            },
+            "sourceDisplayName": "Whole LIfestyle Nutrition",
+            "ingredients": [
+                "cantaloupe",
+                "greek yogurt",
+                "pure maple syrup",
+                "gelatin",
+                "ice"
+            ],
+            "id": "An-Amazing-Cantaloupe-Smoothie-1773869",
+            "smallImageUrls": [
+                "https://lh3.googleusercontent.com/C5WnkwsIKfnlypplFVNG1QWe4p0Gt7pIXnuZrA-bRK9KL6S1xafnXt3WEhw7y_DcWwdtUN4L27JHxx6F5isF=s90"
+            ],
+            "recipeName": "An Amazing Cantaloupe Smoothie",
+            "totalTimeInSeconds": 300,
+            "attributes": {
+                "course": [
+                    "Beverages"
+                ]
+            },
+            "flavors": {
+                "piquant": 0.0,
+                "meaty": 0.16666666666666666,
+                "bitter": 0.3333333333333333,
+                "sweet": 0.6666666666666666,
+                "sour": 0.8333333333333334,
+                "salty": 0.16666666666666666
+            },
+            "rating": 4
+        },
+        {
+            "imageUrlsBySize": {
+                "90": "https://lh3.googleusercontent.com/MSNgN7s8kgVameNlbVabe0e5BDf7x-9HNBFOWKxHLk4Hhl5130KN4an7iRzor0oc2aVA0mVn5v3aG5e3wge_Xg=s90-c"
+            },
+            "sourceDisplayName": "I Should Be Mopping the Floor",
+            "ingredients": [
+                "sandwiches",
+                "cool whip",
+                "caramel ice cream topping",
+                "ice cream"
+            ],
+            "id": "10-Minute-Layered-Ice-Cream-Cake-_easydessert-1914028",
+            "smallImageUrls": [
+                "https://lh3.googleusercontent.com/t9uQksw-8vAc7i8sB2RiuybQLR-JYEt-LA3HgZHHsVITAFLuQplS9aJpBCa39DNiyLt7xsgn9JF4cnfNifgWMg=s90"
+            ],
+            "recipeName": "10-Minute Layered Ice Cream Cake #easydessert",
+            "totalTimeInSeconds": 1500,
+            "attributes": {
+                "course": [
+                    "Desserts"
+                ]
+            },
+            "flavors": null,
+            "rating": 4
+        },
+        {
+            "imageUrlsBySize": {
+                "90": "https://lh3.googleusercontent.com/Ssw9vaFuaixOPz4164z7OpMuPB-L_T3ZDREzcqsS3IkiIwaMPQjsIiRBY1-FrIgMjQ6IjlRjRm9QHG1HyDGrYg=s90-c"
+            },
+            "sourceDisplayName": "WHAT the HECK do I eat NOW",
+            "ingredients": [
+                "coconut 'bacon'",
+                "unsweetened shredded dried coconut",
+                "tamari soy sauce",
+                "liquid smoke",
+                "maple syrup",
+                "salt",
+                "mayonnaise",
+                "bread",
+                "sliced tomatoes",
+                "lettuce"
+            ],
+            "id": "Coconut-Bacon-B_L_T_-1907829",
+            "smallImageUrls": [
+                "https://lh3.googleusercontent.com/nwXNN3TqhjJoet8yy7y6vK02kV8dF7GD1mnJL1YXzZCtM3-IYo-lhvwu0yjaDjsMkIjGUZdkr4bLN6sYKdVEIlY=s90"
+            ],
+            "recipeName": "Coconut Bacon B.L.T.",
+            "totalTimeInSeconds": 2100,
+            "attributes": {
+                "course": [
+                    "Lunch"
+                ]
+            },
+            "flavors": {
+                "sour": 0.16666666666666666,
+                "salty": 0.8333333333333334,
+                "piquant": 0.0,
+                "meaty": 0.16666666666666666,
+                "bitter": 0.8333333333333334,
+                "sweet": 0.8333333333333334
+            },
+            "rating": 3
+        },
+        {
+            "imageUrlsBySize": {
+                "90": "https://lh3.googleusercontent.com/apvnlcM_cyIUBSNG8u9jWFCIs_b2VrXAW76ukkYteN4ZrMvtI9ueX_ox0AptyKwc79ZUm7YfrpYeOuaOmwPK=s90-c"
+            },
+            "sourceDisplayName": "All She Cooks",
+            "ingredients": [
+                "ground beef",
+                "Italian style breadcrumbs",
+                "eggs",
+                "A1 steak sauce",
+                "garlic powder",
+                "onion powder",
+                "pepper"
+            ],
+            "id": "Best-Meatloaf-1817100",
+            "smallImageUrls": [
+                "https://lh3.googleusercontent.com/_1zqm7oghauoibkmwRIlCaFmja0pvDCeJThWMnnwq7U-HlMbx0apRSfM_kG3XKad2P61ZqGTMtuj1zwHUaQ4=s90"
+            ],
+            "recipeName": "Best Meatloaf",
+            "totalTimeInSeconds": 3000,
+            "attributes": {
+                "course": [
+                    "Main Dishes"
+                ]
+            },
+            "flavors": null,
+            "rating": 4
+        }
+    ],
+    "facetCounts": {},
+    "totalMatchCount": 176,
+    "attribution": {
+        "html": "Recipe search powered by <a href='http://www.yummly.co/recipes'><img alt='Yummly' src='https://static.yummly.co/api-logo.png'/></a>",
+        "url": "http://www.yummly.co/recipes/",
+        "text": "Recipe search powered by Yummly",
+        "logo": "https://static.yummly.co/api-logo.png"
+    }
+}

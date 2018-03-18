@@ -1,0 +1,48 @@
+{
+    "nutritionEstimates": [],
+    "totalTime": "40 min",
+    "images": [
+        {
+            "hostedSmallUrl": "https://lh3.googleusercontent.com/S4y8711Zlt5EgVL8YBi_MXSKJsiBieeprivR4qb8bA3kpMo2F52Mq4WXTLdXGHRSQYQ8VWCEQcFYj_0sRdcZu3M=s90",
+            "hostedMediumUrl": "https://lh3.googleusercontent.com/S4y8711Zlt5EgVL8YBi_MXSKJsiBieeprivR4qb8bA3kpMo2F52Mq4WXTLdXGHRSQYQ8VWCEQcFYj_0sRdcZu3M=s180",
+            "hostedLargeUrl": "https://lh3.googleusercontent.com/S4y8711Zlt5EgVL8YBi_MXSKJsiBieeprivR4qb8bA3kpMo2F52Mq4WXTLdXGHRSQYQ8VWCEQcFYj_0sRdcZu3M=s360",
+            "imageUrlsBySize": {
+                "90": "https://lh3.googleusercontent.com/Ao2Ekgz5ackBdqiQo60YG5420OYVHU_UXO29fF492BIZMAyVg8yA-KHbV8nijmY5L1LArUfIO6zajYKXLYcE=s90-c",
+                "360": "https://lh3.googleusercontent.com/Ao2Ekgz5ackBdqiQo60YG5420OYVHU_UXO29fF492BIZMAyVg8yA-KHbV8nijmY5L1LArUfIO6zajYKXLYcE=s360-c"
+            }
+        }
+    ],
+    "name": "Orange-Infused Mashed Sweet Potatoes",
+    "source": {
+        "sourceDisplayName": "Carla Azevedo",
+        "sourceSiteUrl": "carlaazevedocooking.wordpress.com",
+        "sourceRecipeUrl": "https://carlaazevedocooking.wordpress.com/2016/02/25/sweet-potatoes-mashed-or-fried/"
+    },
+    "id": "Orange-Infused-Mashed-Sweet-Potatoes-1792947",
+    "ingredientLines": [
+        "2 1/2 lb (1.25 kG) sweet potatoes (about 3), peeled and cut into 2-inch (5 cm) chunks",
+        "2 Tbsp (30 mL) butter",
+        "1 Tbsp (15 mL)  orange zest",
+        "1/2 tsp (2 mL) fine salt",
+        "1/4 cup (60 mL) orange juice",
+        "2 Tbsp (30 mL) whole milk",
+        "Fine salt and coarsely ground black pepper, to taste",
+        "Fine salt and coarsely ground black pepper, to taste",
+        "2 Tbsp (30 mL) finely chopped fresh parsley"
+    ],
+    "attribution": {
+        "html": "<a href='http://www.yummly.co/recipe/Orange-Infused-Mashed-Sweet-Potatoes-1792947'>Orange-Infused Mashed Sweet Potatoes recipe</a> information powered by <img alt='Yummly' src='https://static.yummly.co/api-logo.png'/>",
+        "url": "http://www.yummly.co/recipe/Orange-Infused-Mashed-Sweet-Potatoes-1792947",
+        "text": "Orange-Infused Mashed Sweet Potatoes recipes: information powered by Yummly",
+        "logo": "https://static.yummly.co/api-logo.png"
+    },
+    "numberOfServings": 4,
+    "totalTimeInSeconds": 2400,
+    "attributes": {
+        "course": [
+            "Side Dishes"
+        ]
+    },
+    "flavors": {},
+    "rating": 4
+}

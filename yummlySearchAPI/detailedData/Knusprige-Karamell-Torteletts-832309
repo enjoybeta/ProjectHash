@@ -1,0 +1,48 @@
+{
+    "yield": "Zutaten f\u00fcr 6 St\u00fcck:",
+    "nutritionEstimates": [],
+    "totalTime": "1 hr 30 min",
+    "images": [
+        {
+            "hostedSmallUrl": "http://lh3.googleusercontent.com/5TPxI2fJYiJGSZk5Ff8aGpVEjtPGGEN1-cDutJw0NXYJFuuMJGi8VzYT4tP8CLLv-bzxtpn0OkJLCtRj-Bq2=s90",
+            "hostedMediumUrl": "http://lh3.googleusercontent.com/5TPxI2fJYiJGSZk5Ff8aGpVEjtPGGEN1-cDutJw0NXYJFuuMJGi8VzYT4tP8CLLv-bzxtpn0OkJLCtRj-Bq2=s180",
+            "hostedLargeUrl": "http://lh3.googleusercontent.com/5TPxI2fJYiJGSZk5Ff8aGpVEjtPGGEN1-cDutJw0NXYJFuuMJGi8VzYT4tP8CLLv-bzxtpn0OkJLCtRj-Bq2=s360",
+            "imageUrlsBySize": {
+                "90": "http://lh3.googleusercontent.com/jeaM-jd69GtGaj3MhYdM9NFsTdH3eheFfxxy9Pxr0oi02-VyIrxCIORGiV_xS-00XSp1wFt1P3bxAGeE__DYww=s90-c",
+                "360": "http://lh3.googleusercontent.com/jeaM-jd69GtGaj3MhYdM9NFsTdH3eheFfxxy9Pxr0oi02-VyIrxCIORGiV_xS-00XSp1wFt1P3bxAGeE__DYww=s360-c"
+            }
+        }
+    ],
+    "name": "Knusprige Karamell-Torteletts",
+    "source": {
+        "sourceDisplayName": "Lecker",
+        "sourceSiteUrl": "lecker.de",
+        "sourceRecipeUrl": "http://www.lecker.de/rezept/891833/Knusprige-Karamell-Torteletts.html"
+    },
+    "id": "Knusprige-Karamell-Torteletts-832309",
+    "ingredientLines": [
+        "Fett u. Paniermehl f\u00fcr d. F\u00f6rmchen",
+        "2 Eier (Gr. M), 150 g + etwas Mehl",
+        "50 g + 1 geh. EL (20 g) Zucker",
+        "2 P\u00e4ckchen Vanillin-Zucker, Salz",
+        "100 g kalte Butter",
+        "1 Glas (370 ml) Kirschen",
+        "1 leicht geh. EL (10 g) Speisest\u00e4rke",
+        "3 EL Milch",
+        "1/2 P\u00e4ckchen Puddingpulver \"Karamell\" (zum Kochen; f\u00fcr 1/2 l Milch)",
+        "125 g Schmand od. Cr\u00e8me fra\u00eeche",
+        "100 g Schlagsahne",
+        "Puderzucker zum Best\u00e4uben"
+    ],
+    "attribution": {
+        "html": "<a href='http://www.yummly.co/recipe/Knusprige-Karamell-Torteletts-832309'>Knusprige Karamell-Torteletts recipe</a> information powered by <img alt='Yummly' src='https://static.yummly.co/api-logo.png'/>",
+        "url": "http://www.yummly.co/recipe/Knusprige-Karamell-Torteletts-832309",
+        "text": "Knusprige Karamell-Torteletts recipes: information powered by Yummly",
+        "logo": "https://static.yummly.co/api-logo.png"
+    },
+    "numberOfServings": 6,
+    "totalTimeInSeconds": 5400,
+    "attributes": {},
+    "flavors": {},
+    "rating": 3
+}

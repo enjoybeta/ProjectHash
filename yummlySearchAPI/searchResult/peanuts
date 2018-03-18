@@ -1,0 +1,83 @@
+{
+    "criteria": {
+        "q": "p+e+a+n+u+t+s",
+        "allowedIngredient": null,
+        "excludedIngredient": null
+    },
+    "matches": [
+        {
+            "imageUrlsBySize": {
+                "90": "https://lh3.googleusercontent.com/i8-0eq3hNQVokT9ItuKISPmoxipBKAtB8BrAECwUSTYkwRnvQG9sMnwsyDT-JG9EtlFv3gAxtqEF2WrQ0bl52S0=s90-c"
+            },
+            "sourceDisplayName": "A Spicy Perspective",
+            "ingredients": [
+                "warm water",
+                "sugar",
+                "active dry yeast",
+                "salt",
+                "all-purpose flour",
+                "melted butter",
+                "diced apples",
+                "cinnamon",
+                "nutmeg",
+                "water",
+                "baking soda",
+                "egg yolks",
+                "dulce de leche",
+                "sea salt"
+            ],
+            "id": "Caramel-Apple-Soft-Pretzel-1636887",
+            "smallImageUrls": [
+                "https://lh3.googleusercontent.com/Aay5K7qk_lJx-OKHcdFEaDKA-LuT39yTBtZRTjhbIJINhKYHoyKU5BCa8blD-pd1TJCxwwqxiXW75uIvH5t9Ir8=s90"
+            ],
+            "recipeName": "Caramel Apple Soft Pretzel",
+            "totalTimeInSeconds": 3720,
+            "attributes": {},
+            "flavors": null,
+            "rating": 4
+        },
+        {
+            "imageUrlsBySize": {
+                "90": "https://lh3.googleusercontent.com/0c1WLltsh8SF3I4t-yWoWKOhEnDzWs8Dzk-L_mNT-qTTxa9v0tRk75U8tVdQH69pZK-30MgzJ5Wk68o7WK-S9A=s90-c"
+            },
+            "sourceDisplayName": "A Spicy Perspective",
+            "ingredients": [
+                "warm water",
+                "sugar",
+                "active dry yeast",
+                "salt",
+                "all-purpose flour",
+                "melted butter",
+                "diced apples",
+                "cinnamon",
+                "nutmeg",
+                "water",
+                "baking soda",
+                "egg yolks",
+                "dulce de leche",
+                "sea salt"
+            ],
+            "id": "Caramel-Apple-Soft-Pretzel-1336978",
+            "smallImageUrls": [
+                "http://lh3.googleusercontent.com/XkBY19v1kQF5MDB91ATswJaqsAYpM7_RFpyqCYUTEETq5Gebo_-kK7y0HyoGQxfPCiS-KfSuaCXR1XwRs1sSTA=s90"
+            ],
+            "recipeName": "Caramel Apple Soft Pretzel",
+            "totalTimeInSeconds": 3720,
+            "attributes": {
+                "course": [
+                    "Desserts"
+                ]
+            },
+            "flavors": null,
+            "rating": 4
+        }
+    ],
+    "facetCounts": {},
+    "totalMatchCount": 2,
+    "attribution": {
+        "html": "Recipe search powered by <a href='http://www.yummly.co/recipes'><img alt='Yummly' src='https://static.yummly.co/api-logo.png'/></a>",
+        "url": "http://www.yummly.co/recipes/",
+        "text": "Recipe search powered by Yummly",
+        "logo": "https://static.yummly.co/api-logo.png"
+    }
+}

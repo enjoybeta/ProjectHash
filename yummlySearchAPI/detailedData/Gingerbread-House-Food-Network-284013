@@ -1,0 +1,54 @@
+{
+    "yield": "One recipe of dough makes one",
+    "nutritionEstimates": [],
+    "prepTimeInSeconds": 4500,
+    "totalTime": "1 hr 30 min",
+    "images": [
+        {
+            "imageUrlsBySize": {
+                "90": "null=s90-c",
+                "360": "null=s360-c"
+            }
+        }
+    ],
+    "name": "Gingerbread House",
+    "source": {
+        "sourceDisplayName": "Food Network",
+        "sourceSiteUrl": "http://www.foodnetwork.com",
+        "sourceRecipeUrl": "http://www.foodnetwork.com/recipes/gingerbread-house-recipe-1963254"
+    },
+    "prepTime": "1 Hr 15 Min",
+    "id": "Gingerbread-House-Food-Network-284013",
+    "ingredientLines": [
+        "1/2 cup (1 stick) butter, at room temperature",
+        "1/2 cup dark brown sugar",
+        "1/4 cup light molasses or dark corn syrup",
+        "1 tablespoon cinnamon",
+        "1 tablespoon ground ginger",
+        "1 1/2 teaspoons ground cloves",
+        "1 teaspoon baking soda",
+        "2 cups all-purpose flour",
+        "2 tablespoons water",
+        "Melted white chocolate or Royal Icing (recipe follows)",
+        "Gumdrops, licorice and peppermint, as desired",
+        "Gumdrops, licorice and peppermint, as desired",
+        "Gumdrops, licorice and peppermint, as desired",
+        "1 pound (3-3/4 cups) powdered sugar, sifted if lumpy",
+        "1 to 2 large egg whites, or substitute 4 teaspoons packaged egg whites and 1/4 cup water",
+        "1 to 2 large egg whites, or substitute 4 teaspoons packaged egg whites and 1/4 cup water",
+        "1 teaspoon almond extract, vanilla or lemon juice"
+    ],
+    "cookTime": "15 Min",
+    "attribution": {
+        "html": "<a href='http://www.yummly.co/recipe/Gingerbread-House-Food-Network-284013'>Gingerbread House recipe</a> information powered by <img alt='Yummly' src='https://static.yummly.co/api-logo.png'/>",
+        "url": "http://www.yummly.co/recipe/Gingerbread-House-Food-Network-284013",
+        "text": "Gingerbread House recipes: information powered by Yummly",
+        "logo": "https://static.yummly.co/api-logo.png"
+    },
+    "numberOfServings": 1,
+    "totalTimeInSeconds": 5400,
+    "attributes": {},
+    "cookTimeInSeconds": 900,
+    "flavors": {},
+    "rating": 5
+}

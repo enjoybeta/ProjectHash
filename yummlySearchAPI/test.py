@@ -1,6 +1,7 @@
-import urllib.request, urllib.parse, json, collections, os
+import urllib.request, urllib.parse, json, collections, os, time
 
 debug = True
+retryLimit = 20
 
 class YummlySearch:
     def __init__(self, appId_, appKey_):
@@ -59,7 +60,20 @@ def BFS(searchAPI, startIngredient, resultFoler, searchResultFolder, recipeCount
         visitedIngredient.add(top)
         if (debug):
             print('Expanding ' + top + ' as search keyword')
-        searchResult = searchAPI.getResult(searchAPI.generateSearchRequest(top))
+        searchResult = None
+        retryCount = 0
+        while (retryCount < retryLimit):
+            try:
+                searchResult = searchAPI.getResult(searchAPI.generateSearchRequest(top))
+            except urllib.error.HTTPError:
+                retryCount += 1
+                if (debug):
+                    print('Fail to expand this node, retry after 5 seconds')
+                time.sleep(5)
+                continue
+            break
+        if (searchResult == None):
+            raise RuntimeError('Retry Limitation reached')
         saveJsonToFile(searchResult, '.' + os.sep + searchResultFolder + os.sep + top)
         ids = getIdsFromSearchResult(searchResult)
         for i in ids:
@@ -67,7 +81,20 @@ def BFS(searchAPI, startIngredient, resultFoler, searchResultFolder, recipeCount
                 continue
             print('Trying to save information about id: ' + i)
             recipeCounter += 1
-            recipeDetail = searchAPI.getResult(searchAPI.generateRecipeDetailRequest(i))
+            retryCount = 0
+            recipeDetail = None
+            while (retryCount < retryLimit):
+                try:
+                    recipeDetail = searchAPI.getResult(searchAPI.generateRecipeDetailRequest(i))
+                except urllib.error.HTTPError:
+                    retryCount += 1
+                    if (debug):
+                        print('Fail to save this node, retry after 5 seconds')
+                    time.sleep(5)
+                    continue
+                break
+            if (recipeDetail == None):
+                raise RuntimeError('Retry Limitation reached')
             saveJsonToFile(recipeDetail, '.' + os.sep + resultFoler + os.sep + i)
             visitedId.add(i)
         ingredients = getIngredientFromSearchResult(searchResult)
@@ -78,4 +105,4 @@ if __name__ == '__main__':
     appId = '4a4d16bf'
     appKey = 'c60f961fefede4811a9f5e9709cb6829'
     search = YummlySearch(appId, appKey)
-    BFS(search, 'salt', 'detailedData', 'searchResult', 10)
+    BFS(search, 'salt', 'detailedData', 'searchResult', 1000)
