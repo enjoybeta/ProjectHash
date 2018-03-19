@@ -14,8 +14,8 @@ class Fragment3 : Fragment() {
     private var dataFile: FileManager? = null
     private var host: FragmentTabHost? = null
 
-    override fun onCreateView(inflater: LayoutInflater?, container: ViewGroup?, savedInstanceState: Bundle?): View? {
-        return inflater!!.inflate(R.layout.fragment3, container, false)
+    override fun onCreateView(inflater: LayoutInflater, container: ViewGroup?, savedInstanceState: Bundle?): View? {
+        return inflater.inflate(R.layout.fragment3, container, false)
     }
 
 //        dataFile = FileManager(context.filesDir,"ingredients.dat")

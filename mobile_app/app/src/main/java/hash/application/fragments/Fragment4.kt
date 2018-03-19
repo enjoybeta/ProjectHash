@@ -17,8 +17,8 @@ import kotlinx.android.synthetic.main.fragment4.*
 class Fragment4 : Fragment() {
     private var dataFile: FileManager? = null
 
-    override fun onCreateView(inflater: LayoutInflater?, container: ViewGroup?, savedInstanceState: Bundle?): View? {
-        return inflater!!.inflate(R.layout.fragment4, container, false)
+    override fun onCreateView(inflater: LayoutInflater, container: ViewGroup?, savedInstanceState: Bundle?): View? {
+        return inflater.inflate(R.layout.fragment4, container, false)
     }
 
     override fun onStart() {
@@ -34,7 +34,7 @@ class Fragment4 : Fragment() {
     }
 
     private fun readFavoriteFile(): ArrayList<String> {
-        dataFile = FileManager(context.filesDir, "favorites.dat")
+        dataFile = FileManager(context!!.filesDir, "favorites.dat")
         if (!dataFile!!.checkFile()) {
             dataFile!!.proofFile()
             return ArrayList()

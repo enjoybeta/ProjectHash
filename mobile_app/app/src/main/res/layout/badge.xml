@@ -12,7 +12,6 @@
         android:layout_marginTop="2dp"
         android:background="@drawable/notification_badge"
         android:gravity="center"
-        android:text="@string/notification_badge"
         android:textColor="@android:color/white"
         android:textSize="12sp" />
 </FrameLayout>
