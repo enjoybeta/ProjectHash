@@ -9,23 +9,27 @@ def guidance():
     
 @app.route("/today1")
 def today1():
-    with open ("../Database/return.json", "r") as myfile:
+    with open ("../Database/examples/1.json", "r") as myfile:
         data=myfile.readline()
     return data
     
 @app.route("/today2")
 def today2():
-    with open ("../Database/return2.json", "r") as myfile:
+    with open ("../Database/examples/2.json", "r") as myfile:
         data=myfile.readline()
     return data
     
 @app.route("/today3")
 def today3():
-    return "today3"
+    with open ("../Database/examples/3.json", "r") as myfile:
+        data=myfile.readline()
+    return data
     
 @app.route("/today4")
 def today4():
-    return "today4"
+    with open ("../Database/examples/4.json", "r") as myfile:
+        data=myfile.readline()
+    return data
     
 @app.route('/search', methods=['POST', 'GET'])
 def search_data():
