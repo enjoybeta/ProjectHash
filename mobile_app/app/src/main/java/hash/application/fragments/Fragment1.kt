@@ -25,38 +25,56 @@ class Fragment1 : Fragment() {
     override fun onStart() {
         super.onStart()
 
-        retrievePhoto()
+        setupTodaySuggestion()
         provideSearch()
-
-        imageView1.setOnClickListener({
-            Toast.makeText(context, "clicked on image1", Toast.LENGTH_SHORT).show()
-            val intent = Intent(context, ViewDish::class.java)
-            startActivity(intent)
-        })
     }
 
-    private fun retrievePhoto() {
+    private fun setupTodaySuggestion() {
         val wm = WebManager()
         var recipe1 : Recipe? = null
         var recipe2 : Recipe? = null
-        //var recipe3 : Recipe? = null//TODO
-        //var recipe4 : Recipe? = null
+        var recipe3 : Recipe? = null
+        var recipe4 : Recipe? = null
         val webThread = Thread(Runnable {
             val dataStr1 : String = wm.getToday1()
             val dataStr2 : String = wm.getToday2()
-            //val dataStr3 : String = wm.getToday3()
-            //val dataStr4 : String = wm.getToday4()
+            val dataStr3 : String = wm.getToday3()
+            val dataStr4 : String = wm.getToday4()
             recipe1 = Gson().fromJson(dataStr1, Recipe::class.java)
             recipe2 = Gson().fromJson(dataStr2, Recipe::class.java)
-            //recipe3 = Gson().fromJson(dataStr3, Recipe::class.java)
-            //recipe4 = Gson().fromJson(dataStr4, Recipe::class.java)
+            recipe3 = Gson().fromJson(dataStr3, Recipe::class.java)
+            recipe4 = Gson().fromJson(dataStr4, Recipe::class.java)
         })
         webThread.start()
         webThread.join()
-        Picasso.with(activity).load(recipe1!!.imageURL).into(imageView1)
-        Picasso.with(activity).load(recipe2!!.imageURL).into(imageView2)
-        Picasso.with(activity).load("https://cdn.shopify.com/s/files/1/1190/4748/t/10/assets/logo.png").into(imageView3)
-        Picasso.with(activity).load(R.drawable.image_item4).into(imageView4)
+        Picasso.with(activity).load(recipe1!!.imageURLs).into(imageView1)
+        Picasso.with(activity).load(recipe2!!.imageURLs).into(imageView2)
+        Picasso.with(activity).load(recipe3!!.imageURLs).into(imageView3)
+        Picasso.with(activity).load(recipe4!!.imageURLs).into(imageView4)
+        imageView1.setOnClickListener({
+            val intent = Intent(context, ViewDish::class.java)
+            val bundle = getRecipeBundle(recipe1!!)
+            intent.putExtra("data",bundle)
+            startActivity(intent)
+        })
+        imageView2.setOnClickListener({
+            val intent = Intent(context, ViewDish::class.java)
+            val bundle = getRecipeBundle(recipe2!!)
+            intent.putExtra("data",bundle)
+            startActivity(intent)
+        })
+        imageView3.setOnClickListener({
+            val intent = Intent(context, ViewDish::class.java)
+            val bundle = getRecipeBundle(recipe3!!)
+            intent.putExtra("data",bundle)
+            startActivity(intent)
+        })
+        imageView4.setOnClickListener({
+            val intent = Intent(context, ViewDish::class.java)
+            val bundle = getRecipeBundle(recipe4!!)
+            intent.putExtra("data",bundle)
+            startActivity(intent)
+        })
     }
 
     private fun provideSearch() {
@@ -80,5 +98,17 @@ class Fragment1 : Fragment() {
         })
     }
 
+    private fun getRecipeBundle(recipe: Recipe) : Bundle{
+        val bundle = Bundle()
+        bundle.putString("name", recipe!!.name)
+        bundle.putString("id", recipe!!.id)
+        bundle.putInt("totaltime", recipe!!.totaltime)
+        bundle.putString("imageURLs", recipe!!.imageURLs)
+        bundle.putInt("numberofserving", recipe!!.numberofserving)
+        bundle.putString("flavor", recipe!!.flavor)
+        bundle.putString("instructionurl", recipe!!.instructionurl)
+        bundle.putStringArrayList("ingredientLines", recipe!!.ingredientLines)
+        return bundle
+    }
 }
 
