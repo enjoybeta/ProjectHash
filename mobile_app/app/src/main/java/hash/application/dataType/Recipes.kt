@@ -19,16 +19,5 @@ class Recipes {
     fun resetRecipes(){
         //TODO
     }
-
-    data class Recipe(
-            val name: String,
-            val id: String,
-            val totaltime: Int,
-            val imageURL: String,
-            val numberofserving: Int,
-            val flavor: String,
-            val instructionurl: String,
-            val ingredient: ArrayList<String>
-    )
 }
 
