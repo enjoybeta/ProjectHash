@@ -2,6 +2,7 @@ package hash.application.fragments
 
 import android.os.Bundle
 import android.support.v4.app.Fragment
+import android.util.Log
 import android.view.LayoutInflater
 import android.view.View
 import android.view.ViewGroup
@@ -25,7 +26,7 @@ class Fragment4 : Fragment() {
         val values: ArrayList<String> = readFavoriteFile()
         val adapter = ArrayAdapter<String>(context,
                 android.R.layout.simple_list_item_2, android.R.id.text1, values)
-        if (values.isEmpty()){
+        if (values.isEmpty()) {
             Toast.makeText(context, "No data stored", Toast.LENGTH_LONG).show()
         }
         list.adapter = adapter// Assign adapter to ListView
@@ -40,8 +41,9 @@ class Fragment4 : Fragment() {
             return ArrayList()
         }
         val rawString = dataFile!!.readFile()
-        var favorites = Gson().fromJson(rawString, Favorites.DishList::class.java)
-        if (favorites.dishes == null) {//catch parsing failure
+        val favorites = Gson().fromJson(rawString, Recipes::class.java)
+        if (favorites.dishes == null) {//catch parsing failure, dishes could be null
+            Log.e("log_fragment4", "favorites.dish == null")
             return ArrayList()
         }
         val tmp: ArrayList<String> = ArrayList()

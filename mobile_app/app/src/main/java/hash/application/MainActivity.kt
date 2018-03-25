@@ -1,10 +1,9 @@
-package com.hash.application
+package hash.application
 
 import android.support.v7.app.AppCompatActivity
 import android.os.Bundle
 import android.support.v4.app.Fragment
 import hash.application.fragments.Fragment3
-import hash.application.R
 import hash.application.fragments.*
 import hash.application.helpers.BottomNavigationViewHelper
 import kotlinx.android.synthetic.main.activity_main.*
