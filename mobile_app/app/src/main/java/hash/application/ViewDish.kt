@@ -5,11 +5,11 @@ import android.app.Activity;
 import android.content.Intent
 import android.net.Uri
 import android.util.Log
-import android.view.MotionEvent
-import android.view.View
 import android.widget.Toast
 import com.squareup.picasso.Picasso
-import kotlinx.android.synthetic.main.dish.*
+import hash.application.dataType.Recipe
+import hash.application.helpers.FavoriteManager
+import kotlinx.android.synthetic.main.activity_viewdish.*
 
 /**
  * Created by gouji on 3/1/2018.
@@ -17,24 +17,15 @@ import kotlinx.android.synthetic.main.dish.*
 class ViewDish : Activity() {
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
-        setContentView(R.layout.dish)
-        var fav_state = false
-        favView.setOnClickListener {
-            fav_state = if (fav_state) {
-                favView.setImageDrawable(resources.getDrawable(R.drawable.ic_favorite_border_black_24dp))
-                false
-            } else {
-                favView.setImageDrawable(resources.getDrawable(R.drawable.ic_favorite_red_24dp))
-                true
-            }
-        }
-
+        setContentView(R.layout.activity_viewdish)
         val bundle: Bundle = intent.getBundleExtra("data")
         if (bundle.isEmpty) {
             Toast.makeText(this, "Failed to find the recipe", Toast.LENGTH_SHORT).show()
             Log.e("log_viewDish", "bundle is empty")
             finish()
         }
+
+        //setup image and data
         try {
             Picasso.with(this).load(bundle.getString("imageURLs")).into(dishImage)
             textView1.text = bundle.getString("name")
@@ -54,6 +45,36 @@ class ViewDish : Activity() {
             Log.e("log_viewDish", e.toString())
         }
 
+        //setup the favorite button
+        var favState: Boolean = FavoriteManager.findRecipeById(bundle.getString("id"))
+        if (favState) {
+            favView.setImageDrawable(resources.getDrawable(R.drawable.ic_favorite_red_24dp))
+        } else {
+            favView.setImageDrawable(resources.getDrawable(R.drawable.ic_favorite_border_black_24dp))
+        }
+        favView.setOnClickListener {
+            favState = if (favState) {
+                //remove the favorite
+                favView.setImageDrawable(resources.getDrawable(R.drawable.ic_favorite_border_black_24dp))
+                FavoriteManager.removeRecipebyID(bundle.getString("id"))
+                false
+            } else {
+                //add the favorite
+                favView.setImageDrawable(resources.getDrawable(R.drawable.ic_favorite_red_24dp))
+                val tmp = Recipe(
+                        bundle.getString("name"),
+                        bundle.getString("id"),
+                        bundle.getInt("totaltime"),
+                        bundle.getString("imageURLs"),
+                        bundle.getInt("numberofserving"),
+                        bundle.getString("flavor"),
+                        bundle.getString("instructionurl"),
+                        bundle.getStringArrayList("ingredientLines")
+                )
+                FavoriteManager.addRecipe(tmp)
+                true
+            }
+        }
     }
 
 }
