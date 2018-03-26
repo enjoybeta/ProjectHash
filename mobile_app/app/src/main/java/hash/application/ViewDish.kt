@@ -38,7 +38,7 @@ class ViewDish : Activity() {
             when {
                 bundle.getString("imageURLs") == null -> throw Exception("imageURLs is null")
                 bundle.getString("name") == null -> throw Exception("name is null")
-                bundle.getString("ingredientLines") == null -> throw Exception("ingredientLines is null")
+                bundle.getStringArrayList("ingredientLines") == null -> throw Exception("ingredientLines is null")
                 bundle.getString("instructionurl") == null -> throw Exception("instructionurl is null")
             }
         } catch (e: Exception) {

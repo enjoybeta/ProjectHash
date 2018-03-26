@@ -1,15 +1,16 @@
 package hash.application.helpers
 
-import android.util.Log
 import okhttp3.OkHttpClient
 import okhttp3.Request
 import okhttp3.Response
 
-const val serverAddress: String = "https://www.enjoybeta.com"
 /**
  * Created by gouji on 3/18/2018.
  */
-class WebManager {
+//use Singleton by object
+object WebManager {
+    private const val serverAddress: String = "https://www.enjoybeta.com"
+
     private val client: OkHttpClient = OkHttpClient()
 
     fun getToday1(): String {

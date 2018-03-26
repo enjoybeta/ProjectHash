@@ -30,16 +30,15 @@ class Fragment1 : Fragment() {
     }
 
     private fun setupTodaySuggestion() {
-        val wm = WebManager()
         var recipe1 : Recipe? = null
         var recipe2 : Recipe? = null
         var recipe3 : Recipe? = null
         var recipe4 : Recipe? = null
         val webThread = Thread(Runnable {
-            val dataStr1 : String = wm.getToday1()
-            val dataStr2 : String = wm.getToday2()
-            val dataStr3 : String = wm.getToday3()
-            val dataStr4 : String = wm.getToday4()
+            val dataStr1 : String = WebManager.getToday1()
+            val dataStr2 : String = WebManager.getToday2()
+            val dataStr3 : String = WebManager.getToday3()
+            val dataStr4 : String = WebManager.getToday4()
             recipe1 = Gson().fromJson(dataStr1, Recipe::class.java)
             recipe2 = Gson().fromJson(dataStr2, Recipe::class.java)
             recipe3 = Gson().fromJson(dataStr3, Recipe::class.java)
@@ -100,14 +99,14 @@ class Fragment1 : Fragment() {
 
     private fun getRecipeBundle(recipe: Recipe) : Bundle{
         val bundle = Bundle()
-        bundle.putString("name", recipe!!.name)
-        bundle.putString("id", recipe!!.id)
-        bundle.putInt("totaltime", recipe!!.totaltime)
-        bundle.putString("imageURLs", recipe!!.imageURLs)
-        bundle.putInt("numberofserving", recipe!!.numberofserving)
-        bundle.putString("flavor", recipe!!.flavor)
-        bundle.putString("instructionurl", recipe!!.instructionurl)
-        bundle.putStringArrayList("ingredientLines", recipe!!.ingredientLines)
+        bundle.putString("name", recipe.name)
+        bundle.putString("id", recipe.id)
+        bundle.putInt("totaltime", recipe.totaltime)
+        bundle.putString("imageURLs", recipe.imageURLs)
+        bundle.putInt("numberofserving", recipe.numberofserving)
+        bundle.putString("flavor", recipe.flavor)
+        bundle.putString("instructionurl", recipe.instructionurl)
+        bundle.putStringArrayList("ingredientLines", recipe.ingredientLines)
         return bundle
     }
 }
