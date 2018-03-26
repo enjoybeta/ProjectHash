@@ -13,31 +13,47 @@ import java.util.ArrayList
 //use Singleton by object
 object FavoriteManager {
     private val fav: Favorites = Favorites()
+    private var dir: File? = null
 
-    fun initFromFile(dir: File){
-        val dataFile = FileManager(dir,"favorites.dat")
+    fun initFromFile(_dir: File) {
+        dir = _dir
+        val dataFile = FileManager(dir!!, "favorites.dat")
         if (!dataFile.checkFile()) {
             dataFile.proofFile()
         }
-        val rawString = dataFile.readFile()
-        val favorites: Favorites = Gson().fromJson(rawString, Favorites::class.java)
-        if (favorites.favorites == null) {//catch parsing failure, favorites could be null
-            Log.e("log_FavoriteManager", "favorites is null")
-            return
+        try {
+            val rawString = dataFile.readFile()
+            val favorites: Favorites = Gson().fromJson(rawString, Favorites::class.java)
+            if (favorites.favorites == null) {//catch parsing failure, favorites could be null
+                Log.e("log_FavoriteManager", "favorites is null")
+                throw Exception("favorites is null")
+            }
+            for (i in favorites.favorites) {
+                addRecipe(i)
+            }
+        } catch (e: Exception) {
+            dataFile.proofFile()
         }
-        for(i in favorites.favorites){
-            addRecipe(i)
-        }
+    }
+
+    private fun saveToFile() {
+        val dataFile = FileManager(dir!!, "favorites.dat")
+        val jsonStr: String = Gson().toJson(fav)
+        dataFile.writeFile(jsonStr)
     }
 
     fun addRecipe(recipe: Recipe): Boolean {
-        return fav.favorites.add(recipe)
+        val ret = fav.favorites.add(recipe)
+        saveToFile()
+        return ret
     }
 
-    fun removeRecipebyID(id: String): Boolean {
+    fun removeRecipeByID(id: String): Boolean {
         for (i in fav.favorites) {
             if (i.id == id) {
-                return fav.favorites.remove(i)
+                val ret = fav.favorites.remove(i)
+                saveToFile()
+                return ret
             }
         }
         return false

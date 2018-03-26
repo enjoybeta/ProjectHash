@@ -30,7 +30,7 @@ class Fragment4 : Fragment() {
             Log.e("log_fragment4", "no favorites")
         }
         favList.adapter = adapter// Assign adapter to ListView
-        favList.setOnItemClickListener { _, _, position, id ->
+        favList.setOnItemClickListener { _, _, position, _ ->
             val recipe: Recipe = adapter.getItem(position)
             val intent = Intent(context, ViewDish::class.java)
             val bundle = recipe.getRecipeBundle()
@@ -41,7 +41,6 @@ class Fragment4 : Fragment() {
     }
 
     private fun getFavorites(): ArrayList<Recipe> {
-        FavoriteManager.initFromFile(context!!.filesDir)
         return FavoriteManager.getList()
     }
 }

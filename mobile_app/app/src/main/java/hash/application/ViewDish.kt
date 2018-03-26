@@ -56,7 +56,7 @@ class ViewDish : Activity() {
             favState = if (favState) {
                 //remove the favorite
                 favView.setImageDrawable(resources.getDrawable(R.drawable.ic_favorite_border_black_24dp))
-                FavoriteManager.removeRecipebyID(bundle.getString("id"))
+                FavoriteManager.removeRecipeByID(bundle.getString("id"))
                 false
             } else {
                 //add the favorite

@@ -6,12 +6,14 @@ import android.support.v4.app.Fragment
 import hash.application.fragments.Fragment3
 import hash.application.fragments.*
 import hash.application.helpers.BottomNavigationViewHelper
+import hash.application.helpers.FavoriteManager
 import kotlinx.android.synthetic.main.activity_main.*
 
 class MainActivity : AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_main)
+        FavoriteManager.initFromFile(this.filesDir)
 
         BottomNavigationViewHelper.disableShiftMode(navigation)
 
