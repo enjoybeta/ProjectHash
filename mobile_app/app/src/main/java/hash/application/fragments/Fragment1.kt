@@ -52,25 +52,25 @@ class Fragment1 : Fragment() {
         Picasso.with(activity).load(recipe4!!.imageURLs).into(imageView4)
         imageView1.setOnClickListener({
             val intent = Intent(context, ViewDish::class.java)
-            val bundle = getRecipeBundle(recipe1!!)
+            val bundle = recipe1!!.getRecipeBundle()
             intent.putExtra("data",bundle)
             startActivity(intent)
         })
         imageView2.setOnClickListener({
             val intent = Intent(context, ViewDish::class.java)
-            val bundle = getRecipeBundle(recipe2!!)
+            val bundle = recipe2!!.getRecipeBundle()
             intent.putExtra("data",bundle)
             startActivity(intent)
         })
         imageView3.setOnClickListener({
             val intent = Intent(context, ViewDish::class.java)
-            val bundle = getRecipeBundle(recipe3!!)
+            val bundle = recipe3!!.getRecipeBundle()
             intent.putExtra("data",bundle)
             startActivity(intent)
         })
         imageView4.setOnClickListener({
             val intent = Intent(context, ViewDish::class.java)
-            val bundle = getRecipeBundle(recipe4!!)
+            val bundle = recipe4!!.getRecipeBundle()
             intent.putExtra("data",bundle)
             startActivity(intent)
         })
@@ -95,19 +95,6 @@ class Fragment1 : Fragment() {
                 return true
             }
         })
-    }
-
-    private fun getRecipeBundle(recipe: Recipe) : Bundle{
-        val bundle = Bundle()
-        bundle.putString("name", recipe.name)
-        bundle.putString("id", recipe.id)
-        bundle.putInt("totaltime", recipe.totaltime)
-        bundle.putString("imageURLs", recipe.imageURLs)
-        bundle.putInt("numberofserving", recipe.numberofserving)
-        bundle.putString("flavor", recipe.flavor)
-        bundle.putString("instructionurl", recipe.instructionurl)
-        bundle.putStringArrayList("ingredientLines", recipe.ingredientLines)
-        return bundle
     }
 }
 
