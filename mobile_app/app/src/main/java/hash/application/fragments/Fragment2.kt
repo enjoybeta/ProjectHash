@@ -17,18 +17,13 @@ class Fragment2: Fragment() {
     }
 
     override fun onStart() {
-//        val sd = File(context.filesDir,"ingredients.dat")
-//        if (!sd.exists()) {
-//            Toast.makeText(context, "file not exist", Toast.LENGTH_SHORT).show()
-//        }
-//        else{
-//            Toast.makeText(context, "file exist", Toast.LENGTH_SHORT).show()
-//        }//TODO
-
         val btnSearch = button
         // set on-click listener
         btnSearch.setOnClickListener {
-            Toast.makeText(context, "You clicked on seach.", Toast.LENGTH_SHORT).show()
+            Toast.makeText(context, "You clicked on search.", Toast.LENGTH_SHORT).show()
+            //val intent = Intent(context, ?::class.java)//TODO
+            //intent.putExtra("?", ?)
+            //startActivity(intent)
         }
         super.onStart()
     }

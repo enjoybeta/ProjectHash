@@ -68,4 +68,8 @@ object FavoriteManager {
         }
         return ret
     }
+
+    fun getList(): ArrayList<Recipe> {
+        return fav.favorites
+    }
 }

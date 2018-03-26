@@ -27,11 +27,4 @@ class FileManager(_dir:File,_fileName: String) {
         val file = File(dir,fileName)
         return file.readText()
     }
-
-//TODO
-//    fun initFile(){
-//        val file = File(dir,fileName)
-//        file.writeText("{}")
-//    }
-
 }
