@@ -1,0 +1,117 @@
+{
+    "criteria": {
+        "q": "a+l+m+o+n+d+s",
+        "allowedIngredient": null,
+        "excludedIngredient": null
+    },
+    "matches": [
+        {
+            "imageUrlsBySize": {
+                "90": "http://lh3.googleusercontent.com/02OT7pzXJscnRMOvaXS7hEkTbygHV0bTkvs9j47wba_VajvWGqJ1O_KnbeFSDpfI_QHNQ1ViS2mZTMxXwqM1=s90-c"
+            },
+            "sourceDisplayName": "Lecker",
+            "ingredients": [
+                "Zucker",
+                "Backpulver",
+                "Butter",
+                "Mehl",
+                "Limone",
+                "Schlabgobers"
+            ],
+            "id": "Lemontarte-828036",
+            "smallImageUrls": [
+                "http://lh3.googleusercontent.com/75V3jtq-EN4cQ7DXwpSxTKJPGt3rpPJaNgnm7XLG4etnb_O0sZiCrQcOlcU65DKWPLLDEEaSRILjiuiaNVglQrk=s90"
+            ],
+            "recipeName": "Lemontarte",
+            "totalTimeInSeconds": 4500,
+            "attributes": {},
+            "flavors": null,
+            "rating": 3
+        },
+        {
+            "imageUrlsBySize": {
+                "90": "http://lh3.googleusercontent.com/hEklnJTq1Iu2NYDOxIXEfLWsET6KdfOSlKt-1DAiW7drlYEJykWCOy5_HT-fRchodM4bUEiBQFYJ2Cuo_x08aA=s90-c"
+            },
+            "sourceDisplayName": "Lecker",
+            "ingredients": [
+                "Fett",
+                "karamel",
+                "Schokolade",
+                "weiche Butter",
+                "Zucker",
+                "Salz",
+                "Ei",
+                "Eierlik\u00f6r",
+                "Mehl",
+                "Backpulver",
+                "Puderzucker"
+            ],
+            "id": "Eierlikor-Gugelhupf-mit-Knusperfulle-832617",
+            "smallImageUrls": [
+                "http://lh3.googleusercontent.com/O08qnpqzcL6UA0ug1EXCF0fBD9W8pDfrxK7hEBvX_e4N9GMeq6PbH07mT2XVH79k2Y5qLYziaZybhKguv9_qFJs=s90"
+            ],
+            "recipeName": "Eierliko\u0308r-Gugelhupf mit Knusperfu\u0308lle",
+            "totalTimeInSeconds": 5400,
+            "attributes": {},
+            "flavors": null,
+            "rating": 3
+        },
+        {
+            "imageUrlsBySize": {
+                "90": "http://lh3.googleusercontent.com/jeaM-jd69GtGaj3MhYdM9NFsTdH3eheFfxxy9Pxr0oi02-VyIrxCIORGiV_xS-00XSp1wFt1P3bxAGeE__DYww=s90-c"
+            },
+            "sourceDisplayName": "Lecker",
+            "ingredients": [
+                "Semmelbr\u00f6sel",
+                "Ei",
+                "Zucker",
+                "Butter",
+                "Kirsche",
+                "Speisest\u00e4rke",
+                "Milch",
+                "Puddingpulver",
+                "Rahm",
+                "Schlabgobers",
+                "Puderzucker"
+            ],
+            "id": "Knusprige-Karamell-Torteletts-832309",
+            "smallImageUrls": [
+                "http://lh3.googleusercontent.com/5TPxI2fJYiJGSZk5Ff8aGpVEjtPGGEN1-cDutJw0NXYJFuuMJGi8VzYT4tP8CLLv-bzxtpn0OkJLCtRj-Bq2=s90"
+            ],
+            "recipeName": "Knusprige Karamell-Torteletts",
+            "totalTimeInSeconds": 5400,
+            "attributes": {},
+            "flavors": null,
+            "rating": 3
+        },
+        {
+            "recipeName": "Erfrischende Mai-Torte mit Waldmeister-Dickmilch-Creme",
+            "ingredients": [
+                "Zucker",
+                "Mehl",
+                "Backpulver",
+                "Gelatine",
+                "Vollmilch",
+                "Zitrone",
+                "Sirup",
+                "Schlabgobers",
+                "Tortenguss",
+                "Mandarinen-Orangen"
+            ],
+            "totalTimeInSeconds": 4500,
+            "sourceDisplayName": "Lecker",
+            "id": "Erfrischende-Mai-Torte-mit-Waldmeister-Dickmilch-Creme-926917",
+            "rating": 3,
+            "flavors": null,
+            "attributes": {}
+        }
+    ],
+    "facetCounts": {},
+    "totalMatchCount": 4,
+    "attribution": {
+        "html": "Recipe search powered by <a href='http://www.yummly.co/recipes'><img alt='Yummly' src='https://static.yummly.co/api-logo.png'/></a>",
+        "url": "http://www.yummly.co/recipes/",
+        "text": "Recipe search powered by Yummly",
+        "logo": "https://static.yummly.co/api-logo.png"
+    }
+}

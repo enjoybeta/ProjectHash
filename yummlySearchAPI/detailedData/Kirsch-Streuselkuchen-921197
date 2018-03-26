@@ -1,0 +1,47 @@
+{
+    "yield": "Zutaten f\u00fcr ca. 12 St\u00fccke:",
+    "nutritionEstimates": [],
+    "totalTime": "1 hr 30 min",
+    "images": [
+        {
+            "hostedSmallUrl": "http://lh3.googleusercontent.com/aHA_kpzcHP7oI1K7tfehNoZunYZ6jfa1V24rLOqmJ7vapZNLoEls0Qbvdbe6-iKYekvBmWIdahf0K5nGN-13Ew=s90",
+            "hostedMediumUrl": "http://lh3.googleusercontent.com/aHA_kpzcHP7oI1K7tfehNoZunYZ6jfa1V24rLOqmJ7vapZNLoEls0Qbvdbe6-iKYekvBmWIdahf0K5nGN-13Ew=s180",
+            "hostedLargeUrl": "http://lh3.googleusercontent.com/aHA_kpzcHP7oI1K7tfehNoZunYZ6jfa1V24rLOqmJ7vapZNLoEls0Qbvdbe6-iKYekvBmWIdahf0K5nGN-13Ew=s360",
+            "imageUrlsBySize": {
+                "90": "http://lh3.googleusercontent.com/bcIsEyg90uav9jAFTk8KzPfLhw_0B7SdYv_mEzf-Hkqjuie8KRMqHn4G_AYRELRedwGsIFCTqD_sLA1QrjpZ=s90-c",
+                "360": "http://lh3.googleusercontent.com/bcIsEyg90uav9jAFTk8KzPfLhw_0B7SdYv_mEzf-Hkqjuie8KRMqHn4G_AYRELRedwGsIFCTqD_sLA1QrjpZ=s360-c"
+            }
+        }
+    ],
+    "name": "Kirsch-Streuselkuchen",
+    "source": {
+        "sourceDisplayName": "Lecker",
+        "sourceSiteUrl": "lecker.de",
+        "sourceRecipeUrl": "http://www.lecker.de/rezept/487168/Kirsch-Streuselkuchen.html"
+    },
+    "id": "Kirsch-Streuselkuchen-921197",
+    "ingredientLines": [
+        "500 g Schattenmorellen",
+        "300 g Butter oder Margarine",
+        "375 g Mehl",
+        "300 g Zucker",
+        "1 P\u00e4ckchen Vanillin-Zucker",
+        "2 Eier (Gr\u00f6\u00dfe M)",
+        "250 g Magerquark",
+        "abgeriebene Schale von 1/2 unbehandelten Zitrone",
+        "25 g Grie\u00df",
+        "Fett f\u00fcr die Form",
+        "1-2 TL Puderzucker"
+    ],
+    "attribution": {
+        "html": "<a href='http://www.yummly.co/recipe/Kirsch-Streuselkuchen-921197'>Kirsch-Streuselkuchen recipe</a> information powered by <img alt='Yummly' src='https://static.yummly.co/api-logo.png'/>",
+        "url": "http://www.yummly.co/recipe/Kirsch-Streuselkuchen-921197",
+        "text": "Kirsch-Streuselkuchen recipes: information powered by Yummly",
+        "logo": "https://static.yummly.co/api-logo.png"
+    },
+    "numberOfServings": 12,
+    "totalTimeInSeconds": 5400,
+    "attributes": {},
+    "flavors": {},
+    "rating": 3
+}

@@ -1,0 +1,49 @@
+{
+    "yield": "Zutaten f\u00fcr 1 Form (ca. 12 Portionen):",
+    "nutritionEstimates": [],
+    "totalTime": "1 hr 45 min",
+    "images": [
+        {
+            "hostedSmallUrl": "http://lh3.googleusercontent.com/GEgHYegqTF6g588slaVjWAZAxZmkHVOZbibRRW5p-EQsHCZUWavhciBle97DSPQF6Q0eM9iEegUmQ0DnF_lVbA=s90",
+            "hostedMediumUrl": "http://lh3.googleusercontent.com/GEgHYegqTF6g588slaVjWAZAxZmkHVOZbibRRW5p-EQsHCZUWavhciBle97DSPQF6Q0eM9iEegUmQ0DnF_lVbA=s180",
+            "hostedLargeUrl": "http://lh3.googleusercontent.com/GEgHYegqTF6g588slaVjWAZAxZmkHVOZbibRRW5p-EQsHCZUWavhciBle97DSPQF6Q0eM9iEegUmQ0DnF_lVbA=s360",
+            "imageUrlsBySize": {
+                "90": "http://lh3.googleusercontent.com/DEzRZVGCPT9Ex7nlo_8jZECJE-flbnobXL62IJUgM0S5GJ6Sphg77sya44VOZq2gDNooxcgpWcRluzMwATeUEg=s90-c",
+                "360": "http://lh3.googleusercontent.com/DEzRZVGCPT9Ex7nlo_8jZECJE-flbnobXL62IJUgM0S5GJ6Sphg77sya44VOZq2gDNooxcgpWcRluzMwATeUEg=s360-c"
+            }
+        }
+    ],
+    "name": "Zuppa inglese (Biskuit-Creme-Torte)",
+    "source": {
+        "sourceDisplayName": "Lecker",
+        "sourceSiteUrl": "lecker.de",
+        "sourceRecipeUrl": "http://www.lecker.de/rezept/1444239/Zuppa-inglese-Biskuit-Creme-Torte.html"
+    },
+    "id": "Zuppa-inglese-_Biskuit-Creme-Torte_-928381",
+    "ingredientLines": [
+        "200 g Puderzucker",
+        "3 Eier (Gr\u00f6\u00dfe M)",
+        "105 g Mehl",
+        "1/2 l + 75 ml Milch",
+        "5 Eigelb (Gr\u00f6\u00dfe M)",
+        "125 g Zucker",
+        "2 P\u00e4ckchen Vanillin-Zucker",
+        "6 EL Rum",
+        "3 EL Alchermes (ersatzweise Cointreau)",
+        "100 g gew\u00fcrfelte, kandierte Fr\u00fcchte (z. B. kandierter Fr\u00fcchte Mix, gew\u00fcrfelt)",
+        "3 Eiwei\u00df (Gr\u00f6\u00dfe M)",
+        "kandierte Fr\u00fcchte zum Verzieren",
+        "Puderzucker zum Best\u00e4uben"
+    ],
+    "attribution": {
+        "html": "<a href='http://www.yummly.co/recipe/Zuppa-inglese-_Biskuit-Creme-Torte_-928381'>Zuppa inglese (Biskuit-Creme-Torte) recipe</a> information powered by <img alt='Yummly' src='https://static.yummly.co/api-logo.png'/>",
+        "url": "http://www.yummly.co/recipe/Zuppa-inglese-_Biskuit-Creme-Torte_-928381",
+        "text": "Zuppa inglese (Biskuit-Creme-Torte) recipes: information powered by Yummly",
+        "logo": "https://static.yummly.co/api-logo.png"
+    },
+    "numberOfServings": 1,
+    "totalTimeInSeconds": 6300,
+    "attributes": {},
+    "flavors": {},
+    "rating": 3
+}

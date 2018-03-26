@@ -1,0 +1,47 @@
+{
+    "yield": "makes one big glass",
+    "nutritionEstimates": [],
+    "totalTime": "10 min",
+    "images": [
+        {
+            "hostedSmallUrl": "https://lh3.googleusercontent.com/bk10tYSkWd53040sRM2726tZqemWbycsipiHIuFRWujRQeth3ww6-ZwAkA5_Q5-z_NmSwWL_3Y5cIWXrNAMRHA=s90",
+            "hostedMediumUrl": "https://lh3.googleusercontent.com/bk10tYSkWd53040sRM2726tZqemWbycsipiHIuFRWujRQeth3ww6-ZwAkA5_Q5-z_NmSwWL_3Y5cIWXrNAMRHA=s180",
+            "hostedLargeUrl": "https://lh3.googleusercontent.com/bk10tYSkWd53040sRM2726tZqemWbycsipiHIuFRWujRQeth3ww6-ZwAkA5_Q5-z_NmSwWL_3Y5cIWXrNAMRHA=s360",
+            "imageUrlsBySize": {
+                "90": "https://lh3.googleusercontent.com/olad8lO0Y9ouBkKpRLf7XIntNy3M4Um1yvfZhvm74eXOln18vbbb2d-A7S22VurD9aV_5rQVaqcsIMJZThlI=s90-c",
+                "360": "https://lh3.googleusercontent.com/olad8lO0Y9ouBkKpRLf7XIntNy3M4Um1yvfZhvm74eXOln18vbbb2d-A7S22VurD9aV_5rQVaqcsIMJZThlI=s360-c"
+            }
+        }
+    ],
+    "name": "Immune Boosting and Anti Inflammatory Juice",
+    "source": {
+        "sourceDisplayName": "A Tasty Love Story",
+        "sourceSiteUrl": "atastylovestory.com",
+        "sourceRecipeUrl": "http://atastylovestory.com/immune-boosting-anti-inflammatory-juice/"
+    },
+    "id": "Immune-Boosting-and-Anti-Inflammatory-Juice-1772459",
+    "ingredientLines": [
+        "2 large (3 medium) carrots",
+        "1/4 organic lemon",
+        "1 orange, peeled",
+        "1 large (two small) apple",
+        "1 thumb sized piece of ginger, peeled",
+        "1 tsp oil (e.g. olive, almond, flax or fish)",
+        "A handful of crushed ice"
+    ],
+    "attribution": {
+        "html": "<a href='http://www.yummly.co/recipe/Immune-Boosting-and-Anti-Inflammatory-Juice-1772459'>Immune Boosting and Anti Inflammatory Juice recipe</a> information powered by <img alt='Yummly' src='https://static.yummly.co/api-logo.png'/>",
+        "url": "http://www.yummly.co/recipe/Immune-Boosting-and-Anti-Inflammatory-Juice-1772459",
+        "text": "Immune Boosting and Anti Inflammatory Juice recipes: information powered by Yummly",
+        "logo": "https://static.yummly.co/api-logo.png"
+    },
+    "numberOfServings": 1,
+    "totalTimeInSeconds": 600,
+    "attributes": {
+        "course": [
+            "Beverages"
+        ]
+    },
+    "flavors": {},
+    "rating": 4
+}

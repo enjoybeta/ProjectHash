@@ -1,0 +1,59 @@
+{
+    "yield": "2 1/2 cups",
+    "nutritionEstimates": [],
+    "prepTimeInSeconds": 900,
+    "totalTime": "40 min",
+    "images": [
+        {
+            "hostedSmallUrl": "http://lh3.googleusercontent.com/JvywSEQ-_xcK3BjqJJN8mmA70K67jbdw8f4mIQOb_F-pcd478C0ZevEfaCLBO0FsLI9GLgYPM_xuofbz8IoR=s90",
+            "hostedMediumUrl": "http://lh3.googleusercontent.com/JvywSEQ-_xcK3BjqJJN8mmA70K67jbdw8f4mIQOb_F-pcd478C0ZevEfaCLBO0FsLI9GLgYPM_xuofbz8IoR=s180",
+            "hostedLargeUrl": "http://lh3.googleusercontent.com/JvywSEQ-_xcK3BjqJJN8mmA70K67jbdw8f4mIQOb_F-pcd478C0ZevEfaCLBO0FsLI9GLgYPM_xuofbz8IoR=s360",
+            "imageUrlsBySize": {
+                "90": "http://lh3.googleusercontent.com/S0BOBIguZWVF_q_ETWtIa2-SSfwICUqqFS0gsczOvG-E8WCPKK4Y6j2DkxkKDzy4bW5npCRxQUJw_XhblS-agjA=s90-c",
+                "360": "http://lh3.googleusercontent.com/S0BOBIguZWVF_q_ETWtIa2-SSfwICUqqFS0gsczOvG-E8WCPKK4Y6j2DkxkKDzy4bW5npCRxQUJw_XhblS-agjA=s360-c"
+            }
+        }
+    ],
+    "name": "Caramelized Onion Hummus",
+    "source": {
+        "sourceDisplayName": "Gluten Free With L.B.",
+        "sourceSiteUrl": "glutenfreewithlb.com",
+        "sourceRecipeUrl": "http://glutenfreewithlb.com/caramelized-onion-hummus/"
+    },
+    "prepTime": "15 Min",
+    "id": "Caramelized-Onion-Hummus-1100305",
+    "ingredientLines": [
+        "Caramelized Onions",
+        "2 medium onions, cut in have and sliced in \u00bd-inch slices",
+        "3 T. olive oil",
+        "\u00bd t. salt",
+        "\u00bc t. pepper",
+        "Hummus",
+        "\u00bc c. tahini",
+        "1 large lemon, juice",
+        "Caramelized onions (divided)",
+        "\u00bd t. onion powder",
+        "\u00bc t. cumin",
+        "1 clove garlic",
+        "\u00bd t. salt",
+        "2 c. garbanzo beans",
+        "1 T. water"
+    ],
+    "cookTime": "25 Min",
+    "attribution": {
+        "html": "<a href='http://www.yummly.co/recipe/Caramelized-Onion-Hummus-1100305'>Caramelized Onion Hummus recipe</a> information powered by <img alt='Yummly' src='https://static.yummly.co/api-logo.png'/>",
+        "url": "http://www.yummly.co/recipe/Caramelized-Onion-Hummus-1100305",
+        "text": "Caramelized Onion Hummus recipes: information powered by Yummly",
+        "logo": "https://static.yummly.co/api-logo.png"
+    },
+    "numberOfServings": 2,
+    "totalTimeInSeconds": 2400,
+    "attributes": {
+        "course": [
+            "Appetizers"
+        ]
+    },
+    "cookTimeInSeconds": 1500,
+    "flavors": {},
+    "rating": 4
+}

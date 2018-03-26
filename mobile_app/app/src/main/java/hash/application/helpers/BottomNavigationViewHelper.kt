@@ -1,5 +1,6 @@
 package hash.application.helpers
 
+import android.annotation.SuppressLint
 import android.support.design.internal.BottomNavigationItemView
 import android.support.design.internal.BottomNavigationMenuView
 import android.support.design.widget.BottomNavigationView
@@ -15,6 +16,7 @@ import android.util.DisplayMetrics
 
 object BottomNavigationViewHelper {
 
+    @SuppressLint("RestrictedApi")
     fun disableShiftMode(view: BottomNavigationView) {
         val menuView = view.getChildAt(0) as BottomNavigationMenuView
         try {

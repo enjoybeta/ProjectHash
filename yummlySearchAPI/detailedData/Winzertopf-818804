@@ -1,0 +1,49 @@
+{
+    "yield": "Zutaten f\u00fcr 4-6 Personen:",
+    "nutritionEstimates": [],
+    "totalTime": "3 hr",
+    "images": [
+        {
+            "hostedSmallUrl": "http://lh3.googleusercontent.com/qWclqBAGxS4pYRD1pDYWk5haaSvA6k7039zGa22n3Rc8hlsr_IXEm1jBj_NrfuRvqst6YaU2oXmi2DwfMieU=s90",
+            "hostedMediumUrl": "http://lh3.googleusercontent.com/qWclqBAGxS4pYRD1pDYWk5haaSvA6k7039zGa22n3Rc8hlsr_IXEm1jBj_NrfuRvqst6YaU2oXmi2DwfMieU=s180",
+            "hostedLargeUrl": "http://lh3.googleusercontent.com/qWclqBAGxS4pYRD1pDYWk5haaSvA6k7039zGa22n3Rc8hlsr_IXEm1jBj_NrfuRvqst6YaU2oXmi2DwfMieU=s360",
+            "imageUrlsBySize": {
+                "90": "http://lh3.googleusercontent.com/tXzuB2iGDPnajSbvtwiPOkxKRqkRbagrJ7CrLgqaXPJ17hz2mA2jJKWAqczzQOFp6WRUX21z2WakhrPnhWqfNKo=s90-c",
+                "360": "http://lh3.googleusercontent.com/tXzuB2iGDPnajSbvtwiPOkxKRqkRbagrJ7CrLgqaXPJ17hz2mA2jJKWAqczzQOFp6WRUX21z2WakhrPnhWqfNKo=s360-c"
+            }
+        }
+    ],
+    "name": "Winzertopf",
+    "source": {
+        "sourceDisplayName": "Lecker",
+        "sourceSiteUrl": "lecker.de",
+        "sourceRecipeUrl": "http://www.lecker.de/rezept/633331/Winzertopf.html"
+    },
+    "id": "Winzertopf-818804",
+    "ingredientLines": [
+        "1,2 kg Lammfleisch aus der Keule (ohne Knochen)",
+        "2-3 EL \u00d6l",
+        "Salz",
+        "Pfeffer",
+        "1 Gem\u00fcsezwiebel (ca. 300 g)",
+        "2 Knoblauchzehen",
+        "1 kg M\u00f6hren",
+        "1 kg Kartoffeln",
+        "1 Bund Thymian",
+        "3 Lorbeerbl\u00e4tter",
+        "1/2 l Gem\u00fcsebr\u00fche (Instant)",
+        "1/4 l Rotwein (z. B. Beaujolais)",
+        "evtl. glatte Petersilie und Thymian zum Garnieren"
+    ],
+    "attribution": {
+        "html": "<a href='http://www.yummly.co/recipe/Winzertopf-818804'>Winzertopf recipe</a> information powered by <img alt='Yummly' src='https://static.yummly.co/api-logo.png'/>",
+        "url": "http://www.yummly.co/recipe/Winzertopf-818804",
+        "text": "Winzertopf recipes: information powered by Yummly",
+        "logo": "https://static.yummly.co/api-logo.png"
+    },
+    "numberOfServings": 5,
+    "totalTimeInSeconds": 10800,
+    "attributes": {},
+    "flavors": {},
+    "rating": 3
+}

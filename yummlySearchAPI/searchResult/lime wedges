@@ -1,0 +1,65 @@
+{
+    "criteria": {
+        "q": "l+i+m+e+ +w+e+d+g+e+s",
+        "allowedIngredient": null,
+        "excludedIngredient": null
+    },
+    "matches": [
+        {
+            "imageUrlsBySize": {
+                "90": "http://lh3.googleusercontent.com/zDa0mybGUypUmGduZxFQp754SCxXUoV-jnMAvw3NevJpInUFz6DV7t40dxvC8jNhZapW-o4EIKZfU6cz67Q-=s90-c"
+            },
+            "sourceDisplayName": "Lecker",
+            "ingredients": [
+                "Butter",
+                "Mehl",
+                "Zucker",
+                "Natron",
+                "Zimt",
+                "anis",
+                "Ingwer",
+                "Cardomon",
+                "Honig",
+                "Eigelb"
+            ],
+            "id": "Pain-D_epices-842836",
+            "smallImageUrls": [
+                "http://lh3.googleusercontent.com/Q64uBDYKlcN96p-zj3MH7na_TgcO_Y3_k94JKAxX7IXOXeJIHkYaOe6a0SHrugD8fbbTjZnl0MZ0tlVQBupumw=s90"
+            ],
+            "recipeName": "Pain D'e\u0301pices",
+            "totalTimeInSeconds": 2700,
+            "attributes": {},
+            "flavors": null,
+            "rating": 3
+        },
+        {
+            "recipeName": "Apfel-To\u0308rtchen mit Weinschaum",
+            "ingredients": [
+                "\u00c4pfel",
+                "Zitronensaft",
+                "Zucker",
+                "Mohn",
+                "Butter",
+                "Fett",
+                "Salz",
+                "Backpulver",
+                "Mehl",
+                "Wei\u00dfwein"
+            ],
+            "totalTimeInSeconds": 3600,
+            "sourceDisplayName": "Lecker",
+            "id": "Apfel-Tortchen-mit-Weinschaum-833525",
+            "rating": 3,
+            "flavors": null,
+            "attributes": {}
+        }
+    ],
+    "facetCounts": {},
+    "totalMatchCount": 2,
+    "attribution": {
+        "html": "Recipe search powered by <a href='http://www.yummly.co/recipes'><img alt='Yummly' src='https://static.yummly.co/api-logo.png'/></a>",
+        "url": "http://www.yummly.co/recipes/",
+        "text": "Recipe search powered by Yummly",
+        "logo": "https://static.yummly.co/api-logo.png"
+    }
+}

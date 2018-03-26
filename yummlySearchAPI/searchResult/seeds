@@ -1,0 +1,330 @@
+{
+    "criteria": {
+        "q": "s+e+e+d+s",
+        "allowedIngredient": null,
+        "excludedIngredient": null
+    },
+    "matches": [
+        {
+            "imageUrlsBySize": {
+                "90": "http://lh6.ggpht.com/TPXys5Z6kxl5YkFLHTiX6d7rjprnMfmB42QDwrUKIA4VPdLFqV0r8ovQ_lThYym4zpONZdYwVY4-xy0QauiCnp0=s90-c"
+            },
+            "sourceDisplayName": "Big Girls Small Kitchen",
+            "ingredients": [
+                "olive oil",
+                "garlic cloves",
+                "anchovies",
+                "red pepper flakes",
+                "salt",
+                "linguine",
+                "grated parmesan cheese",
+                "parsley"
+            ],
+            "id": "Linguine-aglio-e-olio-con-acciuga-310281",
+            "smallImageUrls": [
+                "http://lh4.ggpht.com/dwQhGW6Kpzu5PUMevEVORS0K6aCg4wgIV48u34JfljeJABcNCnKGrx3p8R27gFE_JxRASG-5SW8drp9sHD13=s90"
+            ],
+            "recipeName": "Linguine Aglio e Olio con Acciuga",
+            "totalTimeInSeconds": 1800,
+            "attributes": {
+                "course": [
+                    "Main Dishes"
+                ],
+                "cuisine": [
+                    "Italian"
+                ]
+            },
+            "flavors": {
+                "piquant": 0.16666666666666666,
+                "meaty": 0.8333333333333334,
+                "bitter": 0.8333333333333334,
+                "sweet": 0.16666666666666666,
+                "sour": 0.3333333333333333,
+                "salty": 0.8333333333333334
+            },
+            "rating": 5
+        },
+        {
+            "imageUrlsBySize": {
+                "90": "https://lh3.googleusercontent.com/U8F4u2hQqX5AC9m-UwyjF30kl_qEM-Lm2uJG4z6MDuVblGcEM9R02dDJ8vb5Hg1-bQtaV8_eFWBts4mfpqMh=s90-c"
+            },
+            "sourceDisplayName": "Oh My Dish",
+            "ingredients": [
+                "spaghetti",
+                "olive oil",
+                "garlic cloves",
+                "crushed red pepper flakes",
+                "fresh parsley",
+                "cheese",
+                "sea salt",
+                "pepper"
+            ],
+            "id": "Spaghetti-Aglio-E-Olio-1823250",
+            "smallImageUrls": [
+                "https://lh3.googleusercontent.com/I4Oznk3I14UJK2hF3lgwJnyjPXVT_oJsp30wuUt45O9t68zRMBWQhU7z596NtYkAbrUx7ejIBHjx1E2guNqE=s90"
+            ],
+            "recipeName": "Spaghetti Aglio E Olio",
+            "totalTimeInSeconds": 1500,
+            "attributes": {
+                "course": [
+                    "Main Dishes"
+                ],
+                "cuisine": [
+                    "Italian"
+                ]
+            },
+            "flavors": {
+                "piquant": 0.16666666666666666,
+                "meaty": 0.8333333333333334,
+                "bitter": 0.5,
+                "sweet": 0.16666666666666666,
+                "sour": 0.6666666666666666,
+                "salty": 0.16666666666666666
+            },
+            "rating": 4
+        },
+        {
+            "imageUrlsBySize": {
+                "90": "http://lh6.ggpht.com/4Na_rzPhby-j2EMz40GrMs688M69t_A8_oZAH83zj3mgPK8DDXdN0tVKdaIiZuVjO-6NcM6d9n2TYLsInAbcWQ=s90-c"
+            },
+            "sourceDisplayName": "Memorie di Angelina",
+            "ingredients": [
+                "onions",
+                "parsley",
+                "salt",
+                "pepper",
+                "olive oil",
+                "peas",
+                "ditali pasta"
+            ],
+            "id": "Pasta-e-piselli-_Pasta-and-Peas_-1014122",
+            "smallImageUrls": [
+                "http://lh4.ggpht.com/5MChzpDNYItYAjQ3VQcKmS9ajmRL_PIr8ue7tMRcjyoF60u55nhRfPNaga4k8FuAOOQbUWzOnlCEllLNm8AX44s=s90"
+            ],
+            "recipeName": "Pasta e piselli (Pasta and Peas)",
+            "totalTimeInSeconds": 1800,
+            "attributes": {},
+            "flavors": null,
+            "rating": 4
+        },
+        {
+            "imageUrlsBySize": {
+                "90": "https://lh3.googleusercontent.com/HgdP9aqvIvNXVDM6M0-2F4X2gFIM0Nc1YRcy016eQumZtyO0ZMMqeNX12lzn8N8vZr56pn62stXpdUxevVh7VeY=s90-c"
+            },
+            "sourceDisplayName": "Gigi Eats Celebrities",
+            "ingredients": [
+                "sweet potatoes",
+                "sugar",
+                "hickory smoke",
+                "beef brisket",
+                "bbq sauce",
+                "spinach"
+            ],
+            "id": "Nacho-Average-B_R_I_S_K_E_T_-1952403",
+            "smallImageUrls": [
+                "https://lh3.googleusercontent.com/MrXnL83XjSwGVTFf2xMbAMU45DSUoC6Ti5Aws3HW0k_1DXt5ZpEhn-QiyyHKafCLKQOJxwr6PvUjDjrpNJEhWw=s90"
+            ],
+            "recipeName": "Nacho Average B.R.I.S.K.E.T.",
+            "totalTimeInSeconds": 1800,
+            "attributes": {
+                "course": [
+                    "Main Dishes"
+                ]
+            },
+            "flavors": null,
+            "rating": 4
+        },
+        {
+            "imageUrlsBySize": {
+                "90": "http://lh6.ggpht.com/tGFpdF2mD4rEeYl5b6qnqeORaPzr5Ne8L4ioX4ttpRyKge3OtUv0rPZE7YXI6vBg_EsEJYt9Y9didMmm1dRu_as=s90-c"
+            },
+            "sourceDisplayName": "Serious Eats",
+            "ingredients": [
+                "dough",
+                "bread flour",
+                "yeast",
+                "water",
+                "salt",
+                "whole wheat dough",
+                "whole wheat flour"
+            ],
+            "id": "Straight-bread-dough-302432",
+            "smallImageUrls": [
+                "http://lh3.ggpht.com/0xLQVjNBw1KHfJKkaoTBpD4tY0wkQKY-oyqIdVRSuGkoabu3wgHefJ4uao6Kn67rAtILZSydYn_mLXvpW-oPeUA=s90"
+            ],
+            "recipeName": "Straight Bread Dough",
+            "totalTimeInSeconds": 5100,
+            "attributes": {},
+            "flavors": null,
+            "rating": 3
+        },
+        {
+            "imageUrlsBySize": {
+                "90": "http://lh3.googleusercontent.com/fnUzDGILCQKgwrPyMBtwCVUgFpNHDVCvPJ-c44nKI3s_mbVowOdzZvRbBh6z3ZSTanvLRvHOBi3qOepYMGgP=s90-c"
+            },
+            "sourceDisplayName": "The Holistic Ingredient",
+            "ingredients": [
+                "raw cashews",
+                "shredded coconut",
+                "raw honey",
+                "lemon",
+                "dry coconut"
+            ],
+            "id": "Lemony-Coconut-Cake-Balls-_and-why-we-should-love-cashew-nuts__-1071794",
+            "smallImageUrls": [
+                "http://lh3.googleusercontent.com/JPmRtwz0P8q1z2AKTfyIeSiDwGpIT6wsY-JfPFUZVU8OoiyyrjbHFy9hIfEn_Gitntwwfn-nAxfZ5lDJj7cvCQ=s90"
+            ],
+            "recipeName": "Lemony Coconut Cake Balls (and why we should love cashew nuts).",
+            "totalTimeInSeconds": 1200,
+            "attributes": {
+                "course": [
+                    "Desserts",
+                    "Lunch"
+                ]
+            },
+            "flavors": null,
+            "rating": 4
+        },
+        {
+            "imageUrlsBySize": {
+                "90": "https://lh3.googleusercontent.com/-A5ka_Wa3qh71SNuIOY7RptPOwT4bwiyytATZrK--VkGdANa84tIQdC22UVeY4XN6a8TsPTxX8A4woJbEElMwA=s90-c"
+            },
+            "sourceDisplayName": "Food Love Happiness",
+            "ingredients": [
+                "eggs",
+                "pure pumpkin",
+                "brown sugar",
+                "ground cinnamon",
+                "ground nutmeg",
+                "ground ginger",
+                "salt",
+                "evaporated milk",
+                "pie shell"
+            ],
+            "id": "E_D-Smith_s-Traditional-Pumpkin-Pie-1504577",
+            "smallImageUrls": [
+                "https://lh3.googleusercontent.com/U75uHWAk8g1gXldlWIaTUuI2Oozu2pOMtSeDldTmN7G5hKc8NXE8x4w2uAu5cFg2PJqedJlKAhUvL2h6Mq4Q=s90"
+            ],
+            "recipeName": "E.D Smith's Traditional Pumpkin Pie",
+            "totalTimeInSeconds": 3600,
+            "attributes": {},
+            "flavors": null,
+            "rating": 4
+        },
+        {
+            "imageUrlsBySize": {
+                "90": "https://lh3.googleusercontent.com/ice_fMPiDmacQUyAQqCahVLrTIScRqWs-nC29JKdmhfgItsltNDbrFwPQD6h9zXTfUkGGZYhhGWAbCV-VBmy-Q=s90-c"
+            },
+            "sourceDisplayName": "Muscle and Strength",
+            "ingredients": [
+                "cooked white rice",
+                "lime",
+                "cilantro",
+                "chicken breasts",
+                "Mexican seasoning mix",
+                "no-salt-added black beans",
+                "pico de gallo",
+                "guacamole",
+                "nonfat greek yogurt",
+                "shredded cheddar cheese",
+                "shredded lettuce"
+            ],
+            "id": "High-Protein-Chicken-Burrito-Bowl-2141603",
+            "smallImageUrls": [
+                "https://lh3.googleusercontent.com/D4Zf9FnFZ_TVWrbQrsLANq3C2vOyaou89wu0Uq3k0wJ5UCnFNsXEsvkgtrfYQIADAlNte7An6Se6Elw7SImJAg=s90"
+            ],
+            "recipeName": "High Protein Chicken Burrito Bowl",
+            "totalTimeInSeconds": 3000,
+            "attributes": {
+                "course": [
+                    "Main Dishes"
+                ]
+            },
+            "flavors": null,
+            "rating": 4
+        },
+        {
+            "imageUrlsBySize": {
+                "90": "http://lh5.ggpht.com/L25wF0uAV4ullxbY0I3b-WRuttcbFBMR8wCek6ACAPlTo-zFPFlmCQ-xTn8q_wr7mw5BhIg1pISHnyKz2gck=s90-c"
+            },
+            "sourceDisplayName": "Memorie di Angelina",
+            "ingredients": [
+                "chicory",
+                "garlic",
+                "olive oil",
+                "rice",
+                "salt",
+                "pepper",
+                "pecorino romano cheese"
+            ],
+            "id": "Minestra-di-riso-e-cicoria-_Chicory-and-Rice-Soup_-1014071",
+            "smallImageUrls": [
+                "http://lh6.ggpht.com/JDqifd_nCE-m-V7A9TbaOsJ3DW5KV_Uy6iql5_6qNWN0uFX_VFW8zPeW_NaTiOyG2fzYn-XQ9UxEMBsYYcBCF8E=s90"
+            ],
+            "recipeName": "Minestra di riso e cicoria (Chicory and Rice Soup)",
+            "totalTimeInSeconds": 1800,
+            "attributes": {
+                "course": [
+                    "Soups"
+                ],
+                "cuisine": [
+                    "Italian"
+                ]
+            },
+            "flavors": null,
+            "rating": 4
+        },
+        {
+            "imageUrlsBySize": {
+                "90": "https://lh3.googleusercontent.com/QzQuoLpSl7oQAOtEILybeaIE45HW9eeivCcq3SrEIiS-P2bUa2EQbtEy5eTy-o40xyygbz5TbjS06ozLpjY-LPs=s90-c"
+            },
+            "sourceDisplayName": "Evergreen Kitchen",
+            "ingredients": [
+                "cannellini beans",
+                "tamari soy sauce",
+                "neutral oil",
+                "nutritional yeast",
+                "garlic",
+                "dried oregano",
+                "dried thyme",
+                "smoked paprika",
+                "black pepper",
+                "vital wheat gluten",
+                "pitas",
+                "tzatziki sauce",
+                "lettuce",
+                "tomatoes",
+                "cucumber",
+                "red onion"
+            ],
+            "id": "VEGAN-GREEK-GYROS-2361367",
+            "smallImageUrls": [
+                "https://lh3.googleusercontent.com/-mdw3P26DyMWJukl_UEyQ5ME2Nm503ZbHD9Ofdrtlm5zTTh0Gd4x2Liqve6QJGWyeAioAcW8JJ5q0eXaTJQ2=s90"
+            ],
+            "recipeName": "VEGAN GREEK GYROS",
+            "totalTimeInSeconds": 4200,
+            "attributes": {
+                "course": [
+                    "Lunch"
+                ]
+            },
+            "flavors": {
+                "piquant": 0.16666666666666666,
+                "meaty": 0.16666666666666666,
+                "bitter": 0.8333333333333334,
+                "sweet": 0.16666666666666666,
+                "sour": 0.5,
+                "salty": 0.8333333333333334
+            },
+            "rating": 4
+        }
+    ],
+    "facetCounts": {},
+    "totalMatchCount": 495,
+    "attribution": {
+        "html": "Recipe search powered by <a href='http://www.yummly.co/recipes'><img alt='Yummly' src='https://static.yummly.co/api-logo.png'/></a>",
+        "url": "http://www.yummly.co/recipes/",
+        "text": "Recipe search powered by Yummly",
+        "logo": "https://static.yummly.co/api-logo.png"
+    }
+}

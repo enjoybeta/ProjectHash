@@ -9,10 +9,10 @@
     <string name="menu_item3">Ingredients</string>
     <string name="menu_item4">Favorite</string>
     <string name="menu_item5">Profile</string>
+    <string name="search_hint">Any recipe</string>
 
     <!-- Fragment 1 -->
-    <string name="menu_item1_top">"Today's special"</string>
-    <string name="notification_badge">9</string>
+    <string name="today_s_special">"Today's Special"</string>
 
     <!-- Fragment 2 -->
     <string name="peopleCount">"Number of people attending"</string>
@@ -35,5 +35,7 @@
     <string name="food_category5">"Grains"</string>
     <string name="food_category6">"Oils"</string>
     <string name="button">"Add"</string>
+
+    <string name="search_result">Search result</string>
 
 </resources>

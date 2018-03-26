@@ -1,0 +1,341 @@
+{
+    "criteria": {
+        "q": "s+a+l+t",
+        "allowedIngredient": null,
+        "excludedIngredient": null
+    },
+    "matches": [
+        {
+            "imageUrlsBySize": {
+                "90": "https://lh3.googleusercontent.com/Et-bgvbKnghk87K4zVbZChEOJz_qu2dUwgqHMSiCA4Jp-MJsHKwsli5yR_qWo4LhSNv4ptuyLaV8ygwDhJkTKg=s90-c"
+            },
+            "sourceDisplayName": "It Doesn't Taste Like Chicken",
+            "ingredients": [
+                "vegetable broth",
+                "water",
+                "yellow onion",
+                "garlic",
+                "star anise",
+                "clove",
+                "fresh ginger",
+                "cinnamon sticks",
+                "soy sauce",
+                "wide rice noodles",
+                "fresh basil",
+                "fresh cilantro",
+                "fresh mint",
+                "green onions",
+                "mung bean sprouts",
+                "hot pepper",
+                "peanuts",
+                "mushrooms",
+                "tofu",
+                "hot sauce",
+                "lime wedges"
+            ],
+            "id": "Quick-Vegan-Pho-2366347",
+            "smallImageUrls": [
+                "https://lh3.googleusercontent.com/XLiHXwbU9Gm6sodwrTZtniY_XLtvjgtoSztRvpYz-Jk8T0wBAZOfDvJzgJ_OK98ZOobVboNG2PDpU9CDLLJrCg=s90"
+            ],
+            "recipeName": "Quick Vegan Pho",
+            "totalTimeInSeconds": 3900,
+            "attributes": {
+                "course": [
+                    "Main Dishes"
+                ],
+                "cuisine": [
+                    "Vietnamese"
+                ]
+            },
+            "flavors": null,
+            "rating": 4
+        },
+        {
+            "imageUrlsBySize": {
+                "90": "http://lh4.ggpht.com/4OX7jyiIw5jhXgLKWe4onJQgxFzOP6PGLMBjDMzL0RC0ccbJHb00usfk3MSTvOWshTWDZeHwDlFqWfx5H73QAg=s90-c"
+            },
+            "sourceDisplayName": "New York Style Snacks",
+            "ingredients": [
+                "lettuce",
+                "tomatoes",
+                "bacon",
+                "mayonnaise",
+                "bagel chips"
+            ],
+            "id": "B_L_T-477263",
+            "smallImageUrls": [
+                "http://lh3.ggpht.com/d45scgKmHDM-QysHkM2sWMiLIyjNX9R8kac0mmamYqoqzTTPmiDMTnwCwna9ePdKnT4FgzMV72MDYWRHk3fH=s90"
+            ],
+            "recipeName": "B.L.T",
+            "totalTimeInSeconds": 300,
+            "attributes": {
+                "course": [
+                    "Lunch"
+                ]
+            },
+            "flavors": null,
+            "rating": 4
+        },
+        {
+            "imageUrlsBySize": {
+                "90": "https://lh3.googleusercontent.com/NWHfk_JdWZAp3Pr1ayqqiCD4zIVjUnTerIzKTJzXXHsZkSqqOhh70a2EVZuSvc0jP3BsFegRbdP-H8E76UueXA=s90-c"
+            },
+            "sourceDisplayName": "Amy's Healthy Baking",
+            "ingredients": [
+                "whole wheat flour",
+                "dry yeast",
+                "baking powder",
+                "salt",
+                "nonfat milk",
+                "unsalted butter",
+                "coconut sugar",
+                "ground cinnamon"
+            ],
+            "id": "45-Minute-Healthy-Cinnamon-Rolls-1727696",
+            "smallImageUrls": [
+                "https://lh3.googleusercontent.com/eSxpSXS3fZgYJgx6vxeILe3_jCF3-wvOP_6adVg-z4k3rYrwRFyB7M_dXZAQn4peNsDR0foCX7x4KYVZnbndyuE=s90"
+            ],
+            "recipeName": "45-Minute Healthy Cinnamon Rolls",
+            "totalTimeInSeconds": 2700,
+            "attributes": {
+                "course": [
+                    "Breakfast and Brunch",
+                    "Breads"
+                ]
+            },
+            "flavors": {
+                "piquant": 0.0,
+                "meaty": 0.3333333333333333,
+                "bitter": 0.8333333333333334,
+                "sweet": 0.5,
+                "sour": 0.0,
+                "salty": 0.8333333333333334
+            },
+            "rating": 4
+        },
+        {
+            "imageUrlsBySize": {
+                "90": "http://lh3.googleusercontent.com/-Tpx-AmDEH7hBzgzzZSpbVrBuFKXoIbJk9DhluYayFfwIxvFAQ42EFQdgz5KYONyH9xI1Gj0-N1sFS2rGWYNVA=s90-c"
+            },
+            "sourceDisplayName": "Joy Bee What's For Dinner",
+            "ingredients": [
+                "lettuce",
+                "grape tomatoes",
+                "crispy bacon",
+                "avocado",
+                "olive oil",
+                "balsamic vinegar"
+            ],
+            "id": "Avocado-B_L_T-Salad-1088701",
+            "smallImageUrls": [
+                "http://lh3.googleusercontent.com/ZNoo6OcOrJmBH1GxgtvGfwgSvNVMZu6UiQqIrge5XCvRv8cxaNe15CnzjDovoKJRnCgjnwPKG0w2pVPD_3vOJQ=s90"
+            ],
+            "recipeName": "Avocado B.L.T Salad",
+            "totalTimeInSeconds": 1200,
+            "attributes": {
+                "course": [
+                    "Salads"
+                ]
+            },
+            "flavors": null,
+            "rating": 4
+        },
+        {
+            "imageUrlsBySize": {
+                "90": "https://lh3.googleusercontent.com/U7ACVeucsaIhyqyO0fbUO2byhvUKwCtvwvDDziDmB0VjRLQPPdx0pl0hO6akUTG3Cuj_7d9z7wm_mP5hdKnyGw=s90-c"
+            },
+            "sourceDisplayName": "Gluten Free With L.B.",
+            "ingredients": [
+                "almonds",
+                "coconut flakes",
+                "cacao powder",
+                "wildflower honey",
+                "coconut oil",
+                "salt",
+                "coconut sugar"
+            ],
+            "id": "Healthy-No-Bake-Chocolate-Macaroons-1551747",
+            "smallImageUrls": [
+                "https://lh3.googleusercontent.com/uguerZjMTQk_1FiIdj276rEsJUBHOdBIcXzI9rwCmPsiA308fSiWlq63fIgthcyAdsARj3LOhVs752MLYyJQag=s90"
+            ],
+            "recipeName": "Healthy No-Bake Chocolate Macaroons",
+            "totalTimeInSeconds": 900,
+            "attributes": {
+                "course": [
+                    "Desserts"
+                ]
+            },
+            "flavors": null,
+            "rating": 4
+        },
+        {
+            "imageUrlsBySize": {
+                "90": "https://lh3.googleusercontent.com/GajTBcQSe702Bph20rFI4w6m76Wo4CW2I1_XenrZJ38mVwP5zobiX3AHBQ7RcxGqcoOCBvrR0xxLJBk-8Mnheao=s90-c"
+            },
+            "sourceDisplayName": "Diethood",
+            "ingredients": [
+                "eggs",
+                "mayonnaise",
+                "salt",
+                "pepper",
+                "fresh parsley",
+                "butter",
+                "avocado",
+                "olive oil",
+                "lettuce leaves",
+                "bacon",
+                "tomatoes"
+            ],
+            "id": "B_L_A_T_-Omelette-Wrap-2304510",
+            "smallImageUrls": [
+                "https://lh3.googleusercontent.com/JD3ZnZjMzf_UhzXebou31SjSqpYDLIGvrQ-1R_cEjGKEdoAptrMwNwrCQpGSdEDnYOlG95lnCLCc95UJH3ZeXg=s90"
+            ],
+            "recipeName": "B.L.A.T. Omelette Wrap",
+            "totalTimeInSeconds": 1200,
+            "attributes": {
+                "course": [
+                    "Breakfast and Brunch",
+                    "Lunch"
+                ]
+            },
+            "flavors": {
+                "piquant": 0.0,
+                "meaty": 0.8333333333333334,
+                "bitter": 0.8333333333333334,
+                "sweet": 0.16666666666666666,
+                "sour": 0.5,
+                "salty": 0.8333333333333334
+            },
+            "rating": 4
+        },
+        {
+            "imageUrlsBySize": {
+                "90": "http://lh6.ggpht.com/ofBwXHGq4uF2pwWK_2XxkH_rVHT4adDGw2JJdhWN2LGyYVu3r_BAdArqxTkmk3GVBXsgf0fM7xaXmcNhiKGY=s90-c"
+            },
+            "sourceDisplayName": "Not Without Salt",
+            "ingredients": [
+                "mayonnaise",
+                "basil"
+            ],
+            "id": "B-L-_slow-roasted_-T-902148",
+            "smallImageUrls": [
+                "http://lh3.ggpht.com/cGX8cpmjiZsBuFQXxGxA1YEJazTZOoJpfXD2ba2hEFJAfvZUI83QvpZwhKnCJS6DUf4wXWUvcA-3ncRHFeHpMQ=s90"
+            ],
+            "recipeName": "B L (slow-roasted) T",
+            "totalTimeInSeconds": 900,
+            "attributes": {
+                "course": [
+                    "Lunch"
+                ]
+            },
+            "flavors": {
+                "piquant": 0.0,
+                "meaty": 0.8333333333333334,
+                "bitter": 0.8333333333333334,
+                "sweet": 0.5,
+                "sour": 0.16666666666666666,
+                "salty": 0.8333333333333334
+            },
+            "rating": 4
+        },
+        {
+            "imageUrlsBySize": {
+                "90": "https://lh3.googleusercontent.com/V0I8niyumKo0uMBnIICI3RKPcA3aJjKnIoA8ANg61fjbyhxhIIXg4yDt23rB7xBEoCBAwDRi9D2ctYGPJQdeY6U=s90-c"
+            },
+            "sourceDisplayName": "MyRecipes",
+            "ingredients": [
+                "Canadian bacon",
+                "whole wheat bread toasted",
+                "reduced fat mayonnaise",
+                "romaine lettuce leaves",
+                "beefsteak tomatoes",
+                "avocado slices"
+            ],
+            "id": "B_L_A_S_T_-Sandwich-524342",
+            "smallImageUrls": [
+                "https://lh3.googleusercontent.com/KrkZIfftYNFo1cowVlVVwhhB4xEAm2LwZHx_GyJkvx4rB-pRBNLZNKowCKz4Sr14L0tGptM4lEEsvEbfDuY3=s90"
+            ],
+            "recipeName": "B.L.A.S.T. Sandwich",
+            "totalTimeInSeconds": 1200,
+            "attributes": {},
+            "flavors": null,
+            "rating": 3
+        },
+        {
+            "imageUrlsBySize": {
+                "90": "https://lh3.googleusercontent.com/op3yRIUjBZxqrIcL38O_j8hxF9kkX2TSLb-3SKDuPTXKOndALC-PYOa4cPd9SiAGxY4LNp19MuN2-CScbh8H=s90-c"
+            },
+            "sourceDisplayName": "Older Mommy, Still Yummy",
+            "ingredients": [
+                "kiwi",
+                "honeydew melon",
+                "baby kale",
+                "bananas",
+                "milk",
+                "chia seeds",
+                "raspberries",
+                "pumpkin seeds",
+                "shredded coconut"
+            ],
+            "id": "Green-Goodness-Smoothie-Bowl-1478662",
+            "smallImageUrls": [
+                "https://lh3.googleusercontent.com/-4gph0RJ4aHdbp_uZLJcNyrBZ1__J3oTV2j5bM2LUUDr-zZ3AtbBHp4QFgUR668t79Sf2HhtExMZlHqMLzUAbg=s90"
+            ],
+            "recipeName": "Green Goodness Smoothie Bowl",
+            "totalTimeInSeconds": 900,
+            "attributes": {},
+            "flavors": null,
+            "rating": 4
+        },
+        {
+            "imageUrlsBySize": {
+                "90": "http://lh3.googleusercontent.com/J18Lv7tt8J3pN8mrbs-yU-6_I_GKngzOs4FuYf4wf_vEYHeuPKkwYGdYOL44Yoc2zd2HQC2DknpLDUYlOm7YKQ=s90-c"
+            },
+            "sourceDisplayName": "The Endless Meal",
+            "ingredients": [
+                "grape tomatoes",
+                "lettuce",
+                "cooked bacon",
+                "bacon",
+                "egg yolks",
+                "lemon juice",
+                "dijon mustard",
+                "seeds",
+                "chipotles in adobo",
+                "soy sauce",
+                "miso paste",
+                "sugar",
+                "liquid smoke",
+                "salt"
+            ],
+            "id": "Bite-Sized-Appetizers---Mini-B_L_T-Cups-1191592",
+            "smallImageUrls": [
+                "http://lh3.googleusercontent.com/nNI0z8QC41_RKwtevH1mg0s-TlIyFzgear4iPg5yiSMZhLUR21ZFBIM7ue2KinnOWLykHixfzrkmDwImfXrJ_A=s90"
+            ],
+            "recipeName": "Bite Sized Appetizers - Mini B.L.T Cups",
+            "totalTimeInSeconds": 1200,
+            "attributes": {
+                "course": [
+                    "Appetizers"
+                ]
+            },
+            "flavors": {
+                "piquant": 0.8333333333333334,
+                "meaty": 0.16666666666666666,
+                "bitter": 0.6666666666666666,
+                "sweet": 0.16666666666666666,
+                "sour": 0.6666666666666666,
+                "salty": 0.5
+            },
+            "rating": 4
+        }
+    ],
+    "facetCounts": {},
+    "totalMatchCount": 1634,
+    "attribution": {
+        "html": "Recipe search powered by <a href='http://www.yummly.co/recipes'><img alt='Yummly' src='https://static.yummly.co/api-logo.png'/></a>",
+        "url": "http://www.yummly.co/recipes/",
+        "text": "Recipe search powered by Yummly",
+        "logo": "https://static.yummly.co/api-logo.png"
+    }
+}

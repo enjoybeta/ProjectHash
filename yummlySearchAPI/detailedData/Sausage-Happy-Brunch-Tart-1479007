@@ -1,0 +1,57 @@
+{
+    "yield": "Makes one 10\" tart",
+    "nutritionEstimates": [],
+    "totalTime": "1 hr 25 min",
+    "images": [
+        {
+            "hostedSmallUrl": "https://lh3.googleusercontent.com/lzXZ_PWzv3RYwa2Qh6vOmM5uC2KX3eWfUNsnyviYjkPx1a68qESRgo8MpWrWKJbuKhlnzlVub1e8RvZTHmT9Aw=s90",
+            "hostedMediumUrl": "https://lh3.googleusercontent.com/lzXZ_PWzv3RYwa2Qh6vOmM5uC2KX3eWfUNsnyviYjkPx1a68qESRgo8MpWrWKJbuKhlnzlVub1e8RvZTHmT9Aw=s180",
+            "hostedLargeUrl": "https://lh3.googleusercontent.com/lzXZ_PWzv3RYwa2Qh6vOmM5uC2KX3eWfUNsnyviYjkPx1a68qESRgo8MpWrWKJbuKhlnzlVub1e8RvZTHmT9Aw=s360",
+            "imageUrlsBySize": {
+                "90": "https://lh3.googleusercontent.com/cEg5VCCuusbiLm6AiCyZ0ObiOa8Kw65Adw9qnQRfhhHImK5yEX6JLkiGSXdoR8fWNNaEu1PBQCYX4_zoArcw=s90-c",
+                "360": "https://lh3.googleusercontent.com/cEg5VCCuusbiLm6AiCyZ0ObiOa8Kw65Adw9qnQRfhhHImK5yEX6JLkiGSXdoR8fWNNaEu1PBQCYX4_zoArcw=s360-c"
+            }
+        }
+    ],
+    "name": "Sausage-Happy Brunch Tart",
+    "source": {
+        "sourceDisplayName": "Food52",
+        "sourceSiteUrl": "http://food52.com",
+        "sourceRecipeUrl": "https://food52.com/recipes/8170-sausage-happy-brunch-tart"
+    },
+    "id": "Sausage-Happy-Brunch-Tart-1479007",
+    "ingredientLines": [
+        "3/4 cup all-purpose flour",
+        "1/3 cup toasted wheat germ",
+        "3/4 cup chestnut flour",
+        "1/2 teaspoon finely chopped fresh marjoram",
+        "1/2 teaspoon finely chopped fresh sage",
+        "4 ounces (1 stick) unsalted butter",
+        "2 tablespoons olive oil",
+        "1 - 2 tablespoons cold whole milk",
+        "Butter for greasing foil used in blind baking",
+        "1/2 pound bulk sausage (pork, turkey or a combination)",
+        "1 medium yellow onion, chopped",
+        "1 cup half-and-half",
+        "1/4 cup heavy cream",
+        "3 large eggs",
+        "1/2 teaspoon finely chopped fresh sage, if necessary",
+        "1/2 teaspoon finely chopped fresh thyme, if necessary",
+        "1 tablespoon good prepared mustard (I use a stoneground mustard with horseradish)",
+        "2 ounces Gruyere or similar cheese, coarsely grated (or more, to taste)",
+        "1 Bosc or Anjou pear (optional)",
+        "Salt and pepper, if necessary",
+        "Salt and pepper, if necessary"
+    ],
+    "attribution": {
+        "html": "<a href='http://www.yummly.co/recipe/Sausage-Happy-Brunch-Tart-1479007'>Sausage-Happy Brunch Tart recipe</a> information powered by <img alt='Yummly' src='https://static.yummly.co/api-logo.png'/>",
+        "url": "http://www.yummly.co/recipe/Sausage-Happy-Brunch-Tart-1479007",
+        "text": "Sausage-Happy Brunch Tart recipes: information powered by Yummly",
+        "logo": "https://static.yummly.co/api-logo.png"
+    },
+    "numberOfServings": 1,
+    "totalTimeInSeconds": 5100,
+    "attributes": {},
+    "flavors": {},
+    "rating": 3
+}

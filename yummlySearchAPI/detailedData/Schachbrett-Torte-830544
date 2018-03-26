@@ -1,0 +1,42 @@
+{
+    "yield": "Zutaten f\u00fcr ca. 16 St\u00fccke:",
+    "nutritionEstimates": [],
+    "totalTime": "1 hr 45 min",
+    "images": [
+        {
+            "imageUrlsBySize": {
+                "90": "null=s90-c",
+                "360": "null=s360-c"
+            }
+        }
+    ],
+    "name": "Schachbrett-Torte",
+    "source": {
+        "sourceDisplayName": "Lecker",
+        "sourceSiteUrl": "lecker.de",
+        "sourceRecipeUrl": "http://www.lecker.de/rezept/863946/Schachbrett-Torte.html"
+    },
+    "id": "Schachbrett-Torte-830544",
+    "ingredientLines": [
+        "4 Eier (Gr. M), 350 g Zucker",
+        "3 P\u00e4ckchen Vanillin-Zucker",
+        "150 g Mehl, 2 TL Backpulver",
+        "5-6 EL (40-50 g) + 1 TL Kakao",
+        "3 EL \u00d6l, 7 Blatt wei\u00dfe Gelatine",
+        "400 g Schlagsahne",
+        "500 g Magerquark, 1/8 l Milch",
+        "abgerieb. Schale u. 4 EL Saft v.",
+        "1 unbeh. Zitrone, Backpapier"
+    ],
+    "attribution": {
+        "html": "<a href='http://www.yummly.co/recipe/Schachbrett-Torte-830544'>Schachbrett-Torte recipe</a> information powered by <img alt='Yummly' src='https://static.yummly.co/api-logo.png'/>",
+        "url": "http://www.yummly.co/recipe/Schachbrett-Torte-830544",
+        "text": "Schachbrett-Torte recipes: information powered by Yummly",
+        "logo": "https://static.yummly.co/api-logo.png"
+    },
+    "numberOfServings": 16,
+    "totalTimeInSeconds": 6300,
+    "attributes": {},
+    "flavors": {},
+    "rating": 3
+}

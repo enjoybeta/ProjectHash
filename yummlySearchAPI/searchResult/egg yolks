@@ -1,0 +1,49 @@
+{
+    "criteria": {
+        "q": "e+g+g+ +y+o+l+k+s",
+        "allowedIngredient": null,
+        "excludedIngredient": null
+    },
+    "matches": [
+        {
+            "imageUrlsBySize": {
+                "90": "http://lh3.googleusercontent.com/FL1i_7sznRqAMvmkdYtpn_7Fz1z6U8eZmtaErGtn87At1NZsZcY66jyqmcZG1V9SkIOylE0qcIThYoh6oMOrLg=s90-c"
+            },
+            "sourceDisplayName": "Lecker",
+            "ingredients": [
+                "Mehl",
+                "Backpulver",
+                "Zucker",
+                "Butter",
+                "Ei",
+                "Milch",
+                "Puddingpulver",
+                "Sour Cream",
+                "Rhabarber",
+                "Zitronensaft",
+                "Himbeersosse",
+                "Speisest\u00e4rke",
+                "Schlabgobers",
+                "Puderzucker",
+                "Minze"
+            ],
+            "id": "Vanille-Rhabarbertorte-923808",
+            "smallImageUrls": [
+                "http://lh3.googleusercontent.com/soGp63bq7RjpDjwCx1T-8ghKP3Mf_gxPzy7UxZfO1OvgRsvuqhU751EkBca1W3BIxKfbeoKIVTKnrUnMAAdqx94=s90"
+            ],
+            "recipeName": "Vanille-Rhabarbertorte",
+            "totalTimeInSeconds": 3600,
+            "attributes": {},
+            "flavors": null,
+            "rating": 3
+        }
+    ],
+    "facetCounts": {},
+    "totalMatchCount": 1,
+    "attribution": {
+        "html": "Recipe search powered by <a href='http://www.yummly.co/recipes'><img alt='Yummly' src='https://static.yummly.co/api-logo.png'/></a>",
+        "url": "http://www.yummly.co/recipes/",
+        "text": "Recipe search powered by Yummly",
+        "logo": "https://static.yummly.co/api-logo.png"
+    }
+}

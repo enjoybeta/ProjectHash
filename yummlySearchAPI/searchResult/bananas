@@ -1,0 +1,319 @@
+{
+    "criteria": {
+        "q": "b+a+n+a+n+a+s",
+        "allowedIngredient": null,
+        "excludedIngredient": null
+    },
+    "matches": [
+        {
+            "imageUrlsBySize": {
+                "90": "http://lh3.googleusercontent.com/r9YuNp9g79qSOc82wl5GDbfWBmpQq-zP3-kI71AyqmwU3k6CKnDIJXNtlu3oX6Hoz00LhYJvvVc7EAaqalZ54A=s90-c"
+            },
+            "sourceDisplayName": "The Kitchen Girl",
+            "ingredients": [
+                "fresh ginger",
+                "water",
+                "lemon juice",
+                "raw honey",
+                "ice cubes"
+            ],
+            "id": "Miracle-Slushie-Sore-Throat-Remedy-1239331",
+            "smallImageUrls": [
+                "http://lh3.googleusercontent.com/wusbvhpfq--aIFpuMTQnc0b0L0CxIL7FucE9y8ldpcMI1tto4mECgEH53SML6QnA46AbHNJBeoeIwVJEnXvhrw=s90"
+            ],
+            "recipeName": "Miracle Slushie Sore Throat Remedy",
+            "totalTimeInSeconds": 2400,
+            "attributes": {
+                "course": [
+                    "Beverages"
+                ]
+            },
+            "flavors": null,
+            "rating": 4
+        },
+        {
+            "imageUrlsBySize": {
+                "90": "https://lh3.googleusercontent.com/jPwrCNY4QrdA8SC3PEi8E2o8TddF76XDpCyzqEGacUnPcbD-x8Lp66k9hCXuVu8kUDsXhpJjgUWQe6rNecVa=s90-c"
+            },
+            "sourceDisplayName": "Little B Cooks",
+            "ingredients": [
+                "eggplant",
+                "large eggs",
+                "seasoned bread crumbs",
+                "olive oil",
+                "garlic salt"
+            ],
+            "id": "Baked-Eggplant-1539190",
+            "smallImageUrls": [
+                "https://lh3.googleusercontent.com/Dcsopu41avU9GSagjEc8GmXKN-6ze1sO3xXrMo84zn0bNHQ4GmmUOSeH8-72reU0-Cq2yxOwdecNl02GrBQL5A=s90"
+            ],
+            "recipeName": "Baked Eggplant",
+            "totalTimeInSeconds": 2400,
+            "attributes": {
+                "cuisine": [
+                    "Kid-Friendly"
+                ]
+            },
+            "flavors": {
+                "sweet": 0.16666666666666666,
+                "piquant": 0.0,
+                "sour": 0.16666666666666666,
+                "salty": 0.6666666666666666,
+                "meaty": 0.16666666666666666,
+                "bitter": 0.5
+            },
+            "rating": 4
+        },
+        {
+            "imageUrlsBySize": {
+                "90": "https://lh3.googleusercontent.com/dlpFueK9fgUzhyHx9NxxYnCYQEs38KScZ1FqWXIwRhUTehKdlnqh0q8zICZaboQC7l4rsKMzFHhqIP_R8Ef4bg=s90-c"
+            },
+            "sourceDisplayName": "Amy In The Kitchen",
+            "ingredients": [
+                "coconut water",
+                "blueberries",
+                "beets",
+                "basil leaves"
+            ],
+            "id": "Triple-_B_-Detox-Smoothie-1778036",
+            "smallImageUrls": [
+                "https://lh3.googleusercontent.com/VDz59zYf5qTJuLeJuEp7Gysk9y8xkugB_wgTH_kCGxjwRFkuWhsNBNi9K7tPGzr5rcoNJxlzksYFFnrGjUM1wQ=s90"
+            ],
+            "recipeName": "Triple \"B\" Detox Smoothie",
+            "totalTimeInSeconds": 300,
+            "attributes": {
+                "course": [
+                    "Beverages"
+                ]
+            },
+            "flavors": {
+                "piquant": 0.0,
+                "meaty": 0.16666666666666666,
+                "bitter": 0.16666666666666666,
+                "sweet": 0.5,
+                "sour": 0.3333333333333333,
+                "salty": 0.16666666666666666
+            },
+            "rating": 4
+        },
+        {
+            "imageUrlsBySize": {
+                "90": "https://lh3.googleusercontent.com/Aadhrn2hHiGbakI74NsPsPgSTaRvDSpdxoC7s_eRtM634-501ki2d56IHLMhwWoW4hQxBi3FKmlmVDCOVva1yw=s90-c"
+            },
+            "sourceDisplayName": "Island Farms",
+            "ingredients": [
+                "flour",
+                "baking powder",
+                "salt",
+                "sugar",
+                "butter",
+                "milk"
+            ],
+            "id": "Grandma-Bs-Biscuits-1812157",
+            "smallImageUrls": [
+                "https://lh3.googleusercontent.com/42ThLiKCbRnwpyhxy6FcFlqoB13_kd4qvP7Dn1ySgHltDikXNxrdBLg2P86YXAxdzS5sdeN-TS9qvmSQHP7enEY=s90"
+            ],
+            "recipeName": "Grandma B\u2019s Biscuits",
+            "totalTimeInSeconds": 1500,
+            "attributes": {
+                "course": [
+                    "Breads"
+                ]
+            },
+            "flavors": {
+                "piquant": 0.0,
+                "meaty": 0.5,
+                "bitter": 0.8333333333333334,
+                "sweet": 0.6666666666666666,
+                "sour": 0.16666666666666666,
+                "salty": 0.8333333333333334
+            },
+            "rating": 3
+        },
+        {
+            "imageUrlsBySize": {
+                "90": "http://lh3.ggpht.com/fAesg9kdINcjHVU3rgTZstoYBKjOV_-NLn9vB2vahHncRDihzrt4eu3YkRUvMSNFl0lw5DrosQeoenJsyJ0y=s90-c"
+            },
+            "sourceDisplayName": "Bakeaholic Mama",
+            "ingredients": [
+                "confectioners sugar",
+                "almond meal",
+                "egg whites",
+                "salt",
+                "granulated sugar",
+                "orange food coloring"
+            ],
+            "id": "Carrie-B-978193",
+            "smallImageUrls": [
+                "http://lh6.ggpht.com/ns5xfdb9upK9Ivqjx6eQdNa21uHtOPMHOd7rCFJobSTXe7N63IVqf_3O2j7sg8ubFuwfxW3-16Z1m-xLVQh3ijA=s90"
+            ],
+            "recipeName": "Carrie B",
+            "totalTimeInSeconds": null,
+            "attributes": {},
+            "flavors": null,
+            "rating": 4
+        },
+        {
+            "imageUrlsBySize": {
+                "90": "https://lh3.googleusercontent.com/bBi9tojOBPb7o_kKVo8iokVrsqNsJOGoVVSYMKlXzDE57TxDz1OSIll-fZiZlcS_4EtKQitSjdpXGJmDVjHvEQ=s90-c"
+            },
+            "sourceDisplayName": "Erica's Cannella Vita",
+            "ingredients": [
+                "whole milk",
+                "unsalted butter",
+                "sugar",
+                "kosher salt",
+                "all-purpose flour",
+                "large eggs",
+                "heavy cream",
+                "powdered sugar"
+            ],
+            "id": "Eri-B-1378966",
+            "smallImageUrls": [
+                "https://lh3.googleusercontent.com/J0wHhK6UqIdEYwqTAKFELPzGvb4fN8AdUE18tQ3g_YX07voEGALq2Fvq6X9juPuJ3uLlZX3nuql1aUnOq6pehkk=s90"
+            ],
+            "recipeName": "Eri B",
+            "totalTimeInSeconds": 1200,
+            "attributes": {},
+            "flavors": null,
+            "rating": 4
+        },
+        {
+            "imageUrlsBySize": {
+                "90": "https://lh3.googleusercontent.com/IfWRqJAgzjzKKkcKPSi540Z5ag_s_ywV1UX6OiKbcHqxVnBDllJqkgsNbkvK7SytAIOe9vU7fAmoNztNCtDk=s90-c"
+            },
+            "sourceDisplayName": "My Cooking Journey",
+            "ingredients": [
+                "almonds",
+                "powdered sugar",
+                "ghee",
+                "milk",
+                "saffron threads"
+            ],
+            "id": "B-for-Badam-Burfi-Badam-Katli-Almond-Burfi-2040660",
+            "smallImageUrls": [
+                "https://lh3.googleusercontent.com/h1GnoznFMo0Uoc5ZYOTJwGqjDe-bPc4jmoxxM_6-05jKQ-gGcXuBJlJoOAqfBL7TdLhGgHupUgt5ZzdU5U3M=s90"
+            ],
+            "recipeName": "B for Badam Burfi \u2013 Badam Katli \u2013 Almond Burfi",
+            "totalTimeInSeconds": 4800,
+            "attributes": {
+                "course": [
+                    "Desserts"
+                ]
+            },
+            "flavors": null,
+            "rating": 4
+        },
+        {
+            "imageUrlsBySize": {
+                "90": "https://lh3.googleusercontent.com/FzasRHXMY6pYP1PlwoxmBNXIhOCMuy1XzRczZokJeTfLG6YVaio70MPtLP2y8vofkHjinNgsEjH3CxVf7dm-ng=s90-c"
+            },
+            "sourceDisplayName": "Mommy's Home Cooking",
+            "ingredients": [
+                "extra-virgin olive oil",
+                "pure maple syrup",
+                "apple cider vinegar",
+                "grated lemon zest",
+                "lemon juice",
+                "kosher salt",
+                "black pepper"
+            ],
+            "id": "Maple-Vinaigrette-2033922",
+            "smallImageUrls": [
+                "https://lh3.googleusercontent.com/DeQ3ms3qyDlX3bibNqf1gqCaTFyodxIi0pTwt9dYSnQUFkAG9Y5dJRkKKCOXpaOJnYkRrr2yy33MomzmIszR=s90"
+            ],
+            "recipeName": "Maple Vinaigrette",
+            "totalTimeInSeconds": 180,
+            "attributes": {
+                "course": [
+                    "Salads"
+                ]
+            },
+            "flavors": {
+                "piquant": 0.0,
+                "meaty": 0.6666666666666666,
+                "bitter": 0.16666666666666666,
+                "sweet": 0.8333333333333334,
+                "sour": 0.5,
+                "salty": 0.8333333333333334
+            },
+            "rating": 4
+        },
+        {
+            "imageUrlsBySize": {
+                "90": "https://lh3.googleusercontent.com/6gVo76Z-TF83USwpqw0GPxE7a_8FO3tJOte1ebuvhoHEXxVdhNyLU6chPdc9NX2Wj_1NZDemUGQP_yVK3SlP7eg=s90-c"
+            },
+            "sourceDisplayName": "Dana Treat",
+            "ingredients": [
+                "round loaf",
+                "garlic",
+                "extra-virgin olive oil",
+                "roma tomatoes",
+                "fresh basil leaves",
+                "salt"
+            ],
+            "id": "Holly-Bs-Bruschetta-1766877",
+            "smallImageUrls": [
+                "https://lh3.googleusercontent.com/5d5VRyMWeTO5aYcsNml3H7qsg7sv6VvXZJNnqhdCD6NWd5hKc3tmvbR5L37SJDwGcYy8-llM-cJltbvaIAsYcA=s90"
+            ],
+            "recipeName": "Holly B\u2019s Bruschetta",
+            "totalTimeInSeconds": 2400,
+            "attributes": {
+                "course": [
+                    "Snacks",
+                    "Appetizers",
+                    "Lunch"
+                ],
+                "cuisine": [
+                    "Italian"
+                ]
+            },
+            "flavors": null,
+            "rating": 4
+        },
+        {
+            "imageUrlsBySize": {
+                "90": "http://lh3.googleusercontent.com/53AMjIz590g5XDXBtyzpekA4lznXj2Vzef9i7MX8RQcaAMCYZ_QEXkoZhRtvWNtT6vmONeLpyg4wSHh-FyQtjmo=s90-c"
+            },
+            "sourceDisplayName": "A Life From Scratch",
+            "ingredients": [
+                "all-purpose flour",
+                "baking powder",
+                "baking soda",
+                "salt",
+                "bananas",
+                "white sugar",
+                "eggs",
+                "butter"
+            ],
+            "id": "B_s-Banana-Muffins-1228697",
+            "smallImageUrls": [
+                "http://lh3.googleusercontent.com/b5rdqkwkeblblwvw-E053RiwoAXoWClg4aaisvXDZs1CSWCEIZiiL6inhmvz9Yn8f7I-z8uQkOTks95uQJI9LA=s90"
+            ],
+            "recipeName": "B's Banana Muffins",
+            "totalTimeInSeconds": 2400,
+            "attributes": {
+                "course": [
+                    "Breads"
+                ]
+            },
+            "flavors": {
+                "piquant": 0.0,
+                "meaty": 0.16666666666666666,
+                "bitter": 0.6666666666666666,
+                "sweet": 0.6666666666666666,
+                "sour": 0.16666666666666666,
+                "salty": 0.8333333333333334
+            },
+            "rating": 4
+        }
+    ],
+    "facetCounts": {},
+    "totalMatchCount": 20220,
+    "attribution": {
+        "html": "Recipe search powered by <a href='http://www.yummly.co/recipes'><img alt='Yummly' src='https://static.yummly.co/api-logo.png'/></a>",
+        "url": "http://www.yummly.co/recipes/",
+        "text": "Recipe search powered by Yummly",
+        "logo": "https://static.yummly.co/api-logo.png"
+    }
+}
