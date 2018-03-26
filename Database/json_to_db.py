@@ -4,12 +4,21 @@ import json
 from cassandra.cluster import Cluster
 import os
 
+'''python program used to add data to database from a specific folder that contains json files of recipe data'''
 if __name__ == '__main__':
+	#change to target data folder
 	os.chdir("./detailedData")
+
+	#create database connection
 	cluster = Cluster()
+	#use keyspace 'hash'
 	session = cluster.connect('hash')
+
+	#iterate through each json file in the folder
 	for root, dirs, files in os.walk("."):
 		for filename in files:
+
+			#load and extract the data
 			data = json.load(open(filename))
 			recipeid = data["id"]
 			recipename = data["name"] 
@@ -26,8 +35,9 @@ if __name__ == '__main__':
 				if data["flavors"][flavor] > largest:
 					largest = data["flavors"][flavor]
 					main_flavor = flavor
-			#flavor = data["flavors"]
 			instruction = data["source"]["sourceRecipeUrl"]
+
+			#insert data into database
 			session.execute(
 							'''
 							INSERT INTO public_recipe (id, name, time, imageurl, ingredients, numberofserving, flavor, instruction)
@@ -35,4 +45,6 @@ if __name__ == '__main__':
 							''',
 							(recipeid, recipename, totaltime, image, ingredients, number, main_flavor, instruction)
 						)
+
+	#close database connection
 	cluster.shutdown()
