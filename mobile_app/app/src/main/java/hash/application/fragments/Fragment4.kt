@@ -23,7 +23,8 @@ class Fragment4 : Fragment() {
     }
 
     override fun onStart() {
-        val values: ArrayList<Recipe> = getFavorites()
+        super.onStart()
+        val values: ArrayList<Recipe> = FavoriteManager.getList()
         val adapter = CustomRecipeAdapter(activity!!,values)
         if (values.isEmpty()) {
             Toast.makeText(context, "No data stored", Toast.LENGTH_LONG).show()
@@ -37,10 +38,6 @@ class Fragment4 : Fragment() {
             intent.putExtra("data",bundle)
             startActivity(intent)
         }
-        super.onStart()
     }
 
-    private fun getFavorites(): ArrayList<Recipe> {
-        return FavoriteManager.getList()
-    }
 }
