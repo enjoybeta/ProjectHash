@@ -5,11 +5,11 @@ from cassandra.cluster import Cluster
 from pprint import pprint
 
 '''sample python function to simulate situation that return json file based on a search in database'''
-def search_keyword(request_json):
+def search_keyword(request):
 	#create connection to database
 	cluster = Cluster()
 	session = cluster.connect('hash')
-	data = json.load(open(request_json))
+	data = json.load(request)
 	#specific a recipe to search in database
 	#id = "French-Onion-Soup-2141595"
 	keyword = data["keyword"]
@@ -34,9 +34,10 @@ def search_keyword(request_json):
 		return_list.append(return_data)
 	#with open("search1_return.json", 'w') as outfile:
 	json_return = json.dumps(return_list)
+	print(json_return)
 	return json_return
 	#close database connection
 	cluster.shutdown()
 
-if __name__ == "__main__":
-    search_keyword('search2_request.json')
+#if __name__ == "__main__":
+#    search_keyword('search2_request.json')
