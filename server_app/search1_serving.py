@@ -32,7 +32,6 @@ def search_serving(request):
 		return_list.append(return_data)
 	#with open("search1_return.json", 'w') as outfile:
 	json_return = json.dumps(return_list)
-	print (json_return)
 	return json_return
 	#close database connection
 	cluster.shutdown()

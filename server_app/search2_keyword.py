@@ -10,13 +10,10 @@ def search_keyword(request):
 	cluster = Cluster()
 	session = cluster.connect('hash')
 	data = json.load(request)
-	#specific a recipe to search in database
-	#id = "French-Onion-Soup-2141595"
 	keyword = data["keyword"]
 	rows = session.execute('''
 				SELECT * from public_recipe where name like '%''' + keyword + '''%' allow filtering
 				'''
-				#(keyword,)
 			)
 	#format the result data from database
 	return_list = []
@@ -34,7 +31,6 @@ def search_keyword(request):
 		return_list.append(return_data)
 	#with open("search1_return.json", 'w') as outfile:
 	json_return = json.dumps(return_list)
-	print(json_return)
 	return json_return
 	#close database connection
 	cluster.shutdown()
