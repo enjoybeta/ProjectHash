@@ -1,5 +1,6 @@
 package hash.application.helpers
 
+import android.util.Log
 import okhttp3.OkHttpClient
 import okhttp3.Request
 import okhttp3.Response
@@ -13,12 +14,23 @@ object WebManager {
 
     private val client: OkHttpClient = OkHttpClient()
 
+    init {
+        try {
+            val request = Request.Builder()
+                    .url("$serverAddress/")
+                    .build()
+            val response: Response = client.newCall(request).execute()//synchronous
+        } catch (e: Exception) {
+            Log.e("log_WebManager",e.stackTrace.toString())
+        }
+    }
+
     fun getToday1(): String {
         val request = Request.Builder()
                 .url("$serverAddress/today1")
                 .build()
         val response: Response = client.newCall(request).execute()//synchronous
-        assert(response.code()==200)
+        assert(response.code() == 200)
         return response.body()!!.string().toString()
     }
 
@@ -27,7 +39,7 @@ object WebManager {
                 .url("$serverAddress/today2")
                 .build()
         val response: Response = client.newCall(request).execute()//synchronous
-        assert(response.code()==200)
+        assert(response.code() == 200)
         return response.body()!!.string().toString()
     }
 
@@ -36,7 +48,7 @@ object WebManager {
                 .url("$serverAddress/today3")
                 .build()
         val response: Response = client.newCall(request).execute()//synchronous
-        assert(response.code()==200)
+        assert(response.code() == 200)
         return response.body()!!.string().toString()
     }
 
@@ -45,7 +57,7 @@ object WebManager {
                 .url("$serverAddress/today4")
                 .build()
         val response: Response = client.newCall(request).execute()//synchronous
-        assert(response.code()==200)
+        assert(response.code() == 200)
         return response.body()!!.string().toString()
     }
 }

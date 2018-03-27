@@ -14,10 +14,11 @@ import java.util.ArrayList
 object FavoriteManager {
     private val fav: Favorites = Favorites()
     private var dir: File? = null
+    private const val fileName = "favorites.dat"
 
     fun initFromFile(_dir: File) {
         dir = _dir
-        val dataFile = FileManager(dir!!, "favorites.dat")
+        val dataFile = FileManager(dir!!, fileName)
         if (!dataFile.checkFile()) {
             dataFile.proofFile()
         }
@@ -37,7 +38,7 @@ object FavoriteManager {
     }
 
     private fun saveToFile() {
-        val dataFile = FileManager(dir!!, "favorites.dat")
+        val dataFile = FileManager(dir!!, fileName)
         val jsonStr: String = Gson().toJson(fav)
         dataFile.writeFile(jsonStr)
     }

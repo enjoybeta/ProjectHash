@@ -36,6 +36,6 @@
     <string name="food_category6">"Oils"</string>
     <string name="button">"Add"</string>
 
-    <string name="search_result">Search result</string>
+    <string name="search_result">Search result for ""</string>
 
 </resources>
