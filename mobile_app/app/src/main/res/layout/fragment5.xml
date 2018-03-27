@@ -9,11 +9,4 @@
         android:text="@string/menu_item5"
         android:textSize="30sp" />
 
-    <ListView
-        android:layout_width="match_parent"
-        android:layout_height="match_parent"
-        android:layout_marginBottom="?attr/actionBarSize"
-        android:layout_alignParentStart="true"
-        android:layout_alignParentTop="true" />
-
 </RelativeLayout>

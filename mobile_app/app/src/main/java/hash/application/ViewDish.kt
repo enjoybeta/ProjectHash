@@ -1,7 +1,7 @@
 package hash.application
 
-import android.os.Bundle;
-import android.app.Activity;
+import android.os.Bundle
+import android.app.Activity
 import android.content.Intent
 import android.net.Uri
 import android.util.Log
