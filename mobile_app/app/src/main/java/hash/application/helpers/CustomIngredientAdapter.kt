@@ -23,7 +23,6 @@ class CustomIngredientAdapter(context: Context, ing: ArrayList<Ingredient>) :
         internal var quantity: TextView? = null
     }
 
-    @SuppressLint("SetTextI18n")
     override fun getView(position: Int, convertView: View?, parent: ViewGroup): View {
         val view: View?
         val ingredient: Ingredient = getItem(position)

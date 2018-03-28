@@ -32,7 +32,7 @@ object IngredientManager {
         try {
             val rawString = dataFile.readFile()
             val ingredients: Ingredients = Gson().fromJson(rawString, Ingredients::class.java)
-            if (ingredients.ingredients == null) {//catch parsing failure, favorites could be null
+            if (ingredients.ingredients == null) {//catch parsing failure, recipes could be null
                 Log.e("log_IngredientManager", "ingredient is null")
                 throw Exception("ingredient is null")
             }

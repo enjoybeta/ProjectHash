@@ -83,12 +83,10 @@ class Fragment1 : Fragment() {
         searchView.queryHint = "Any recipe"
         searchView.setOnQueryTextListener(object : android.widget.SearchView.OnQueryTextListener {
             override fun onQueryTextChange(text: String): Boolean {
-                Toast.makeText(context, "onQueryTextChange:[$text]", Toast.LENGTH_SHORT).show()
                 return true
             }
 
             override fun onQueryTextSubmit(query: String): Boolean {
-                Toast.makeText(context, "onQueryTextSubmit:$query", Toast.LENGTH_SHORT).show()
                 var str = "[]"
                 val webThread = Thread(Runnable {
                     str = WebManager.searchByName(query)

@@ -27,9 +27,11 @@ object FavoriteManager {
             val favorites: Recipes = Gson().fromJson(rawString, Recipes::class.java)
             if (favorites.favorites == null) {//catch parsing failure, favorites could be null
                 Log.e("log_FavoriteManager", "favorites is null")
-                throw Exception("favorites is null")
+            if (favorites.recipes == null) {//catch parsing failure, recipes could be null
+                Log.e("log_FavoriteManager", "recipes is null")
+                throw Exception("recipes is null")
             }
-            for (i in favorites.favorites) {
+            for (i in favorites.recipes) {
                 addRecipe(i)
             }
         } catch (e: Exception) {
@@ -44,15 +46,15 @@ object FavoriteManager {
     }
 
     fun addRecipe(recipe: Recipe): Boolean {
-        val ret = fav.favorites.add(recipe)
+        val ret = fav.recipes.add(recipe)
         saveToFile()
         return ret
     }
 
     fun removeRecipeByID(id: String): Boolean {
-        for (i in fav.favorites) {
+        for (i in fav.recipes) {
             if (i.id == id) {
-                val ret = fav.favorites.remove(i)
+                val ret = fav.recipes.remove(i)
                 saveToFile()
                 return ret
             }
@@ -61,7 +63,7 @@ object FavoriteManager {
     }
 
     fun findRecipeByName(name: String): Boolean {
-        for (i in fav.favorites) {
+        for (i in fav.recipes) {
             if (i.name == name) {
                 return true
             }
@@ -70,7 +72,7 @@ object FavoriteManager {
     }
 
     fun findRecipeById(id: String): Boolean {
-        for (i in fav.favorites) {
+        for (i in fav.recipes) {
             if (i.id == id) {
                 return true
             }
@@ -80,13 +82,13 @@ object FavoriteManager {
 
     fun getNameList(): ArrayList<String> {
         val ret: ArrayList<String> = ArrayList()
-        for (i in fav.favorites) {
+        for (i in fav.recipes) {
             ret.add(i.name)
         }
         return ret
     }
 
     fun getList(): ArrayList<Recipe> {
-        return fav.favorites
+        return fav.recipes
     }
 }

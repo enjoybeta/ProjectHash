@@ -27,7 +27,7 @@
     <string name="checkbox9">"No wheat"</string>
     <string name="search">"Search"</string>
 
-    <!-- Fragment 2 -->
+    <!-- Fragment 3 -->
     <string name="food_category1">"Fruits"</string>
     <string name="food_category2">"Vegetables"</string>
     <string name="food_category3">"Protein"</string>
@@ -36,6 +36,9 @@
     <string name="food_category6">"Oils"</string>
     <string name="button">"Add"</string>
 
-    <string name="search_result">Search result for ""</string>
+    <!-- ViewDish -->
+    <string name="cooking_instructions">Cooking instructions</string>
+    <string name="menu_name">menuName</string>
+    <string name="required_ingredients">Required ingredients</string>
 
 </resources>
