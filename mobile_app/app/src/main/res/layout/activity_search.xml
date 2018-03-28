@@ -6,21 +6,10 @@
     xmlns:tools="http://schemas.android.com/tools"
     tools:context=".MainActivity">
 
-    <TextView
-        android:id="@+id/textView1"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:text="@string/search_result"
-        android:layout_marginTop="20dp"
-        android:layout_centerHorizontal="true"
-        android:textSize="30sp"/>
-
     <ListView
         android:id="@+id/listView1"
         android:layout_width="match_parent"
-        android:layout_height="326dp"
-        android:layout_below="@id/textView1"
-        android:layout_marginTop="20dp">
-    </ListView>
+        android:layout_height="match_parent"
+        android:layout_below="@id/textView1"/>
 
 </RelativeLayout>

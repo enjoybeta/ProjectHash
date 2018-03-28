@@ -2,7 +2,7 @@ package hash.application.helpers
 
 import android.util.Log
 import com.google.gson.Gson
-import hash.application.dataType.Favorites
+import hash.application.dataType.Recipes
 import hash.application.dataType.Recipe
 import java.io.File
 import java.util.ArrayList
@@ -12,7 +12,7 @@ import java.util.ArrayList
  */
 //use Singleton by object
 object FavoriteManager {
-    private val fav: Favorites = Favorites()
+    private val fav: Recipes = Recipes()
     private var dir: File? = null
     private const val fileName = "favorites.dat"
 
@@ -24,7 +24,7 @@ object FavoriteManager {
         }
         try {
             val rawString = dataFile.readFile()
-            val favorites: Favorites = Gson().fromJson(rawString, Favorites::class.java)
+            val favorites: Recipes = Gson().fromJson(rawString, Recipes::class.java)
             if (favorites.favorites == null) {//catch parsing failure, favorites could be null
                 Log.e("log_FavoriteManager", "favorites is null")
                 throw Exception("favorites is null")

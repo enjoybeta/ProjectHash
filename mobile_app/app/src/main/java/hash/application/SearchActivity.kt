@@ -1,8 +1,12 @@
 package hash.application
 
+import android.content.Intent
 import android.support.v7.app.AppCompatActivity
 import android.os.Bundle
-import android.widget.ArrayAdapter
+import android.util.Log
+import com.google.gson.Gson
+import hash.application.dataType.Recipe
+import hash.application.helpers.CustomRecipeAdapter
 import kotlinx.android.synthetic.main.activity_search.*
 
 class SearchActivity : AppCompatActivity() {
@@ -14,11 +18,21 @@ class SearchActivity : AppCompatActivity() {
 
     override fun onStart(){
         super.onStart()
-        val query = intent.extras.getString("query")
+        val json = intent.extras.getString("json")
 
-
-        val players = arrayOf("Lionel Messi", "Christiano Ronaldo", "Neymar", "Gareth Bale")
-        val adapter : ArrayAdapter<String> = ArrayAdapter<String>(this, android.R.layout.simple_list_item_1, players)
+        val recipes: List<Recipe>? = Gson().fromJson(json, Array<Recipe>::class.java).toList()
+        if (recipes == null) {
+            Log.e("log_SearchActivity", "recipes is null")
+            throw Exception("recipes is null")
+        }
+        val adapter = CustomRecipeAdapter(this,ArrayList(recipes))
         listView1.adapter = adapter
+        listView1.setOnItemClickListener { _, _, position, _ ->
+            val recipe: Recipe = adapter.getItem(position)
+            val intent = Intent(this, ViewDish::class.java)
+            val bundle = recipe.getRecipeBundle()
+            intent.putExtra("data",bundle)
+            startActivity(intent)
+        }
     }
 }

@@ -30,15 +30,15 @@ class Fragment1 : Fragment() {
     }
 
     private fun setupTodaySuggestion() {
-        var recipe1 : Recipe? = null
-        var recipe2 : Recipe? = null
-        var recipe3 : Recipe? = null
-        var recipe4 : Recipe? = null
+        var recipe1: Recipe? = null
+        var recipe2: Recipe? = null
+        var recipe3: Recipe? = null
+        var recipe4: Recipe? = null
         val webThread = Thread(Runnable {
-            val dataStr1 : String = WebManager.getToday1()
-            val dataStr2 : String = WebManager.getToday2()
-            val dataStr3 : String = WebManager.getToday3()
-            val dataStr4 : String = WebManager.getToday4()
+            val dataStr1: String = WebManager.getToday1()
+            val dataStr2: String = WebManager.getToday2()
+            val dataStr3: String = WebManager.getToday3()
+            val dataStr4: String = WebManager.getToday4()
             recipe1 = Gson().fromJson(dataStr1, Recipe::class.java)
             recipe2 = Gson().fromJson(dataStr2, Recipe::class.java)
             recipe3 = Gson().fromJson(dataStr3, Recipe::class.java)
@@ -53,25 +53,25 @@ class Fragment1 : Fragment() {
         imageView1.setOnClickListener({
             val intent = Intent(context, ViewDish::class.java)
             val bundle = recipe1!!.getRecipeBundle()
-            intent.putExtra("data",bundle)
+            intent.putExtra("data", bundle)
             startActivity(intent)
         })
         imageView2.setOnClickListener({
             val intent = Intent(context, ViewDish::class.java)
             val bundle = recipe2!!.getRecipeBundle()
-            intent.putExtra("data",bundle)
+            intent.putExtra("data", bundle)
             startActivity(intent)
         })
         imageView3.setOnClickListener({
             val intent = Intent(context, ViewDish::class.java)
             val bundle = recipe3!!.getRecipeBundle()
-            intent.putExtra("data",bundle)
+            intent.putExtra("data", bundle)
             startActivity(intent)
         })
         imageView4.setOnClickListener({
             val intent = Intent(context, ViewDish::class.java)
             val bundle = recipe4!!.getRecipeBundle()
-            intent.putExtra("data",bundle)
+            intent.putExtra("data", bundle)
             startActivity(intent)
         })
     }
@@ -89,8 +89,14 @@ class Fragment1 : Fragment() {
 
             override fun onQueryTextSubmit(query: String): Boolean {
                 Toast.makeText(context, "onQueryTextSubmit:$query", Toast.LENGTH_SHORT).show()
+                var str = "[]"
+                val webThread = Thread(Runnable {
+                    str = WebManager.searchByName(query)
+                })
+                webThread.start()
+                webThread.join()
                 val intent = Intent(context, SearchActivity::class.java)
-                intent.putExtra("query", query)
+                intent.putExtra("json", str)
                 startActivity(intent)
                 return true
             }
