@@ -12,7 +12,7 @@ def search_serving(request):
 	data = json.loads(request.decode('utf-8'))
 	num = data["numberofserving"]
 	rows = session.execute('''
-				SELECT * from public_recipe where numberofserving = %s allow filtering
+				SELECT * from public_recipe where numberofserving = %s limit 10 allow filtering
 				''',
 				(num,)
 			)
