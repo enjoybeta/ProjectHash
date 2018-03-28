@@ -1,5 +1,6 @@
 package hash.application.fragments
 
+import android.content.Intent
 import android.os.Bundle
 import android.support.v4.app.Fragment
 import android.view.LayoutInflater
@@ -8,6 +9,9 @@ import android.view.ViewGroup
 import hash.application.R
 import kotlinx.android.synthetic.main.fragment2.*
 import android.widget.Toast
+import hash.application.SearchActivity
+import hash.application.dataType.SearchCoarse
+import hash.application.helpers.WebManager
 
 //"suggestion" fragment
 class Fragment2: Fragment() {
@@ -21,9 +25,16 @@ class Fragment2: Fragment() {
         // set on-click listener
         btnSearch.setOnClickListener {
             Toast.makeText(context, "You clicked on search.", Toast.LENGTH_SHORT).show()
-            //val intent = Intent(context, ?::class.java)//TODO
-            //intent.putExtra("?", ?)
-            //startActivity(intent)
+            var str = "[]"
+            val webThread = Thread(Runnable {
+                val tmp = SearchCoarse(editText.text.toString().toInt())
+                str = WebManager.searchCoarse(tmp)
+            })
+            webThread.start()
+            webThread.join()
+            val intent = Intent(context, SearchActivity::class.java)
+            intent.putExtra("json", str)
+            startActivity(intent)
         }
         super.onStart()
     }

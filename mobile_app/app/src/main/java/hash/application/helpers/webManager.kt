@@ -1,8 +1,10 @@
 package hash.application.helpers
 
 import android.util.Log
+import com.google.gson.Gson
+import hash.application.dataType.SearchCoarse
+import hash.application.dataType.SearchPrecise
 import okhttp3.*
-
 
 /**
  * Created by gouji on 3/18/2018.
@@ -61,9 +63,9 @@ object WebManager {
         return response.body()!!.string()
     }
 
-    fun searchByName(input: String): String {
-        val tmp = "{\"keyword\":\"$input\"}"
-        val body = RequestBody.create(JSON, tmp)
+    fun searchPrecise(input: SearchPrecise): String {
+        val jsonStr: String = Gson().toJson(input)
+        val body = RequestBody.create(JSON, jsonStr)
         val request = Request.Builder()
                 .url("$serverAddress/searchPrecise")
                 .post(body)
@@ -72,4 +74,17 @@ object WebManager {
         assert(response.code() == 200)
         return response.body()!!.string()
     }
+
+    fun searchCoarse(input: SearchCoarse): String {
+        val jsonStr: String = Gson().toJson(input)
+        val body = RequestBody.create(JSON, jsonStr)
+        val request = Request.Builder()
+                .url("$serverAddress/searchCoarse")
+                .post(body)
+                .build()
+        val response: Response = client.newCall(request).execute()//synchronous
+        assert(response.code() == 200)
+        return response.body()!!.string()
+    }
+
 }

@@ -8,13 +8,13 @@ import android.view.ViewGroup
 import com.squareup.picasso.Picasso
 import hash.application.R
 import kotlinx.android.synthetic.main.fragment1.*
-import android.widget.Toast
 import android.content.Intent
 import hash.application.SearchActivity
 import hash.application.ViewDish
 import hash.application.helpers.WebManager
 import com.google.gson.Gson
 import hash.application.dataType.Recipe
+import hash.application.dataType.SearchPrecise
 
 //"home" fragment
 class Fragment1 : Fragment() {
@@ -89,7 +89,8 @@ class Fragment1 : Fragment() {
             override fun onQueryTextSubmit(query: String): Boolean {
                 var str = "[]"
                 val webThread = Thread(Runnable {
-                    str = WebManager.searchByName(query)
+                    val tmp = SearchPrecise(query)
+                    str = WebManager.searchPrecise(tmp)
                 })
                 webThread.start()
                 webThread.join()
