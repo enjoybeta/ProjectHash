@@ -25,8 +25,6 @@ object FavoriteManager {
         try {
             val rawString = dataFile.readFile()
             val favorites: Recipes = Gson().fromJson(rawString, Recipes::class.java)
-            if (favorites.favorites == null) {//catch parsing failure, favorites could be null
-                Log.e("log_FavoriteManager", "favorites is null")
             if (favorites.recipes == null) {//catch parsing failure, recipes could be null
                 Log.e("log_FavoriteManager", "recipes is null")
                 throw Exception("recipes is null")
