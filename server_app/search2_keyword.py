@@ -12,7 +12,7 @@ def search_keyword(request):
 	data = json.loads(request.decode('utf-8'))
 	keyword = data["keyword"]
 	rows = session.execute('''
-				SELECT * from public_recipe where name like '%''' + keyword + '''%' allow filtering
+				SELECT * from public_recipe where name like '%''' + keyword + '''%' limit 10 allow filtering
 				'''
 			)
 	#format the result data from database
