@@ -1,6 +1,6 @@
 from flask import Flask,request
 import json
-from search1_keyword import search_serving
+from search1_serving import search_serving
 from search2_keyword import search_keyword
 
 app = Flask(__name__)
@@ -33,17 +33,30 @@ def today4():
         data=myfile.readline()
     return data
     
-@app.route('/searchRecipe', methods=['POST', 'GET'])
-def search_data():
+@app.route('/searchPrecise', methods=['POST', 'GET'])
+def search_precise():
     if request.method == 'POST':
         if valid_search(request.data):
-            return process_search_by_name(request.data)
+            return search_keyword(request.data)
         else:
             error = 'Invalid input data'
             return error
     else:
         error = 'Only accepts POST method'
         return error
+
+@app.route('/searchCoarse', methods=['POST', 'GET'])
+def search_coarse():
+    if request.method == 'POST':
+        if valid_search(request.data):
+            return search_serving(request.data)
+        else:
+            error = 'Invalid input data'
+            return error
+    else:
+        error = 'Only accepts POST method'
+        return error
+
 
 def valid_search(data):
     try:
@@ -52,9 +65,6 @@ def valid_search(data):
         print("Not valid Json")
         return False
     return True
-    
-def process_search_by_name(data):
-    return search_keyword2(data)
 
 if __name__ == "__main__":
     app.run(host='127.0.0.1')

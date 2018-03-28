@@ -9,7 +9,7 @@ def search_keyword(request):
 	#create connection to database
 	cluster = Cluster()
 	session = cluster.connect('hash')
-	data = json.load(request)
+	data = json.loads(request.decode('utf-8'))
 	keyword = data["keyword"]
 	rows = session.execute('''
 				SELECT * from public_recipe where name like '%''' + keyword + '''%' allow filtering

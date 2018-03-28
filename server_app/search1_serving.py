@@ -9,7 +9,7 @@ def search_serving(request):
 	#create connection to database
 	cluster = Cluster()
 	session = cluster.connect('hash')
-	data = json.load(request)
+	data = json.loads(request.decode('utf-8'))
 	num = data["numberofserving"]
 	rows = session.execute('''
 				SELECT * from public_recipe where numberofserving = %s allow filtering
