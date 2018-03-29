@@ -18,26 +18,27 @@ class SearchActivity : AppCompatActivity() {
 
     override fun onStart() {
         super.onStart()
-        val json = intent.extras.getString("json")
+        val json = intent.extras.getString("json")//get json string sent from intent
 
         val recipes: ArrayList<Recipe>
         recipes = try {
             ArrayList(Gson().fromJson(json, Array<Recipe>::class.java).toList())
         } catch (e: Exception) {
-            ArrayList()
+            ArrayList()//in case json str is empty or faulty
         }
         if (recipes == null) {
             Log.e("log_SearchActivity", "recipes is null")
             throw Exception("recipes is null")
         }
         val adapter = CustomRecipeAdapter(this, recipes)
-        listView1.adapter = adapter
+        listView1.adapter = adapter//attach the custom adapter on the listview
+        //the reaction when click items in listview
         listView1.setOnItemClickListener { _, _, position, _ ->
-            val recipe: Recipe = adapter.getItem(position)
-            val intent = Intent(this, ViewDish::class.java)
+            val recipe: Recipe = adapter.getItem(position)//get the item clicked one
+            val intent = Intent(this, ViewDish::class.java)//setup the activity to open
             val bundle = recipe.getRecipeBundle()
-            intent.putExtra("data", bundle)
-            startActivity(intent)
+            intent.putExtra("data", bundle)//put the json data into intent, can be accessed after the activity opened
+            startActivity(intent)//open the activity
         }
     }
 }
