@@ -57,7 +57,7 @@ def search_coarse():
         error = 'Only accepts POST method'
         return error
 
-
+#return true if the string can be load into json object, otherwise false
 def valid_search(data):
     try:
         json_object = json.loads(data.decode('utf-8'))

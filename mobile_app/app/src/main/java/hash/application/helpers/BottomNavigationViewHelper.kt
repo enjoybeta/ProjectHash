@@ -37,42 +37,4 @@ object BottomNavigationViewHelper {
             Log.e("BNVHelper", "Unable to change value of shift mode", e)
         }
     }
-
-    fun removeTextLabel(view: BottomNavigationView){
-        val menuView = view.getChildAt(0) as BottomNavigationMenuView
-        for(i in 0 until menuView.childCount){
-            val item = menuView.getChildAt(i) as BottomNavigationItemView
-            val itemView: View = view.findViewById(item.id)
-            if(itemView is MenuView.ItemView){
-                val itemViewGroup = itemView as ViewGroup
-                for(j in 0 until itemViewGroup.childCount){
-                    val v = itemViewGroup.getChildAt(j)
-                    if(v is ViewGroup) {
-                        itemViewGroup.removeViewAt(j)
-                    }
-                }
-                itemView.setPadding(itemView.paddingLeft,24,itemView.paddingRight,24)
-            }
-        }
-    }
-
-    fun addBadge(view: BottomNavigationView, activity : AppCompatActivity, field: Int) {
-        val bottomNavigationMenuView = view.getChildAt(0) as BottomNavigationMenuView
-        val v = bottomNavigationMenuView.getChildAt(field)
-        val itemView = v as BottomNavigationItemView
-        val badge = LayoutInflater.from(activity).inflate(R.layout.badge, bottomNavigationMenuView, false)
-        itemView.addView(badge)
-    }
-
-    fun sizeIcon(view: BottomNavigationView, metrics: DisplayMetrics, float: Float){
-        val menuView = view.getChildAt(0) as BottomNavigationMenuView
-        for (i in 0 until menuView.childCount) {
-            val iconView = menuView.getChildAt(i).findViewById<View>(android.support.design.R.id.icon)
-            val layoutParams = iconView.layoutParams
-            layoutParams.height = TypedValue.applyDimension(TypedValue.COMPLEX_UNIT_DIP, float, metrics).toInt()
-            layoutParams.width = TypedValue.applyDimension(TypedValue.COMPLEX_UNIT_DIP, float, metrics).toInt()
-            iconView.layoutParams = layoutParams
-        }
-    }
-
 }

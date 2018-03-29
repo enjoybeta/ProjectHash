@@ -12,7 +12,7 @@ import okhttp3.*
 //use Singleton by object
 object WebManager {
     private const val serverAddress: String = "https://www.enjoybeta.com"
-    private val JSON = MediaType.parse("application/json; charset=utf-8")
+    private val JSON: MediaType? = MediaType.parse("application/json; charset=utf-8")
 
     private val client: OkHttpClient = OkHttpClient()
 
