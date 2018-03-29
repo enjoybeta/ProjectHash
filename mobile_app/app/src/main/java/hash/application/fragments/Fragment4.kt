@@ -31,6 +31,7 @@ class Fragment4 : Fragment() {
             Log.e("log_fragment4", "no favorites")
         }
         favList.adapter = adapter// Assign adapter to ListView
+        // click on a specific recipe in the favorite list
         favList.setOnItemClickListener { _, _, position, _ ->
             val recipe: Recipe = adapter.getItem(position)
             val intent = Intent(context, ViewDish::class.java)

@@ -29,6 +29,7 @@ class Fragment3 : Fragment() {
             Log.e("log_fragment4", "no ingredients")
         }
         ingredientList.adapter = adapter// Assign adapter to ListView
+        // click on a specific ingredient in the list
         ingredientList.setOnItemClickListener { _, _, position, _ ->
             val ing: Ingredient = adapter.getItem(position)
             IngredientManager.removeIngredientByName(ing.name)
