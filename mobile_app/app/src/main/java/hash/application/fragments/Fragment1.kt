@@ -18,6 +18,7 @@ import hash.application.dataType.SearchPrecise
 
 //"home" fragment
 class Fragment1 : Fragment() {
+    // Modify the view when create
     override fun onCreateView(inflater: LayoutInflater, container: ViewGroup?, savedInstanceState: Bundle?): View? {
         return inflater.inflate(R.layout.fragment1, container, false)
     }
@@ -29,11 +30,18 @@ class Fragment1 : Fragment() {
         provideSearch()
     }
 
+    /*
+    This function is for today suggestions. It should get suggestions from the server and
+    load them to the home page. It should also set call-back to those suggestions that allow
+    program show the detail of recipes when users click the corresponding buttons.
+    */
     private fun setupTodaySuggestion() {
+        // four recipes to store infomration from the server
         var recipe1: Recipe? = null
         var recipe2: Recipe? = null
         var recipe3: Recipe? = null
         var recipe4: Recipe? = null
+        // get data from server
         val webThread = Thread(Runnable {
             val dataStr1: String = WebManager.getToday1()
             val dataStr2: String = WebManager.getToday2()
@@ -46,10 +54,12 @@ class Fragment1 : Fragment() {
         })
         webThread.start()
         webThread.join()
+        // load image to the view
         Picasso.with(activity).load(recipe1!!.imageURLs).into(imageView1)
         Picasso.with(activity).load(recipe2!!.imageURLs).into(imageView2)
         Picasso.with(activity).load(recipe3!!.imageURLs).into(imageView3)
         Picasso.with(activity).load(recipe4!!.imageURLs).into(imageView4)
+        // set call-back when click the image
         imageView1.setOnClickListener({
             val intent = Intent(context, ViewDish::class.java)
             val bundle = recipe1!!.getRecipeBundle()
@@ -76,6 +86,9 @@ class Fragment1 : Fragment() {
         })
     }
 
+    /*
+    This function prvide search to the home page.
+     */
     private fun provideSearch() {
         searchView.setIconifiedByDefault(true)
         searchView.isFocusable = false
