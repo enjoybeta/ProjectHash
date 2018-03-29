@@ -2,15 +2,21 @@ import sys
 import json
 import cassandra
 from cassandra.cluster import Cluster
-from pprint import pprint
 
-'''sample python function to simulate situation that return json file based on a search in database'''
+
+'''
+	python function that return json file based on a keyword search in database
+    @request: json object of input data
+'''
 def search_keyword(request):
 	#create connection to database
 	cluster = Cluster()
 	session = cluster.connect('hash')
+
+	#decode input data
 	data = json.loads(request.decode('utf-8'))
 	keyword = data["keyword"]
+	#excute cql to get result recipes
 	rows = session.execute('''
 				SELECT * from public_recipe where name like '%''' + keyword + '''%' limit 10 allow filtering
 				'''
@@ -26,14 +32,9 @@ def search_keyword(request):
 						'imageURLs': row.imageurl,
 						'flavor': row.flavor,
 						'instructionurl': row.instruction}
-		#write the data into a json file
-		#name = row.id + '.json'
 		return_list.append(return_data)
-	#with open("search1_return.json", 'w') as outfile:
+	#encode the result data into json object
 	json_return = json.dumps(return_list)
 	return json_return
 	#close database connection
 	cluster.shutdown()
-
-#if __name__ == "__main__":
-#    search_keyword('search2_request.json')
