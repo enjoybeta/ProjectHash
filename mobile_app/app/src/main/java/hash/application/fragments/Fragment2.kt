@@ -22,16 +22,18 @@ class Fragment2: Fragment() {
 
     override fun onStart() {
         val btnSearch = button
-        // set on-click listener
+        // set on-click listener for search with conditions
         btnSearch.setOnClickListener {
             Toast.makeText(context, "You clicked on search.", Toast.LENGTH_SHORT).show()
             var str = "[]"
+            // get recipes from server using WebManager
             val webThread = Thread(Runnable {
                 val tmp = SearchCoarse(editText.text.toString().toInt())
                 str = WebManager.searchCoarse(tmp)
             })
             webThread.start()
             webThread.join()
+            // call SearchActivity to process returned string from WebManager
             val intent = Intent(context, SearchActivity::class.java)
             intent.putExtra("json", str)
             startActivity(intent)
