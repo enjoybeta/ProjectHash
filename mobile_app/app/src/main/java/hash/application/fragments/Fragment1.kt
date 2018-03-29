@@ -18,7 +18,7 @@ import hash.application.dataType.SearchPrecise
 
 //"home" fragment
 class Fragment1 : Fragment() {
-    // Modify the view when create
+    // modify the view when create
     override fun onCreateView(inflater: LayoutInflater, container: ViewGroup?, savedInstanceState: Bundle?): View? {
         return inflater.inflate(R.layout.fragment1, container, false)
     }
@@ -26,6 +26,7 @@ class Fragment1 : Fragment() {
     override fun onStart() {
         super.onStart()
 
+        // set call-back functions
         setupTodaySuggestion()
         provideSearch()
     }
@@ -87,7 +88,8 @@ class Fragment1 : Fragment() {
     }
 
     /*
-    This function prvide search to the home page.
+    This function prvide search function to the home page. This function set call-back to the
+    submit action.
      */
     private fun provideSearch() {
         searchView.setIconifiedByDefault(true)
@@ -101,6 +103,7 @@ class Fragment1 : Fragment() {
 
             override fun onQueryTextSubmit(query: String): Boolean {
                 var str = "[]"
+                // send the entered text to the server to get search result
                 val webThread = Thread(Runnable {
                     val tmp = SearchPrecise(query)
                     str = WebManager.searchPrecise(tmp)
@@ -109,6 +112,7 @@ class Fragment1 : Fragment() {
                 webThread.join()
                 val intent = Intent(context, SearchActivity::class.java)
                 intent.putExtra("json", str)
+                // show the result by showing a new page
                 startActivity(intent)
                 return true
             }
