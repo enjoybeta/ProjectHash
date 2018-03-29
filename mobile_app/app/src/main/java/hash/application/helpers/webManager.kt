@@ -27,6 +27,7 @@ object WebManager {
         }
     }
 
+    // first recipe suggestion for today
     fun getToday1(): String {
         val request = Request.Builder()
                 .url("$serverAddress/today1")
@@ -36,6 +37,7 @@ object WebManager {
         return response.body()!!.string()
     }
 
+    // second recipe suggestion for today
     fun getToday2(): String {
         val request = Request.Builder()
                 .url("$serverAddress/today2")
@@ -45,6 +47,7 @@ object WebManager {
         return response.body()!!.string()
     }
 
+    // third recipe suggestion for today
     fun getToday3(): String {
         val request = Request.Builder()
                 .url("$serverAddress/today3")
@@ -54,6 +57,7 @@ object WebManager {
         return response.body()!!.string()
     }
 
+    // fourth recipe suggestion for today
     fun getToday4(): String {
         val request = Request.Builder()
                 .url("$serverAddress/today4")
@@ -63,6 +67,7 @@ object WebManager {
         return response.body()!!.string()
     }
 
+    // search with keywords
     fun searchPrecise(input: SearchPrecise): String {
         val jsonStr: String = Gson().toJson(input)
         val body = RequestBody.create(JSON, jsonStr)
@@ -75,6 +80,7 @@ object WebManager {
         return response.body()!!.string()
     }
 
+    // search with conditions (num people, ingredients choice)
     fun searchCoarse(input: SearchCoarse): String {
         val jsonStr: String = Gson().toJson(input)
         val body = RequestBody.create(JSON, jsonStr)
