@@ -38,7 +38,7 @@ class CustomIngredientAdapter(context: Context, ing: ArrayList<Ingredient>) :
             viewHolder = view.tag as ViewHolder
         }
         viewHolder.name!!.text = ingredient.name
-        viewHolder.quantity!!.text = ingredient.quantity + " " + ingredient.unit
+        viewHolder.quantity!!.text = ingredient.quantity.toString() + " " + ingredient.unit
         return view!!
     }
 

@@ -24,6 +24,7 @@
             android:name=".ViewDish"
             android:label="@string/app_name" />
         <activity android:name=".SearchActivity" />
+        <activity android:name=".AddRecipeActivity"></activity>
     </application>
 
 </manifest>

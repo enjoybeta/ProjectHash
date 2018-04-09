@@ -41,4 +41,10 @@
     <string name="menu_name">menuName</string>
     <string name="required_ingredients">Required ingredients</string>
 
+    <!-- AddRecipe -->
+    <string name="ingredient_name">Ingredient Name</string>
+    <string name="quantity">Quantity</string>
+    <string name="unit">Unit</string>
+    <string name="add">Add</string>
+
 </resources>

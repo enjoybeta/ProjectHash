@@ -17,8 +17,8 @@ object IngredientManager {
 
     fun initData() {
         //TODO remove
-        val ing1 = Ingredient("apple", "2", "box")
-        val ing2 = Ingredient("pear", "5", "")
+        val ing1 = Ingredient("apple", 2, "box")
+        val ing2 = Ingredient("pear", 5, "")
         ing.ingredients.add(ing1)
         ing.ingredients.add(ing2)
     }

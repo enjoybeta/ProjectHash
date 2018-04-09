@@ -1,5 +1,6 @@
 package hash.application.fragments
 
+import android.content.Intent
 import android.os.Bundle
 import android.support.v4.app.Fragment
 import android.util.Log
@@ -7,6 +8,7 @@ import android.view.LayoutInflater
 import android.view.View
 import android.view.ViewGroup
 import android.widget.Toast
+import hash.application.AddRecipeActivity
 import hash.application.R
 import hash.application.dataType.Ingredient
 import hash.application.helpers.CustomIngredientAdapter
@@ -34,6 +36,11 @@ class Fragment3 : Fragment() {
             val ing: Ingredient = adapter.getItem(position)
             IngredientManager.removeIngredientByName(ing.name)
             adapter.notifyDataSetChanged()
+        }
+
+        button1.setOnClickListener{
+            val intent = Intent(context, AddRecipeActivity::class.java)
+            startActivity(intent)
         }
     }
 
