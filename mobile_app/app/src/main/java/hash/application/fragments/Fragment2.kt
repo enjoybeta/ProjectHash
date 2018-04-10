@@ -29,7 +29,32 @@ class Fragment2 : Fragment() {
             lateinit var str: String
             // get recipes from server using WebManager
             val webThread = Thread(Runnable {
-                val tmp = SearchCoarse(editText.text.toString().toInt(), IngredientManager.getNameList(), ArrayList())
+                val notHaving = ArrayList<String>()
+                if(checkBox2.isChecked){
+                    notHaving.add("egg")
+                }
+                if(checkBox3.isChecked){
+                    notHaving.add("fish")
+                }
+                if(checkBox4.isChecked){
+                    notHaving.add("milk")
+                }
+                if(checkBox5.isChecked){
+                    notHaving.add("peanut")
+                }
+                if(checkBox6.isChecked){
+                    notHaving.add("shellfish")
+                }
+                if(checkBox7.isChecked){
+                    notHaving.add("soy")
+                }
+                if(checkBox8.isChecked){
+                    notHaving.add("nuts")
+                }
+                if(checkBox9.isChecked){
+                    notHaving.add("wheat")
+                }
+                val tmp = SearchCoarse(editText.text.toString().toInt(), IngredientManager.getNameList(), notHaving)
                 str = WebManager.searchCoarse(tmp)
             })
             webThread.start()
