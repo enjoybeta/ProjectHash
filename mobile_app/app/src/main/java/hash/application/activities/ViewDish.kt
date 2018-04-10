@@ -1,4 +1,4 @@
-package hash.application
+package hash.application.activities
 
 import android.os.Bundle
 import android.app.Activity
@@ -7,8 +7,9 @@ import android.net.Uri
 import android.util.Log
 import android.widget.Toast
 import com.squareup.picasso.Picasso
+import hash.application.R
 import hash.application.dataType.Recipe
-import hash.application.helpers.FavoriteManager
+import hash.application.managers.FavoriteManager
 import kotlinx.android.synthetic.main.activity_viewdish.*
 
 /**

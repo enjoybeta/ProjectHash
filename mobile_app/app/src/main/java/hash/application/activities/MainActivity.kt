@@ -1,13 +1,14 @@
-package hash.application
+package hash.application.activities
 
 import android.support.v7.app.AppCompatActivity
 import android.os.Bundle
 import android.support.v4.app.Fragment
+import hash.application.R
 import hash.application.fragments.Fragment3
 import hash.application.fragments.*
 import hash.application.helpers.BottomNavigationViewHelper
-import hash.application.helpers.FavoriteManager
-import hash.application.helpers.IngredientManager
+import hash.application.managers.FavoriteManager
+import hash.application.managers.IngredientManager
 import kotlinx.android.synthetic.main.activity_main.*
 
 class MainActivity : AppCompatActivity() {

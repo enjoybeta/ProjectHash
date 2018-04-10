@@ -1,10 +1,11 @@
-package hash.application
+package hash.application.activities
 
 import android.content.Intent
 import android.support.v7.app.AppCompatActivity
 import android.os.Bundle
 import android.util.Log
 import com.google.gson.Gson
+import hash.application.R
 import hash.application.dataType.Recipe
 import hash.application.helpers.CustomRecipeAdapter
 import kotlinx.android.synthetic.main.activity_search.*

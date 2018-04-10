@@ -9,9 +9,9 @@ import com.squareup.picasso.Picasso
 import hash.application.R
 import kotlinx.android.synthetic.main.fragment1.*
 import android.content.Intent
-import hash.application.SearchActivity
-import hash.application.ViewDish
-import hash.application.helpers.WebManager
+import hash.application.activities.SearchActivity
+import hash.application.activities.ViewDish
+import hash.application.managers.WebManager
 import com.google.gson.Gson
 import hash.application.dataType.Recipe
 import hash.application.dataType.SearchPrecise
@@ -102,15 +102,15 @@ class Fragment1 : Fragment() {
             }
 
             override fun onQueryTextSubmit(query: String): Boolean {
-                var str = "[]"
+                lateinit var str: String
                 // send the entered text to the server to get search result
                 val webThread = Thread(Runnable {
                     val tmp = SearchPrecise(query)
                     str = WebManager.searchPrecise(tmp)
                 })
                 webThread.start()
-                webThread.join()
                 val intent = Intent(context, SearchActivity::class.java)
+                webThread.join()
                 intent.putExtra("json", str)
                 // show the result by showing a new page
                 startActivity(intent)

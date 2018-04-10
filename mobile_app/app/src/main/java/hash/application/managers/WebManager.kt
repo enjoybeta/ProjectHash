@@ -1,4 +1,4 @@
-package hash.application.helpers
+package hash.application.managers
 
 import android.util.Log
 import com.google.gson.Gson
@@ -83,6 +83,7 @@ object WebManager {
     // search with conditions (num people, ingredients choice)
     fun searchCoarse(input: SearchCoarse): String {
         val jsonStr: String = Gson().toJson(input)
+        Log.d("log_coarse",jsonStr)//TODO delete
         val body = RequestBody.create(JSON, jsonStr)
         val request = Request.Builder()
                 .url("$serverAddress/searchCoarse")

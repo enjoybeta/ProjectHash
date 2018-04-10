@@ -8,11 +8,11 @@ import android.view.LayoutInflater
 import android.view.View
 import android.view.ViewGroup
 import android.widget.Toast
-import hash.application.AddRecipeActivity
+import hash.application.activities.AddRecipeActivity
 import hash.application.R
 import hash.application.dataType.Ingredient
 import hash.application.helpers.CustomIngredientAdapter
-import hash.application.helpers.IngredientManager
+import hash.application.managers.IngredientManager
 import kotlinx.android.synthetic.main.fragment3.*
 
 //"ingredients" fragment

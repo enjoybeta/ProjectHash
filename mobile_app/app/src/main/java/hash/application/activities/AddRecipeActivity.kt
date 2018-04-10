@@ -1,11 +1,12 @@
-package hash.application
+package hash.application.activities
 
 import android.support.v7.app.AppCompatActivity
 import android.os.Bundle
 import android.widget.ArrayAdapter
 import android.widget.Toast
+import hash.application.R
 import hash.application.dataType.Ingredient
-import hash.application.helpers.IngredientManager
+import hash.application.managers.IngredientManager
 import kotlinx.android.synthetic.main.activity_add_recipe.*
 
 class AddRecipeActivity : AppCompatActivity() {

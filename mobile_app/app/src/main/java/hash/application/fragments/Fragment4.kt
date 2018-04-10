@@ -9,10 +9,10 @@ import android.view.View
 import android.view.ViewGroup
 import hash.application.R
 import android.widget.Toast
-import hash.application.ViewDish
+import hash.application.activities.ViewDish
 import hash.application.dataType.Recipe
 import hash.application.helpers.CustomRecipeAdapter
-import hash.application.helpers.FavoriteManager
+import hash.application.managers.FavoriteManager
 import kotlinx.android.synthetic.main.fragment4.*
 
 //"favorite" fragment

@@ -1,4 +1,4 @@
-package hash.application.helpers
+package hash.application.managers
 
 import android.util.Log
 import java.io.File
