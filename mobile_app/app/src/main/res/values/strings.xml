@@ -36,6 +36,9 @@
     <string name="food_category6">"Oils"</string>
     <string name="button">"Add"</string>
 
+    <!-- Fragment 5 -->
+    <string name="profile">"Profile"</string>
+
     <!-- ViewDish -->
     <string name="cooking_instructions">Cooking instructions</string>
     <string name="menu_name">menuName</string>
