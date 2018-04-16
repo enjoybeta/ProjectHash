@@ -62,7 +62,7 @@ def search_coarse():
         return error
 
 @app.route('/signup', methods=['POST', 'GET'])
-def search_coarse():
+def sign_up():
     if request.method == 'POST':
         if validate_json(request.data):
             return sign_up(request.data)
@@ -74,7 +74,7 @@ def search_coarse():
         return error
 
 @app.route('/login', methods=['POST', 'GET'])
-def search_coarse():
+def login():
     if request.method == 'POST':
         if validate_json(request.data):
             return login(request.data)
@@ -86,7 +86,7 @@ def search_coarse():
         return error
 
 @app.route('/upload_data', methods=['POST', 'GET'])
-def search_coarse():
+def upload_data():
     if request.method == 'POST':
         if validate_json(request.data):
             return upload(request.data)
@@ -98,7 +98,7 @@ def search_coarse():
         return error
 
 @app.route('/download_data', methods=['POST', 'GET'])
-def search_coarse():
+def download_data():
     if request.method == 'POST':
         if validate_json(request.data):
             return download(request.data)
