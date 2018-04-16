@@ -2,6 +2,10 @@ from flask import Flask,request
 import json
 from search1_serving import search_serving
 from search2_keyword import search_keyword
+from user_manager import sign_up
+from user_manager import login
+from user_manager import upload
+from user_manager import download
 
 app = Flask(__name__)
 
@@ -36,7 +40,7 @@ def today4():
 @app.route('/searchPrecise', methods=['POST', 'GET'])
 def search_precise():
     if request.method == 'POST':
-        if valid_search(request.data):
+        if validate_json(request.data):
             return search_keyword(request.data)
         else:
             error = 'Invalid input data'
@@ -48,7 +52,7 @@ def search_precise():
 @app.route('/searchCoarse', methods=['POST', 'GET'])
 def search_coarse():
     if request.method == 'POST':
-        if valid_search(request.data):
+        if validate_json(request.data):
             return search_serving(request.data)
         else:
             error = 'Invalid input data'
@@ -57,8 +61,56 @@ def search_coarse():
         error = 'Only accepts POST method'
         return error
 
+@app.route('/signup', methods=['POST', 'GET'])
+def search_coarse():
+    if request.method == 'POST':
+        if validate_json(request.data):
+            return sign_up(request.data)
+        else:
+            error = 'Invalid input data'
+            return error
+    else:
+        error = 'Only accepts POST method'
+        return error
+
+@app.route('/login', methods=['POST', 'GET'])
+def search_coarse():
+    if request.method == 'POST':
+        if validate_json(request.data):
+            return login(request.data)
+        else:
+            error = 'Invalid input data'
+            return error
+    else:
+        error = 'Only accepts POST method'
+        return error
+
+@app.route('/upload_data', methods=['POST', 'GET'])
+def search_coarse():
+    if request.method == 'POST':
+        if validate_json(request.data):
+            return upload(request.data)
+        else:
+            error = 'Invalid input data'
+            return error
+    else:
+        error = 'Only accepts POST method'
+        return error
+
+@app.route('/download_data', methods=['POST', 'GET'])
+def search_coarse():
+    if request.method == 'POST':
+        if validate_json(request.data):
+            return download(request.data)
+        else:
+            error = 'Invalid input data'
+            return error
+    else:
+        error = 'Only accepts POST method'
+        return error
+
 #return true if the string can be load into json object, otherwise false
-def valid_search(data):
+def validate_json(data):
     try:
         json_object = json.loads(data.decode('utf-8'))
     except ValueError:
