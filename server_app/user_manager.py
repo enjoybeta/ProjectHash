@@ -18,7 +18,6 @@ def sign_up(request):
 				(username,)
 			)
 	if rows:
-		print "Username already exists!"
 		return "Username already exists!"
 	else:
 		session.execute('''
@@ -27,7 +26,6 @@ def sign_up(request):
 				''',
 				(username, email, password)
 			)
-	print "Sign up success!"
 	return "Sign up success!"
 	#close database connection
 	cluster.shutdown()
@@ -48,14 +46,11 @@ def login(request):
 	if rows:
 		for row in rows:
 			if password == row.password:	
-				print "Login success!"
 				return "Login success!"
 			else:
-				print "Wrong username or password!"
 				return "Wrong username or password!"
 
 	else:
-		print "Wrong username or password!"
 		return "Wrong username or password!"
 	#close database connection
 	cluster.shutdown()
@@ -83,14 +78,11 @@ def upload(request):
 					''',
 					(favourite, ingredients, username)
 				)
-				print "Upload success!"
 				return "Upload success!"
 			else:
-				print "Wrong username or password!"
 				return "Wrong username or password!"
 
 	else:
-		print "Wrong username or password!"
 		return "Wrong username or password!"
 	#close database connection
 	cluster.shutdown()
@@ -115,14 +107,11 @@ def download(request):
 							'favourite': row.favourite,
 							'ingredients': row.ingredients}
 				json_return = json.dumps(return_data)
-				print json_return
 				return json_return
 			else:
-				print "Wrong username or password!"
 				return "Wrong username or password!"
 
 	else:
-		print "Wrong username or password!"
 		return "Wrong username or password!"
 	#close database connection
 	cluster.shutdown()
