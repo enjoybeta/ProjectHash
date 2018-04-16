@@ -30,28 +30,28 @@ class Fragment2 : Fragment() {
             // get recipes from server using WebManager
             val webThread = Thread(Runnable {
                 val notHaving = ArrayList<String>()
-                if(checkBox2.isChecked){
+                if (checkBox2.isChecked) {
                     notHaving.add("egg")
                 }
-                if(checkBox3.isChecked){
+                if (checkBox3.isChecked) {
                     notHaving.add("fish")
                 }
-                if(checkBox4.isChecked){
+                if (checkBox4.isChecked) {
                     notHaving.add("milk")
                 }
-                if(checkBox5.isChecked){
+                if (checkBox5.isChecked) {
                     notHaving.add("peanut")
                 }
-                if(checkBox6.isChecked){
+                if (checkBox6.isChecked) {
                     notHaving.add("shellfish")
                 }
-                if(checkBox7.isChecked){
+                if (checkBox7.isChecked) {
                     notHaving.add("soy")
                 }
-                if(checkBox8.isChecked){
+                if (checkBox8.isChecked) {
                     notHaving.add("nuts")
                 }
-                if(checkBox9.isChecked){
+                if (checkBox9.isChecked) {
                     notHaving.add("wheat")
                 }
                 val tmp = SearchCoarse(editText.text.toString().toInt(), IngredientManager.getNameList(), notHaving)
