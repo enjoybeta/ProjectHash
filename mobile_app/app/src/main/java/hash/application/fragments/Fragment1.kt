@@ -37,7 +37,7 @@ class Fragment1 : Fragment() {
     program show the detail of recipes when users click the corresponding buttons.
     */
     private fun setupTodaySuggestion() {
-        // four recipes to store infomration from the server
+        // four recipes to store information from the server
         var recipe1: Recipe? = null
         var recipe2: Recipe? = null
         var recipe3: Recipe? = null
