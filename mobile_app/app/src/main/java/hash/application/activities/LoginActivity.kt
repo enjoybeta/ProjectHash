@@ -28,17 +28,25 @@ class LoginActivity: Activity() {
         }
         // send entered user info to server and check if user exists
         lateinit var servResult: String
-        val user = User(editText4.text.toString(), editText5.text.toString())
         val btnLogin = button5
         btnLogin.setOnClickListener {
             Toast.makeText(this, "DEBUG: Clicked on login.", Toast.LENGTH_SHORT).show()
-            servResult = WebManager.userLogin(user)
+            // connect to server
+            val webThread = Thread(Runnable {
+                val user = User(editText4.text.toString(), editText5.text.toString())
+                servResult = WebManager.userLogin(user)
+            })
+            webThread.start()
+            webThread.join()
             // check result returned by server
-            if (servResult == "Succeed") {
+            if (servResult == "Login success!") {
                 finish()
             }
-            else {
+            else if (servResult == "Wrong username or password!") {
                 Toast.makeText(this, "Failed. Incorrect Username or Password.", Toast.LENGTH_SHORT).show()
+            }
+            else {
+                Toast.makeText(this, "Unknown Error Occurred", Toast.LENGTH_SHORT).show()
             }
         }
     }

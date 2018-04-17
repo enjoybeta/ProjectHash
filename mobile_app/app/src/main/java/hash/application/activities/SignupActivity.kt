@@ -27,17 +27,25 @@ class SignupActivity: Activity() {
         }
         // send entered user info to server and create a new user
         lateinit var servResult: String
-        val userInfo = NewUser(editText3.text.toString(), editText6.text.toString(), editText7.text.toString())
         val btnRegister = button6
         btnRegister.setOnClickListener{
             Toast.makeText(this, "DEBUG: Clicked on register.", Toast.LENGTH_SHORT).show()
-            servResult = WebManager.userSignup(userInfo)
+            // connect to server
+            val webThread = Thread ({
+                val userInfo = NewUser(editText3.text.toString(), editText6.text.toString(), editText7.text.toString())
+                servResult = WebManager.userSignup(userInfo)
+            })
+            webThread.start()
+            webThread.join()
             // check result returned by server
-            if (servResult == "Succeed") {
+            if (servResult == "Sign up success!") {
                 finish()
             }
-            else {
+            else if (servResult == "Username already exists!") {
                 Toast.makeText(this, "Failed. Username already exists!", Toast.LENGTH_SHORT).show()
+            }
+            else {
+                Toast.makeText(this, "Unknown Error Occurred", Toast.LENGTH_SHORT).show()
             }
         }
     }
