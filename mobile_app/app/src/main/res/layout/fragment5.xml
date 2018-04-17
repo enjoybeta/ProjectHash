@@ -9,9 +9,10 @@
         android:id="@+id/button2"
         android:layout_width="240dp"
         android:layout_height="wrap_content"
-        android:text="@string/retrieve_from_server"
-        android:layout_marginTop="300dp"
-        android:layout_marginStart="32dp" />
+        android:layout_alignParentBottom="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginBottom="193dp"
+        android:text="@string/retrieve_from_server" />
 
     <Button
         android:id="@+id/button3"
@@ -19,7 +20,7 @@
         android:layout_height="wrap_content"
         android:layout_alignParentTop="true"
         android:layout_alignStart="@+id/button2"
-        android:layout_marginTop="217dp"
+        android:layout_marginTop="310dp"
         android:text="@string/upload_to_server"
         tools:layout_editor_absoluteX="86dp"
         tools:layout_editor_absoluteY="433dp" />
@@ -55,7 +56,7 @@
         android:layout_height="wrap_content"
         android:layout_alignParentTop="true"
         android:layout_alignStart="@+id/button2"
-        android:layout_marginTop="137dp"
+        android:layout_marginTop="200dp"
         android:text="@string/status"
         tools:layout_editor_absoluteX="86dp"
         tools:layout_editor_absoluteY="199dp" />

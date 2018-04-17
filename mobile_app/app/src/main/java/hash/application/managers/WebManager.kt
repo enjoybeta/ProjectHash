@@ -2,8 +2,10 @@ package hash.application.managers
 
 import android.util.Log
 import com.google.gson.Gson
+import hash.application.dataType.NewUser
 import hash.application.dataType.SearchCoarse
 import hash.application.dataType.SearchPrecise
+import hash.application.dataType.User
 import okhttp3.*
 
 /**
@@ -93,4 +95,29 @@ object WebManager {
         return response.body()!!.string()
     }
 
+    // user signup: check if username is valid
+    fun userSignup(input: NewUser): String {
+        val jsonStr: String = Gson().toJson(input)
+        val body = RequestBody.create(JSON, jsonStr)
+        val request = Request.Builder()
+                .url("$serverAddress/signup")
+                .post(body)
+                .build()
+        val response: Response = client.newCall(request).execute()//synchronous
+        assert(response.code() == 200)
+        return response.body()!!.string()
+    }
+
+    // user login: check if user is valid
+    fun userLogin(input: User): String {
+        val jsonStr: String = Gson().toJson(input)
+        val body = RequestBody.create(JSON, jsonStr)
+        val request = Request.Builder()
+                .url("$serverAddress/login")
+                .post(body)
+                .build()
+        val response: Response = client.newCall(request).execute()//synchronous
+        assert(response.code() == 200)
+        return response.body()!!.string()
+    }
 }

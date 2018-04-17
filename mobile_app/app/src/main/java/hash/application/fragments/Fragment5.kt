@@ -19,6 +19,7 @@ class Fragment5: Fragment() {
     }
 
     override fun onStart() {
+        super.onStart()
         // Sign in or Register
         val btnLogin = button4
         btnLogin.setOnClickListener{
@@ -26,6 +27,15 @@ class Fragment5: Fragment() {
             val intent = Intent(context, LoginActivity::class.java)
             startActivity(intent)
         }
-        super.onStart()
+        // Download data from server
+        val btnDownload = button2
+        btnDownload.setOnClickListener{
+            Toast.makeText(context, "DEBUG: Clicked on Download data.", Toast.LENGTH_SHORT).show()
+        }
+        // Upload data to server
+        val btnUpload = button3
+        btnUpload.setOnClickListener{
+            Toast.makeText(context, "DEBUG: Clicked on Upload data.", Toast.LENGTH_SHORT).show()
+        }
     }
 }
