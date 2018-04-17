@@ -8,7 +8,7 @@ def sign_up(request):
 	#create connection to database
 	cluster = Cluster()
 	session = cluster.connect('hash')
-	data = json.load(request.decode('utf-8'))
+	data = json.loads(request.decode('utf-8'))
 	username = data["username"]
 	email = data["email"]
 	password = data["password"]
@@ -35,7 +35,7 @@ def login(request):
 	#create connection to database
 	cluster = Cluster()
 	session = cluster.connect('hash')
-	data = json.load(request.decode('utf-8'))
+	data = json.loads(request.decode('utf-8'))
 	username = data["username"]
 	password = data["password"]
 	rows = session.execute('''
@@ -60,7 +60,7 @@ def upload(request):
 	#create connection to database
 	cluster = Cluster()
 	session = cluster.connect('hash')
-	data = json.load(request.decode('utf-8'))
+	data = json.loads(request.decode('utf-8'))
 	username = data["username"]
 	password = data["password"]
 	favourite = data["favourite"]
@@ -92,7 +92,7 @@ def download(request):
 	#create connection to database
 	cluster = Cluster()
 	session = cluster.connect('hash')
-	data = json.load(request.decode('utf-8'))
+	data = json.loads(request.decode('utf-8'))
 	username = data["username"]
 	password = data["password"]
 	rows = session.execute('''
