@@ -7,13 +7,14 @@ import hash.application.managers.WebManager;
 import static org.junit.Assert.*;
 
 public class WebManagerTest {
+    // Get the singleton first
+    WebManager manager = WebManager.INSTANCE;
     /*
     Since for now we cannot foresee the return value from the server, we can
     only test the return content twice to make sure these functions work as intended.
      */
     @Test
     public void getToday1Test() {
-        WebManager manager = WebManager.INSTANCE;
         String data1 = manager.getToday1();
         String data2 = manager.getToday1();
         assertTrue(data1.equals(data2));
@@ -21,7 +22,6 @@ public class WebManagerTest {
 
     @Test
     public void getToday2Test() {
-        WebManager manager = WebManager.INSTANCE;
         String data1 = manager.getToday2();
         String data2 = manager.getToday2();
         assertTrue(data1.equals(data2));
@@ -29,7 +29,6 @@ public class WebManagerTest {
 
     @Test
     public void getToday3Test() {
-        WebManager manager = WebManager.INSTANCE;
         String data1 = manager.getToday3();
         String data2 = manager.getToday3();
         assertTrue(data1.equals(data2));
@@ -37,7 +36,6 @@ public class WebManagerTest {
 
     @Test
     public void getToday4Test() {
-        WebManager manager = WebManager.INSTANCE;
         String data1 = manager.getToday4();
         String data2 = manager.getToday4();
         assertTrue(data1.equals(data2));
@@ -49,7 +47,6 @@ public class WebManagerTest {
      */
     @Test
     public void searchPreciseTest() {
-        WebManager manager = WebManager.INSTANCE;
-        //String data = manager.searchPrecise();
+        // TODO: Finish search test
     }
 }
