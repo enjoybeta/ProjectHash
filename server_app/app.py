@@ -62,7 +62,7 @@ def search_coarse():
         return error
 
 @app.route('/signup', methods=['POST', 'GET'])
-def sign_up():
+def user_signup():
     if request.method == 'POST':
         if validate_json(request.data):
             return sign_up(request.data)
@@ -74,7 +74,7 @@ def sign_up():
         return error
 
 @app.route('/login', methods=['POST', 'GET'])
-def login():
+def user_login():
     if request.method == 'POST':
         if validate_json(request.data):
             return login(request.data)
