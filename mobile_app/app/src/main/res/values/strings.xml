@@ -27,7 +27,7 @@
     <string name="checkbox9">"No wheat"</string>
     <string name="search">"Search"</string>
 
-    <!-- Fragment 2 -->
+    <!-- Fragment 3 -->
     <string name="food_category1">"Fruits"</string>
     <string name="food_category2">"Vegetables"</string>
     <string name="food_category3">"Protein"</string>
@@ -36,6 +36,38 @@
     <string name="food_category6">"Oils"</string>
     <string name="button">"Add"</string>
 
-    <string name="search_result">Search result</string>
+    <!-- Fragment 5 -->
+    <string name="profile">"Profile"</string>
+    <string name="greetings">"Welcome,"</string>
+    <string name="username">"Guest"</string>
+    <string name="status">"Login"</string>
+    <string name="retrieve_from_server">"Retrieve Data From Server"</string>
+    <string name="upload_to_server">"Upload Data To Server"</string>
+
+    <!-- ViewDish -->
+    <string name="cooking_instructions">Cooking instructions</string>
+    <string name="menu_name">menuName</string>
+    <string name="required_ingredients">Required ingredients</string>
+
+    <!-- AddRecipe -->
+    <string name="ingredient_name">Ingredient Name</string>
+    <string name="quantity">Quantity</string>
+    <string name="unit">Unit</string>
+    <string name="add">Add</string>
+
+    <!-- Login -->
+    <string name="login_title">"Sign in"</string>
+    <string name="enter_username">"Username"</string>
+    <string name="enter_password">"Password"</string>
+    <string name="signin">"Sign In"</string>
+    <string name="to_signup">"Don't have an account? Sign up."</string>
+
+    <!-- Signup -->
+    <string name="signup_title">"Register"</string>
+    <string name="set_username">"Username"</string>
+    <string name="set_email">"Email"</string>
+    <string name="set_password">"Password"</string>
+    <string name="register">"Register"</string>
+    <string name="to_login">"Already have an account? Login."</string>
 
 </resources>

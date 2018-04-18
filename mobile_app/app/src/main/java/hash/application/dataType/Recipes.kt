@@ -5,6 +5,6 @@ import java.util.ArrayList
 /**
  * Created by gouji on 2/26/2018.
  */
-class Favorites{
-    val favorites: ArrayList<Recipe> = ArrayList()
+class Recipes{
+    val recipes: ArrayList<Recipe> = ArrayList()
 }

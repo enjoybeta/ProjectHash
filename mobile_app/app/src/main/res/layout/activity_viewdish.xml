@@ -22,29 +22,40 @@
         android:layout_alignParentStart="true"
         android:layout_marginStart="60dp"
         android:textSize="30sp"
-        android:text="menuName" />
+        android:text="@string/menu_name" />
 
     <TextView
         android:id="@+id/textView2"
-        android:layout_width="wrap_content"
+        android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:layout_alignParentStart="true"
         android:layout_below="@+id/dishImage"
-        android:layout_marginTop="15dp"
         android:layout_marginStart="15dp"
-        android:text="Ingredients"
+        android:layout_marginTop="15dp"
+        android:text="@string/menu_item3"
         android:textSize="20sp" />
 
-    <TextView
-        android:id="@+id/textView3"
+    <ScrollView
         android:layout_width="match_parent"
-        android:layout_height="320dp"
+        android:layout_height="wrap_content"
         android:layout_above="@+id/favView"
         android:layout_below="@+id/textView2"
-        android:layout_marginLeft="30dp"
-        android:scrollbars="vertical"
-        android:text="TextView"
-        android:textSize="18sp" />
+        android:layout_marginStart="20dp">
+
+        <LinearLayout
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical">
+
+            <TextView
+                android:id="@+id/textView3"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:scrollbars="vertical"
+                android:text="@string/required_ingredients"
+                android:textSize="18sp" />
+        </LinearLayout>
+    </ScrollView>
 
     <Button
         android:id="@+id/buttonInstruction"
@@ -52,7 +63,7 @@
         android:layout_height="wrap_content"
         android:layout_alignParentBottom="true"
         android:layout_alignParentStart="true"
-        android:text="Cooking instructions" />
+        android:text="@string/cooking_instructions" />
 
     <ImageView
         android:id="@+id/favView"
@@ -62,6 +73,7 @@
         android:layout_alignParentEnd="true"
         android:layout_marginBottom="10dp"
         android:layout_marginEnd="10dp"
-        android:clickable="true"/>
+        android:clickable="true"
+        android:focusable="true" />
 
 </RelativeLayout>

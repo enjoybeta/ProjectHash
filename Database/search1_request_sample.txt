@@ -1,0 +1,3 @@
+{"numberofserving": "5",
+"having": ["onion", "beef"],
+"not having": ["apple"]}
