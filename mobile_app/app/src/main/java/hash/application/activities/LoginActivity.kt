@@ -6,6 +6,7 @@ import android.widget.Toast
 import hash.application.R
 import android.content.Intent
 import hash.application.dataType.User
+import hash.application.managers.UserManager
 import hash.application.managers.WebManager
 import kotlinx.android.synthetic.main.activity_login.*
 
@@ -40,6 +41,8 @@ class LoginActivity: Activity() {
             webThread.join()
             // check result returned by server
             if (servResult == "Login success!") {
+                UserManager.setUsername(editText4.text.toString())
+                UserManager.changeLoginState(true)
                 finish()
             }
             else if (servResult == "Wrong username or password!") {

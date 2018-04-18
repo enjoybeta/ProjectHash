@@ -6,7 +6,7 @@
     android:id="@+id/relativeLayout2">
 
     <Button
-        android:id="@+id/button2"
+        android:id="@+id/btn_download"
         android:layout_width="240dp"
         android:layout_height="wrap_content"
         android:layout_alignParentTop="true"
@@ -15,11 +15,11 @@
         android:text="@string/retrieve_from_server" />
 
     <Button
-        android:id="@+id/button3"
+        android:id="@+id/btn_upload"
         android:layout_width="240dp"
         android:layout_height="wrap_content"
         android:layout_alignParentTop="true"
-        android:layout_alignStart="@+id/button2"
+        android:layout_centerHorizontal="true"
         android:layout_marginTop="310dp"
         android:text="@string/upload_to_server"
         tools:layout_editor_absoluteX="86dp"
@@ -51,12 +51,12 @@
         app:layout_constraintTop_toTopOf="@+id/textView5" />
 
     <Button
-        android:id="@+id/button4"
+        android:id="@+id/btn_login"
         android:layout_width="240dp"
         android:layout_height="wrap_content"
         android:layout_alignParentTop="true"
-        android:layout_alignStart="@+id/button2"
         android:layout_marginTop="200dp"
+        android:layout_centerHorizontal="true"
         android:text="@string/status"
         tools:layout_editor_absoluteX="86dp"
         tools:layout_editor_absoluteY="199dp" />
