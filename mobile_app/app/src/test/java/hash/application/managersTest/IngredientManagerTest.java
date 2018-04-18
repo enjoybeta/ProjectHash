@@ -13,6 +13,8 @@ import static org.junit.Assert.*;
 public class IngredientManagerTest {
     // Get the singleton first
     IngredientManager manager = IngredientManager.INSTANCE;
+
+    // Test the addIngredient function and some get functions
     @Test
     public void addIngredientTest() {
         Ingredient a = new Ingredient("Potato",-1, "kilogram");
@@ -33,5 +35,23 @@ public class IngredientManagerTest {
         assertTrue(ingredients.contains(a));
         assertTrue(ingredients.contains(b));
         assertTrue(ingredients.contains(c));
+        assertEquals(ingredients.size(), 3);
+    }
+
+    // Test the removeIngredientByName function
+    @Test
+    public void removeIngredientByNameTest() {
+        assertTrue(manager.removeIngredientByName("Potato"));
+        assertFalse(manager.findIngredientByName("Potato"));
+        assertTrue(manager.findIngredientByName("Mushroom"));
+        assertTrue(manager.findIngredientByName("Harry"));
+        assertFalse(manager.findIngredientByName("NULL"));
+        ArrayList<String> names = manager.getNameList();
+        assertTrue(names.contains("Mushroom"));
+        assertTrue(names.contains("Harry"));
+        assertEquals(names.size(), 2);
+        assertTrue(manager.removeIngredientByName("Mushroom"));
+        assertFalse(manager.removeIngredientByName("NULL"));
+        assertFalse(manager.findIngredientByName("NULL"));
     }
 }
