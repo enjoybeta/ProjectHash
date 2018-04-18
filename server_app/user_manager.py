@@ -115,8 +115,13 @@ def upload(request):
 	data = json.loads(request.decode('utf-8'))
 	username = data["username"]
 	password = data["password"]
+<<<<<<< HEAD
 	favorite = data["favorite"]
 	ingredients = data["ingredients"]
+=======
+	favorite = data["favoriteStr"]
+	ingredients = data["ingredientStr"]
+>>>>>>> ef5d5f2605a82080c2f5799d2848da1a7f0b67ca
 
 	#check if the username exists
 	rows = session.execute('''
@@ -174,8 +179,13 @@ def download(request):
 			if password == row.password:	
 				#gget data and return
 				return_data = { 'username': row.username,
+<<<<<<< HEAD
 							'favorite': row.favorite,
 							'ingredients': row.ingredients}
+=======
+							'favoriteStr': row.favorite,
+							'ingredientStr': row.ingredients}
+>>>>>>> ef5d5f2605a82080c2f5799d2848da1a7f0b67ca
 				json_return = json.dumps(return_data)
 				cluster.shutdown()
 				return json_return

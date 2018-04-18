@@ -6,7 +6,9 @@ import android.os.Bundle
 import android.widget.Toast
 import hash.application.R
 import hash.application.dataType.NewUser
+import hash.application.managers.UserManager
 import hash.application.managers.WebManager
+import kotlinx.android.synthetic.main.activity_login.*
 import kotlinx.android.synthetic.main.activity_signup.*
 
 class SignupActivity: Activity() {
@@ -39,6 +41,8 @@ class SignupActivity: Activity() {
             webThread.join()
             // check result returned by server
             if (servResult == "Sign up success!") {
+                UserManager.setUsername(editText3.text.toString())
+                UserManager.changeLoginState(true)
                 finish()
             }
             else if (servResult == "Username already exists!") {
