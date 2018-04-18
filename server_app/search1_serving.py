@@ -29,11 +29,14 @@ def search_serving(request):
 	for row in rows:
 		buff = []
 		#count how many ingredients that the recipe needs are in 'having' list
-		for h_ingre in h_ingredients:
-			for ingredient in row.ingredients:
-				if h_ingre in ingredient:
-					count += 1
-					break
+		if len(h_ingredients) != 0:
+			for h_ingre in h_ingredients:
+				for ingredient in row.ingredients:
+					if h_ingre in ingredient:
+						count += 1
+						break
+		else:
+			count = len(row.ingredients)
 		#check if any ingredient that the recipe needs is in 'not having' list
 		for n_ingre in n_ingredients:
 			for ingredient in row.ingredients:
