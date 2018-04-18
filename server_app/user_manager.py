@@ -83,7 +83,7 @@ def login(request):
 	upload function takes a json object that contains user's information that need 
 	to be updated in the database and update the information to the database
 	If username or password is wrong, return fail message.
-	@request: json object of user's data (username, password, favourite, ingredients)
+	@request: json object of user's data (username, password, favorite, ingredients)
 '''
 def upload(request):
 	#create connection to database
@@ -94,8 +94,8 @@ def upload(request):
 	data = json.loads(request.decode('utf-8'))
 	username = data["username"]
 	password = data["password"]
-	favourite = data["favorite"]
-	ingredients = data["ingredients"]
+	favorite = data["favoriteStr"]
+	ingredients = data["ingredientStr"]
 
 	#check if the username exists
 	rows = session.execute('''
@@ -109,9 +109,9 @@ def upload(request):
 			if password == row.password:
 				#update the data in the database	
 				session.execute('''
-					UPDATE user SET favourite = %s, ingredients = %s WHERE username = %s
+					UPDATE user SET favorite = %s, ingredients = %s WHERE username = %s
 					''',
-					(favourite, ingredients, username)
+					(favorite, ingredients, username)
 				)
 				return "Upload success!"
 			else:
@@ -151,8 +151,8 @@ def download(request):
 			if password == row.password:	
 				#gget data and return
 				return_data = { 'username': row.username,
-							'favorite': row.favourite,
-							'ingredients': row.ingredients}
+							'favoriteStr': row.favorite,
+							'ingredientStr': row.ingredients}
 				json_return = json.dumps(return_data)
 				return json_return
 			else:
