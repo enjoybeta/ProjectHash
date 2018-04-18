@@ -2,11 +2,10 @@ import sys
 import json
 import cassandra
 from cassandra.cluster import Cluster
-from pprint import pprint
 
 '''
 	python function that return json file based on a numberofserving search in database
-   	@request:  json object of input data (numofserving, having, not_having)
+   	@request:  json object of input data (numberofserving, having, not having)
 '''
 def search_serving(request):
 	#create connection to database
@@ -35,7 +34,7 @@ def search_serving(request):
 				if h_ingre in ingredient:
 					count += 1
 					break
-		#check if any ingredient that the recipe needs is in 'not_having' list
+		#check if any ingredient that the recipe needs is in 'not having' list
 		for n_ingre in n_ingredients:
 			for ingredient in row.ingredients:
 				if n_ingre in ingredient:
@@ -57,7 +56,7 @@ def search_serving(request):
 		#write the data into a json file
 			return_buff.append(buff)
 		count = 0
-	#sort based on the number of ingredients in the 'having list'
+	#sort based on the number of ingredients in the 'having' list
 	return_buff = sorted(return_buff, key = lambda buff: buff[1], reverse = True)
 	return_list = []
 	#return the top 10 recipes as result
@@ -65,6 +64,6 @@ def search_serving(request):
 		return_list.append(return_buff[i][0])
 	#encode the result data into json object
 	json_return = json.dumps(return_list)
-	return json_return
 	#close database connection
 	cluster.shutdown()
+	return json_return

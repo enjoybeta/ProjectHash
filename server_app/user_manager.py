@@ -22,13 +22,25 @@ def sign_up(request):
 	email = data["email"]
 	password = data["password"]
 
+	#check invalid information
+	if username == '':
+		cluster.shutdown()
+		return "Username can not be empty!"
+	if password == '':
+		cluster.shutdown()
+		return "Password can not be empty!"
+	if email == '':
+		cluster.shutdown()
+		return "Email can not be empty!"
+
 	#check if the username already exists
 	rows = session.execute('''
 				SELECT * from user where username = %s allow filtering
 				''',
 				(username,)
 			)
-	if rows: 
+	if rows:
+		cluster.shutdown() 
 		return "Username already exists!"
 	else:
 		#insert user information to database
@@ -38,9 +50,9 @@ def sign_up(request):
 				''',
 				(username, email, password)
 			)
-	return "Sign up success!"
-	#close database connection
 	cluster.shutdown()
+	return "Sign up success!"
+
 
 
 '''
@@ -59,6 +71,14 @@ def login(request):
 	username = data["username"]
 	password = data["password"]
 
+	#check invalid information
+	if username == '':
+		cluster.shutdown()
+		return "Username can not be empty!"
+	if password == '':
+		cluster.shutdown()
+		return "Password can not be empty!"
+
 	#check if the username exists
 	rows = session.execute('''
 				SELECT * from user where username = %s allow filtering
@@ -68,22 +88,23 @@ def login(request):
 	if rows:
 		for row in rows:
 			#check if the password is correct
-			if password == row.password:	
+			if password == row.password:
+				cluster.shutdown()	
 				return "Login success!"
 			else:
+				cluster.shutdown()
 				return "Wrong username or password!"
 
 	else:
+		cluster.shutdown()
 		return "Wrong username or password!"
-	#close database connection
-	cluster.shutdown()
 
 
 '''
 	upload function takes a json object that contains user's information that need 
 	to be updated in the database and update the information to the database
 	If username or password is wrong, return fail message.
-	@request: json object of user's data (username, password, favourite, ingredients)
+	@request: json object of user's data (username, password, favorite, ingredients)
 '''
 def upload(request):
 	#create connection to database
@@ -94,7 +115,7 @@ def upload(request):
 	data = json.loads(request.decode('utf-8'))
 	username = data["username"]
 	password = data["password"]
-	favourite = data["favourite"]
+	favorite = data["favorite"]
 	ingredients = data["ingredients"]
 
 	#check if the username exists
@@ -109,18 +130,20 @@ def upload(request):
 			if password == row.password:
 				#update the data in the database	
 				session.execute('''
-					UPDATE user SET favourite = %s, ingredients = %s WHERE username = %s
+					UPDATE user SET favorite = %s, ingredients = %s WHERE username = %s
 					''',
-					(favourite, ingredients, username)
+					(favorite, ingredients, username)
 				)
+				cluster.shutdown()
 				return "Upload success!"
 			else:
+				cluster.shutdown()
 				return "Wrong username or password!"
 
 	else:
+		cluster.shutdown()
 		return "Wrong username or password!"
-	#close database connection
-	cluster.shutdown()
+
 
 
 '''
@@ -151,14 +174,15 @@ def download(request):
 			if password == row.password:	
 				#gget data and return
 				return_data = { 'username': row.username,
-							'favourite': row.favourite,
+							'favorite': row.favorite,
 							'ingredients': row.ingredients}
 				json_return = json.dumps(return_data)
+				cluster.shutdown()
 				return json_return
 			else:
+				cluster.shutdown()
 				return "Wrong username or password!"
 
 	else:
+		cluster.shutdown()
 		return "Wrong username or password!"
-	#close database connection
-	cluster.shutdown()

@@ -47,6 +47,22 @@ public class WebManagerTest {
      */
     @Test
     public void searchPreciseTest() {
-        // TODO: Finish search test
+        String data1 = manager.searchPrecise({"keyword": "beef"});
+        String data2 = manager.searchPrecise({"keyword": "beef"});
+        String data3 = manager.searchPrecise({"keyword": "milk"});
+        assertTrue(data1.equals(data2));
+        assertFalse(data1.equals(data3));
     }
+
+     @Test
+    public void searchCoarseTest() {
+        String data1 = manager.searchCoarse({"numberofserving": "4", "having": ["onion", "beef"], "not having": ["egg"]});
+        String data2 = manager.searchCoarse({"numberofserving": "4", "having": ["onion", "beef"], "not having": ["egg"]});
+        String data3 = manager.searchCoarse({"numberofserving": "6", "having": ["onion", "beef"], "not having": ["egg"]});
+        String data4 = manager.searchCoarse({"numberofserving": "6", "having": ["pepper", "chicken"], "not having": ["peanut"]});
+        assertTrue(data1.equals(data2));
+        assertFalse(data1.equals(data3));
+        assertFalse(data3.equals(data4));
+    }
+
 }

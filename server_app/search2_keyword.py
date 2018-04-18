@@ -6,7 +6,7 @@ from cassandra.cluster import Cluster
 
 '''
 	python function that return json file based on a keyword search in database
-    @request: json object of input data
+    @request: json object of input data (keyword)
 '''
 def search_keyword(request):
 	#create connection to database
@@ -35,6 +35,6 @@ def search_keyword(request):
 		return_list.append(return_data)
 	#encode the result data into json object
 	json_return = json.dumps(return_list)
-	return json_return
 	#close database connection
 	cluster.shutdown()
+	return json_return

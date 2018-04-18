@@ -32,6 +32,12 @@ CREATE TABLE user (
 	username text,
 	email text,
 	password text,
-	favourite list<text>,
-	own_recipe list<uuid>,
-	PRIMARY KEY(id) );
+	favorite text,
+	ingredients text,
+	PRIMARY KEY(username) );
+
+CREATE custom index fn_contains on public_recipe(name) using 'org.apache.cassandra.index.sasi.SASIIndex' 
+with OPTIONS = { 'mode': 'CONTAINS', 
+				'analyzer_class': 'org.apache.cassandra.index.sasi.analyzer.NonTokenizingAnalyzer',
+				'case_sensitive': 'false'
+				};
