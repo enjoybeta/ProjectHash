@@ -11,8 +11,8 @@ import java.io.File
  */
 //use Singleton by object
 object IngredientManager {
-    private val ing: Ingredients = Ingredients()
-    private var dir: File? = null
+    private lateinit var ing: Ingredients
+    private lateinit var dir: File
     private const val fileName = "ingredients.dat"
 
     fun initData() {
@@ -24,8 +24,9 @@ object IngredientManager {
     }
 
     fun initFromFile(_dir: File) {
+        ing = Ingredients()
         dir = _dir
-        val dataFile = FileManager(dir!!, fileName)
+        val dataFile = FileManager(dir, fileName)
         if (!dataFile.checkFile()) {
             dataFile.proofFile()
         }
@@ -45,15 +46,33 @@ object IngredientManager {
     }
 
     private fun saveToFile() {
-//        val dataFile = FileManager(dir!!, fileName)
-//        val jsonStr: String = Gson().toJson(ing)
-//        dataFile.writeFile(jsonStr)
+        val dataFile = FileManager(dir, fileName)
+        val jsonStr: String = Gson().toJson(ing)
+        dataFile.writeFile(jsonStr)
     }
 
     fun addIngredient(ingredient: Ingredient): Boolean {
         val ret = ing.ingredients.add(ingredient)
         saveToFile()
         return ret
+    }
+
+    fun reduceIngredientByName(id: String): Boolean {
+        for (i in ing.ingredients) {
+            if (i.name == id) {
+                if (i.quantity <= 1) {
+                    val ret = ing.ingredients.remove(i)
+                    saveToFile()
+                    return ret
+                }
+                else {
+                    i.quantity -= 1
+                    saveToFile()
+                    return true
+                }
+            }
+        }
+        return false
     }
 
     fun removeIngredientByName(id: String): Boolean {

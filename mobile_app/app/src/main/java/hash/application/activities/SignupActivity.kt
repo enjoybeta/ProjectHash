@@ -22,7 +22,7 @@ class SignupActivity: Activity() {
         // jump to account register page
         val btnToLogin = button7
         btnToLogin.setOnClickListener{
-            Toast.makeText(this, "DEBUG: Jump to login page.", Toast.LENGTH_SHORT).show()
+//            Toast.makeText(this, "DEBUG: Jump to login page.", Toast.LENGTH_SHORT).show()
             val intent = Intent(this, LoginActivity::class.java)
             startActivity(intent)
             finish()
@@ -31,7 +31,7 @@ class SignupActivity: Activity() {
         lateinit var servResult: String
         val btnRegister = button6
         btnRegister.setOnClickListener{
-            Toast.makeText(this, "DEBUG: Clicked on register.", Toast.LENGTH_SHORT).show()
+//            Toast.makeText(this, "DEBUG: Clicked on register.", Toast.LENGTH_SHORT).show()
             // connect to server
             val webThread = Thread ({
                 val userInfo = NewUser(editText3.text.toString(), editText6.text.toString(), editText7.text.toString())
@@ -42,14 +42,12 @@ class SignupActivity: Activity() {
             // check result returned by server
             if (servResult == "Sign up success!") {
                 UserManager.setUsername(editText3.text.toString())
+                UserManager.setPassword(editText7.text.toString())
                 UserManager.changeLoginState(true)
                 finish()
             }
-            else if (servResult == "Username already exists!") {
-                Toast.makeText(this, "Failed. Username already exists!", Toast.LENGTH_SHORT).show()
-            }
             else {
-                Toast.makeText(this, "Unknown Error Occurred", Toast.LENGTH_SHORT).show()
+                Toast.makeText(this, servResult, Toast.LENGTH_SHORT).show()
             }
         }
     }

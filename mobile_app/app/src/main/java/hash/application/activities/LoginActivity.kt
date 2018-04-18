@@ -22,7 +22,7 @@ class LoginActivity: Activity() {
         // jump to account register page
         val btnToSignup = button9
         btnToSignup.setOnClickListener{
-            Toast.makeText(this, "DEBUG: Jump to sign up page.", Toast.LENGTH_SHORT).show()
+//            Toast.makeText(this, "DEBUG: Jump to sign up page.", Toast.LENGTH_SHORT).show()
             val intent = Intent(this, SignupActivity::class.java)
             startActivity(intent)
             finish()
@@ -31,10 +31,10 @@ class LoginActivity: Activity() {
         lateinit var servResult: String
         val btnLogin = button5
         btnLogin.setOnClickListener {
-            Toast.makeText(this, "DEBUG: Clicked on login.", Toast.LENGTH_SHORT).show()
+//            Toast.makeText(this, "DEBUG: Clicked on login.", Toast.LENGTH_SHORT).show()
             // connect to server
             val webThread = Thread(Runnable {
-                val user = User(editText4.text.toString(), editText5.text.toString())
+                val user = User(editText4.text.toString(), editText5.text.toString(), "", "")
                 servResult = WebManager.userLogin(user)
             })
             webThread.start()
@@ -42,14 +42,12 @@ class LoginActivity: Activity() {
             // check result returned by server
             if (servResult == "Login success!") {
                 UserManager.setUsername(editText4.text.toString())
+                UserManager.setPassword(editText5.text.toString())
                 UserManager.changeLoginState(true)
                 finish()
             }
-            else if (servResult == "Wrong username or password!") {
-                Toast.makeText(this, "Failed. Incorrect Username or Password.", Toast.LENGTH_SHORT).show()
-            }
             else {
-                Toast.makeText(this, "Unknown Error Occurred", Toast.LENGTH_SHORT).show()
+                Toast.makeText(this, servResult, Toast.LENGTH_SHORT).show()
             }
         }
     }

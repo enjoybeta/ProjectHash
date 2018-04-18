@@ -31,11 +31,18 @@ class Fragment3 : Fragment() {
             Log.e("log_fragment4", "no ingredients")
         }
         ingredientList.adapter = adapter// Assign adapter to ListView
-        // click on a specific ingredient in the list
+        // click on a specific ingredient to reduce the amount by 1
         ingredientList.setOnItemClickListener { _, _, position, _ ->
+            val ing: Ingredient = adapter.getItem(position)
+            IngredientManager.reduceIngredientByName(ing.name)
+            adapter.notifyDataSetChanged()
+        }
+        // long click to remove ingredient
+        ingredientList.setOnItemLongClickListener { _, _, position, _ ->
             val ing: Ingredient = adapter.getItem(position)
             IngredientManager.removeIngredientByName(ing.name)
             adapter.notifyDataSetChanged()
+            true
         }
 
         button1.setOnClickListener{

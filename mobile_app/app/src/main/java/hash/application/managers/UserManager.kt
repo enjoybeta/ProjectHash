@@ -1,15 +1,25 @@
 package hash.application.managers
 
+import hash.application.dataType.User
+
 object UserManager {
-    private var username: String = "Guest"
+    private val user : User = User("Guest","", "", "")
     private var isLogin: Boolean = false
 
+    fun getUser(): User {
+        return user
+    }
+
     fun getUsername(): String {
-        return username
+        return user.username
     }
 
     fun setUsername(name: String) {
-        username = name
+        user.username = name
+    }
+
+    fun setPassword(password: String) {
+        user.password = password
     }
 
     fun getLoginState(): Boolean {

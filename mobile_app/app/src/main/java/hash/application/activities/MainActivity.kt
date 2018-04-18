@@ -16,7 +16,7 @@ class MainActivity : AppCompatActivity() {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_main)//initalize layout
         FavoriteManager.initFromFile(this.filesDir)//initalize Favoritemanager from file
-        IngredientManager.initData()//initalize IngredientManager, will be changed in future to init from file
+        IngredientManager.initFromFile(this.filesDir)//initalize IngredientManager from file
 
         BottomNavigationViewHelper.disableShiftMode(navigation)//change outlook of buttom navigation bar
 

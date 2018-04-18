@@ -120,4 +120,29 @@ object WebManager {
         assert(response.code() == 200)
         return response.body()!!.string()
     }
+
+    // upload ingredients and favorite recipes to server
+    fun uploadData(input: User): String {
+        val jsonStr: String = Gson().toJson(input)
+        val body = RequestBody.create(JSON, jsonStr)
+        val request = Request.Builder()
+                .url("$serverAddress/upload_data")
+                .post(body)
+                .build()
+        val response: Response = client.newCall(request).execute()//synchronous
+        assert(response.code() == 200)
+        return response.body()!!.string()
+    }
+
+    fun downloadData(input: User): String {
+        val jsonStr: String = Gson().toJson(input)
+        val body = RequestBody.create(JSON, jsonStr)
+        val request = Request.Builder()
+                .url("$serverAddress/download_data")
+                .post(body)
+                .build()
+        val response: Response = client.newCall(request).execute()//synchronous
+        assert(response.code() == 200)
+        return response.body()!!.string()
+    }
 }

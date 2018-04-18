@@ -12,13 +12,14 @@ import java.util.ArrayList
  */
 //use Singleton by object
 object FavoriteManager {
-    private val fav: Recipes = Recipes()
-    private var dir: File? = null
+    private lateinit var fav: Recipes
+    private lateinit var dir: File
     private const val fileName = "favorites.dat"
 
     fun initFromFile(_dir: File) {
+        fav = Recipes()
         dir = _dir
-        val dataFile = FileManager(dir!!, fileName)
+        val dataFile = FileManager(dir, fileName)
         if (!dataFile.checkFile()) {
             dataFile.proofFile()
         }
@@ -38,7 +39,7 @@ object FavoriteManager {
     }
 
     private fun saveToFile() {
-        val dataFile = FileManager(dir!!, fileName)
+        val dataFile = FileManager(dir, fileName)
         val jsonStr: String = Gson().toJson(fav)
         dataFile.writeFile(jsonStr)
     }

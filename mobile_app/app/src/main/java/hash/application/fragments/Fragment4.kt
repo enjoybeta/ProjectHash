@@ -17,15 +17,16 @@ import kotlinx.android.synthetic.main.fragment4.*
 
 //"favorite" fragment
 class Fragment4 : Fragment() {
+    private lateinit var adapter: CustomRecipeAdapter
 
     override fun onCreateView(inflater: LayoutInflater, container: ViewGroup?, savedInstanceState: Bundle?): View? {
         return inflater.inflate(R.layout.fragment4, container, false)
     }
 
-    override fun onStart() {
-        super.onStart()
+    override fun onResume() {
+        super.onResume()
         val values: ArrayList<Recipe> = FavoriteManager.getList()
-        val adapter = CustomRecipeAdapter(activity!!,values)
+        adapter = CustomRecipeAdapter(activity!!,values)
         if (values.isEmpty()) {
             Toast.makeText(context, "No data stored", Toast.LENGTH_LONG).show()
             Log.e("log_fragment4", "no favorites")
@@ -39,6 +40,10 @@ class Fragment4 : Fragment() {
             intent.putExtra("data",bundle)
             startActivity(intent)
         }
+
     }
 
+    fun notifyChange() {
+        adapter.notifyDataSetChanged()
+    }
 }
