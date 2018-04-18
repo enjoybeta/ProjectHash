@@ -94,7 +94,7 @@ def upload(request):
 	data = json.loads(request.decode('utf-8'))
 	username = data["username"]
 	password = data["password"]
-	favourite = data["favourite"]
+	favourite = data["favorite"]
 	ingredients = data["ingredients"]
 
 	#check if the username exists
@@ -151,7 +151,7 @@ def download(request):
 			if password == row.password:	
 				#gget data and return
 				return_data = { 'username': row.username,
-							'favourite': row.favourite,
+							'favorite': row.favourite,
 							'ingredients': row.ingredients}
 				json_return = json.dumps(return_data)
 				return json_return
