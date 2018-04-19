@@ -25,7 +25,7 @@ class Fragment2 : Fragment() {
         val btnSearch = button
         // set on-click listener for search with conditions
         btnSearch.setOnClickListener {
-            Toast.makeText(context, "You clicked on search.", Toast.LENGTH_SHORT).show()
+//            Toast.makeText(context, "You clicked on search.", Toast.LENGTH_SHORT).show()
             lateinit var str: String
             // get recipes from server using WebManager
             val webThread = Thread(Runnable {

@@ -56,10 +56,10 @@ public class WebManagerTest {
 
      @Test
     public void searchCoarseTest() {
-        String data1 = manager.searchCoarse({"numberofserving": "4", "having": ["onion", "beef"], "not having": ["egg"]});
-        String data2 = manager.searchCoarse({"numberofserving": "4", "having": ["onion", "beef"], "not having": ["egg"]});
-        String data3 = manager.searchCoarse({"numberofserving": "6", "having": ["onion", "beef"], "not having": ["egg"]});
-        String data4 = manager.searchCoarse({"numberofserving": "6", "having": ["pepper", "chicken"], "not having": ["peanut"]});
+        String data1 = manager.searchCoarse({"numberofserving": 4, "having": ["onion", "beef"], "not_having": ["egg"]});
+        String data2 = manager.searchCoarse({"numberofserving": 4, "having": ["onion", "beef"], "not_having": ["egg"]});
+        String data3 = manager.searchCoarse({"numberofserving": 6, "having": ["onion", "beef"], "not_having": ["egg"]});
+        String data4 = manager.searchCoarse({"numberofserving": 6, "having": ["pepper", "chicken"], "not_having": ["peanut"]});
         assertTrue(data1.equals(data2));
         assertFalse(data1.equals(data3));
         assertFalse(data3.equals(data4));

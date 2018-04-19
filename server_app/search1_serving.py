@@ -5,7 +5,7 @@ from cassandra.cluster import Cluster
 
 '''
 	python function that return json file based on a numberofserving search in database
-   	@request:  json object of input data (numberofserving, having, not having)
+   	@request:  json object of input data (numberofserving, having, not_having)
 '''
 def search_serving(request):
 	#create connection to database
@@ -16,7 +16,7 @@ def search_serving(request):
 	data = json.loads(request.decode('utf-8'))
 	num = data["numberofserving"]
 	h_ingredients = data["having"]
-	n_ingredients = data["not having"]
+	n_ingredients = data["not_having"]
 	#excute cql to get result recipes
 	rows = session.execute('''
 				SELECT * from public_recipe where numberofserving = %s allow filtering
@@ -29,12 +29,15 @@ def search_serving(request):
 	for row in rows:
 		buff = []
 		#count how many ingredients that the recipe needs are in 'having' list
-		for h_ingre in h_ingredients:
-			for ingredient in row.ingredients:
-				if h_ingre in ingredient:
-					count += 1
-					break
-		#check if any ingredient that the recipe needs is in 'not having' list
+		if len(h_ingredients) != 0:
+			for h_ingre in h_ingredients:
+				for ingredient in row.ingredients:
+					if h_ingre in ingredient:
+						count += 1
+						break
+		else:
+			count = len(row.ingredients)
+		#check if any ingredient that the recipe needs is in 'not_having' list
 		for n_ingre in n_ingredients:
 			for ingredient in row.ingredients:
 				if n_ingre in ingredient:
