@@ -30,14 +30,14 @@
         android:layout_height="wrap_content"
         android:layout_below="@+id/editText"
         android:layout_marginTop="16dp"
-        android:layout_toStartOf="@+id/checkBox6"
+        android:layout_marginStart="40dp"
         android:text="@string/checkbox1" />
 
     <CheckBox
         android:id="@+id/checkBox2"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:layout_alignStart="@+id/checkBox1"
+        android:layout_marginStart="40dp"
         android:layout_below="@+id/checkBox1"
         android:layout_marginTop="16dp"
         android:text="@string/checkbox2" />
