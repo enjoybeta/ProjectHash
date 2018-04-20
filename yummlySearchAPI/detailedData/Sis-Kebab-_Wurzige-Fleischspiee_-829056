@@ -1,0 +1,48 @@
+{
+    "yield": "Zutaten f\u00fcr 4 Personen:",
+    "nutritionEstimates": [],
+    "totalTime": "45 min",
+    "images": [
+        {
+            "hostedSmallUrl": "http://lh3.googleusercontent.com/kdTFipBmv1XUA8MiBZOqZ2lcuMGg_d07wifOpjmFAYvKzWnpwH_bwvjDju4vvqcroUjJAw2raimUoNiOJPO4Ig=s90",
+            "hostedMediumUrl": "http://lh3.googleusercontent.com/kdTFipBmv1XUA8MiBZOqZ2lcuMGg_d07wifOpjmFAYvKzWnpwH_bwvjDju4vvqcroUjJAw2raimUoNiOJPO4Ig=s180",
+            "hostedLargeUrl": "http://lh3.googleusercontent.com/kdTFipBmv1XUA8MiBZOqZ2lcuMGg_d07wifOpjmFAYvKzWnpwH_bwvjDju4vvqcroUjJAw2raimUoNiOJPO4Ig=s360",
+            "imageUrlsBySize": {
+                "90": "http://lh3.googleusercontent.com/mLQJgSFWB2HVL_ElFqpE6YK5KoUgWd4Tyo25YdRO1hh4E62kLKe1vo4gl2Sa_D7bWds9lj-VSQwuCncjETDV=s90-c",
+                "360": "http://lh3.googleusercontent.com/mLQJgSFWB2HVL_ElFqpE6YK5KoUgWd4Tyo25YdRO1hh4E62kLKe1vo4gl2Sa_D7bWds9lj-VSQwuCncjETDV=s360-c"
+            }
+        }
+    ],
+    "name": "Sis Kebab (Wu\u0308rzige Fleischspie\u00dfe)",
+    "source": {
+        "sourceDisplayName": "Lecker",
+        "sourceSiteUrl": "lecker.de",
+        "sourceRecipeUrl": "http://www.lecker.de/rezept/801213/Sis-Kebab-Wuerzige-Fleischspiesse.html"
+    },
+    "id": "Sis-Kebab-_Wurzige-Fleischspiee_-829056",
+    "ingredientLines": [
+        "600 g Rump- oder Huftsteak",
+        "2 Knoblauchzehen",
+        "4 mittelgro\u00dfe Zwiebeln",
+        "1 Peperoni",
+        "Salz",
+        "6 EL Oliven\u00f6l",
+        "1 TL Edels\u00fc\u00df-Paprika",
+        "3 Stiele glatte Petersilie",
+        "2 Becher (\u00e0 150 g) Magermilch-Joghurt",
+        "etwas zersto\u00dfenen Koriander",
+        "je 1 gro\u00dfe rote, gelbe und gr\u00fcne Paprikaschote",
+        "frische Kr\u00e4uter (z. B. Rosmarin und Thymian), Knoblauchzwiebelscheiben und Zitrone zum Garnieren"
+    ],
+    "attribution": {
+        "html": "<a href='http://www.yummly.co/recipe/Sis-Kebab-_Wurzige-Fleischspiee_-829056'>Sis Kebab (Wu\u0308rzige Fleischspie&szlig;e) recipe</a> information powered by <img alt='Yummly' src='https://static.yummly.co/api-logo.png'/>",
+        "url": "http://www.yummly.co/recipe/Sis-Kebab-_Wurzige-Fleischspiee_-829056",
+        "text": "Sis Kebab (Wu\u0308rzige Fleischspie&szlig;e) recipes: information powered by Yummly",
+        "logo": "https://static.yummly.co/api-logo.png"
+    },
+    "numberOfServings": 4,
+    "totalTimeInSeconds": 2700,
+    "attributes": {},
+    "flavors": {},
+    "rating": 3
+}

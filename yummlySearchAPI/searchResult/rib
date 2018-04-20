@@ -1,0 +1,349 @@
+{
+    "criteria": {
+        "q": "r+i+b",
+        "allowedIngredient": null,
+        "excludedIngredient": null
+    },
+    "matches": [
+        {
+            "imageUrlsBySize": {
+                "90": "https://lh3.googleusercontent.com/HgdP9aqvIvNXVDM6M0-2F4X2gFIM0Nc1YRcy016eQumZtyO0ZMMqeNX12lzn8N8vZr56pn62stXpdUxevVh7VeY=s90-c"
+            },
+            "sourceDisplayName": "Gigi Eats Celebrities",
+            "ingredients": [
+                "sweet potatoes",
+                "sugar",
+                "hickory smoke",
+                "beef brisket",
+                "bbq sauce",
+                "spinach"
+            ],
+            "id": "Nacho-Average-B_R_I_S_K_E_T_-1952403",
+            "smallImageUrls": [
+                "https://lh3.googleusercontent.com/MrXnL83XjSwGVTFf2xMbAMU45DSUoC6Ti5Aws3HW0k_1DXt5ZpEhn-QiyyHKafCLKQOJxwr6PvUjDjrpNJEhWw=s90"
+            ],
+            "recipeName": "Nacho Average B.R.I.S.K.E.T.",
+            "totalTimeInSeconds": 1800,
+            "attributes": {
+                "course": [
+                    "Main Dishes"
+                ]
+            },
+            "flavors": null,
+            "rating": 4
+        },
+        {
+            "imageUrlsBySize": {
+                "90": "https://lh3.googleusercontent.com/MSNgN7s8kgVameNlbVabe0e5BDf7x-9HNBFOWKxHLk4Hhl5130KN4an7iRzor0oc2aVA0mVn5v3aG5e3wge_Xg=s90-c"
+            },
+            "sourceDisplayName": "I Should Be Mopping the Floor",
+            "ingredients": [
+                "sandwiches",
+                "cool whip",
+                "caramel ice cream topping",
+                "ice cream"
+            ],
+            "id": "10-Minute-Layered-Ice-Cream-Cake-_easydessert-1914028",
+            "smallImageUrls": [
+                "https://lh3.googleusercontent.com/t9uQksw-8vAc7i8sB2RiuybQLR-JYEt-LA3HgZHHsVITAFLuQplS9aJpBCa39DNiyLt7xsgn9JF4cnfNifgWMg=s90"
+            ],
+            "recipeName": "10-Minute Layered Ice Cream Cake #easydessert",
+            "totalTimeInSeconds": 1500,
+            "attributes": {
+                "course": [
+                    "Desserts"
+                ]
+            },
+            "flavors": null,
+            "rating": 4
+        },
+        {
+            "imageUrlsBySize": {
+                "90": "https://lh3.googleusercontent.com/Ivl7x8uZigeRjx1p7TIMRiMIJM3eKGW6A1i8Ir-nO-UKMVbUVIvM0_CxPiQCUyBTm8OXwXzoVMTfJZiActhGKmI=s90-c"
+            },
+            "sourceDisplayName": "Can't Stay Out of the Kitchen",
+            "ingredients": [
+                "unbleached all-purpose flour",
+                "sugar",
+                "baking powder",
+                "salt",
+                "milk",
+                "eggs",
+                "vanilla",
+                "butter",
+                "sour cream",
+                "jam",
+                "jelly",
+                "preserves",
+                "powdered sugar",
+                "strawberries",
+                "corn starch",
+                "water"
+            ],
+            "id": "STRAWBERRY-BREAKFAST-CREPES-1977153",
+            "smallImageUrls": [
+                "https://lh3.googleusercontent.com/p_IbnxKd2QhanyL6DjHiAHc_pj-eONC6SFglWIpaIv8iBX7cH_HcPv60zLKxJ_b7UCbTO2NxJna-HBdY20UGqg=s90"
+            ],
+            "recipeName": "STRAWBERRY BREAKFAST CRE\u0302PES",
+            "totalTimeInSeconds": 2700,
+            "attributes": {
+                "course": [
+                    "Breakfast and Brunch"
+                ]
+            },
+            "flavors": {
+                "piquant": 0.0,
+                "meaty": 0.16666666666666666,
+                "bitter": 0.16666666666666666,
+                "sweet": 0.6666666666666666,
+                "sour": 0.6666666666666666,
+                "salty": 0.16666666666666666
+            },
+            "rating": 4
+        },
+        {
+            "imageUrlsBySize": {
+                "90": "https://lh3.googleusercontent.com/tZ6qEB4JH5Yj1B0PlIQNzZtkJJ4vcp60ccBqOPfd_njrtGPgiTzmfqojw_rW4PvPswh1azTtGNpMXK3NN_cQFA=s90-c"
+            },
+            "sourceDisplayName": "Foodagraphy by Chelle",
+            "ingredients": [
+                "plain flour",
+                "powdered milk",
+                "salt",
+                "brown sugar",
+                "instant yeast",
+                "milk",
+                "water",
+                "unsalted butter",
+                "food gel"
+            ],
+            "id": "Rainbow-Cube-Bread-1462315",
+            "smallImageUrls": [
+                "https://lh3.googleusercontent.com/74lkAAwhqcoobpj92x1jBrCI96g3qneDwWi3mEmam85aOXtu4f4_KYxpxefx88uEaSNDk6MB2XZRslLkZEOQCA=s90"
+            ],
+            "recipeName": "Rainbow Cube Bread",
+            "totalTimeInSeconds": 4800,
+            "attributes": {
+                "course": [
+                    "Breads"
+                ]
+            },
+            "flavors": null,
+            "rating": 4
+        },
+        {
+            "imageUrlsBySize": {
+                "90": "https://lh3.googleusercontent.com/MsZxS0US0hfcaqaPAQCg13BUJj-C2Ptan5_AJpmA-CwdwemT55ubNMjRiPPsx4uibrkSi5xKYGhMXeYKQjg=s90-c"
+            },
+            "sourceDisplayName": "Food52",
+            "ingredients": [
+                "linguine",
+                "butter",
+                "garlic",
+                "crab meat",
+                "fresh lemon juice",
+                "olive oil",
+                "cooking wine",
+                "water",
+                "fish sauce"
+            ],
+            "id": "Garlic-crab-noodles-322468",
+            "smallImageUrls": [
+                "https://lh3.googleusercontent.com/_Go4LPbbNBv1ilJt2hW7X58j0lawyD3bxP8tTFpBjbG149Z0BCK28-DOPkt5FkjXmXm5VMxL4X68kuU6XoqbAg=s90"
+            ],
+            "recipeName": "Garlic Crab Noodles",
+            "totalTimeInSeconds": 1800,
+            "attributes": {
+                "course": [
+                    "Main Dishes"
+                ]
+            },
+            "flavors": {
+                "piquant": 0.0,
+                "meaty": 0.6666666666666666,
+                "bitter": 0.6666666666666666,
+                "sweet": 0.16666666666666666,
+                "sour": 0.16666666666666666,
+                "salty": 0.6666666666666666
+            },
+            "rating": 3
+        },
+        {
+            "imageUrlsBySize": {
+                "90": "http://lh3.googleusercontent.com/xxZBYe8mK0PJ4QQL37MWgi0kxrdw2Nzqe-BjmKxjAuro1WsNVSHlc6Ld4_qammTcvqSjmBs4FZ7PbSsOB8-s0X8=s90-c"
+            },
+            "sourceDisplayName": "Epicurious",
+            "ingredients": [
+                "swiss chard",
+                "red cabbage",
+                "shredded carrots",
+                "raw almonds",
+                "macadamia oil",
+                "apple cider vinegar",
+                "vegan mayonnaise",
+                "allspice",
+                "cinnamon",
+                "nutmeg",
+                "fresh oregano",
+                "fresh basil",
+                "black pepper",
+                "sea salt",
+                "stevia",
+                "hemp seeds",
+                "blueberries"
+            ],
+            "id": "Rainbow-Chard-Slaw-1196675",
+            "smallImageUrls": [
+                "http://lh3.googleusercontent.com/RgzJEtpoIKpEsYibTT9vtrO-6N2-raTGb6N35e0ozuJALSyLho4uVo3aBg91ZkTc8GtmVqqP_qPJZB9KCriT=s90"
+            ],
+            "recipeName": "Rainbow Chard Slaw",
+            "totalTimeInSeconds": 2100,
+            "attributes": {
+                "course": [
+                    "Salads"
+                ]
+            },
+            "flavors": null,
+            "rating": 3
+        },
+        {
+            "imageUrlsBySize": {
+                "90": "http://lh4.ggpht.com/OjRbcsyJ2v9tzWqv2-x-YccdKI8bEyDpphS33Lp8I19dCU0IiXHJ10wZMEXdS6Rw2YDJ8Jx0TBEgDua2ojTO2CU=s90-c"
+            },
+            "sourceDisplayName": "Food52",
+            "ingredients": [
+                "canola oil",
+                "clove",
+                "sage leaves",
+                "salt",
+                "homemade chicken stock",
+                "water",
+                "unsalted butter",
+                "finely chopped onion",
+                "anchovy fillets",
+                "arborio rice",
+                "dry vermouth",
+                "balsamic vinegar",
+                "raisins",
+                "mascarpone"
+            ],
+            "id": "Balsamic-risotto-with-prima-black-raisins_-crispy-shallots-and-sage-355320",
+            "smallImageUrls": [
+                "http://lh6.ggpht.com/31NIA7niQ6mZDDGe9j_UPd9AfB7qGktuhLosH43bXZoZ5_69SW8j1h_Bn9L5xq1oL7yXtvSoajfPznoSys8yRg=s90"
+            ],
+            "recipeName": "Balsamic Risotto with Prima Black Raisins, Crispy Shallots and Sage",
+            "totalTimeInSeconds": 3000,
+            "attributes": {
+                "course": [
+                    "Main Dishes"
+                ],
+                "cuisine": [
+                    "Italian"
+                ]
+            },
+            "flavors": {
+                "piquant": 0.0,
+                "meaty": 0.16666666666666666,
+                "bitter": 0.16666666666666666,
+                "sweet": 0.3333333333333333,
+                "sour": 0.16666666666666666,
+                "salty": 0.16666666666666666
+            },
+            "rating": 3
+        },
+        {
+            "recipeName": "BLT Linguine",
+            "ingredients": [
+                "smoked bacon",
+                "linguine",
+                "scallions",
+                "cream cheese",
+                "cherry tomatoes",
+                "ground pepper",
+                "salt"
+            ],
+            "totalTimeInSeconds": 1500,
+            "sourceDisplayName": "Food.com",
+            "id": "BLT-Linguine-Food_com-163136",
+            "rating": 4,
+            "flavors": {
+                "piquant": 0.16666666666666666,
+                "meaty": 0.3333333333333333,
+                "bitter": 0.5,
+                "sweet": 0.16666666666666666,
+                "sour": 0.5,
+                "salty": 0.3333333333333333
+            },
+            "attributes": {
+                "course": [
+                    "Main Dishes"
+                ]
+            }
+        },
+        {
+            "recipeName": "Chicago-Style Steak With Bleu Cheese Butter",
+            "ingredients": [
+                "sirloin steak",
+                "worcestershire sauce",
+                "soy sauce",
+                "cooking sherry",
+                "red wine vinegar",
+                "butter",
+                "blue cheese",
+                "green onions"
+            ],
+            "totalTimeInSeconds": 1200,
+            "sourceDisplayName": "Food.com",
+            "id": "Chicago-Style-Steak-With-Bleu-Cheese-Butter-Food_com-125744",
+            "rating": 4,
+            "flavors": null,
+            "attributes": {
+                "course": [
+                    "Main Dishes"
+                ]
+            }
+        },
+        {
+            "imageUrlsBySize": {
+                "90": "http://lh3.googleusercontent.com/84e6F1JA5mCqIRRau2lHpSOw8Lvv30vMR9Li1iO8vUcEAlO8hQzwMUWZ_n5kUXkaZ7A7UXwH5nYur5OF3C7Y6Q=s90-c"
+            },
+            "sourceDisplayName": "Lecker",
+            "ingredients": [
+                "Pistazienkern",
+                "grapefruit",
+                "Eigelb",
+                "Zucker",
+                "trockener Wei\u00dfwein",
+                "Rum"
+            ],
+            "id": "Rote-Grapefruit-Filets-mit-Pistazienzabaione-813367",
+            "smallImageUrls": [
+                "http://lh3.googleusercontent.com/vh3cSZTuwqLdfTr0dnDBqN_eJ9NB3h8CDxqKFOE6w1Zuhu0pK8jbeA9PGJGVP5okosX7cWCpZKJxeM3oyHwedtc=s90"
+            ],
+            "recipeName": "Rote Grapefruit-Filets mit Pistazienzabaione",
+            "totalTimeInSeconds": 1500,
+            "attributes": {
+                "course": [
+                    "Desserts"
+                ]
+            },
+            "flavors": {
+                "sweet": 0.6666666666666666,
+                "piquant": 0.0,
+                "sour": 0.8333333333333334,
+                "salty": 0.0,
+                "meaty": 0.16666666666666666,
+                "bitter": 0.16666666666666666
+            },
+            "rating": 3
+        }
+    ],
+    "facetCounts": {},
+    "totalMatchCount": 23,
+    "attribution": {
+        "html": "Recipe search powered by <a href='http://www.yummly.co/recipes'><img alt='Yummly' src='https://static.yummly.co/api-logo.png'/></a>",
+        "url": "http://www.yummly.co/recipes/",
+        "text": "Recipe search powered by Yummly",
+        "logo": "https://static.yummly.co/api-logo.png"
+    }
+}

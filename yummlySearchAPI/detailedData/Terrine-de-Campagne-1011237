@@ -1,0 +1,61 @@
+{
+    "nutritionEstimates": [],
+    "prepTimeInSeconds": 1800,
+    "totalTime": "1 hr 30 min",
+    "images": [
+        {
+            "hostedSmallUrl": "http://lh5.ggpht.com/mMrtJwJLUmefcouBDr17wilnsQeo6RSFgVFzyL9Co1iPAo9bdt01TibTGL48ZmwcU-It_TR4gpgNHeKA3n7a=s90",
+            "hostedMediumUrl": "http://lh5.ggpht.com/mMrtJwJLUmefcouBDr17wilnsQeo6RSFgVFzyL9Co1iPAo9bdt01TibTGL48ZmwcU-It_TR4gpgNHeKA3n7a=s180",
+            "hostedLargeUrl": "http://lh5.ggpht.com/mMrtJwJLUmefcouBDr17wilnsQeo6RSFgVFzyL9Co1iPAo9bdt01TibTGL48ZmwcU-It_TR4gpgNHeKA3n7a=s360",
+            "imageUrlsBySize": {
+                "90": "http://lh4.ggpht.com/h7G54N37Ceoq4L6rAdTLPh4bc3upssJMBt7QWO1MrjrgT7OYKUULe6Hd-kjaxYFbFSQhocNy4Ol3Dk8NkU12-g=s90-c",
+                "360": "http://lh4.ggpht.com/h7G54N37Ceoq4L6rAdTLPh4bc3upssJMBt7QWO1MrjrgT7OYKUULe6Hd-kjaxYFbFSQhocNy4Ol3Dk8NkU12-g=s360-c"
+            }
+        }
+    ],
+    "name": "Terrine de Campagne",
+    "source": {
+        "sourceDisplayName": "Analida's Ethnic Spoon",
+        "sourceSiteUrl": "ethnicspoon.com",
+        "sourceRecipeUrl": "http://ethnicspoon.com/terrine-pate-de-campagne-recipe/"
+    },
+    "prepTime": "30 Min",
+    "id": "Terrine-de-Campagne-1011237",
+    "ingredientLines": [
+        "Quatre epices ( ka'trehpiece) blend*",
+        "3TB black peppercorns",
+        "2 tsp. whole cloves",
+        "2 tsp. ground cinnamon",
+        "1 TB ground nutmeg",
+        "To marinate the turkey",
+        "2 lbs. turkey breast sliced in \u00bc\" strips",
+        "2 tsp. quatre epices blend",
+        "\u00bd cup white wine",
+        "2 tsp. salt",
+        "2 TB cognac",
+        "4 lbs. pork shoulder",
+        "6 eggs",
+        "\u00bd lb. chicken livers",
+        "2 TB. chopped parsley",
+        "3\u00bd TB quatre epices blend",
+        "\u00bd cup of dried apricots sliced in thin slivers"
+    ],
+    "cookTime": "1 Hr",
+    "attribution": {
+        "html": "<a href='http://www.yummly.co/recipe/Terrine-de-Campagne-1011237'>Terrine de Campagne recipe</a> information powered by <img alt='Yummly' src='https://static.yummly.co/api-logo.png'/>",
+        "url": "http://www.yummly.co/recipe/Terrine-de-Campagne-1011237",
+        "text": "Terrine de Campagne recipes: information powered by Yummly",
+        "logo": "https://static.yummly.co/api-logo.png"
+    },
+    "numberOfServings": 4,
+    "totalTimeInSeconds": 5400,
+    "attributes": {
+        "course": [
+            "Main Dishes",
+            "Appetizers"
+        ]
+    },
+    "cookTimeInSeconds": 3600,
+    "flavors": {},
+    "rating": 4
+}

@@ -1,0 +1,56 @@
+{
+    "yield": "Zutaten f\u00fcr 12 St\u00fccke:",
+    "nutritionEstimates": [],
+    "totalTime": "1 hr 30 min",
+    "images": [
+        {
+            "hostedSmallUrl": "http://lh3.googleusercontent.com/Z_gHPiKUxcXLFA1auz4aJFp4aqdKeYpYhCvSzP5LyWmyJPkuBZtOzJTHFXsEi9CxxQFOzEadjHd3AwGQXa-RwAU=s90",
+            "hostedMediumUrl": "http://lh3.googleusercontent.com/Z_gHPiKUxcXLFA1auz4aJFp4aqdKeYpYhCvSzP5LyWmyJPkuBZtOzJTHFXsEi9CxxQFOzEadjHd3AwGQXa-RwAU=s180",
+            "hostedLargeUrl": "http://lh3.googleusercontent.com/Z_gHPiKUxcXLFA1auz4aJFp4aqdKeYpYhCvSzP5LyWmyJPkuBZtOzJTHFXsEi9CxxQFOzEadjHd3AwGQXa-RwAU=s360",
+            "imageUrlsBySize": {
+                "90": "http://lh3.googleusercontent.com/NyvxgIBrbwuofoJ3X3Wj0cjvmbe1waIw3Wcj9DochgiGQKiUULbWFYTmV3XVL3_YywZRkbJoiXLLJHyqhlKS=s90-c",
+                "360": "http://lh3.googleusercontent.com/NyvxgIBrbwuofoJ3X3Wj0cjvmbe1waIw3Wcj9DochgiGQKiUULbWFYTmV3XVL3_YywZRkbJoiXLLJHyqhlKS=s360-c"
+            }
+        }
+    ],
+    "name": "Kirschka\u0308sekuchen",
+    "source": {
+        "sourceDisplayName": "Lecker",
+        "sourceSiteUrl": "lecker.de",
+        "sourceRecipeUrl": "http://www.lecker.de/rezept/597580/Kirschkaesekuchen.html"
+    },
+    "id": "Kirschkasekuchen-923425",
+    "ingredientLines": [
+        "150 g Mehl",
+        "175 g + 1 TL Zucker",
+        "1 P\u00e4ckchen Vanillin-Zucker",
+        "1 Prise Salz",
+        "75 g weiche Butter",
+        "750 g Sahnequark (40 % Fett i. Tr.)",
+        "5 Eier (Gr\u00f6\u00dfe M)",
+        "1 Fl\u00e4schchen Vanille-Aroma",
+        "abgeriebene Schale von 1 unbehandelten Zitrone",
+        "60 g Weichweizen-Grie\u00df",
+        "500 g Kirschen",
+        "1/4 l Kirschnektar",
+        "1 P\u00e4ckchen roter Tortenguss (f\u00fcr 250 ml Fl\u00fcssigkeit)",
+        "2 EL Himbeergelee",
+        "nach Belieben Zitronenmelisse",
+        "Fett f\u00fcr die Form"
+    ],
+    "attribution": {
+        "html": "<a href='http://www.yummly.co/recipe/Kirschkasekuchen-923425'>Kirschka\u0308sekuchen recipe</a> information powered by <img alt='Yummly' src='https://static.yummly.co/api-logo.png'/>",
+        "url": "http://www.yummly.co/recipe/Kirschkasekuchen-923425",
+        "text": "Kirschka\u0308sekuchen recipes: information powered by Yummly",
+        "logo": "https://static.yummly.co/api-logo.png"
+    },
+    "numberOfServings": 12,
+    "totalTimeInSeconds": 5400,
+    "attributes": {
+        "course": [
+            "Desserts"
+        ]
+    },
+    "flavors": {},
+    "rating": 3
+}

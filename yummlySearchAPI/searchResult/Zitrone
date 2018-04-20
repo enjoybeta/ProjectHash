@@ -1,0 +1,55 @@
+{
+    "criteria": {
+        "q": "Z+i+t+r+o+n+e",
+        "allowedIngredient": null,
+        "excludedIngredient": null
+    },
+    "matches": [
+        {
+            "imageUrlsBySize": {
+                "90": "https://lh3.googleusercontent.com/-ngRNFCxxAcYP09K4AFisiVHDvUHonHjGUC3_CToXPkZ03kClYsxW26zr7dck0x2tLnvfh8Li3M_wnST8hijCg=s90-c"
+            },
+            "sourceDisplayName": "I Save A2Z",
+            "ingredients": [
+                "milk",
+                "active dry yeast",
+                "sugar",
+                "all-purpose flour",
+                "salt",
+                "eggs",
+                "butter",
+                "Nutella",
+                "water",
+                "salted butter"
+            ],
+            "id": "Homemade-Nutella-Coffee-Cake-Recipe-from-Scratch-1462621",
+            "smallImageUrls": [
+                "https://lh3.googleusercontent.com/9W27vvqX-tC1fTmCC1oCUqwxjYXXvohpCYHq7zIuckjq2pV1I4JO27e3LdDvTKENRN5G-OWgjpO94d_kEtJ1-A=s90"
+            ],
+            "recipeName": "Homemade Nutella Coffee Cake Recipe from Scratch",
+            "totalTimeInSeconds": 3300,
+            "attributes": {
+                "course": [
+                    "Breads"
+                ]
+            },
+            "flavors": {
+                "piquant": 0.0,
+                "meaty": 0.6666666666666666,
+                "bitter": 0.3333333333333333,
+                "sweet": 0.6666666666666666,
+                "sour": 0.16666666666666666,
+                "salty": 0.6666666666666666
+            },
+            "rating": 4
+        }
+    ],
+    "facetCounts": {},
+    "totalMatchCount": 1,
+    "attribution": {
+        "html": "Recipe search powered by <a href='http://www.yummly.co/recipes'><img alt='Yummly' src='https://static.yummly.co/api-logo.png'/></a>",
+        "url": "http://www.yummly.co/recipes/",
+        "text": "Recipe search powered by Yummly",
+        "logo": "https://static.yummly.co/api-logo.png"
+    }
+}

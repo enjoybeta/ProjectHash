@@ -22,7 +22,11 @@
             "id": "Chicago-Style-Steak-With-Bleu-Cheese-Butter-Food_com-125744",
             "rating": 4,
             "flavors": null,
-            "attributes": {}
+            "attributes": {
+                "course": [
+                    "Main Dishes"
+                ]
+            }
         },
         {
             "imageUrlsBySize": {
@@ -131,7 +135,11 @@
             ],
             "recipeName": "Joghurt-Amaretti-Torte",
             "totalTimeInSeconds": 3600,
-            "attributes": {},
+            "attributes": {
+                "course": [
+                    "Desserts"
+                ]
+            },
             "flavors": null,
             "rating": 3
         }

@@ -1,0 +1,305 @@
+{
+    "criteria": {
+        "q": "B+a+l+s+a+m+i+c+o+e+s+s+i+g",
+        "allowedIngredient": null,
+        "excludedIngredient": null
+    },
+    "matches": [
+        {
+            "imageUrlsBySize": {
+                "90": "http://lh3.googleusercontent.com/DEzRZVGCPT9Ex7nlo_8jZECJE-flbnobXL62IJUgM0S5GJ6Sphg77sya44VOZq2gDNooxcgpWcRluzMwATeUEg=s90-c"
+            },
+            "sourceDisplayName": "Lecker",
+            "ingredients": [
+                "Puderzucker",
+                "Ei",
+                "Mehl",
+                "Milch",
+                "Eigelb",
+                "Zucker",
+                "Rum",
+                "Alchermes",
+                "Obst",
+                "Eiwei\u00df"
+            ],
+            "id": "Zuppa-inglese-_Biskuit-Creme-Torte_-928381",
+            "smallImageUrls": [
+                "http://lh3.googleusercontent.com/GEgHYegqTF6g588slaVjWAZAxZmkHVOZbibRRW5p-EQsHCZUWavhciBle97DSPQF6Q0eM9iEegUmQ0DnF_lVbA=s90"
+            ],
+            "recipeName": "Zuppa inglese (Biskuit-Creme-Torte)",
+            "totalTimeInSeconds": 6300,
+            "attributes": {
+                "course": [
+                    "Desserts"
+                ]
+            },
+            "flavors": null,
+            "rating": 3
+        },
+        {
+            "imageUrlsBySize": {
+                "90": "http://lh3.googleusercontent.com/c2DjjcQe7qLztvPpPg6DaamOjNaeeAoEX-stOl93LvFMFPrJ-njZ7ClQGMmrPcf45HrV8yBFT7I8bgCT2O9xWQ=s90-c"
+            },
+            "sourceDisplayName": "Lecker",
+            "ingredients": [
+                "\u00c4pfel",
+                "Butter",
+                "Zucker",
+                "Zitrone",
+                "Mehl",
+                "Salz",
+                "Ei",
+                "Marzipan",
+                "Mandel",
+                "Eigelb",
+                "magerquark",
+                "Schmand",
+                "Puddingpulver",
+                "Fett"
+            ],
+            "id": "Bratapfel-Kasekuchen-821461",
+            "smallImageUrls": [
+                "http://lh3.googleusercontent.com/Ky2lpPIevKVZAJizy_djhJZrfIV66s_MCkf0LbC_XdmvTpJLk03DRaoCNtq-p69SM_Oqo54MTFBEoO0eclaS5A=s90"
+            ],
+            "recipeName": "Bratapfel-Ka\u0308sekuchen",
+            "totalTimeInSeconds": 7200,
+            "attributes": {
+                "course": [
+                    "Desserts"
+                ]
+            },
+            "flavors": {
+                "sweet": 0.8333333333333334,
+                "piquant": 0.0,
+                "sour": 0.3333333333333333,
+                "salty": 0.16666666666666666,
+                "meaty": 0.16666666666666666,
+                "bitter": 0.16666666666666666
+            },
+            "rating": 3
+        },
+        {
+            "imageUrlsBySize": {
+                "90": "http://lh3.googleusercontent.com/piwY6LtPcw_bL-AjTvo4FpXf-rqzv8XK7PadGekhNYn09irkaf9UXOplHl_ekdcowv1p5osntghWagol4Bfb=s90-c"
+            },
+            "sourceDisplayName": "Lecker",
+            "ingredients": [
+                "Ei",
+                "Mehl",
+                "Mandel",
+                "Puderzucker",
+                "Butter",
+                "Speisest\u00e4rke",
+                "Zitronensaft",
+                "Limettensaft",
+                "Tresterbrand",
+                "Zuckerrohr",
+                "Eigelb",
+                "Limettenscheibe",
+                "H\u00fclsenfr\u00fcchte"
+            ],
+            "id": "Caipirinha-Torte-923444",
+            "smallImageUrls": [
+                "http://lh3.googleusercontent.com/osTTIakJvoG6Vjpm9m8iTaAAMN_v4bM1zg0YWE5Z1pR2qjCzgBJq3NeDM_WfZQj-AJ0fwqYZpYRz6-90fuHOsw=s90"
+            ],
+            "recipeName": "Caipirinha-Torte",
+            "totalTimeInSeconds": 3600,
+            "attributes": {
+                "course": [
+                    "Desserts"
+                ]
+            },
+            "flavors": {
+                "sweet": 0.8333333333333334,
+                "piquant": 0.0,
+                "sour": 0.6666666666666666,
+                "salty": 0.16666666666666666,
+                "meaty": 0.5,
+                "bitter": 0.16666666666666666
+            },
+            "rating": 3
+        },
+        {
+            "imageUrlsBySize": {
+                "90": "http://lh3.googleusercontent.com/6QBNO2opk5TrQy36LLTdGDxE_GM3FW4aEKkRH5NShPXwqLD4Y6VNU8Ro-E5JrezrrHmkBFj_5W4dV6GnCB-dsQ=s90-c"
+            },
+            "sourceDisplayName": "Lecker",
+            "ingredients": [
+                "Ei",
+                "Mehl",
+                "Mandel",
+                "Puderzucker",
+                "Butter",
+                "Speisest\u00e4rke",
+                "Zitronensaft",
+                "Tresterbrand",
+                "Zuckerrohr",
+                "Eigelb",
+                "Limone",
+                "H\u00fclsenfr\u00fcchte"
+            ],
+            "id": "Caipirinha-Torte-_Zitronen-Mandel-Torte_-925393",
+            "smallImageUrls": [
+                "http://lh3.googleusercontent.com/8EGU_vpoy3gg7wPr7t2EyvUxpFwT1nZ9Ir2DaIwAqJ7JRVCjWQpUuD98BuaQBsx0Uz7MTgd--ORvgk2G43mlYw=s90"
+            ],
+            "recipeName": "Caipirinha-Torte (Zitronen-Mandel-Torte)",
+            "totalTimeInSeconds": 3600,
+            "attributes": {
+                "course": [
+                    "Desserts"
+                ]
+            },
+            "flavors": {
+                "sweet": 0.6666666666666666,
+                "piquant": 0.0,
+                "sour": 0.8333333333333334,
+                "salty": 0.16666666666666666,
+                "meaty": 0.5,
+                "bitter": 0.16666666666666666
+            },
+            "rating": 3
+        },
+        {
+            "imageUrlsBySize": {
+                "90": "http://lh3.googleusercontent.com/pCf1-d-lnkOSKxjH95LslwGs3zqwJqEIFZiiCclVH6r05BBdfG1mC8INEuHFbDeqs5hQkZtEOHZ4OclmGC8Hiw=s90-c"
+            },
+            "sourceDisplayName": "Lecker",
+            "ingredients": [
+                "Kakao",
+                "Ei",
+                "Zucker",
+                "\u00d6l",
+                "Backpulver",
+                "pudding",
+                "Rum",
+                "weiche Butter",
+                "Schlabgobers",
+                "Tr\u00fcffeln"
+            ],
+            "id": "Brasilianische-Herrentorte-828034",
+            "smallImageUrls": [
+                "http://lh3.googleusercontent.com/vRGjEEZHUz_CBucA99K5_9KdQ9zqkMs5F_N4KYjtS_xIdAcrEqkzzOk1RpkG6XT7clSD8wZmaWF77oyUk8r8MXA=s90"
+            ],
+            "recipeName": "Brasilianische Herrentorte",
+            "totalTimeInSeconds": 5400,
+            "attributes": {
+                "course": [
+                    "Desserts"
+                ]
+            },
+            "flavors": null,
+            "rating": 3
+        },
+        {
+            "imageUrlsBySize": {
+                "90": "http://lh3.googleusercontent.com/eDVHwgGgYxwmAYwpX1FVG88nTQdkvqyooIgTvPkTuXdByKRLs6wxa6e1dfXZGaof5IRYVm3mLsVpF9KBAjvP=s90-c"
+            },
+            "sourceDisplayName": "Lecker",
+            "ingredients": [
+                "Butter",
+                "Ei",
+                "Milch",
+                "Mehl",
+                "Zucker",
+                "Salz",
+                "Weichsel",
+                "Speisest\u00e4rke",
+                "Zitronenschale",
+                "\u00d6l",
+                "magerquark",
+                "Zitrone",
+                "Schmand",
+                "Eigelb",
+                "Mandelbl\u00e4tter",
+                "Puderzucker"
+            ],
+            "id": "Uberbackener-Palatschinken-823834",
+            "smallImageUrls": [
+                "http://lh3.googleusercontent.com/B_-fYqme2lj9-S9CzthtgIie-yKBK1lX-L01d1pjWUbb5wPpgQ7hmXQADAr3EOHZcR64axeLE-GNPJS3RLB7=s90"
+            ],
+            "recipeName": "U\u0308berbackener Palatschinken",
+            "totalTimeInSeconds": 4500,
+            "attributes": {},
+            "flavors": null,
+            "rating": 3
+        },
+        {
+            "imageUrlsBySize": {
+                "90": "http://lh3.googleusercontent.com/F7SekRbh1QDH-YCahYz-usIQy8OmZ45NmBc96YcArc6qW0FPzSaALJQRRGOdjT9d1OxwJjD2eB66z0XSpYS1bA=s90-c"
+            },
+            "sourceDisplayName": "Lecker",
+            "ingredients": [
+                "M\u00fcrbteig",
+                "Mehl",
+                "Puderzucker",
+                "Eigelb",
+                "weiche Butter",
+                "Vanilleschote",
+                "Biskuit",
+                "Butter",
+                "Ei",
+                "Zucker",
+                "Zitrone",
+                "Speisest\u00e4rke",
+                "Rahm",
+                "Himbeergelee",
+                "Gelatine",
+                "Sekt",
+                "Schlabgobers",
+                "Dotterbutter",
+                "Kuvert\u00fcre",
+                "Himbeere"
+            ],
+            "id": "Champagnertorte-827708",
+            "smallImageUrls": [
+                "http://lh3.googleusercontent.com/4MhyhC3USOQJBhHXCqTlQ3Htm11G2NJK9CRGNDxM1ZV8cTc96UzSqA9esxJXMFtl2_jT5yjsge7alSWpA1Duvbg=s90"
+            ],
+            "recipeName": "Champagnertorte",
+            "totalTimeInSeconds": 6300,
+            "attributes": {
+                "course": [
+                    "Desserts"
+                ]
+            },
+            "flavors": null,
+            "rating": 3
+        },
+        {
+            "recipeName": "Dampfnudeln mit Backobst und Vanilleso\u00dfe",
+            "ingredients": [
+                "Milch",
+                "Zucker",
+                "Hefe",
+                "Butter",
+                "Mehl",
+                "Salz",
+                "Zitrone",
+                "Ei",
+                "Backobst",
+                "Stangenzimt",
+                "Vanilleschote"
+            ],
+            "totalTimeInSeconds": 3600,
+            "sourceDisplayName": "Lecker",
+            "id": "Dampfnudeln-mit-Backobst-und-Vanillesoe-835363",
+            "rating": 3,
+            "flavors": {
+                "sweet": 0.5,
+                "piquant": 0.0,
+                "sour": 0.5,
+                "salty": 0.16666666666666666,
+                "meaty": 0.16666666666666666,
+                "bitter": 0.16666666666666666
+            },
+            "attributes": {}
+        }
+    ],
+    "facetCounts": {},
+    "totalMatchCount": 8,
+    "attribution": {
+        "html": "Recipe search powered by <a href='http://www.yummly.co/recipes'><img alt='Yummly' src='https://static.yummly.co/api-logo.png'/></a>",
+        "url": "http://www.yummly.co/recipes/",
+        "text": "Recipe search powered by Yummly",
+        "logo": "https://static.yummly.co/api-logo.png"
+    }
+}

@@ -1,0 +1,347 @@
+{
+    "criteria": {
+        "q": "E+n+t+e",
+        "allowedIngredient": null,
+        "excludedIngredient": null
+    },
+    "matches": [
+        {
+            "imageUrlsBySize": {
+                "90": "https://lh3.googleusercontent.com/7scilqiPm6S3K9QvvUB9-tYnELAH9CgkjhtGMeowvfAJ1I6FE6IL_TCvdQ3jkT-aMcdPcXLGZy1Jr-wv2tdAGw=s90-c"
+            },
+            "sourceDisplayName": "Cooking Classy",
+            "ingredients": [
+                "lean ground beef",
+                "olive oil",
+                "yellow onion",
+                "carrots",
+                "diced celery",
+                "garlic",
+                "tomato sauce",
+                "low sodium chicken broth",
+                "water",
+                "diced tomatoes",
+                "granulated sugar",
+                "dried basil",
+                "dried oregano",
+                "dried thyme",
+                "marjoram",
+                "salt",
+                "freshly ground black pepper",
+                "ditalini pasta",
+                "red kidney beans",
+                "Great Northern Beans",
+                "romano cheese"
+            ],
+            "id": "Copycat-Olive-Garden-Pasta-e-Fagioli-Soup-2195765",
+            "smallImageUrls": [
+                "https://lh3.googleusercontent.com/dvLtbYOrZHM9Fhe7Gjw274AnIKrI8CSGELlRYuM0caKeDMWKtCs2doNC5M-tvwLLFhkOp6Yt5Zl9VKXlOlVDbQ=s90"
+            ],
+            "recipeName": "Copycat Olive Garden Pasta e Fagioli Soup",
+            "totalTimeInSeconds": 3900,
+            "attributes": {
+                "course": [
+                    "Soups"
+                ],
+                "cuisine": [
+                    "Italian"
+                ]
+            },
+            "flavors": null,
+            "rating": 4
+        },
+        {
+            "imageUrlsBySize": {
+                "90": "https://lh3.googleusercontent.com/aqltjRo_8KQIJqclmf5uAHp4N3qrvcFvunMPsfbzJtazfDM9eozmmSgcqB0x-EltW5OZhyPo8SrJGwM5vZ0gI0A=s90-c"
+            },
+            "sourceDisplayName": "Just a Taste",
+            "ingredients": [
+                "spaghetti",
+                "grated parmesan cheese",
+                "unsalted butter",
+                "black pepper"
+            ],
+            "id": "Cacio-e-Pepe-Pasta-493842",
+            "smallImageUrls": [
+                "https://lh3.googleusercontent.com/a6mUj_O6U_SdqAkwQfwyRhVgcqrlWaL74dHXwXQgR1nLAyCddBGhv-IzB18PZXCjbk5lu-frtJyy3BZ616aN6A=s90"
+            ],
+            "recipeName": "Cacio e Pepe Pasta",
+            "totalTimeInSeconds": 1320,
+            "attributes": {
+                "course": [
+                    "Main Dishes"
+                ]
+            },
+            "flavors": {
+                "piquant": 0.0,
+                "meaty": 0.8333333333333334,
+                "bitter": 0.8333333333333334,
+                "sweet": 0.16666666666666666,
+                "sour": 0.16666666666666666,
+                "salty": 0.8333333333333334
+            },
+            "rating": 4
+        },
+        {
+            "imageUrlsBySize": {
+                "90": "http://lh4.ggpht.com/zwpcZj6YKN8OgC3FuM5Zts1fbBxLpY-dxz5OzIWaP0QEK08a6uZmVni0itIZbqx-weeaXwbyufCi_jqW4f_BcA=s90-c"
+            },
+            "sourceDisplayName": "Gwen's Nest",
+            "ingredients": [
+                "warm water",
+                "coarse salt",
+                "whole wheat flour",
+                "yeast",
+                "dough",
+                "crust",
+                "wheat"
+            ],
+            "id": "Easy-E-Bread-984635",
+            "smallImageUrls": [
+                "http://lh6.ggpht.com/B__4o0sk8XAghFLArX3_fti__qcP9j8MI2ie992n6J-5t1-Op2EmeRID8NviOyX-e140aY2aUEKlMG5O53J6CA=s90"
+            ],
+            "recipeName": "Easy E Bread",
+            "totalTimeInSeconds": 10800,
+            "attributes": {
+                "course": [
+                    "Breads"
+                ]
+            },
+            "flavors": null,
+            "rating": 4
+        },
+        {
+            "imageUrlsBySize": {
+                "90": "https://lh3.googleusercontent.com/4p8oSUDUJ5q1E63_80Ptf3jLeqQbE_RaH7GUZXpRtjGqfatmFsoaDVOUbPB5RvOL286GG8GNUkSlV7CBUR1x6A=s90-c"
+            },
+            "sourceDisplayName": "delicious days",
+            "ingredients": [
+                "milk",
+                "all-purpose flour",
+                "fresh yeast",
+                "butter",
+                "sugar",
+                "fine sea salt",
+                "eggs",
+                "ground almonds",
+                "ground hazelnuts",
+                "ceylon cinnamon",
+                "ground cloves",
+                "grated nutmeg",
+                "marzipan",
+                "brown sugar",
+                "honey",
+                "rum",
+                "amaretto",
+                "lemon",
+                "hazelnuts",
+                "apricot jam",
+                "water"
+            ],
+            "id": "T-H-E-Nut-Braid-2186750",
+            "smallImageUrls": [
+                "https://lh3.googleusercontent.com/y2GvKmdzi68UlTf9vHCpyEHrwOSud01nA5g4PZk-IhCyXCXcUw2TLLE7a1dGbv7ZtoML1iWVDX83DI8140k=s90"
+            ],
+            "recipeName": "T-H-E Nut Braid",
+            "totalTimeInSeconds": 4800,
+            "attributes": {},
+            "flavors": {
+                "piquant": 0.0,
+                "meaty": 0.5,
+                "bitter": 0.16666666666666666,
+                "sweet": 0.6666666666666666,
+                "sour": 0.5,
+                "salty": 0.16666666666666666
+            },
+            "rating": 4
+        },
+        {
+            "imageUrlsBySize": {
+                "90": "https://lh3.googleusercontent.com/KKg-YRDBbeWbNTz5Lsaffx3Idpq05e8JSHlh-LqD4ePmzKnWMsg2lczuH9BrRKR1G5eb2gM9snobwmnPopZo=s90-c"
+            },
+            "sourceDisplayName": "Just a Taste",
+            "ingredients": [
+                "spaghetti",
+                "grated parmesan romano",
+                "unsalted butter",
+                "black pepper"
+            ],
+            "id": "Cacio-e-Pepe-Pasta-2393560",
+            "smallImageUrls": [
+                "https://lh3.googleusercontent.com/CFJnasOL_scUtoz_nDet-Fuhtr6yx9p0x3CR-zqHsDZe1ey25kUYyossHHHYFVGzxD_puUP93cXLPfIfjDugfA=s90"
+            ],
+            "recipeName": "Cacio e Pepe Pasta",
+            "totalTimeInSeconds": 1320,
+            "attributes": {
+                "course": [
+                    "Main Dishes"
+                ]
+            },
+            "flavors": {
+                "piquant": 0.0,
+                "meaty": 0.8333333333333334,
+                "bitter": 0.8333333333333334,
+                "sweet": 0.16666666666666666,
+                "sour": 0.16666666666666666,
+                "salty": 0.8333333333333334
+            },
+            "rating": 4
+        },
+        {
+            "imageUrlsBySize": {
+                "90": "http://lh3.googleusercontent.com/dpyS2IDTtzJf5y9DBmTNt73byZrgqY0Z6ar-itR9UYJWNssbFiq2ri0mt_dOpvHauQeu823FNxzh9ZEVnLK3nyc=s90-c"
+            },
+            "sourceDisplayName": "Gwen's Nest",
+            "ingredients": [
+                "warm water",
+                "coarse salt",
+                "whole wheat flour",
+                "yeast",
+                "dough",
+                "crust",
+                "wheat"
+            ],
+            "id": "Easy-E-Bread-1117025",
+            "smallImageUrls": [
+                "http://lh3.googleusercontent.com/7HqO72CxCn9eZe7Rx0tY9xLYWMuBfMgHUoLseg0y-neQNTZuKMpYleDniXJf3v4_Yh3lioJkhzjq2nEYLRp3_Q=s90"
+            ],
+            "recipeName": "Easy E Bread",
+            "totalTimeInSeconds": 10800,
+            "attributes": {
+                "course": [
+                    "Breads"
+                ]
+            },
+            "flavors": null,
+            "rating": 4
+        },
+        {
+            "imageUrlsBySize": {
+                "90": "https://lh3.googleusercontent.com/EmlYEqqkvNql0yrruP6u2v2cA_0gBL0EBdWRwuSxFgZc-j_c7ONg5JqlHj2Dl9GHZ6uacTF8_lJceRNQn-8R=s90-c"
+            },
+            "sourceDisplayName": "Ahead of Thyme",
+            "ingredients": [
+                "bagels",
+                "vegetable oil",
+                "eggs",
+                "tomatoes",
+                "lettuce",
+                "salt",
+                "pepper"
+            ],
+            "id": "E_L_T_-_Egg-Lettuce-Tomato_-Breakfast-Bagel-1543288",
+            "smallImageUrls": [
+                "https://lh3.googleusercontent.com/1LpgzUQU-Mh1-JiI0ayTyWlE2bwbKYzF7qSQZyEIbAQ3773RghukQwjEuziQi8j_Kb8ODoJwBqWevrNNRw1ejoo=s90"
+            ],
+            "recipeName": "E.L.T. (Egg Lettuce Tomato) Breakfast Bagel",
+            "totalTimeInSeconds": 480,
+            "attributes": {
+                "course": [
+                    "Breakfast and Brunch",
+                    "Lunch"
+                ]
+            },
+            "flavors": {
+                "piquant": 0.0,
+                "meaty": 0.3333333333333333,
+                "bitter": 0.8333333333333334,
+                "sweet": 0.16666666666666666,
+                "sour": 0.3333333333333333,
+                "salty": 0.8333333333333334
+            },
+            "rating": 4
+        },
+        {
+            "imageUrlsBySize": {
+                "90": "https://lh3.googleusercontent.com/NyieysgSzA-roDnFeH6J7NshN99L-c8Zccsa-r49fzqSAAmSWO3nZj7tgF4-omyjUAIA9kAlk4MyOo0P3tRcmcY=s90-c"
+            },
+            "sourceDisplayName": "Natasha's Kitchen",
+            "ingredients": [
+                "unsalted butter",
+                "milk",
+                "all-purpose flour",
+                "active dry yeast",
+                "preserves"
+            ],
+            "id": "Russian-Rugelach-i_e_-Mom_s-famous-Rogaliki-2285342",
+            "smallImageUrls": [
+                "https://lh3.googleusercontent.com/kbbVQIu3JOGKfnrUQo8OiwYeFhof6c0FQ4S7nHMp6LGWjyNEBhBJh9oKdgKn2rlg0NrxrVjd68-f8BzMVLue5Ls=s90"
+            ],
+            "recipeName": "Russian Rugelach i.e. Mom's famous Rogaliki",
+            "totalTimeInSeconds": 4800,
+            "attributes": {},
+            "flavors": null,
+            "rating": 4
+        },
+        {
+            "imageUrlsBySize": {
+                "90": "https://lh3.googleusercontent.com/Kxyy3VVeEceyUWzSWoxZwmPfHPm7IXzsuP4NcWK9hN0gK0z3xlgvzwpL6H1Izbl2hBjFPe6CD723UL_4QW7nTw=s90-c"
+            },
+            "sourceDisplayName": "A Cozy Kitchen",
+            "ingredients": [
+                "pasta",
+                "black peppercorns",
+                "unsalted butter",
+                "extra-virgin olive oil",
+                "pasta cooking water",
+                "grated pecorino"
+            ],
+            "id": "Cacio-e-Pepe-2352499",
+            "smallImageUrls": [
+                "https://lh3.googleusercontent.com/qK7XNMohRFefwBVCCBDQT2dWXYY6AoyJnyVvI0xd8RBnN2vkNJiZaSpazZKK0Hg2PllnlKshLiPwNGscj7aqKGc=s90"
+            ],
+            "recipeName": "Cacio e Pepe",
+            "totalTimeInSeconds": 1500,
+            "attributes": {
+                "course": [
+                    "Main Dishes"
+                ]
+            },
+            "flavors": null,
+            "rating": 4
+        },
+        {
+            "imageUrlsBySize": {
+                "90": "http://lh5.ggpht.com/b6QUxRlcgjFN2RqzTsE0orix0R3NxlOaC64xYhC0PH2iuxvM3Cqri5ugGjuQsZKSOE7N9g-hQSRSgxnnVk1rrg=s90-c"
+            },
+            "sourceDisplayName": "Real Mom Kitchen",
+            "ingredients": [
+                "all-purpose flour",
+                "baking soda",
+                "baking powder",
+                "butter",
+                "white sugar",
+                "eggs",
+                "vanilla extract"
+            ],
+            "id": "Easy-sugar-cookies-369923",
+            "smallImageUrls": [
+                "http://lh6.ggpht.com/MT4joqIt1EzCVdrnDxjT2e87lTCvFoHn9yC9cTdaO7GJexypVNnnOdQZFv_LLp2mlikSaDFRtdVPH9CTF9eBug=s90"
+            ],
+            "recipeName": "Easy Sugar Cookies",
+            "totalTimeInSeconds": 1800,
+            "attributes": {
+                "course": [
+                    "Desserts"
+                ]
+            },
+            "flavors": {
+                "piquant": 0.0,
+                "meaty": 0.6666666666666666,
+                "bitter": 0.16666666666666666,
+                "sweet": 0.8333333333333334,
+                "sour": 0.16666666666666666,
+                "salty": 0.6666666666666666
+            },
+            "rating": 5
+        }
+    ],
+    "facetCounts": {},
+    "totalMatchCount": 1708,
+    "attribution": {
+        "html": "Recipe search powered by <a href='http://www.yummly.co/recipes'><img alt='Yummly' src='https://static.yummly.co/api-logo.png'/></a>",
+        "url": "http://www.yummly.co/recipes/",
+        "text": "Recipe search powered by Yummly",
+        "logo": "https://static.yummly.co/api-logo.png"
+    }
+}

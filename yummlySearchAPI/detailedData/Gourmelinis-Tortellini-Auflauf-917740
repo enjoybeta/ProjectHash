@@ -1,0 +1,52 @@
+{
+    "yield": "4",
+    "nutritionEstimates": [],
+    "prepTimeInSeconds": 1800,
+    "totalTime": "50 min",
+    "images": [
+        {
+            "imageUrlsBySize": {
+                "90": "null=s90-c",
+                "360": "null=s360-c"
+            }
+        }
+    ],
+    "name": "Gourmelinis Tortellini-Auflauf",
+    "source": {
+        "sourceDisplayName": "Chefkoch",
+        "sourceSiteUrl": "chefkoch.de",
+        "sourceRecipeUrl": "http://www.chefkoch.de/rezepte/2125071341995759/Gourmelinis-Tortellini-Auflauf.html"
+    },
+    "prepTime": "30 Min",
+    "id": "Gourmelinis-Tortellini-Auflauf-917740",
+    "ingredientLines": [
+        "250 g Tortellini, F\u00fcllung nach Wunsch",
+        "1 Pck. Kr\u00e4uterfrischk\u00e4se",
+        "3 m.-gro\u00dfe Zwiebel(n)",
+        "3 Zehe/n Knoblauch",
+        "1 Pck. Rahmspinat",
+        "300 g Blattspinat",
+        "1 Pck. R\u00e4ucherlachs, i. d. R. 200-250 g",
+        "4 Ei(er)",
+        "n. B. K\u00e4se, (Gratink\u00e4se)",
+        "Salz",
+        "Pfeffer, schwarzer, aus der M\u00fchle",
+        "Br\u00fche, instant (Gem\u00fcse- oder Fleischgeschmack)",
+        "Muskat, frisch gerieben",
+        "etwas Milch, f\u00fcr die Eier",
+        "Butter"
+    ],
+    "cookTime": "20 Min",
+    "attribution": {
+        "html": "<a href='http://www.yummly.co/recipe/Gourmelinis-Tortellini-Auflauf-917740'>Gourmelinis Tortellini-Auflauf recipe</a> information powered by <img alt='Yummly' src='https://static.yummly.co/api-logo.png'/>",
+        "url": "http://www.yummly.co/recipe/Gourmelinis-Tortellini-Auflauf-917740",
+        "text": "Gourmelinis Tortellini-Auflauf recipes: information powered by Yummly",
+        "logo": "https://static.yummly.co/api-logo.png"
+    },
+    "numberOfServings": 4,
+    "totalTimeInSeconds": 3000,
+    "attributes": {},
+    "cookTimeInSeconds": 1200,
+    "flavors": {},
+    "rating": 3
+}

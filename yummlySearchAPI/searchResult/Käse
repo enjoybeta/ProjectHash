@@ -1,0 +1,345 @@
+{
+    "criteria": {
+        "q": "K+\u00e4+s+e",
+        "allowedIngredient": null,
+        "excludedIngredient": null
+    },
+    "matches": [
+        {
+            "imageUrlsBySize": {
+                "90": "https://lh3.googleusercontent.com/HgdP9aqvIvNXVDM6M0-2F4X2gFIM0Nc1YRcy016eQumZtyO0ZMMqeNX12lzn8N8vZr56pn62stXpdUxevVh7VeY=s90-c"
+            },
+            "sourceDisplayName": "Gigi Eats Celebrities",
+            "ingredients": [
+                "sweet potatoes",
+                "sugar",
+                "hickory smoke",
+                "beef brisket",
+                "bbq sauce",
+                "spinach"
+            ],
+            "id": "Nacho-Average-B_R_I_S_K_E_T_-1952403",
+            "smallImageUrls": [
+                "https://lh3.googleusercontent.com/MrXnL83XjSwGVTFf2xMbAMU45DSUoC6Ti5Aws3HW0k_1DXt5ZpEhn-QiyyHKafCLKQOJxwr6PvUjDjrpNJEhWw=s90"
+            ],
+            "recipeName": "Nacho Average B.R.I.S.K.E.T.",
+            "totalTimeInSeconds": 1800,
+            "attributes": {
+                "course": [
+                    "Main Dishes"
+                ]
+            },
+            "flavors": null,
+            "rating": 4
+        },
+        {
+            "imageUrlsBySize": {
+                "90": "http://lh3.googleusercontent.com/HyqMxRhF9ZZWt0GOoB15ajXFuwryzNuRk93FLd8YHpKgFjiiErEEmBYW1NNjZ11T_XoI11SBe0X6gG8Xh_cHlA=s90-c"
+            },
+            "sourceDisplayName": "Simple as That",
+            "ingredients": [
+                "unsweetened coconut milk",
+                "frozen strawberries",
+                "frozen red raspberries",
+                "bananas",
+                "avocado"
+            ],
+            "id": "Avocado-Red-Berry-Smoothie-1109713",
+            "smallImageUrls": [
+                "http://lh3.googleusercontent.com/jb2F-uJXmw_mMBLAjcoSnGWwIYwgCZS3uLrN-iMaUFlnfQsjvbAxskAZu9W9vz-rtMARkb4ErG21hAcpboleMw=s90"
+            ],
+            "recipeName": "Avocado Red Berry Smoothie",
+            "totalTimeInSeconds": 900,
+            "attributes": {
+                "course": [
+                    "Beverages"
+                ]
+            },
+            "flavors": null,
+            "rating": 4
+        },
+        {
+            "imageUrlsBySize": {
+                "90": "https://lh3.googleusercontent.com/aoSTuBswXbVcBQgTvXK_r-IBR2ZLz-ErGPX2PRLE0NJv3rZtKR0iq-AGOtbdvPUYPm9-pIQW7zx-F7F-UA3eOw=s90-c"
+            },
+            "sourceDisplayName": "The Muffin Myth",
+            "ingredients": [
+                "rolled oats",
+                "cold water",
+                "spinach leaves",
+                "bananas",
+                "blueberries",
+                "cocoa powder",
+                "hemp seeds",
+                "yogurt"
+            ],
+            "id": "Chocolate-Blueberry-Oat-Smoothie-2016998",
+            "smallImageUrls": [
+                "https://lh3.googleusercontent.com/8VAj6QB89bzo-0_mMQ5Gd0oX5g7QpG5JuoFZUa8DCYZdaVcVkioCzbICKHxAubss4QTY_cDFP2aZqzXQJaunqw=s90"
+            ],
+            "recipeName": "Chocolate Blueberry Oat Smoothie",
+            "totalTimeInSeconds": 1200,
+            "attributes": {
+                "course": [
+                    "Beverages",
+                    "Breakfast and Brunch"
+                ]
+            },
+            "flavors": null,
+            "rating": 4
+        },
+        {
+            "imageUrlsBySize": {
+                "90": "https://lh3.googleusercontent.com/v61DlpZSsVDKrDKIR7K6QicOlM-OWuoP40TMPco8fVk4GsD7HA4n5LUBz_3XBvlpPtbhIHu1aUmkEbtyyvq8=s90-c"
+            },
+            "sourceDisplayName": "Gemma's Bigger Bolder Baking",
+            "ingredients": [
+                "all-purpose flour",
+                "baking powder",
+                "baking soda",
+                "white sugar",
+                "kosher salt",
+                "eggs",
+                "buttermilk",
+                "vanilla extract",
+                "melted butter"
+            ],
+            "id": "Make-Perfect-Pancakes-1474421",
+            "smallImageUrls": [
+                "https://lh3.googleusercontent.com/Is8rkgANL4ujKwy_GcmiBEB_luSKj7DFxiJuk08zhUp2zhsSV5PEvuKLEqElKc79jCj06v7jkKXiznckw4Qo=s90"
+            ],
+            "recipeName": "Make Perfect Pancakes",
+            "totalTimeInSeconds": 1500,
+            "attributes": {
+                "course": [
+                    "Breakfast and Brunch"
+                ],
+                "cuisine": [
+                    "Kid-Friendly"
+                ]
+            },
+            "flavors": {
+                "piquant": 0.0,
+                "meaty": 0.16666666666666666,
+                "bitter": 0.6666666666666666,
+                "sweet": 0.5,
+                "sour": 0.16666666666666666,
+                "salty": 0.8333333333333334
+            },
+            "rating": 4
+        },
+        {
+            "imageUrlsBySize": {
+                "90": "http://lh3.googleusercontent.com/H3aI0azmkY_99-1rL9_T1NbnkB8HlfI2xm4xDNS5IBr4V2hFBfJybch-OWkm3MdIyY11RG6r34lEG5CELaqAJQ=s90-c"
+            },
+            "sourceDisplayName": "Bakewell Junction",
+            "ingredients": [
+                "Great Northern Beans",
+                "water",
+                "garlic",
+                "salt",
+                "baking soda",
+                "dry pasta",
+                "gravy",
+                "grating cheese"
+            ],
+            "id": "Pasta-e-Fagioli-1068342",
+            "smallImageUrls": [
+                "http://lh3.googleusercontent.com/HKUV5X8yXaiDGMX0ox59zqCZXnPSuMSJidsST5R6sJoJAEtFGCK1vhepkKnQzlZ4VzF2dFZz63CSNc7Ei8Vo-g=s90"
+            ],
+            "recipeName": "Pasta e Fagioli",
+            "totalTimeInSeconds": 5400,
+            "attributes": {},
+            "flavors": null,
+            "rating": 4
+        },
+        {
+            "imageUrlsBySize": {
+                "90": "http://lh3.googleusercontent.com/BECDaX_o8ZoY25GaC8mT5WK12hg6fZO2_oIAQjC_JeVvwMjyihLU_dJiz2_dXK2pHhdWxJwcg15tBTSDN9-C=s90-c"
+            },
+            "sourceDisplayName": "Further Food",
+            "ingredients": [
+                "raspberries",
+                "blueberries",
+                "coconut water",
+                "bananas",
+                "low-fat Greek yogurt",
+                "kale",
+                "red beets",
+                "nut butter",
+                "flaxseed oil"
+            ],
+            "id": "Morning-Ritual-Smoothie-1336488",
+            "smallImageUrls": [
+                "https://lh3.googleusercontent.com/Ta_J5-Q-AccQRjWRzbKVaAJQlD2_2-JFsKIu3VFfHh-avRKLAFTxs7LemUTqUdEYux1qbqZg71Kv2HgwAmjtYEQ=s90"
+            ],
+            "recipeName": "Morning Ritual Smoothie",
+            "totalTimeInSeconds": 120,
+            "attributes": {
+                "course": [
+                    "Beverages"
+                ]
+            },
+            "flavors": null,
+            "rating": 4
+        },
+        {
+            "imageUrlsBySize": {
+                "90": "http://lh6.ggpht.com/NQXJ1yabwbvaOLFzlQxtiDqF3JC-QIrTg6m5yNkiwbiwmrgh0dXaOyypu_69Qea4ZOTBYTFzDhd7OeKHUzV4dg=s90-c"
+            },
+            "sourceDisplayName": "Chocolate & Zucchini",
+            "ingredients": [
+                "dark chocolate",
+                "almonds",
+                "candied ginger",
+                "puffed rice",
+                "sea salt"
+            ],
+            "id": "Ginger-and-almond-chocolate-clusters-357334",
+            "smallImageUrls": [
+                "http://lh6.ggpht.com/H8s9m3z6NiOJ80YbnX7b2B7uODP0KfEgSytjEd0CMTh7vAc1xiI0yL-wgM7xK9RqSH_lWvb9Z-nLQrbJZ6sC=s90"
+            ],
+            "recipeName": "Ginger and Almond Chocolate Clusters",
+            "totalTimeInSeconds": 21600,
+            "attributes": {
+                "course": [
+                    "Desserts"
+                ]
+            },
+            "flavors": {
+                "sweet": 0.8333333333333334,
+                "piquant": 0.0,
+                "sour": 0.5,
+                "salty": 0.16666666666666666,
+                "meaty": 0.8333333333333334,
+                "bitter": 0.8333333333333334
+            },
+            "rating": 5
+        },
+        {
+            "imageUrlsBySize": {
+                "90": "http://lh3.googleusercontent.com/RCC5cQg8RaUQCGqADybXQhTSe24QIEAmpRuDA56jKUXJSd9RRPpWQnUghld6Nv8gwzxkduzqylYvW7dal0hR=s90-c"
+            },
+            "sourceDisplayName": "The Daring Kitchen",
+            "ingredients": [
+                "water",
+                "whole milk",
+                "salt",
+                "caster sugar",
+                "butter",
+                "cake flour",
+                "medium eggs",
+                "slivered almonds",
+                "eggs",
+                "whole almonds",
+                "hazelnuts",
+                "egg yolks",
+                "caster",
+                "european style butter",
+                "praline",
+                "vanilla pods"
+            ],
+            "id": "Paris-Brest-1192943",
+            "smallImageUrls": [
+                "http://lh3.googleusercontent.com/u7iAzbJyycMgq4V7CrffzBY5VaVdAY1IBgZ4DnVUqbcV228-KcMrZ8IVNJ-7LcZnX5qr2C2tSMUYaw1dY08nBw=s90"
+            ],
+            "recipeName": "Paris-Brest",
+            "totalTimeInSeconds": 4800,
+            "attributes": {
+                "course": [
+                    "Desserts"
+                ],
+                "cuisine": [
+                    "French"
+                ]
+            },
+            "flavors": {
+                "piquant": 0.0,
+                "meaty": 0.8333333333333334,
+                "bitter": 0.3333333333333333,
+                "sweet": 0.5,
+                "sour": 0.16666666666666666,
+                "salty": 0.16666666666666666
+            },
+            "rating": 4
+        },
+        {
+            "imageUrlsBySize": {
+                "90": "https://lh3.googleusercontent.com/V9-Q6UacrEXQIRiCkz5bN3F0cl1Yf5OOU3zGeovE63OiAHM8pHL-BGOPL6lsP3uQaH79QJTQRM-nkToWkDawdg=s90-c"
+            },
+            "sourceDisplayName": "Diethood",
+            "ingredients": [
+                "cereal flakes",
+                "rolled oats",
+                "coconut",
+                "maple syrup",
+                "Neufch\u00e2tel",
+                "powdered sugar",
+                "pure vanilla extract",
+                "strawberries",
+                "kiwi",
+                "bananas",
+                "blueberries"
+            ],
+            "id": "Healthy-Breakfast-Fruit-Pizza-1466255",
+            "smallImageUrls": [
+                "https://lh3.googleusercontent.com/a-5uwfr9Q6JuLiSOJtHACEy-ZTCqW6k4n86mJsbejI1CX692vnKykRvC-rl2qZdB3Q-vQZPYzOn7t7FpeMIObLw=s90"
+            ],
+            "recipeName": "Healthy Breakfast Fruit Pizza",
+            "totalTimeInSeconds": 3000,
+            "attributes": {
+                "course": [
+                    "Desserts",
+                    "Breakfast and Brunch"
+                ],
+                "cuisine": [
+                    "Kid-Friendly"
+                ]
+            },
+            "flavors": null,
+            "rating": 4
+        },
+        {
+            "imageUrlsBySize": {
+                "90": "http://lh3.googleusercontent.com/77CX8xAq4_d3f0RRmgL-QmdAmH5EgGK7ATh7EByo_BKP6m6LKKLS8_f7Y7fFXdEwYJJVps2iAJrH1yO8NBnOBA=s90-c"
+            },
+            "sourceDisplayName": "Nutrition Stripped",
+            "ingredients": [
+                "light coconut milk",
+                "full fat coconut milk",
+                "maple syrup",
+                "black sesame paste",
+                "vanilla pods",
+                "sea salt",
+                "ground black pepper",
+                "spirulina powder",
+                "black pepper",
+                "plums",
+                "cacao nibs",
+                "toasted coconut",
+                "figs"
+            ],
+            "id": "Black-Sesame-Coconut-Ice-Cream-1212373",
+            "smallImageUrls": [
+                "http://lh3.googleusercontent.com/5uyOAKLrgIZMi4K0MAgKIfiSK9p6qqdwkU3f_tIdk_PqEJaayvMKFieS85Cd5uoO49CG_X9dtVnG5vpeamPtKg=s90"
+            ],
+            "recipeName": "Black Sesame Coconut Ice Cream",
+            "totalTimeInSeconds": 900,
+            "attributes": {
+                "course": [
+                    "Desserts"
+                ]
+            },
+            "flavors": null,
+            "rating": 4
+        }
+    ],
+    "facetCounts": {},
+    "totalMatchCount": 29707,
+    "attribution": {
+        "html": "Recipe search powered by <a href='http://www.yummly.co/recipes'><img alt='Yummly' src='https://static.yummly.co/api-logo.png'/></a>",
+        "url": "http://www.yummly.co/recipes/",
+        "text": "Recipe search powered by Yummly",
+        "logo": "https://static.yummly.co/api-logo.png"
+    }
+}

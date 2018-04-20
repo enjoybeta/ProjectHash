@@ -1,0 +1,49 @@
+{
+    "criteria": {
+        "q": "m+a+r+i+n+a+d+e",
+        "allowedIngredient": null,
+        "excludedIngredient": null
+    },
+    "matches": [
+        {
+            "recipeName": "R-E-D-R-U-M Cocktail",
+            "ingredients": [
+                "strawberries",
+                "red raspberry preserves",
+                "blood orange juice",
+                "cherry brandy",
+                "brandy",
+                "dark rum",
+                "Malibu Caribbean Rum",
+                "crushed ice",
+                "club soda",
+                "key lime",
+                "sorbet",
+                "sherbet",
+                "fruit"
+            ],
+            "totalTimeInSeconds": 300,
+            "sourceDisplayName": "Food.com",
+            "id": "R_e_d_r_u_m-Cocktail-Recipezaar",
+            "rating": 4,
+            "flavors": null,
+            "attributes": {
+                "course": [
+                    "Beverages",
+                    "Cocktails"
+                ],
+                "holiday": [
+                    "Summer"
+                ]
+            }
+        }
+    ],
+    "facetCounts": {},
+    "totalMatchCount": 1,
+    "attribution": {
+        "html": "Recipe search powered by <a href='http://www.yummly.co/recipes'><img alt='Yummly' src='https://static.yummly.co/api-logo.png'/></a>",
+        "url": "http://www.yummly.co/recipes/",
+        "text": "Recipe search powered by Yummly",
+        "logo": "https://static.yummly.co/api-logo.png"
+    }
+}

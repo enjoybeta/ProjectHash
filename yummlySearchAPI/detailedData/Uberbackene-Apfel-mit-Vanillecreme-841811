@@ -1,0 +1,47 @@
+{
+    "yield": "Zutaten f\u00fcr 4 Personen:",
+    "nutritionEstimates": [],
+    "totalTime": "45 min",
+    "images": [
+        {
+            "hostedSmallUrl": "http://lh3.googleusercontent.com/36mwIjHsqxNSlPxDvHDFE0oZhsRZxIFUVQAdeiNkQD9Ivt4AqHphHXAsbV45V_NiSx_Q8x3ybTRQYjUSqn5_uA=s90",
+            "hostedMediumUrl": "http://lh3.googleusercontent.com/36mwIjHsqxNSlPxDvHDFE0oZhsRZxIFUVQAdeiNkQD9Ivt4AqHphHXAsbV45V_NiSx_Q8x3ybTRQYjUSqn5_uA=s180",
+            "hostedLargeUrl": "http://lh3.googleusercontent.com/36mwIjHsqxNSlPxDvHDFE0oZhsRZxIFUVQAdeiNkQD9Ivt4AqHphHXAsbV45V_NiSx_Q8x3ybTRQYjUSqn5_uA=s360",
+            "imageUrlsBySize": {
+                "90": "http://lh3.googleusercontent.com/5_upBbmgJGewsJTERyXeTHTR01OLCQ_YNBqBCsiSw9CuThbqctUhvVZLR1Wy_4rMcTd5GFlAmzAIZp36-0a_Xw=s90-c",
+                "360": "http://lh3.googleusercontent.com/5_upBbmgJGewsJTERyXeTHTR01OLCQ_YNBqBCsiSw9CuThbqctUhvVZLR1Wy_4rMcTd5GFlAmzAIZp36-0a_Xw=s360-c"
+            }
+        }
+    ],
+    "name": "U\u0308berbackene A\u0308pfel mit Vanillecreme",
+    "source": {
+        "sourceDisplayName": "Lecker",
+        "sourceSiteUrl": "lecker.de",
+        "sourceRecipeUrl": "http://www.lecker.de/rezept/2238161/Ueberbackene-Aepfel-mit-Vanillecreme.html"
+    },
+    "id": "Uberbackene-Apfel-mit-Vanillecreme-841811",
+    "ingredientLines": [
+        "1/2 TL Zimt",
+        "3 EL + 150 g Zucker",
+        "4 \u00c4pfel (z. B. Golden Delicious)",
+        "1 unbehandelte Zitrone",
+        "3 Eigelb (Gr\u00f6\u00dfe M)",
+        "1 Prise Salz",
+        "1 P\u00e4ckchen Vanillin-Zucker",
+        "50 g Mehl",
+        "1/2 l Milch",
+        "250 g Schlagsahne",
+        "Minze zum Verzieren"
+    ],
+    "attribution": {
+        "html": "<a href='http://www.yummly.co/recipe/Uberbackene-Apfel-mit-Vanillecreme-841811'>U\u0308berbackene A\u0308pfel mit Vanillecreme recipe</a> information powered by <img alt='Yummly' src='https://static.yummly.co/api-logo.png'/>",
+        "url": "http://www.yummly.co/recipe/Uberbackene-Apfel-mit-Vanillecreme-841811",
+        "text": "U\u0308berbackene A\u0308pfel mit Vanillecreme recipes: information powered by Yummly",
+        "logo": "https://static.yummly.co/api-logo.png"
+    },
+    "numberOfServings": 4,
+    "totalTimeInSeconds": 2700,
+    "attributes": {},
+    "flavors": {},
+    "rating": 3
+}

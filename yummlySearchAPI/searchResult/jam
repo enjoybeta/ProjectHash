@@ -1,0 +1,353 @@
+{
+    "criteria": {
+        "q": "j+a+m",
+        "allowedIngredient": null,
+        "excludedIngredient": null
+    },
+    "matches": [
+        {
+            "imageUrlsBySize": {
+                "90": "https://lh3.googleusercontent.com/LuhtuLOMIHb6-lKI11BZBxjo86Tcgh5K9aYVfDL5wFzsILoKpoudRBfGzexzqQ9_bQUqL6pn8f_2hw-YLIA4O5k=s90-c"
+            },
+            "sourceDisplayName": "Tracey's Culinary Adventures",
+            "ingredients": [
+                "slivered almonds",
+                "confectioners sugar",
+                "Dutch-processed cocoa powder",
+                "egg whites",
+                "granulated sugar"
+            ],
+            "id": "PB-_-J-Macarons-470648",
+            "smallImageUrls": [
+                "https://lh3.googleusercontent.com/qnLpWdz3TZ2NQvhe78nZ3brggIo5hj127eO9QB-RiVWQRUgBQEAv4b9GVI7fF2iVWz_tte4ZA4nhRm6wDbg3tg=s90"
+            ],
+            "recipeName": "PB & J Macarons",
+            "totalTimeInSeconds": 4200,
+            "attributes": {
+                "course": [
+                    "Desserts"
+                ]
+            },
+            "flavors": {
+                "sweet": 0.8333333333333334,
+                "piquant": 0.0,
+                "sour": 0.0,
+                "salty": 0.16666666666666666,
+                "meaty": 0.8333333333333334,
+                "bitter": 0.8333333333333334
+            },
+            "rating": 4
+        },
+        {
+            "imageUrlsBySize": {
+                "90": "http://lh3.googleusercontent.com/XG3PYeqncqV2SCmi_fmWHNx1xGD-PU5X3qZcLGXFYUyVwEsdjJRUxaallGsbp1dHwtpooBDOPUTiTFsef1BE=s90-c"
+            },
+            "sourceDisplayName": "My Organized Chaos",
+            "ingredients": [
+                "creamy peanut butter",
+                "strawberry jam",
+                "toasted coconut",
+                "popcorn"
+            ],
+            "id": "PB-_-J-Popcorn-1055486",
+            "smallImageUrls": [
+                "http://lh3.googleusercontent.com/GBMVHjNmmibiT1Mao-a4lPs3SnMHVQo5XuGb4vxsuDT6TTasQJy3hB4OjV2-FdJp-uUXXIdhPM-XUgVNeWmzTQ=s90"
+            ],
+            "recipeName": "PB & J Popcorn",
+            "totalTimeInSeconds": 1500,
+            "attributes": {
+                "course": [
+                    "Lunch",
+                    "Snacks"
+                ],
+                "cuisine": [
+                    "Kid-Friendly"
+                ]
+            },
+            "flavors": {
+                "piquant": 0.0,
+                "meaty": 0.8333333333333334,
+                "bitter": 0.16666666666666666,
+                "sweet": 0.8333333333333334,
+                "sour": 0.3333333333333333,
+                "salty": 0.16666666666666666
+            },
+            "rating": 4
+        },
+        {
+            "imageUrlsBySize": {
+                "90": "http://lh3.googleusercontent.com/dzjM7K6E7rCIN7azCxe_fOidazuLwQpvqMmGNuFEROU8gog3n7Dp6rOTkwFTnsGnvBBGSYMoiUZJGn-s6oNx=s90-c"
+            },
+            "sourceDisplayName": "Mindfully Frugal Mom",
+            "ingredients": [
+                "almond milk",
+                "vanilla yogurt",
+                "peanut butter",
+                "frozen strawberries",
+                "chia seeds",
+                "cocoa powder"
+            ],
+            "id": "PB_J-Smoothie-1105935",
+            "smallImageUrls": [
+                "http://lh3.googleusercontent.com/5Uc45qjLSn5vwyCmGraAp9o9SiNT-Bi33pkO6V30RL_ZVyz1rpgaM224xm5bfRMrEa1WIHVrYvra-kHG3M5n=s90"
+            ],
+            "recipeName": "PB&J Smoothie",
+            "totalTimeInSeconds": 300,
+            "attributes": {
+                "course": [
+                    "Beverages"
+                ]
+            },
+            "flavors": {
+                "piquant": 0.0,
+                "meaty": 0.16666666666666666,
+                "bitter": 0.16666666666666666,
+                "sweet": 0.3333333333333333,
+                "sour": 0.8333333333333334,
+                "salty": 0.16666666666666666
+            },
+            "rating": 4
+        },
+        {
+            "imageUrlsBySize": {
+                "90": "http://lh5.ggpht.com/k97o4ZbyesOvN0mCpFXnaEhb7Vc2WHoW6ZV3Z_b0CckHynj88tAZSzd2tIsB92PCvqoZUwhxBeCh2wly2zLhjA=s90-c"
+            },
+            "sourceDisplayName": "I Breathe... I'm Hungry...",
+            "ingredients": [
+                "peanut butter",
+                "eggs",
+                "coconut flour",
+                "vanilla extract",
+                "baking powder",
+                "sugar substitute",
+                "strawberries"
+            ],
+            "id": "Low-Carb-PB-_-J-Thumbprint-Cookies-_Gluten-Free_-977383",
+            "smallImageUrls": [
+                "http://lh5.ggpht.com/gvBvVuiCp4hGaaatU5mgZCS4895InDj1EFrfjg79el7UdFU6X6UIQf1Nt4SZ8KQxSznNYv3UkXqBw0z9oUwsmtM=s90"
+            ],
+            "recipeName": "Low Carb PB & J Thumbprint Cookies (Gluten Free)",
+            "totalTimeInSeconds": 2100,
+            "attributes": {
+                "course": [
+                    "Desserts"
+                ]
+            },
+            "flavors": null,
+            "rating": 4
+        },
+        {
+            "imageUrlsBySize": {
+                "90": "http://lh3.googleusercontent.com/mvBSyoMYo6amel31zmUYPQxk7_-KiZEYp2uTeAYyDkIKwzMkDuskElLE7fdxVOvm7ishrSk93NCFpTUqPqOiS5Y=s90-c"
+            },
+            "sourceDisplayName": "Peanut Butter and Julie",
+            "ingredients": [
+                "warm water",
+                "pure maple syrup",
+                "active dry yeast",
+                "safflower oil",
+                "whole wheat flour",
+                "bread flour",
+                "old-fashioned oats",
+                "wheat bran",
+                "cracked wheat",
+                "millet",
+                "sunflower seeds",
+                "kosher salt"
+            ],
+            "id": "_PB_Js-attempt-at_-The-Bunnerys-Famous-O_S_M_-Bread-1192191",
+            "smallImageUrls": [
+                "http://lh3.googleusercontent.com/OT7xwKUtxI7pc05CGe30_cHG8ibRJHsOBe9yZuDIBSg5e9qTDbkYV4QaJI_v-KfWV7OlJE1hRLNvFCF8esxmxcE=s90"
+            ],
+            "recipeName": "(PB&J\u2019s attempt at) The Bunnery\u2019s Famous O.S.M. Bread",
+            "totalTimeInSeconds": 6300,
+            "attributes": {
+                "course": [
+                    "Breads"
+                ]
+            },
+            "flavors": {
+                "sweet": 0.5,
+                "piquant": 0.0,
+                "sour": 0.0,
+                "salty": 0.8333333333333334,
+                "meaty": 0.3333333333333333,
+                "bitter": 0.16666666666666666
+            },
+            "rating": 4
+        },
+        {
+            "imageUrlsBySize": {
+                "90": "http://lh3.googleusercontent.com/c5yW-k6lyCjamtnys86WKtdtDx513PjOItykShiabvlVEH7ntlEa0ixs1mfrVJPgBXph_280AQup-EZZ4ayw=s90-c"
+            },
+            "sourceDisplayName": "Butter With A Side Of Bread",
+            "ingredients": [
+                "pectin",
+                "strawberry jam",
+                "strawberries",
+                "sugar",
+                "lemon juice"
+            ],
+            "id": "STRAWBERRY-JAM-WITHOUT-PECTIN-1111652",
+            "smallImageUrls": [
+                "http://lh3.googleusercontent.com/kB4GQvNr6GnrSYtKB6AvHvLY2iWhMNX3qKMA9o_QIELXgXc2U1eY-A01OqrSkH_57BywJkBwFBut4lo8hPdFbg=s90"
+            ],
+            "recipeName": "STRAWBERRY JAM WITHOUT PECTIN",
+            "totalTimeInSeconds": 1800,
+            "attributes": {
+                "course": [
+                    "Desserts"
+                ]
+            },
+            "flavors": null,
+            "rating": 4
+        },
+        {
+            "imageUrlsBySize": {
+                "90": "http://lh5.ggpht.com/mi08ghf58TiWPYEdZ-rMycJTerEKW2aw6vNrSCxbFVymLpIq3ErYjBRnHE5PGTujZtXJxGkeL0hDdBNCP7bpkA=s90-c"
+            },
+            "sourceDisplayName": "I'm Bored, Let's Go",
+            "ingredients": [
+                "comice pears",
+                "sugar",
+                "pear vodka",
+                "pear liqueur",
+                "lime juice",
+                "ice cubes"
+            ],
+            "id": "Triple-Pear-tini-713488",
+            "smallImageUrls": [
+                "http://lh4.ggpht.com/AufjWOqrLQBJBoilzqmCmGlmphanBONs6miIuTX-H5nyrUco2l53cN1Cj_pm4CGo5riOr6IPCS5It77uNMPjnQ=s90"
+            ],
+            "recipeName": "Triple Pear-tini",
+            "totalTimeInSeconds": 900,
+            "attributes": {
+                "course": [
+                    "Beverages",
+                    "Cocktails"
+                ]
+            },
+            "flavors": null,
+            "rating": 4
+        },
+        {
+            "imageUrlsBySize": {
+                "90": "https://lh3.googleusercontent.com/CQexShjA2Ur7c7HcuWqSYyvWibg4qBSDcdVQEqm5PN-udO6dHDJMpBiLpGgIiLYRj9N2vWX50sPrO3Fhsgu1=s90-c"
+            },
+            "sourceDisplayName": "Lemons for Lulu",
+            "ingredients": [
+                "strawberries",
+                "smoothie",
+                "silken tofu",
+                "plain yogurt",
+                "almond milk",
+                "crushed ice",
+                "vanilla",
+                "cocoa powder",
+                "espresso powder",
+                "fresh raspberries",
+                "bananas",
+                "sliced almonds",
+                "chocolatecovered espresso beans",
+                "fruit"
+            ],
+            "id": "Strawberry-Mocha-Smoothie-Bowl-2077442",
+            "smallImageUrls": [
+                "https://lh3.googleusercontent.com/4Dtkh4vACUTw0uqswTd1PgoXl7ErNRgDfKrWpJl71AhIBzWzNaN_tP9cdL-Vh-7wDkpCexf2YWxFsHj44pAPsA=s90"
+            ],
+            "recipeName": "Strawberry Mocha Smoothie Bowl",
+            "totalTimeInSeconds": 900,
+            "attributes": {
+                "course": [
+                    "Beverages"
+                ]
+            },
+            "flavors": null,
+            "rating": 4
+        },
+        {
+            "imageUrlsBySize": {
+                "90": "https://lh3.googleusercontent.com/3n8hRuLe9FZMAvQgZiqGzOkbhUF-1KHrz8KhLGL1yE2-qIHfSuafobodV9w26bACv6DEhB6vujbt9rdvMeEhLw=s90-c"
+            },
+            "sourceDisplayName": "In The Kitchen With Cherchies",
+            "ingredients": [
+                "cake flour",
+                "baking powder",
+                "baking soda",
+                "salt",
+                "egg whites",
+                "sugar",
+                "pure vanilla extract",
+                "oil",
+                "milk",
+                "sour cream",
+                "butter",
+                "blackberry preserves",
+                "cherries",
+                "butter flavor shortening",
+                "almond extract",
+                "vanilla",
+                "half & half",
+                "powdered sugar",
+                "creamy peanut butter"
+            ],
+            "id": "PB_J-Cupcakes-2371161",
+            "smallImageUrls": [
+                "https://lh3.googleusercontent.com/Voc3oPkgRCcxWgBE10djWIZElbpbJzs0unwZjEe57uwvntKcASl9LRv22-1gFSLd09LyPrirwViX_KKNWqn0Sw=s90"
+            ],
+            "recipeName": "PB&J Cupcakes",
+            "totalTimeInSeconds": 3000,
+            "attributes": {
+                "course": [
+                    "Desserts"
+                ]
+            },
+            "flavors": {
+                "piquant": 0.0,
+                "meaty": 0.6666666666666666,
+                "bitter": 0.16666666666666666,
+                "sweet": 0.8333333333333334,
+                "sour": 0.16666666666666666,
+                "salty": 0.3333333333333333
+            },
+            "rating": 4
+        },
+        {
+            "imageUrlsBySize": {
+                "90": "http://lh3.googleusercontent.com/-I8w6FtCaCBC3H7aqW9rrldRJEO1VqNle4O7-SFmGanVNQ_vT9kF0ADQoaYkoY1lYo1xj97qgiZSg1BIG_v_Dw=s90-c"
+            },
+            "sourceDisplayName": "Dispatches from the Castle",
+            "ingredients": [
+                "soy sauce",
+                "garlic",
+                "salt",
+                "ground black pepper",
+                "vodka"
+            ],
+            "id": "Filet-Mignon-for-Valentines-Day-1065939",
+            "smallImageUrls": [
+                "http://lh3.googleusercontent.com/df9TltXySf2BtrcDFZ9UeC12Wth8Nk35k2Pvzm1mUi6wwNsX8drotXkTjbf6Z_tAcr4A6jqVExaoQWa25xpK2A=s90"
+            ],
+            "recipeName": "Filet Mignon for Valentine\u2019s Day",
+            "totalTimeInSeconds": 2700,
+            "attributes": {
+                "course": [
+                    "Main Dishes"
+                ],
+                "cuisine": [
+                    "Barbecue"
+                ]
+            },
+            "flavors": null,
+            "rating": 4
+        }
+    ],
+    "facetCounts": {},
+    "totalMatchCount": 10801,
+    "attribution": {
+        "html": "Recipe search powered by <a href='http://www.yummly.co/recipes'><img alt='Yummly' src='https://static.yummly.co/api-logo.png'/></a>",
+        "url": "http://www.yummly.co/recipes/",
+        "text": "Recipe search powered by Yummly",
+        "logo": "https://static.yummly.co/api-logo.png"
+    }
+}

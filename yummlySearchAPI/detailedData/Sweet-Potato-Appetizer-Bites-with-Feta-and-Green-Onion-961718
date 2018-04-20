@@ -1,0 +1,48 @@
+{
+    "yield": "makes about 24 appetizers; recipe adapted from an idea in the south beach diet parties and holidays cookbook.)",
+    "nutritionEstimates": [],
+    "totalTime": "35 min",
+    "images": [
+        {
+            "hostedSmallUrl": "http://lh5.ggpht.com/ZyH4BqzQ4bC86kShXhky08q4rJcGqXTRIQT9oJsQbtplokgT1AZoV26Jbv5wjAxLm7fN-5zCBhOkshdHcpNgeA=s90",
+            "hostedMediumUrl": "http://lh5.ggpht.com/ZyH4BqzQ4bC86kShXhky08q4rJcGqXTRIQT9oJsQbtplokgT1AZoV26Jbv5wjAxLm7fN-5zCBhOkshdHcpNgeA=s180",
+            "hostedLargeUrl": "http://lh5.ggpht.com/ZyH4BqzQ4bC86kShXhky08q4rJcGqXTRIQT9oJsQbtplokgT1AZoV26Jbv5wjAxLm7fN-5zCBhOkshdHcpNgeA=s360",
+            "imageUrlsBySize": {
+                "90": "http://lh4.ggpht.com/c-SL6dkUPFaHtLi3h5SeIi2myT3lb1PPuiFuvC09pSJdHsmv6ddEP6FrfQ1smQGvteHteT8QaWzfFRPe2kkLuOI=s90-c",
+                "360": "http://lh4.ggpht.com/c-SL6dkUPFaHtLi3h5SeIi2myT3lb1PPuiFuvC09pSJdHsmv6ddEP6FrfQ1smQGvteHteT8QaWzfFRPe2kkLuOI=s360-c"
+            }
+        }
+    ],
+    "name": "Sweet Potato Appetizer Bites with Feta and Green Onion",
+    "source": {
+        "sourceDisplayName": "Kalyn's Kitchen",
+        "sourceSiteUrl": "http://www.kalynskitchen.com",
+        "sourceRecipeUrl": "https://kalynskitchen.com/sweet-potato-appetizer-bites/"
+    },
+    "id": "Sweet-Potato-Appetizer-Bites-with-Feta-and-Green-Onion-961718",
+    "ingredientLines": [
+        "3 long thin orange-flesh sweet potatoes, about 1.5 pounds (Orange-flesh sweet potatoes are sometimes called yams or sweet yams in U. S. stores.)",
+        "olive oil, enough to brush or spray sweet potatoes and baking sheet",
+        "1-2 tsp. Italian Herb Blend (or use any all-purpose seasoning blend that you like)",
+        "4 oz Feta cheese, crumbled",
+        "3 T fat-free Greek yogurt",
+        "1/2 tsp. Greek Seasoning",
+        "1/4 cup thinly sliced green onion"
+    ],
+    "attribution": {
+        "html": "<a href='http://www.yummly.co/recipe/Sweet-Potato-Appetizer-Bites-with-Feta-and-Green-Onion-961718'>Sweet Potato Appetizer Bites with Feta and Green Onion recipe</a> information powered by <img alt='Yummly' src='https://static.yummly.co/api-logo.png'/>",
+        "url": "http://www.yummly.co/recipe/Sweet-Potato-Appetizer-Bites-with-Feta-and-Green-Onion-961718",
+        "text": "Sweet Potato Appetizer Bites with Feta and Green Onion recipes: information powered by Yummly",
+        "logo": "https://static.yummly.co/api-logo.png"
+    },
+    "numberOfServings": 24,
+    "totalTimeInSeconds": 2100,
+    "attributes": {
+        "course": [
+            "Lunch",
+            "Appetizers"
+        ]
+    },
+    "flavors": {},
+    "rating": 4
+}

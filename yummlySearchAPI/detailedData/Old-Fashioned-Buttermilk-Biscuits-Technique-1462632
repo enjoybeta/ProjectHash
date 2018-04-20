@@ -1,0 +1,38 @@
+{
+    "nutritionEstimates": [],
+    "totalTime": "35 min",
+    "images": [
+        {
+            "hostedSmallUrl": "https://lh3.googleusercontent.com/-XHDWF4LXWBKnoxmI_f7c_HlEAX7ktJJa-dBbeQgzNOIm7dzch-iDoCliAHqVlFOAoeOtLseEcQVXCEizh8gww=s90",
+            "hostedMediumUrl": "https://lh3.googleusercontent.com/-XHDWF4LXWBKnoxmI_f7c_HlEAX7ktJJa-dBbeQgzNOIm7dzch-iDoCliAHqVlFOAoeOtLseEcQVXCEizh8gww=s180",
+            "hostedLargeUrl": "https://lh3.googleusercontent.com/-XHDWF4LXWBKnoxmI_f7c_HlEAX7ktJJa-dBbeQgzNOIm7dzch-iDoCliAHqVlFOAoeOtLseEcQVXCEizh8gww=s360",
+            "imageUrlsBySize": {
+                "90": "https://lh3.googleusercontent.com/BS-hgkXzhdaTcjFrEDqhYX-ieNYhIXK7TTY4-R0EIjdLQk98A8mR3sYVjK7tlOUsuWq5PMXs2FQ3dKfYiRNt=s90-c",
+                "360": "https://lh3.googleusercontent.com/BS-hgkXzhdaTcjFrEDqhYX-ieNYhIXK7TTY4-R0EIjdLQk98A8mR3sYVjK7tlOUsuWq5PMXs2FQ3dKfYiRNt=s360-c"
+            }
+        }
+    ],
+    "name": "Old Fashioned Buttermilk Biscuits Technique",
+    "source": {
+        "sourceDisplayName": "I Save A2Z",
+        "sourceSiteUrl": "isavea2z.com",
+        "sourceRecipeUrl": "http://www.isavea2z.com/old-fashioned-buttermilk-biscuits-technique/"
+    },
+    "id": "Old-Fashioned-Buttermilk-Biscuits-Technique-1462632",
+    "ingredientLines": [
+        "1. Flour (I use unbleached self rising flour)",
+        "2. Lard (not shortening)",
+        "3. Buttermilk"
+    ],
+    "attribution": {
+        "html": "<a href='http://www.yummly.co/recipe/Old-Fashioned-Buttermilk-Biscuits-Technique-1462632'>Old Fashioned Buttermilk Biscuits Technique recipe</a> information powered by <img alt='Yummly' src='https://static.yummly.co/api-logo.png'/>",
+        "url": "http://www.yummly.co/recipe/Old-Fashioned-Buttermilk-Biscuits-Technique-1462632",
+        "text": "Old Fashioned Buttermilk Biscuits Technique recipes: information powered by Yummly",
+        "logo": "https://static.yummly.co/api-logo.png"
+    },
+    "numberOfServings": 4,
+    "totalTimeInSeconds": 2100,
+    "attributes": {},
+    "flavors": {},
+    "rating": 4
+}

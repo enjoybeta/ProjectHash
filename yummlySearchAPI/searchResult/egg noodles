@@ -1,0 +1,230 @@
+{
+    "criteria": {
+        "q": "e+g+g+ +n+o+o+d+l+e+s",
+        "allowedIngredient": null,
+        "excludedIngredient": null
+    },
+    "matches": [
+        {
+            "imageUrlsBySize": {
+                "90": "http://lh3.googleusercontent.com/02OT7pzXJscnRMOvaXS7hEkTbygHV0bTkvs9j47wba_VajvWGqJ1O_KnbeFSDpfI_QHNQ1ViS2mZTMxXwqM1=s90-c"
+            },
+            "sourceDisplayName": "Lecker",
+            "ingredients": [
+                "Zucker",
+                "Backpulver",
+                "Butter",
+                "Mehl",
+                "Limone",
+                "Schlabgobers"
+            ],
+            "id": "Lemontarte-828036",
+            "smallImageUrls": [
+                "http://lh3.googleusercontent.com/75V3jtq-EN4cQ7DXwpSxTKJPGt3rpPJaNgnm7XLG4etnb_O0sZiCrQcOlcU65DKWPLLDEEaSRILjiuiaNVglQrk=s90"
+            ],
+            "recipeName": "Lemontarte",
+            "totalTimeInSeconds": 4500,
+            "attributes": {},
+            "flavors": null,
+            "rating": 3
+        },
+        {
+            "imageUrlsBySize": {
+                "90": "http://lh3.googleusercontent.com/hZvUuNxhbmlQuyxRh2ZoC5qa80GC7mbacUMjWXd9koqTel5LTl1C6v8SU4uCrBwLD6o7DklsqVQZ1ofDpC1ysQ=s90-c"
+            },
+            "sourceDisplayName": "Lecker",
+            "ingredients": [
+                "Schwarzpfeffer",
+                "broccoli",
+                "Schmand",
+                "Rahm",
+                "Ei",
+                "Zitronensaft",
+                "Blechpizzateig",
+                "Lachs"
+            ],
+            "id": "Broccoli-Quiche-mit-Raucherlachs-830790",
+            "smallImageUrls": [
+                "http://lh3.googleusercontent.com/x1pgJ5Ph-dSpwb5HtzmxIBExAwCge4rs8UNMM-azmxprd2xm2fqeHN06kgjYsHjd7cDQjNiQbnQ8wIJhYY1PfA=s90"
+            ],
+            "recipeName": "Broccoli-Quiche mit Ra\u0308ucherlachs",
+            "totalTimeInSeconds": 1800,
+            "attributes": {},
+            "flavors": {
+                "sweet": 0.16666666666666666,
+                "piquant": 0.0,
+                "sour": 0.8333333333333334,
+                "salty": 0.3333333333333333,
+                "meaty": 0.16666666666666666,
+                "bitter": 0.16666666666666666
+            },
+            "rating": 3
+        },
+        {
+            "imageUrlsBySize": {
+                "90": "http://lh3.googleusercontent.com/SYMOsrzA6mN-3oSTCAJQgykeZNp0SbmENlXBdBg90Xn6D6F5IAvxbPZqj69NjNTc0PAEATI3K7thIix3kmihQA=s90-c"
+            },
+            "sourceDisplayName": "Lecker",
+            "ingredients": [
+                "Studelteig",
+                "Zwiebel",
+                "durchwachsener Speck",
+                "\u00d6l",
+                "Sauerkraut",
+                "Salz",
+                "Pfeffer",
+                "K\u00fcmmel",
+                "Butter",
+                "Fett",
+                "Fleischbr\u00fche",
+                "Petersile"
+            ],
+            "id": "Teigrollchen-mit-Sauerkraut-und-Speck-820789",
+            "smallImageUrls": [
+                "http://lh3.googleusercontent.com/vzkKqrqT51Uea96XPBK_aSSDGuuQm_9nq3CQmnRv-cEbqiaOEuhIXdxZZ59NzMvFbS9m9vlaYorJv7dGsh1DLQ=s90"
+            ],
+            "recipeName": "Teigro\u0308llchen mit Sauerkraut und Speck",
+            "totalTimeInSeconds": 4200,
+            "attributes": {},
+            "flavors": null,
+            "rating": 3
+        },
+        {
+            "imageUrlsBySize": {
+                "90": "http://lh3.googleusercontent.com/hEklnJTq1Iu2NYDOxIXEfLWsET6KdfOSlKt-1DAiW7drlYEJykWCOy5_HT-fRchodM4bUEiBQFYJ2Cuo_x08aA=s90-c"
+            },
+            "sourceDisplayName": "Lecker",
+            "ingredients": [
+                "Fett",
+                "karamel",
+                "Schokolade",
+                "weiche Butter",
+                "Zucker",
+                "Salz",
+                "Ei",
+                "Eierlik\u00f6r",
+                "Mehl",
+                "Backpulver",
+                "Puderzucker"
+            ],
+            "id": "Eierlikor-Gugelhupf-mit-Knusperfulle-832617",
+            "smallImageUrls": [
+                "http://lh3.googleusercontent.com/O08qnpqzcL6UA0ug1EXCF0fBD9W8pDfrxK7hEBvX_e4N9GMeq6PbH07mT2XVH79k2Y5qLYziaZybhKguv9_qFJs=s90"
+            ],
+            "recipeName": "Eierliko\u0308r-Gugelhupf mit Knusperfu\u0308lle",
+            "totalTimeInSeconds": 5400,
+            "attributes": {
+                "course": [
+                    "Desserts"
+                ]
+            },
+            "flavors": {
+                "sweet": 0.8333333333333334,
+                "piquant": 0.0,
+                "sour": 0.16666666666666666,
+                "salty": 0.5,
+                "meaty": 0.6666666666666666,
+                "bitter": 0.3333333333333333
+            },
+            "rating": 3
+        },
+        {
+            "imageUrlsBySize": {
+                "90": "http://lh3.googleusercontent.com/jeaM-jd69GtGaj3MhYdM9NFsTdH3eheFfxxy9Pxr0oi02-VyIrxCIORGiV_xS-00XSp1wFt1P3bxAGeE__DYww=s90-c"
+            },
+            "sourceDisplayName": "Lecker",
+            "ingredients": [
+                "Semmelbr\u00f6sel",
+                "Ei",
+                "Zucker",
+                "Butter",
+                "Kirsche",
+                "Speisest\u00e4rke",
+                "Milch",
+                "Puddingpulver",
+                "Rahm",
+                "Schlabgobers",
+                "Puderzucker"
+            ],
+            "id": "Knusprige-Karamell-Torteletts-832309",
+            "smallImageUrls": [
+                "http://lh3.googleusercontent.com/5TPxI2fJYiJGSZk5Ff8aGpVEjtPGGEN1-cDutJw0NXYJFuuMJGi8VzYT4tP8CLLv-bzxtpn0OkJLCtRj-Bq2=s90"
+            ],
+            "recipeName": "Knusprige Karamell-Torteletts",
+            "totalTimeInSeconds": 5400,
+            "attributes": {
+                "course": [
+                    "Desserts"
+                ]
+            },
+            "flavors": null,
+            "rating": 3
+        },
+        {
+            "imageUrlsBySize": {
+                "90": "http://lh3.googleusercontent.com/zqU5osW-Nvbhtexgboi8_nht4xznhTZEqXbpfenAoVpa6NKxEFpibuvhH3sdC76dQAfK7bSKeRG7YjV_t0C1tg=s90-c"
+            },
+            "sourceDisplayName": "Lecker",
+            "ingredients": [
+                "Kartoffel",
+                "Knoblaucknolle",
+                "Fett",
+                "Schlabgobers",
+                "Milch",
+                "Salz",
+                "Pfeffer wei\u00df",
+                "Filetsteaks",
+                "Schwarzpfeffer",
+                "Schalotte",
+                "Butterschmalz",
+                "Cognac",
+                "boullion",
+                "Tomatenkonzentrat",
+                "Worcesterso\u00dfe",
+                "Kr\u00e4uterbutter"
+            ],
+            "id": "Pariser-Pfeffersteak-mit-Kartoffelgratin-828275",
+            "smallImageUrls": [
+                "http://lh3.googleusercontent.com/J_3mpiARHed_HIM-Da5Dg-WYP1pSGLH3I4OYAR0zP9fXu85b4oVUftLRnWRUucsVoYR19zZbES3LiIx5f8UcJA=s90"
+            ],
+            "recipeName": "Pariser Pfeffersteak mit Kartoffelgratin",
+            "totalTimeInSeconds": 3600,
+            "attributes": {},
+            "flavors": null,
+            "rating": 3
+        },
+        {
+            "recipeName": "Erfrischende Mai-Torte mit Waldmeister-Dickmilch-Creme",
+            "ingredients": [
+                "Zucker",
+                "Mehl",
+                "Backpulver",
+                "Gelatine",
+                "Vollmilch",
+                "Zitrone",
+                "Sirup",
+                "Schlabgobers",
+                "Tortenguss",
+                "Mandarinen-Orangen"
+            ],
+            "totalTimeInSeconds": 4500,
+            "sourceDisplayName": "Lecker",
+            "id": "Erfrischende-Mai-Torte-mit-Waldmeister-Dickmilch-Creme-926917",
+            "rating": 3,
+            "flavors": null,
+            "attributes": {
+                "course": [
+                    "Desserts"
+                ]
+            }
+        }
+    ],
+    "facetCounts": {},
+    "totalMatchCount": 7,
+    "attribution": {
+        "html": "Recipe search powered by <a href='http://www.yummly.co/recipes'><img alt='Yummly' src='https://static.yummly.co/api-logo.png'/></a>",
+        "url": "http://www.yummly.co/recipes/",
+        "text": "Recipe search powered by Yummly",
+        "logo": "https://static.yummly.co/api-logo.png"
+    }
+}

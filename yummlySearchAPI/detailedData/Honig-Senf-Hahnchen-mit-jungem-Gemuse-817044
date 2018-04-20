@@ -1,0 +1,51 @@
+{
+    "yield": "Zutaten f\u00fcr 4 Personen:",
+    "nutritionEstimates": [],
+    "totalTime": "1 hr 30 min",
+    "images": [
+        {
+            "hostedSmallUrl": "http://lh3.googleusercontent.com/OsA6MG_FREdvNgttCJpnVgm79fLX2WStGX7G2caYkxmbRs_TCU0NIiaG820mmAiXgQZTlB_UBVmVaF04cgowag=s90",
+            "hostedMediumUrl": "http://lh3.googleusercontent.com/OsA6MG_FREdvNgttCJpnVgm79fLX2WStGX7G2caYkxmbRs_TCU0NIiaG820mmAiXgQZTlB_UBVmVaF04cgowag=s180",
+            "hostedLargeUrl": "http://lh3.googleusercontent.com/OsA6MG_FREdvNgttCJpnVgm79fLX2WStGX7G2caYkxmbRs_TCU0NIiaG820mmAiXgQZTlB_UBVmVaF04cgowag=s360",
+            "imageUrlsBySize": {
+                "90": "http://lh3.googleusercontent.com/6xsXPpi2TaBAZe0SZ3tsTHDXN8s4J_URlu70hy9mM2U7ptCRHdX2thK47DFBQE12a_KiLpOE22Xuzx0HIKdCEQ=s90-c",
+                "360": "http://lh3.googleusercontent.com/6xsXPpi2TaBAZe0SZ3tsTHDXN8s4J_URlu70hy9mM2U7ptCRHdX2thK47DFBQE12a_KiLpOE22Xuzx0HIKdCEQ=s360-c"
+            }
+        }
+    ],
+    "name": "Honig-Senf-Ha\u0308hnchen mit jungem Gemu\u0308se",
+    "source": {
+        "sourceDisplayName": "Lecker",
+        "sourceSiteUrl": "lecker.de",
+        "sourceRecipeUrl": "http://www.lecker.de/rezept/592104/Honig-Senf-Haehnchen-mit-jungem-Gemuese.html"
+    },
+    "id": "Honig-Senf-Hahnchen-mit-jungem-Gemuse-817044",
+    "ingredientLines": [
+        "1 k\u00fcchenfertiges H\u00e4hnchen (ca. 1,2 kg)",
+        "Salz",
+        "50 g Butter oder Margarine",
+        "350 g Kohlrabi",
+        "ca. 500 g junge M\u00f6hren",
+        "1 Packung (300 g) tiefgefrorene Erbsen",
+        "30 g Mehl",
+        "1/4 l Milch",
+        "wei\u00dfer Pfeffer",
+        "1 TL Gem\u00fcsebr\u00fche (Instant)",
+        "1 Bund Kerbel",
+        "1 TL Honig",
+        "1 TL mittelscharfer Senf",
+        "1 TL k\u00f6rniger Senf",
+        "Cayennepfeffer"
+    ],
+    "attribution": {
+        "html": "<a href='http://www.yummly.co/recipe/Honig-Senf-Hahnchen-mit-jungem-Gemuse-817044'>Honig-Senf-Ha\u0308hnchen mit jungem Gemu\u0308se recipe</a> information powered by <img alt='Yummly' src='https://static.yummly.co/api-logo.png'/>",
+        "url": "http://www.yummly.co/recipe/Honig-Senf-Hahnchen-mit-jungem-Gemuse-817044",
+        "text": "Honig-Senf-Ha\u0308hnchen mit jungem Gemu\u0308se recipes: information powered by Yummly",
+        "logo": "https://static.yummly.co/api-logo.png"
+    },
+    "numberOfServings": 4,
+    "totalTimeInSeconds": 5400,
+    "attributes": {},
+    "flavors": {},
+    "rating": 3
+}

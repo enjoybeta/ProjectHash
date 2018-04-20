@@ -1,0 +1,377 @@
+{
+    "criteria": {
+        "q": "S+c+h+m+a+n+d",
+        "allowedIngredient": null,
+        "excludedIngredient": null
+    },
+    "matches": [
+        {
+            "imageUrlsBySize": {
+                "90": "https://lh3.googleusercontent.com/zCIBqMhOqZMBHrmIwrPuWu1gfV0bA3nYP7vhLRIr0nVnB5eGDQ7GA0qFzF4py9551ZBCj2249NFCWEHcbyOGeg=s90-c"
+            },
+            "sourceDisplayName": "C&H Sugar brand",
+            "ingredients": [
+                "orange juice",
+                "lemon juice",
+                "C&H\u00ae Granulated Sugar",
+                "cranberry raspberry juice cocktail",
+                "champagne",
+                "lemon slices"
+            ],
+            "id": "Gala-Champagne-Punch-2129772",
+            "smallImageUrls": [
+                "https://lh3.googleusercontent.com/dPcLVZYg6g6Zfd9spEzAT3pAw7hB_tiqbmUx3QxO1f7ou6VWq0V4dDjjC4-Oupl0XnFonz7vQeFqDGMPB855Xg=s90"
+            ],
+            "recipeName": "Gala Champagne Punch",
+            "totalTimeInSeconds": 1800,
+            "attributes": {
+                "course": [
+                    "Beverages",
+                    "Cocktails"
+                ],
+                "holiday": [
+                    "Christmas",
+                    "New Year"
+                ]
+            },
+            "flavors": null,
+            "rating": 3
+        },
+        {
+            "imageUrlsBySize": {
+                "90": "https://lh3.googleusercontent.com/3dawoV7mHA9w6A3NqTCUrzEn6qdzEQm-Rl8Chtx3mGbHP6lAQ7Yg9Wqk6dGnp4fFnO4Qrb__fSkg76V4JhBO=s90-c"
+            },
+            "sourceDisplayName": "What's Cooking America",
+            "ingredients": [
+                "mini marshmallows",
+                "water",
+                "powdered sugar",
+                "crisco shortening"
+            ],
+            "id": "MM-_Marshmallow_-Fondant-Icing-2110952",
+            "smallImageUrls": [
+                "https://lh3.googleusercontent.com/MmFS5ik1if3lR5PylkkZrQPIBZT9RPA6cTfSVG7e12fASqZQjFbbgVwltWb9ZjwWU2WBZPAjmeqtqNwwQVRqjQ=s90"
+            ],
+            "recipeName": "MM (Marshmallow) Fondant Icing",
+            "totalTimeInSeconds": 1500,
+            "attributes": {
+                "course": [
+                    "Desserts"
+                ]
+            },
+            "flavors": null,
+            "rating": 4
+        },
+        {
+            "imageUrlsBySize": {
+                "90": "https://lh3.googleusercontent.com/4p8oSUDUJ5q1E63_80Ptf3jLeqQbE_RaH7GUZXpRtjGqfatmFsoaDVOUbPB5RvOL286GG8GNUkSlV7CBUR1x6A=s90-c"
+            },
+            "sourceDisplayName": "delicious days",
+            "ingredients": [
+                "milk",
+                "all-purpose flour",
+                "fresh yeast",
+                "butter",
+                "sugar",
+                "fine sea salt",
+                "eggs",
+                "ground almonds",
+                "ground hazelnuts",
+                "ceylon cinnamon",
+                "ground cloves",
+                "grated nutmeg",
+                "marzipan",
+                "brown sugar",
+                "honey",
+                "rum",
+                "amaretto",
+                "lemon",
+                "hazelnuts",
+                "apricot jam",
+                "water"
+            ],
+            "id": "T-H-E-Nut-Braid-2186750",
+            "smallImageUrls": [
+                "https://lh3.googleusercontent.com/y2GvKmdzi68UlTf9vHCpyEHrwOSud01nA5g4PZk-IhCyXCXcUw2TLLE7a1dGbv7ZtoML1iWVDX83DI8140k=s90"
+            ],
+            "recipeName": "T-H-E Nut Braid",
+            "totalTimeInSeconds": 4800,
+            "attributes": {},
+            "flavors": {
+                "piquant": 0.0,
+                "meaty": 0.5,
+                "bitter": 0.16666666666666666,
+                "sweet": 0.6666666666666666,
+                "sour": 0.5,
+                "salty": 0.16666666666666666
+            },
+            "rating": 4
+        },
+        {
+            "imageUrlsBySize": {
+                "90": "http://lh3.googleusercontent.com/_LI_3jlK9ClmU1dVY_YTw3rKItHQfl38H6zCrr1OJsVIBtHplupHFbs8lYTqdS39gf_ZYFmTYySvZvk6fN3vMA=s90-c"
+            },
+            "sourceDisplayName": "Metro.ca",
+            "ingredients": [
+                "ham",
+                "maple syrup",
+                "garlic cloves",
+                "star anise",
+                "cinnamon sticks",
+                "bay leaves",
+                "hot pepper",
+                "coriander seeds",
+                "fennel seeds",
+                "olive oil",
+                "water"
+            ],
+            "id": "Ham-with-Maple-Syrup-1203319",
+            "smallImageUrls": [
+                "http://lh3.googleusercontent.com/ukfHum19z8bCJ-q76dAP0TQXe-ObCE9meXnYwGdU7DoI2mH9EIaWB9DiKZYEu3nu6ystefX3a0OTGW13vk8ZYg=s90"
+            ],
+            "recipeName": "Ham with Maple Syrup",
+            "totalTimeInSeconds": 7200,
+            "attributes": {
+                "course": [
+                    "Main Dishes"
+                ],
+                "holiday": [
+                    "Christmas"
+                ]
+            },
+            "flavors": null,
+            "rating": 3
+        },
+        {
+            "imageUrlsBySize": {
+                "90": "https://lh3.googleusercontent.com/gB1vnODIuYR6HZvzNplFj2OGV3wBb1g_axyuuBTXV3k0d-Box0mCmuNnlv7sQBjIMPD5nMddT8Fh5m_Y_o23=s90-c"
+            },
+            "sourceDisplayName": "BBQ Bastard",
+            "ingredients": [
+                "chicken breasts",
+                "lemon",
+                "snack chips",
+                "iced tea",
+                "paprika",
+                "chili powder",
+                "thyme",
+                "garlic powder",
+                "onion powder",
+                "cayenne",
+                "salt",
+                "black pepper"
+            ],
+            "id": "Last-Minute-Smoked-Chicken-_2-Pers__-1485438",
+            "smallImageUrls": [
+                "https://lh3.googleusercontent.com/Uzk7NrKFf-1tVFgyo1tlPJ1EMiSrqVQllIXgnxh4_BEtNbVf1QseG4FQ1TEE6LFbdlZr6h-9qWywg6KdnbSI=s90"
+            ],
+            "recipeName": "Last Minute Smoked Chicken (2 Pers.)",
+            "totalTimeInSeconds": 2700,
+            "attributes": {
+                "course": [
+                    "Main Dishes"
+                ]
+            },
+            "flavors": {
+                "piquant": 0.8333333333333334,
+                "meaty": 0.5,
+                "bitter": 0.8333333333333334,
+                "sweet": 0.16666666666666666,
+                "sour": 0.8333333333333334,
+                "salty": 0.8333333333333334
+            },
+            "rating": 4
+        },
+        {
+            "imageUrlsBySize": {
+                "90": "https://lh3.googleusercontent.com/Zzz3PFipBO_ESrHydAGwBUUjXfOXWnhGS8j-GVHsPTHtVFN8NVhx6Xgyf4pEdnDwGGWZ4vwjMfi8qkhUDm4rJ3g=s90-c"
+            },
+            "sourceDisplayName": "I Breathe... I'm Hungry...",
+            "ingredients": [
+                "baby spinach leaves",
+                "artichoke hearts",
+                "butter",
+                "provolone cheese",
+                "Dubliner cheese",
+                "onions",
+                "sour cream",
+                "water",
+                "sriracha sauce",
+                "heavy cream",
+                "milk",
+                "garlic powder",
+                "salt",
+                "pepper"
+            ],
+            "id": "Spinach-and-Artichoke-Dip-Soup-_Low-Carb-and-Gluten-Free_-1720215",
+            "smallImageUrls": [
+                "https://lh3.googleusercontent.com/i0pa-3nr7VRN-loX-Z4GaON3OxReWHGhlkh-T3HC-VL2g296v6KnM4mZaSO9024O8lajzyxnumVmx-dSiQPQIE4=s90"
+            ],
+            "recipeName": "Spinach and Artichoke Dip Soup (Low Carb and Gluten Free)",
+            "totalTimeInSeconds": 1500,
+            "attributes": {
+                "course": [
+                    "Soups"
+                ]
+            },
+            "flavors": {
+                "piquant": 0.3333333333333333,
+                "meaty": 0.16666666666666666,
+                "bitter": 0.16666666666666666,
+                "sweet": 0.16666666666666666,
+                "sour": 0.16666666666666666,
+                "salty": 0.16666666666666666
+            },
+            "rating": 4
+        },
+        {
+            "imageUrlsBySize": {
+                "90": "https://lh3.googleusercontent.com/HCZlbDZbynqI87-JMqG5XSciLbtySmWOM2UI_AKy5ryWmd9i0QoRlhS0p1S6-ZzFhjIr3Yn5zIuUMYz1gHmDTbY=s90-c"
+            },
+            "sourceDisplayName": "Edible Perspective",
+            "ingredients": [
+                "bananas",
+                "dates",
+                "bread",
+                "butter beans",
+                "feta cheese",
+                "falafel",
+                "relish",
+                "tart",
+                "large carrots",
+                "chopped cilantro",
+                "olive oil",
+                "cumin seed",
+                "coriander seeds",
+                "paprika",
+                "ground turmeric",
+                "brown rice",
+                "water",
+                "dried currants",
+                "toasted pine nuts",
+                "parsley leaves",
+                "feta cheese crumbles",
+                "lemon juice",
+                "apple cider vinegar",
+                "honey",
+                "extra-virgin olive oil"
+            ],
+            "id": "Brown-Rice-Salad-with-Spice-Roasted-Carrots_-Feta-_-Pine-Nuts-from-My-Darling-Lemon-Thyme-1635397",
+            "smallImageUrls": [
+                "https://lh3.googleusercontent.com/0lkWs3FiSEMPOjxG3XQ9SiFWDisKCSl60TzzTV07WDRgBuCPWWkdXKRlARVImVFljnRP6VJfv43WbSRB8AV7ul4=s90"
+            ],
+            "recipeName": "Brown Rice Salad with Spice-Roasted Carrots, Feta + Pine Nuts from My Darling Lemon Thyme",
+            "totalTimeInSeconds": 4500,
+            "attributes": {
+                "course": [
+                    "Lunch",
+                    "Salads"
+                ]
+            },
+            "flavors": null,
+            "rating": 4
+        },
+        {
+            "recipeName": "Tangy Grilled Chicken Pizza",
+            "ingredients": [
+                "boneless skinless chicken breast halves",
+                "prepared pizza crust",
+                "barbecue sauce",
+                "garlic cloves",
+                "red onion",
+                "pitted olives",
+                "fresh parsley",
+                "monterey jack",
+                "grated parmesan cheese"
+            ],
+            "totalTimeInSeconds": 2820,
+            "sourceDisplayName": "Food.com",
+            "id": "Tangy-Grilled-Chicken-Pizza-Food_com-167865",
+            "rating": 4,
+            "flavors": {
+                "piquant": 0.6666666666666666,
+                "meaty": 0.16666666666666666,
+                "bitter": 0.6666666666666666,
+                "sweet": 0.5,
+                "sour": 0.16666666666666666,
+                "salty": 0.8333333333333334
+            },
+            "attributes": {
+                "course": [
+                    "Main Dishes"
+                ]
+            }
+        },
+        {
+            "imageUrlsBySize": {
+                "90": "https://lh3.googleusercontent.com/I9BOC13GhUC3vTX2a7gIbf9OovJzEdNT9bNG5a61f_ROutqDM0QLaLBqEjdA4WdHuMh_97HVHSD7pa1xSfkdEw=s90-c"
+            },
+            "sourceDisplayName": "The Cafe",
+            "ingredients": [
+                "pastry",
+                "tamarillos",
+                "whipping cream",
+                "flour",
+                "eggs",
+                "caster sugar",
+                "grated lemon zest",
+                "vanilla bean paste",
+                "salt"
+            ],
+            "id": "Tamarillo-Custard-Tart-1806757",
+            "smallImageUrls": [
+                "https://lh3.googleusercontent.com/2mm0iFMnEw-0cRAGxBIG5JGzpGQiWNvphdFWKyYRxDp3lptWE3tGplpdQ3QV8cGizVlQKZW0yBrQ5Mx60Ic5Pg=s90"
+            ],
+            "recipeName": "Tamarillo Custard Tart",
+            "totalTimeInSeconds": 4200,
+            "attributes": {
+                "course": [
+                    "Desserts"
+                ]
+            },
+            "flavors": null,
+            "rating": 3
+        },
+        {
+            "imageUrlsBySize": {
+                "90": "http://lh3.googleusercontent.com/CxO_0JaSmAcnDVLgf6FgLfgVwGAHWuJlGR8OsomniWlyQcXhvLxGmLcES2sXsOt6uJ_OTih9aTHEPK6Ft77t=s90-c"
+            },
+            "sourceDisplayName": "Lecker",
+            "ingredients": [
+                "Mandel",
+                "Haferflocken",
+                "Marille",
+                "Butter",
+                "Honig",
+                "Zimt",
+                "M\u00fcsli",
+                "Mehl",
+                "Eiwei\u00df"
+            ],
+            "id": "Aprikosen-Mandel-Musliriegel-848709",
+            "smallImageUrls": [
+                "http://lh3.googleusercontent.com/Oi4fSxHFV-HQxFIY5yN7dl7p0WXv4dLfkLkx17kGvk5h5zP8_9K-ttfuUms_9MbJbvth6W9Q25z2fV9HlM-a=s90"
+            ],
+            "recipeName": "Aprikosen-Mandel-Mu\u0308sliriegel",
+            "totalTimeInSeconds": 1800,
+            "attributes": {},
+            "flavors": {
+                "sweet": 0.6666666666666666,
+                "piquant": 0.0,
+                "sour": 0.16666666666666666,
+                "salty": 0.3333333333333333,
+                "meaty": 0.8333333333333334,
+                "bitter": 0.8333333333333334
+            },
+            "rating": 3
+        }
+    ],
+    "facetCounts": {},
+    "totalMatchCount": 20,
+    "attribution": {
+        "html": "Recipe search powered by <a href='http://www.yummly.co/recipes'><img alt='Yummly' src='https://static.yummly.co/api-logo.png'/></a>",
+        "url": "http://www.yummly.co/recipes/",
+        "text": "Recipe search powered by Yummly",
+        "logo": "https://static.yummly.co/api-logo.png"
+    }
+}

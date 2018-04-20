@@ -1,0 +1,44 @@
+{
+    "nutritionEstimates": [],
+    "totalTime": "30 min",
+    "images": [
+        {
+            "hostedSmallUrl": "http://lh3.googleusercontent.com/kB4GQvNr6GnrSYtKB6AvHvLY2iWhMNX3qKMA9o_QIELXgXc2U1eY-A01OqrSkH_57BywJkBwFBut4lo8hPdFbg=s90",
+            "hostedMediumUrl": "http://lh3.googleusercontent.com/kB4GQvNr6GnrSYtKB6AvHvLY2iWhMNX3qKMA9o_QIELXgXc2U1eY-A01OqrSkH_57BywJkBwFBut4lo8hPdFbg=s180",
+            "hostedLargeUrl": "http://lh3.googleusercontent.com/kB4GQvNr6GnrSYtKB6AvHvLY2iWhMNX3qKMA9o_QIELXgXc2U1eY-A01OqrSkH_57BywJkBwFBut4lo8hPdFbg=s360",
+            "imageUrlsBySize": {
+                "90": "http://lh3.googleusercontent.com/c5yW-k6lyCjamtnys86WKtdtDx513PjOItykShiabvlVEH7ntlEa0ixs1mfrVJPgBXph_280AQup-EZZ4ayw=s90-c",
+                "360": "http://lh3.googleusercontent.com/c5yW-k6lyCjamtnys86WKtdtDx513PjOItykShiabvlVEH7ntlEa0ixs1mfrVJPgBXph_280AQup-EZZ4ayw=s360-c"
+            }
+        }
+    ],
+    "name": "STRAWBERRY JAM WITHOUT PECTIN",
+    "source": {
+        "sourceDisplayName": "Butter With A Side Of Bread",
+        "sourceSiteUrl": "butterwithasideofbread.com",
+        "sourceRecipeUrl": "http://butterwithasideofbread.com/2012/08/strawberry-jam-without-pectin/"
+    },
+    "id": "STRAWBERRY-JAM-WITHOUT-PECTIN-1111652",
+    "ingredientLines": [
+        "PECTIN-FREE STRAWBERRY JAM",
+        "PECTIN-FREE STRAWBERRY JAM",
+        "4 C cut strawberries (or thereabout)",
+        "3 C sugar (about 3/4 cups of sugar for each cup of berries)",
+        "1/2 C lemon juice (2 TBSP lemon juice per cup of berries)"
+    ],
+    "attribution": {
+        "html": "<a href='http://www.yummly.co/recipe/STRAWBERRY-JAM-WITHOUT-PECTIN-1111652'>STRAWBERRY JAM WITHOUT PECTIN recipe</a> information powered by <img alt='Yummly' src='https://static.yummly.co/api-logo.png'/>",
+        "url": "http://www.yummly.co/recipe/STRAWBERRY-JAM-WITHOUT-PECTIN-1111652",
+        "text": "STRAWBERRY JAM WITHOUT PECTIN recipes: information powered by Yummly",
+        "logo": "https://static.yummly.co/api-logo.png"
+    },
+    "numberOfServings": 4,
+    "totalTimeInSeconds": 1800,
+    "attributes": {
+        "course": [
+            "Desserts"
+        ]
+    },
+    "flavors": {},
+    "rating": 4
+}

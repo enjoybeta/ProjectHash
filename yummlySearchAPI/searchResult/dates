@@ -1,0 +1,373 @@
+{
+    "criteria": {
+        "q": "d+a+t+e+s",
+        "allowedIngredient": null,
+        "excludedIngredient": null
+    },
+    "matches": [
+        {
+            "imageUrlsBySize": {
+                "90": "https://lh3.googleusercontent.com/HgdP9aqvIvNXVDM6M0-2F4X2gFIM0Nc1YRcy016eQumZtyO0ZMMqeNX12lzn8N8vZr56pn62stXpdUxevVh7VeY=s90-c"
+            },
+            "sourceDisplayName": "Gigi Eats Celebrities",
+            "ingredients": [
+                "sweet potatoes",
+                "sugar",
+                "hickory smoke",
+                "beef brisket",
+                "bbq sauce",
+                "spinach"
+            ],
+            "id": "Nacho-Average-B_R_I_S_K_E_T_-1952403",
+            "smallImageUrls": [
+                "https://lh3.googleusercontent.com/MrXnL83XjSwGVTFf2xMbAMU45DSUoC6Ti5Aws3HW0k_1DXt5ZpEhn-QiyyHKafCLKQOJxwr6PvUjDjrpNJEhWw=s90"
+            ],
+            "recipeName": "Nacho Average B.R.I.S.K.E.T.",
+            "totalTimeInSeconds": 1800,
+            "attributes": {
+                "course": [
+                    "Main Dishes"
+                ]
+            },
+            "flavors": null,
+            "rating": 4
+        },
+        {
+            "imageUrlsBySize": {
+                "90": "https://lh3.googleusercontent.com/Grnf3kby4f_jL45yTigU-Gy7DjWHOer3LD1uVvW_bZ9j3TBRYdeU_-i5TRjnbORidvsRyMMayH6ODJiT34Iz=s90-c"
+            },
+            "sourceDisplayName": "David Lebovitz",
+            "ingredients": [
+                "rolled oats",
+                "sunflower seeds",
+                "pumpkin seeds",
+                "almonds",
+                "flax seeds",
+                "psyllium seed husks",
+                "chia seeds",
+                "fine sea salt",
+                "maple syrup",
+                "olive oil",
+                "water"
+            ],
+            "id": "Adventure-Bread-2268965",
+            "smallImageUrls": [
+                "https://lh3.googleusercontent.com/guy3rl6RzBZb3teg6bkcT_u4t14Nh9Jvsf07Io8CAtCptOTh3IDzCoBPqyGCOjaHPxBsYxAVs29C2QlkLJ4OyTI=s90"
+            ],
+            "recipeName": "Adventure Bread",
+            "totalTimeInSeconds": 4500,
+            "attributes": {
+                "course": [
+                    "Breads"
+                ]
+            },
+            "flavors": {
+                "piquant": 0.0,
+                "meaty": 0.8333333333333334,
+                "bitter": 0.8333333333333334,
+                "sweet": 0.16666666666666666,
+                "sour": 0.16666666666666666,
+                "salty": 0.8333333333333334
+            },
+            "rating": 4
+        },
+        {
+            "imageUrlsBySize": {
+                "90": "https://lh3.googleusercontent.com/Ty53Br8SzLhM9ppg2QfTZisz5GBuaRnP91gJhGMUUIRg4l0KAeH977ioxDVHfuFUrSPDoJBTw5AxdW8bXGvj=s90-c"
+            },
+            "sourceDisplayName": "Suburban Simplicity",
+            "ingredients": [
+                "sugar",
+                "oil",
+                "lemon",
+                "red food coloring"
+            ],
+            "id": "Pink-Lemonade-Sugar-Scrub-2142463",
+            "smallImageUrls": [
+                "https://lh3.googleusercontent.com/k3A_U2T9X3pS65MSy9CLkbm0JAvrLzd_M8U8rUR6hxAQzNRabjRmCWOQBktGlcSleRSiEhSwyQH8TGdWH3-87A=s90"
+            ],
+            "recipeName": "Pink Lemonade Sugar Scrub",
+            "totalTimeInSeconds": 900,
+            "attributes": {
+                "course": [
+                    "Desserts"
+                ]
+            },
+            "flavors": {
+                "piquant": 0.0,
+                "meaty": 0.8333333333333334,
+                "bitter": 0.0,
+                "sweet": 0.8333333333333334,
+                "sour": 0.16666666666666666,
+                "salty": 0.0
+            },
+            "rating": 4
+        },
+        {
+            "imageUrlsBySize": {
+                "90": "https://lh3.googleusercontent.com/EfY2Uk8bLz8yB5Pj0GjAkyS3VC-YSw4rWe7oYj8iA9z5Q112bGnwgh4GpYw7o-uIMXmTLAu_Sgz_lfG_h8osFg=s90-c"
+            },
+            "sourceDisplayName": "Amanda Mackay",
+            "ingredients": [
+                "rolled oats",
+                "boiling water",
+                "salt",
+                "shortening",
+                "yeast",
+                "warm water",
+                "sugar",
+                "molasses",
+                "flour"
+            ],
+            "id": "Brown-Bread-Recipe-_-Oatmeal-Molasses-_-Heavy-Dense-Bread-2353673",
+            "smallImageUrls": [
+                "https://lh3.googleusercontent.com/olLp9Qc6fzm4bNBdkfHYgZDgbWnzoP6d8gWmne3VJh5Mt9Nnky4uBzuhyqRrGzl1Zrps5gpzI8Z9-kZIZ0_Lew=s90"
+            ],
+            "recipeName": "Brown Bread Recipe | Oatmeal Molasses | Heavy Dense Bread",
+            "totalTimeInSeconds": 5400,
+            "attributes": {
+                "course": [
+                    "Breads"
+                ]
+            },
+            "flavors": {
+                "piquant": 0.0,
+                "meaty": 0.16666666666666666,
+                "bitter": 0.16666666666666666,
+                "sweet": 0.5,
+                "sour": 0.16666666666666666,
+                "salty": 0.5
+            },
+            "rating": 4
+        },
+        {
+            "imageUrlsBySize": {
+                "90": "http://lh6.ggpht.com/jM6iMnssXR-gelCR9DYQqiNCE6zIvpKC8XXzlXf6vrTV098kocUdYs6YGocFoHGCErCW9sqCbLjwmZCisSJe8g=s90-c"
+            },
+            "sourceDisplayName": "Food52",
+            "ingredients": [
+                "lemon",
+                "whole milk",
+                "table salt",
+                "rosemary",
+                "lemon peel",
+                "honey",
+                "water",
+                "dried lavender flowers",
+                "unsalted butter",
+                "whey",
+                "ricotta",
+                "barley malt syrup",
+                "sugar",
+                "all-purpose flour",
+                "cake flour",
+                "baking powder",
+                "fleur de sel"
+            ],
+            "id": "Curds-_-whey-biscuits-with-infused-honey-_-ricotta-spread-324102",
+            "smallImageUrls": [
+                "http://lh4.ggpht.com/GtEgJIIUfj6QbBQTEA08n3NUT22UXioA-f1g9VeUYkoqsCPlzcG90426YW4chd-oerGP9qqNY8BxoLvlOilv7Q=s90"
+            ],
+            "recipeName": "Curds & Whey Biscuits with Infused Honey & Ricotta Spread",
+            "totalTimeInSeconds": 2700,
+            "attributes": {
+                "course": [
+                    "Breakfast and Brunch"
+                ],
+                "cuisine": [
+                    "Italian"
+                ]
+            },
+            "flavors": null,
+            "rating": 4
+        },
+        {
+            "imageUrlsBySize": {
+                "90": "http://lh3.googleusercontent.com/w2rl1eWNpb8imw5S4_2TR3eyi4S99tH78f60lze1JtG0SCWIqTixd2xeLeD2UP2uyLFiT206_1kp-s44m5YcZnE=s90-c"
+            },
+            "sourceDisplayName": "Christina's Cucina",
+            "ingredients": [
+                "spaghetti",
+                "extra-virgin olive oil",
+                "grated pecorino",
+                "ground black pepper",
+                "sea salt"
+            ],
+            "id": "Casa-Lawrence-and-a-Recipe-for-Spaghetti-Cacio-e-Pepe-_Spaghetti-with-Pecorino-Cheese-and-Black-Pepper_-1050539",
+            "smallImageUrls": [
+                "http://lh3.googleusercontent.com/Wkx1v7gtQ0n5y_A4PzaRsfC0cDpQHsEZnYfh0bs2I3FWdWrUoR29-WHgv1Wyj1QTHENEzWQ6Kfh8TiS4jjvrFA=s90"
+            ],
+            "recipeName": "Casa Lawrence and a Recipe for Spaghetti Cacio e Pepe (Spaghetti with Pecorino Cheese and Black Pepper)",
+            "totalTimeInSeconds": 1500,
+            "attributes": {
+                "course": [
+                    "Main Dishes"
+                ],
+                "cuisine": [
+                    "Italian"
+                ]
+            },
+            "flavors": {
+                "piquant": 0.0,
+                "meaty": 0.8333333333333334,
+                "bitter": 0.8333333333333334,
+                "sweet": 0.16666666666666666,
+                "sour": 0.16666666666666666,
+                "salty": 0.8333333333333334
+            },
+            "rating": 4
+        },
+        {
+            "imageUrlsBySize": {
+                "90": "https://lh3.googleusercontent.com/Dzfx77oWAhhd3-n9CHSp9X4WFi2b30g296x7towbA3YGS6W9QsJWz-etD8G4NNp93Xl7ab05kcJMSKV3Ujxg8w=s90-c"
+            },
+            "sourceDisplayName": "Derek on Cast Iron - Cast Iron Recipes",
+            "ingredients": [
+                "chicken carcass",
+                "celery ribs",
+                "carrots",
+                "onions",
+                "garlic",
+                "salt",
+                "pepper",
+                "olive oil",
+                "dry white wine",
+                "water",
+                "dried thyme",
+                "bay leaves"
+            ],
+            "id": "Home-Made-Chicken-Stock-1344889",
+            "smallImageUrls": [
+                "https://lh3.googleusercontent.com/GpjtwnWfp6RZJujANFRZBcKdCEDEpT2GEgO-gft_J5Pxjvm9sniHHRz58c-PoLnzF5rEGtmR-xvHGRe4DFW3Cks=s90"
+            ],
+            "recipeName": "Home-Made Chicken Stock",
+            "totalTimeInSeconds": 4500,
+            "attributes": {
+                "course": [
+                    "Soups"
+                ]
+            },
+            "flavors": {
+                "piquant": 0.0,
+                "meaty": 0.16666666666666666,
+                "bitter": 0.16666666666666666,
+                "sweet": 0.16666666666666666,
+                "sour": 0.16666666666666666,
+                "salty": 0.16666666666666666
+            },
+            "rating": 4
+        },
+        {
+            "imageUrlsBySize": {
+                "90": "http://lh3.googleusercontent.com/sDyEN-t6cVFCWCIxG1FKKY5O_fwahepbhD6ag_ULPgrml2gyC0L20beXh-VDF5RUHCFIzdmerApsSrWLDYRc=s90-c"
+            },
+            "sourceDisplayName": "Wanna Come With",
+            "ingredients": [
+                "all-purpose flour",
+                "Dutch-processed cocoa powder",
+                "baking powder",
+                "salt",
+                "unsalted butter",
+                "sugar",
+                "pure vanilla extract",
+                "large eggs",
+                "large egg yolks"
+            ],
+            "id": "Flo_s-Chocolate-Snaps-1057172",
+            "smallImageUrls": [
+                "http://lh3.googleusercontent.com/_eE3ra3Vq-w3tOkZ2F0x4EYq2L0RJi0hBz8I5wnD9aS6e31UKaykkyykJbEJZzLi4ZCpYPOUAadyFQByMXflHg=s90"
+            ],
+            "recipeName": "Flo's Chocolate Snaps",
+            "totalTimeInSeconds": 4800,
+            "attributes": {
+                "course": [
+                    "Desserts",
+                    "Afternoon Tea"
+                ]
+            },
+            "flavors": {
+                "piquant": 0.0,
+                "meaty": 0.6666666666666666,
+                "bitter": 0.6666666666666666,
+                "sweet": 0.8333333333333334,
+                "sour": 0.16666666666666666,
+                "salty": 0.3333333333333333
+            },
+            "rating": 4
+        },
+        {
+            "imageUrlsBySize": {
+                "90": "https://lh3.googleusercontent.com/19LIBv4GFtcS7VUeiYR6BrMC4TRjf_GVHwuX9uyMzYb5xiael3s1JsbrbA7-MDo5Imji2mVYl-yUMmPz5v-bww=s90-c"
+            },
+            "sourceDisplayName": "ePressureCooker.com",
+            "ingredients": [
+                "russet potatoes",
+                "coarse kosher salt",
+                "baking soda",
+                "cold water",
+                "animal fats",
+                "lard",
+                "shortening",
+                "frying oil",
+                "salt"
+            ],
+            "id": "Pressure-Cooker-French-Fries-1337530",
+            "smallImageUrls": [
+                "https://lh3.googleusercontent.com/FK6bbQAVNKsgzT_-r_A9X7L2cVPmz944llnt2Lwfc-TxoGAGqpQ2mw2peh2QAEMGCZqjqU-H2sus9uQAVTdvhQ=s90"
+            ],
+            "recipeName": "Pressure Cooker French Fries",
+            "totalTimeInSeconds": 1200,
+            "attributes": {
+                "cuisine": [
+                    "Kid-Friendly"
+                ]
+            },
+            "flavors": null,
+            "rating": 4
+        },
+        {
+            "imageUrlsBySize": {
+                "90": "https://lh3.googleusercontent.com/-TAZqK9Q6OdVLak0H1lIzpe3Ze-y1af0cwAYqWEsRgkvnT7Qn-RRfJcL0LuIlk3meB-rYNI3wRDGjeETii9n=s90-c"
+            },
+            "sourceDisplayName": "Christina's Cucina",
+            "ingredients": [
+                "spaghetti",
+                "extra-virgin olive oil",
+                "grated pecorino",
+                "freshly ground black pepper",
+                "sea salt"
+            ],
+            "id": "Casa-Lawrence-and-a-Recipe-for-Spaghetti-Cacio-e-Pepe-_Spaghetti-with-Pecorino-Cheese-and-Black-Pepper_-2224033",
+            "smallImageUrls": [
+                "https://lh3.googleusercontent.com/ta_oVxLMAqS_3imUg__zCpUGybt8V9L1_wTBJyoRw88qIsd6TSkcsDmH11zUG_cKwdBnnEvEBP1yccRw0Owc=s90"
+            ],
+            "recipeName": "Casa Lawrence and a Recipe for Spaghetti Cacio e Pepe (Spaghetti with Pecorino Cheese and Black Pepper)",
+            "totalTimeInSeconds": 1500,
+            "attributes": {
+                "course": [
+                    "Main Dishes"
+                ],
+                "cuisine": [
+                    "Italian"
+                ]
+            },
+            "flavors": {
+                "piquant": 0.0,
+                "meaty": 0.8333333333333334,
+                "bitter": 0.8333333333333334,
+                "sweet": 0.16666666666666666,
+                "sour": 0.16666666666666666,
+                "salty": 0.8333333333333334
+            },
+            "rating": 4
+        }
+    ],
+    "facetCounts": {},
+    "totalMatchCount": 106,
+    "attribution": {
+        "html": "Recipe search powered by <a href='http://www.yummly.co/recipes'><img alt='Yummly' src='https://static.yummly.co/api-logo.png'/></a>",
+        "url": "http://www.yummly.co/recipes/",
+        "text": "Recipe search powered by Yummly",
+        "logo": "https://static.yummly.co/api-logo.png"
+    }
+}

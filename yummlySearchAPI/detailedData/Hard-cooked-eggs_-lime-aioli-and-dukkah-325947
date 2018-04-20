@@ -1168,7 +1168,11 @@
     },
     "numberOfServings": 1,
     "totalTimeInSeconds": 1500,
-    "attributes": {},
+    "attributes": {
+        "course": [
+            "Lunch"
+        ]
+    },
     "flavors": {},
     "rating": 5
 }

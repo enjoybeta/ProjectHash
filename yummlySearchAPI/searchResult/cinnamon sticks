@@ -67,7 +67,11 @@
             ],
             "recipeName": "Vegan Mango, Raspberry and Vanilla Meringues",
             "totalTimeInSeconds": 2400,
-            "attributes": {},
+            "attributes": {
+                "course": [
+                    "Desserts"
+                ]
+            },
             "flavors": null,
             "rating": 4
         }

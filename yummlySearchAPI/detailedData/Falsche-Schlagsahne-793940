@@ -1,0 +1,49 @@
+{
+    "yield": "1",
+    "nutritionEstimates": [],
+    "prepTimeInSeconds": 600,
+    "totalTime": "10 min",
+    "images": [
+        {
+            "hostedSmallUrl": "http://lh3.googleusercontent.com/pSX92WxTNTHI_aZeuLEVf5_yc8k4KvS5NnfB9waeO8rxUFk_v0-j0k9h3dXyG5tGkcWyifauKwF5e4ZXzSKTQg=s90",
+            "hostedMediumUrl": "http://lh3.googleusercontent.com/pSX92WxTNTHI_aZeuLEVf5_yc8k4KvS5NnfB9waeO8rxUFk_v0-j0k9h3dXyG5tGkcWyifauKwF5e4ZXzSKTQg=s180",
+            "hostedLargeUrl": "http://lh3.googleusercontent.com/pSX92WxTNTHI_aZeuLEVf5_yc8k4KvS5NnfB9waeO8rxUFk_v0-j0k9h3dXyG5tGkcWyifauKwF5e4ZXzSKTQg=s360",
+            "imageUrlsBySize": {
+                "90": "http://lh3.googleusercontent.com/KJEsNFuO8WckAMgord-wlbYISdOyaFJuV9G14moLwKeGN_iRI_iDmorlKAUHewL5ZzABlyTq4rku1KZDTtWJ=s90-c",
+                "360": "http://lh3.googleusercontent.com/KJEsNFuO8WckAMgord-wlbYISdOyaFJuV9G14moLwKeGN_iRI_iDmorlKAUHewL5ZzABlyTq4rku1KZDTtWJ=s360-c"
+            }
+        }
+    ],
+    "name": "Falsche Schlagsahne",
+    "source": {
+        "sourceDisplayName": "Chefkoch",
+        "sourceSiteUrl": "chefkoch.de",
+        "sourceRecipeUrl": "http://www.chefkoch.de/rezepte/878581193244822/Falsche-Schlagsahne.html"
+    },
+    "prepTime": "10 Min",
+    "id": "Falsche-Schlagsahne-793940",
+    "ingredientLines": [
+        "140 ml Milch 1,5 % Fett",
+        "Johannisbrotkernmehl (Biobin), 2 Messl\u00f6ffel",
+        "1 Spritzer S\u00fc\u00dfstoff, fl\u00fcssig",
+        "1 TL Vanillezucker",
+        "n. B. Zimt",
+        "Zucker",
+        "Kakaopulver"
+    ],
+    "attribution": {
+        "html": "<a href='http://www.yummly.co/recipe/Falsche-Schlagsahne-793940'>Falsche Schlagsahne recipe</a> information powered by <img alt='Yummly' src='https://static.yummly.co/api-logo.png'/>",
+        "url": "http://www.yummly.co/recipe/Falsche-Schlagsahne-793940",
+        "text": "Falsche Schlagsahne recipes: information powered by Yummly",
+        "logo": "https://static.yummly.co/api-logo.png"
+    },
+    "numberOfServings": 1,
+    "totalTimeInSeconds": 600,
+    "attributes": {
+        "course": [
+            "Desserts"
+        ]
+    },
+    "flavors": {},
+    "rating": 3
+}

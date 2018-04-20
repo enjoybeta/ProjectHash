@@ -1,0 +1,339 @@
+{
+    "criteria": {
+        "q": "s+e+a+s+o+n+i+n+g",
+        "allowedIngredient": null,
+        "excludedIngredient": null
+    },
+    "matches": [
+        {
+            "imageUrlsBySize": {
+                "90": "https://lh3.googleusercontent.com/AyQZOwfYVUki5wINDypDrVsF-uf7CQ6L5wHGMGuoL3lVpUtgNH7DQwPsgH6oJrZkWHJEGS1rjdf3Gw7A6-GNRA=s90-c"
+            },
+            "sourceDisplayName": "Cookie Dough and Oven Mitt",
+            "ingredients": [
+                "granulated sugar",
+                "unsweetened cocoa powder",
+                "soy milk",
+                "silken tofu",
+                "caramels",
+                "salt"
+            ],
+            "id": "Chocolate-Ice-Cream-with-Salted-Caramel-2146874",
+            "smallImageUrls": [
+                "https://lh3.googleusercontent.com/26Go4sr67zaRncKsp40yiROl4PchBShI3FObUoD6CqlDXN2FQZfJNPvSNLo59CcJ2DgfhfOCKvoAs-Qd_jcgumY=s90"
+            ],
+            "recipeName": "Chocolate Ice Cream with Salted Caramel",
+            "totalTimeInSeconds": 9900,
+            "attributes": {
+                "course": [
+                    "Desserts"
+                ]
+            },
+            "flavors": {
+                "piquant": 0.0,
+                "meaty": 0.16666666666666666,
+                "bitter": 0.5,
+                "sweet": 0.8333333333333334,
+                "sour": 0.16666666666666666,
+                "salty": 0.3333333333333333
+            },
+            "rating": 4
+        },
+        {
+            "imageUrlsBySize": {
+                "90": "https://lh3.googleusercontent.com/SgQjABG3kiNpta1VrMOzj3RNv26IJxF662fUtf2xAJ47euyB2YkmtSt_qY5fzn-XRa1b2jUDbolP1zYzqawQHg=s90-c"
+            },
+            "sourceDisplayName": "Mom On Timeout",
+            "ingredients": [
+                "granulated sugar",
+                "unsweetened applesauce",
+                "cherries",
+                "lime",
+                "unflavored gelatin",
+                "lemon juice"
+            ],
+            "id": "Homemade-Gumdrops-2218207",
+            "smallImageUrls": [
+                "https://lh3.googleusercontent.com/dtiZL7OUp-AYfaJD_V1P5s-RemB_ngffNxCGnWCVTXla532-iNyYdlsXCrjPvHiNWPji_htpEo_PTF9ek3Ya=s90"
+            ],
+            "recipeName": "Homemade Gumdrops",
+            "totalTimeInSeconds": 600,
+            "attributes": {
+                "course": [
+                    "Desserts"
+                ]
+            },
+            "flavors": {
+                "piquant": 0.0,
+                "meaty": 0.16666666666666666,
+                "bitter": 0.16666666666666666,
+                "sweet": 0.8333333333333334,
+                "sour": 0.3333333333333333,
+                "salty": 0.0
+            },
+            "rating": 4
+        },
+        {
+            "imageUrlsBySize": {
+                "90": "https://lh3.googleusercontent.com/ZBbX0Yr2TbUaHyqNVKccdCTmjcrBTxpAsDaHNkm8Ci0-XSeRx-FR_yuFBkN_0-3vH5uKchEyMS6j1iNgy1_qZA=s90-c"
+            },
+            "sourceDisplayName": "The Noshery",
+            "ingredients": [
+                "evaporated milk",
+                "sweetened condensed milk",
+                "cream of coconut",
+                "cinnamon",
+                "nutmeg",
+                "vanilla",
+                "white rum",
+                "cinnamon sticks"
+            ],
+            "id": "Coquito-_-Puerto-Rican-Coconut-Nog-2203208",
+            "smallImageUrls": [
+                "https://lh3.googleusercontent.com/sb7j9_4QJYvoHbM1y1upWyt89BHPr8Q_FFO4aFmE8MUdGTAWNGZSCljfRw_LkN6kRneAQmzd1tJUSYc-cP-b=s90"
+            ],
+            "recipeName": "Coquito | Puerto Rican Coconut Nog",
+            "totalTimeInSeconds": 4200,
+            "attributes": {
+                "course": [
+                    "Beverages",
+                    "Cocktails"
+                ]
+            },
+            "flavors": null,
+            "rating": 4
+        },
+        {
+            "imageUrlsBySize": {
+                "90": "https://lh3.googleusercontent.com/eJA5t3Birq45H2DxV0dv0yFZAriv_ErH3mpvpPMeXALv9bXSRkVMQAaklfHIcMB6fSQUekc_KesypqO3URiVpg=s90-c"
+            },
+            "sourceDisplayName": "The Five O'Clock Cocktail Blog",
+            "ingredients": [
+                "corn whiskey",
+                "triple sec",
+                "lime juice",
+                "simple syrup",
+                "lime wedges",
+                "salt"
+            ],
+            "id": "The-Whiskey-Margarita-1701109",
+            "smallImageUrls": [
+                "https://lh3.googleusercontent.com/eJB_fmykHHtyA8x4Ypg1QCcRpDlPeRC_5OwZN4Xp-9W26Ci20wHQGKeA-24GEhkkWyKag5QaLx1n9OhDCvAq=s90"
+            ],
+            "recipeName": "The Whiskey Margarita",
+            "totalTimeInSeconds": 600,
+            "attributes": {
+                "course": [
+                    "Cocktails",
+                    "Beverages"
+                ]
+            },
+            "flavors": {
+                "piquant": 0.0,
+                "meaty": 0.16666666666666666,
+                "bitter": 0.3333333333333333,
+                "sweet": 0.5,
+                "sour": 0.8333333333333334,
+                "salty": 0.8333333333333334
+            },
+            "rating": 4
+        },
+        {
+            "imageUrlsBySize": {
+                "90": "https://lh3.googleusercontent.com/drkXm3Mkdt-_0a2S0eYkQqmkF4MugkB0hNu1QBX3wIEe7zNDeIIYwla-IfxP9GRVF3r1s2X63rUCuUq-PAuTqHk=s90-c"
+            },
+            "sourceDisplayName": "Saving Room for Dessert",
+            "ingredients": [
+                "unbleached all-purpose flour",
+                "granulated sugar",
+                "salt",
+                "unsalted butter",
+                "shortening",
+                "ice water",
+                "large eggs",
+                "coarse sugar"
+            ],
+            "id": "Perfect-Pie-Crust-2228271",
+            "smallImageUrls": [
+                "https://lh3.googleusercontent.com/RgEEC2umThcR4mMwfHyrpx_9DjKBDPtPTcheUJqmmNyiPFw1yOvADjWfvMMkBnCdRW3M2M9TMDaY1v01A9HqO74=s90"
+            ],
+            "recipeName": "Perfect Pie Crust",
+            "totalTimeInSeconds": 1200,
+            "attributes": {
+                "course": [
+                    "Desserts"
+                ]
+            },
+            "flavors": {
+                "piquant": 0.0,
+                "meaty": 0.8333333333333334,
+                "bitter": 0.16666666666666666,
+                "sweet": 0.16666666666666666,
+                "sour": 0.16666666666666666,
+                "salty": 0.8333333333333334
+            },
+            "rating": 4
+        },
+        {
+            "imageUrlsBySize": {
+                "90": "http://lh6.ggpht.com/AtgeuHsz9zh-X3xa9UVVcwTojuNp_qjvFXfs2QaqCf02Ux9ip_XbTpuNjusXYiKw9zTYPLshvyTvvVjueS0vZg=s90-c"
+            },
+            "sourceDisplayName": "Glitter Spice",
+            "ingredients": [
+                "curly kale",
+                "spinach",
+                "parsley",
+                "dandelion greens",
+                "romaine lettuce",
+                "apples",
+                "bananas",
+                "water"
+            ],
+            "id": "Magical-Green-Smoothie-995713",
+            "smallImageUrls": [
+                "http://lh6.ggpht.com/2b2ciC7PBoiznGBPZsDVapT7pOhyPpagJSiyU4hHutZ4swQNhvy8SVe7_gca_JfeofNf3hEscZxEzmdRxz6usA=s90"
+            ],
+            "recipeName": "Magical Green Smoothie",
+            "totalTimeInSeconds": 1200,
+            "attributes": {
+                "course": [
+                    "Beverages"
+                ]
+            },
+            "flavors": null,
+            "rating": 4
+        },
+        {
+            "imageUrlsBySize": {
+                "90": "https://lh3.googleusercontent.com/jGIaZ2RN05Q3LhJhFdCXQOZtVgQMVWR4xU5b1mCuKpLQn8ajfrcALjmG2gEzFtTpOZf_7gNITKqwAVnngbRrjA=s90-c"
+            },
+            "sourceDisplayName": "Whole LIfestyle Nutrition",
+            "ingredients": [
+                "cantaloupe",
+                "greek yogurt",
+                "pure maple syrup",
+                "gelatin",
+                "ice"
+            ],
+            "id": "An-Amazing-Cantaloupe-Smoothie-1773869",
+            "smallImageUrls": [
+                "https://lh3.googleusercontent.com/C5WnkwsIKfnlypplFVNG1QWe4p0Gt7pIXnuZrA-bRK9KL6S1xafnXt3WEhw7y_DcWwdtUN4L27JHxx6F5isF=s90"
+            ],
+            "recipeName": "An Amazing Cantaloupe Smoothie",
+            "totalTimeInSeconds": 300,
+            "attributes": {
+                "course": [
+                    "Beverages"
+                ]
+            },
+            "flavors": {
+                "piquant": 0.0,
+                "meaty": 0.16666666666666666,
+                "bitter": 0.3333333333333333,
+                "sweet": 0.6666666666666666,
+                "sour": 0.8333333333333334,
+                "salty": 0.16666666666666666
+            },
+            "rating": 4
+        },
+        {
+            "imageUrlsBySize": {
+                "90": "https://lh3.googleusercontent.com/MSNgN7s8kgVameNlbVabe0e5BDf7x-9HNBFOWKxHLk4Hhl5130KN4an7iRzor0oc2aVA0mVn5v3aG5e3wge_Xg=s90-c"
+            },
+            "sourceDisplayName": "I Should Be Mopping the Floor",
+            "ingredients": [
+                "sandwiches",
+                "cool whip",
+                "caramel ice cream topping",
+                "ice cream"
+            ],
+            "id": "10-Minute-Layered-Ice-Cream-Cake-_easydessert-1914028",
+            "smallImageUrls": [
+                "https://lh3.googleusercontent.com/t9uQksw-8vAc7i8sB2RiuybQLR-JYEt-LA3HgZHHsVITAFLuQplS9aJpBCa39DNiyLt7xsgn9JF4cnfNifgWMg=s90"
+            ],
+            "recipeName": "10-Minute Layered Ice Cream Cake #easydessert",
+            "totalTimeInSeconds": 1500,
+            "attributes": {
+                "course": [
+                    "Desserts"
+                ]
+            },
+            "flavors": null,
+            "rating": 4
+        },
+        {
+            "imageUrlsBySize": {
+                "90": "http://lh3.googleusercontent.com/k4vF_16omOqFcZMAQsqx5mH2UuEVu6Ck0Wv3bpPHTQfUKME-B9fJSmQk8Y0BeAEOvNEB-rMgQrEBEXCa_K1Zhg=s90-c"
+            },
+            "sourceDisplayName": "Vegan Noga",
+            "ingredients": [
+                "cauliflower",
+                "bread crumbs",
+                "chickpea flour",
+                "soy sauce",
+                "water"
+            ],
+            "id": "Low-fat-Vegan-Breaded-Cauliflower-Chunks-1241121",
+            "smallImageUrls": [
+                "http://lh3.googleusercontent.com/3yLWcaGkHhk7crodJQmY_v2QYkcOCW9JHIeXqArGSxlhpFBAAItH-ODLOZ3Tz8TPRx7ykdyaZEnzfAGmu2FM=s90"
+            ],
+            "recipeName": "Low fat Vegan Breaded Cauliflower Chunks",
+            "totalTimeInSeconds": 2100,
+            "attributes": {},
+            "flavors": {
+                "sweet": 0.3333333333333333,
+                "piquant": 0.0,
+                "sour": 0.8333333333333334,
+                "salty": 0.8333333333333334,
+                "meaty": 0.16666666666666666,
+                "bitter": 0.8333333333333334
+            },
+            "rating": 4
+        },
+        {
+            "imageUrlsBySize": {
+                "90": "https://lh3.googleusercontent.com/nQlyG5ZO-e6rbcxuvA5mQytHVel2ZbHJ_H2OYrHah_vUhhJHXvKfSJ0pT-6pA8lwPMhDoM4jrgrhWGE3brR5Lg=s90-c"
+            },
+            "sourceDisplayName": "Recipes by Jenn",
+            "ingredients": [
+                "sea salt",
+                "ground oregano",
+                "all-purpose flour",
+                "ground black pepper",
+                "italian seasoning",
+                "garlic powder",
+                "onion powder",
+                "cayenne pepper",
+                "extra lean ground beef",
+                "evaporated milk",
+                "sweetened condensed milk",
+                "white vinegar",
+                "pitas",
+                "sauce",
+                "meat"
+            ],
+            "id": "Donairs-1827739",
+            "smallImageUrls": [
+                "https://lh3.googleusercontent.com/eMMCE9jZD_zJBgl6Xh-87y81jMRlNtdToZVR3gVpv_s_AMNSr9ePATMAyMD0HbwWwRYmuWDKUdZsl6S7ZrCT=s90"
+            ],
+            "recipeName": "Donairs",
+            "totalTimeInSeconds": 5700,
+            "attributes": {
+                "course": [
+                    "Main Dishes",
+                    "Lunch"
+                ]
+            },
+            "flavors": null,
+            "rating": 4
+        }
+    ],
+    "facetCounts": {},
+    "totalMatchCount": 894,
+    "attribution": {
+        "html": "Recipe search powered by <a href='http://www.yummly.co/recipes'><img alt='Yummly' src='https://static.yummly.co/api-logo.png'/></a>",
+        "url": "http://www.yummly.co/recipes/",
+        "text": "Recipe search powered by Yummly",
+        "logo": "https://static.yummly.co/api-logo.png"
+    }
+}

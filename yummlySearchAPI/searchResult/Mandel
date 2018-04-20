@@ -1,0 +1,372 @@
+{
+    "criteria": {
+        "q": "M+a+n+d+e+l",
+        "allowedIngredient": null,
+        "excludedIngredient": null
+    },
+    "matches": [
+        {
+            "imageUrlsBySize": {
+                "90": "https://lh3.googleusercontent.com/EKAkJtQTK9QBXBzJqSKGAsINCRgz0fcRyGSvnMUTfgId_ZST05tVMMK5OjlnD4J15KsHWvvAg0P5TUVcPGYfp1Q=s90-c"
+            },
+            "sourceDisplayName": "E.D.SMITH",
+            "ingredients": [
+                "canola oil",
+                "onions",
+                "carrots",
+                "garlic",
+                "gingerroot",
+                "salt",
+                "freshly ground pepper",
+                "tomato paste",
+                "curry paste",
+                "curry powder",
+                "diced tomatoes",
+                "pure pumpkin",
+                "vegetable broth",
+                "chickpeas",
+                "cauliflower florets",
+                "baby spinach",
+                "chopped fresh cilantro",
+                "plain yogurt",
+                "naan"
+            ],
+            "id": "Easy-Pumpkin-Chickpea-Curry-2385709",
+            "smallImageUrls": [
+                "https://lh3.googleusercontent.com/8yZmgyxx7tal13UesUusgnFBgi1qHvmsmUKZURrXS7UDERVL9TplOkfSlADv7TV9m0ssia2E9udQnYEeHC4m=s90"
+            ],
+            "recipeName": "Easy Pumpkin Chickpea Curry",
+            "totalTimeInSeconds": 3300,
+            "attributes": {
+                "course": [
+                    "Main Dishes"
+                ],
+                "cuisine": [
+                    "Indian"
+                ]
+            },
+            "flavors": {
+                "piquant": 0.16666666666666666,
+                "meaty": 0.16666666666666666,
+                "bitter": 0.5,
+                "sweet": 0.16666666666666666,
+                "sour": 0.6666666666666666,
+                "salty": 0.5
+            },
+            "rating": 3
+        },
+        {
+            "imageUrlsBySize": {
+                "90": "http://lh3.googleusercontent.com/zDa0mybGUypUmGduZxFQp754SCxXUoV-jnMAvw3NevJpInUFz6DV7t40dxvC8jNhZapW-o4EIKZfU6cz67Q-=s90-c"
+            },
+            "sourceDisplayName": "Lecker",
+            "ingredients": [
+                "Butter",
+                "Mehl",
+                "Zucker",
+                "Natron",
+                "Zimt",
+                "anis",
+                "Ingwer",
+                "Cardomon",
+                "Honig",
+                "Eigelb"
+            ],
+            "id": "Pain-D_epices-842836",
+            "smallImageUrls": [
+                "http://lh3.googleusercontent.com/Q64uBDYKlcN96p-zj3MH7na_TgcO_Y3_k94JKAxX7IXOXeJIHkYaOe6a0SHrugD8fbbTjZnl0MZ0tlVQBupumw=s90"
+            ],
+            "recipeName": "Pain D'e\u0301pices",
+            "totalTimeInSeconds": 2700,
+            "attributes": {},
+            "flavors": {
+                "sweet": 0.8333333333333334,
+                "piquant": 0.0,
+                "sour": 0.16666666666666666,
+                "salty": 0.3333333333333333,
+                "meaty": 0.16666666666666666,
+                "bitter": 0.16666666666666666
+            },
+            "rating": 3
+        },
+        {
+            "imageUrlsBySize": {
+                "90": "http://lh3.googleusercontent.com/02OT7pzXJscnRMOvaXS7hEkTbygHV0bTkvs9j47wba_VajvWGqJ1O_KnbeFSDpfI_QHNQ1ViS2mZTMxXwqM1=s90-c"
+            },
+            "sourceDisplayName": "Lecker",
+            "ingredients": [
+                "Zucker",
+                "Backpulver",
+                "Butter",
+                "Mehl",
+                "Limone",
+                "Schlabgobers"
+            ],
+            "id": "Lemontarte-828036",
+            "smallImageUrls": [
+                "http://lh3.googleusercontent.com/75V3jtq-EN4cQ7DXwpSxTKJPGt3rpPJaNgnm7XLG4etnb_O0sZiCrQcOlcU65DKWPLLDEEaSRILjiuiaNVglQrk=s90"
+            ],
+            "recipeName": "Lemontarte",
+            "totalTimeInSeconds": 4500,
+            "attributes": {},
+            "flavors": null,
+            "rating": 3
+        },
+        {
+            "imageUrlsBySize": {
+                "90": "http://lh3.googleusercontent.com/dtzUNUWDm6PlDmSCeb4-w-aqr0MScKEcMtlJtDibEMGIEBTpFLz7ajNqvGY4wIakmzKMmKpmYZLKR05MbDO2=s90-c"
+            },
+            "sourceDisplayName": "Lecker",
+            "ingredients": [
+                "Pflaume",
+                "Speisest\u00e4rke",
+                "Zucker",
+                "Fett",
+                "Milch",
+                "Toastbrot",
+                "Vanille",
+                "Eiwei\u00df",
+                "Zitronensaft"
+            ],
+            "id": "Pflaumen-Auflauf-mit-Baiser-835927",
+            "smallImageUrls": [
+                "http://lh3.googleusercontent.com/HglsypCHNP4GUlQ4VqUvWHy6m_wD9XXc2brwz7nRDwrZZpF3cL5gfdtg-Uo0Sw08q3V_76qMX6ogLi_1GprI=s90"
+            ],
+            "recipeName": "Pflaumen-Auflauf mit Baiser",
+            "totalTimeInSeconds": 3600,
+            "attributes": {},
+            "flavors": null,
+            "rating": 3
+        },
+        {
+            "imageUrlsBySize": {
+                "90": "http://lh3.googleusercontent.com/wnkFoF2prydSaWVzh_7widOwioxUMjkcNK2x7So7r1JFD8q_v57BsIhLaOuhzr_Pi4x42wzQ5F8VYDs9GX6dgw=s90-c"
+            },
+            "sourceDisplayName": "Lecker",
+            "ingredients": [
+                "Kartoffel",
+                "Zwiebel",
+                "Rindergehacktes",
+                "Ei",
+                "Semmelbr\u00f6sel",
+                "Chillipulver",
+                "Salz",
+                "Pfeffer",
+                "\u00d6l",
+                "Salat",
+                "Essig",
+                "Gem\u00fcsebr\u00fche",
+                "So\u00dfe",
+                "Avocado",
+                "Zitrone",
+                "Parikaschote"
+            ],
+            "id": "Kartoffelsalat-mit-Hackballchen_-Avocado-und-Paprika-mit-Salsa-Vinaigrette-924980",
+            "smallImageUrls": [
+                "http://lh3.googleusercontent.com/l1YTqkyFH_cA1qGEmZRC4EodEVfr9_9p0YCJ_xMEw1Q3fl6bh3JKpbfCoduSX2kpQ7fpGOnI85DcunCIQKrnZg=s90"
+            ],
+            "recipeName": "Kartoffelsalat mit Hackba\u0308llchen, Avocado und Paprika mit Salsa-Vinaigrette",
+            "totalTimeInSeconds": 4500,
+            "attributes": {},
+            "flavors": {
+                "sweet": 0.16666666666666666,
+                "piquant": 0.16666666666666666,
+                "sour": 0.8333333333333334,
+                "salty": 0.16666666666666666,
+                "meaty": 0.16666666666666666,
+                "bitter": 0.16666666666666666
+            },
+            "rating": 3
+        },
+        {
+            "imageUrlsBySize": {
+                "90": "http://lh3.googleusercontent.com/hEklnJTq1Iu2NYDOxIXEfLWsET6KdfOSlKt-1DAiW7drlYEJykWCOy5_HT-fRchodM4bUEiBQFYJ2Cuo_x08aA=s90-c"
+            },
+            "sourceDisplayName": "Lecker",
+            "ingredients": [
+                "Fett",
+                "karamel",
+                "Schokolade",
+                "weiche Butter",
+                "Zucker",
+                "Salz",
+                "Ei",
+                "Eierlik\u00f6r",
+                "Mehl",
+                "Backpulver",
+                "Puderzucker"
+            ],
+            "id": "Eierlikor-Gugelhupf-mit-Knusperfulle-832617",
+            "smallImageUrls": [
+                "http://lh3.googleusercontent.com/O08qnpqzcL6UA0ug1EXCF0fBD9W8pDfrxK7hEBvX_e4N9GMeq6PbH07mT2XVH79k2Y5qLYziaZybhKguv9_qFJs=s90"
+            ],
+            "recipeName": "Eierliko\u0308r-Gugelhupf mit Knusperfu\u0308lle",
+            "totalTimeInSeconds": 5400,
+            "attributes": {
+                "course": [
+                    "Desserts"
+                ]
+            },
+            "flavors": {
+                "sweet": 0.8333333333333334,
+                "piquant": 0.0,
+                "sour": 0.16666666666666666,
+                "salty": 0.5,
+                "meaty": 0.6666666666666666,
+                "bitter": 0.3333333333333333
+            },
+            "rating": 3
+        },
+        {
+            "imageUrlsBySize": {
+                "90": "http://lh3.googleusercontent.com/j0o1-noP47czxxLDS1hzPMRPc_MVcHAc8hwZnBqj7wjAZMY31q0v7FkZUqOUdfsi1-7ID_riKdlhDfGRToV0=s90-c"
+            },
+            "sourceDisplayName": "Lecker",
+            "ingredients": [
+                "Toastbrot",
+                "Zwiebel",
+                "Rindergehacktes",
+                "Ei",
+                "Senf",
+                "Salz",
+                "Pfeffer wei\u00df",
+                "Edels\u00fcsspaprika",
+                "Parikaschote",
+                "Maiskolben",
+                "Oliven\u00f6l",
+                "Gem\u00fcsebr\u00fche",
+                "Majoran",
+                "Zucker"
+            ],
+            "id": "Bunte-Paprikasuppe-mit-Hackballchen-925181",
+            "smallImageUrls": [
+                "http://lh3.googleusercontent.com/erPqIiho3B-PEijPVLwDxw0O5TMKeuoM6yMwAxedcBLuaqXqF6fRbQYCgNt2099Fd2vltG5g4kR4u9K_1lsIwA=s90"
+            ],
+            "recipeName": "Bunte Paprikasuppe mit Hackba\u0308llchen",
+            "totalTimeInSeconds": 2400,
+            "attributes": {},
+            "flavors": null,
+            "rating": 3
+        },
+        {
+            "imageUrlsBySize": {
+                "90": "http://lh3.googleusercontent.com/D0ZxFT7fOEQgGBva7Bko7tzX1xK3Vnw50Tjn-Q8reeH3F6uPXvYyU0xhkSCwkK-0QXLkd9jLvznBTnrrqN905Q=s90-c"
+            },
+            "sourceDisplayName": "Lecker",
+            "ingredients": [
+                "Zwiebel",
+                "Butter",
+                "Erbsen",
+                "Kerbel",
+                "Dill",
+                "Schinken",
+                "Ei",
+                "Milch",
+                "semolina",
+                "Parmesank\u00e4se",
+                "Pfeffer wei\u00df",
+                "Zitronensaft",
+                "Semmelbr\u00f6sel"
+            ],
+            "id": "Krauter-Quark-Auflauf-834717",
+            "smallImageUrls": [
+                "http://lh3.googleusercontent.com/eBnyVq_1C5PCFlCzUDabcaaqM_ocl4UZsnlPyZ530vNqJKvB_LE0xYvNe3tgN59692CiR3utLtI7uVMorw6xGA=s90"
+            ],
+            "recipeName": "Kra\u0308uter-Quark-Auflauf",
+            "totalTimeInSeconds": 4500,
+            "attributes": {},
+            "flavors": {
+                "sweet": 0.3333333333333333,
+                "piquant": 0.3333333333333333,
+                "sour": 0.6666666666666666,
+                "salty": 0.8333333333333334,
+                "meaty": 0.5,
+                "bitter": 0.8333333333333334
+            },
+            "rating": 3
+        },
+        {
+            "imageUrlsBySize": {
+                "90": "http://lh3.googleusercontent.com/PXbHenLUjx9jQbViswlA7zBj4KCHMcyTgDush1wq2e3nmH8c3mQO7yP729gcQbPSnmAgse7ze6MyQd_NYnFRHw=s90-c"
+            },
+            "sourceDisplayName": "Lecker",
+            "ingredients": [
+                "Rosine",
+                "Kirschwasser",
+                "Milch",
+                "Hefe",
+                "Mehl",
+                "Zucker",
+                "Butter",
+                "Salz",
+                "Ei",
+                "Mandel",
+                "Puderzucker"
+            ],
+            "id": "Elsasser-Mandel-Gugelhupf-837024",
+            "smallImageUrls": [
+                "http://lh3.googleusercontent.com/lDISIswy9u5UaOXiy1TX5cdovoRxCQphL_Lrz_QagxXeejvEwHwJ0-BXTqwEdZGLR6sfyH6-EKm54115-x2FqA=s90"
+            ],
+            "recipeName": "Elsa\u0308sser Mandel-Gugelhupf",
+            "totalTimeInSeconds": 4500,
+            "attributes": {
+                "course": [
+                    "Desserts"
+                ]
+            },
+            "flavors": {
+                "sweet": 0.6666666666666666,
+                "piquant": 0.0,
+                "sour": 0.16666666666666666,
+                "salty": 0.8333333333333334,
+                "meaty": 0.5,
+                "bitter": 0.6666666666666666
+            },
+            "rating": 3
+        },
+        {
+            "imageUrlsBySize": {
+                "90": "http://lh3.googleusercontent.com/LFw2Le3gXEiIbmBCDjkK07D0Yy3hQ2-EMlWWPBFrMDy22RRK8R2BMiSr8LoYqhghT1guYdJPhWJhDENURJI6=s90-c"
+            },
+            "sourceDisplayName": "Lecker",
+            "ingredients": [
+                "Biskuit",
+                "Ei",
+                "Zucker",
+                "Mehl",
+                "Backpulver",
+                "Pfirsich",
+                "Zitronensaft",
+                "Puddingpulver",
+                "Schlabgobers",
+                "Puderzucker",
+                "Sahnefestiger",
+                "Konfit\u00fcre",
+                "Kuvert\u00fcre",
+                "Pfirsichh\u00e4lften",
+                "maracuja"
+            ],
+            "id": "Lambada-Schnitten-mit-Pfirsichen-924419",
+            "smallImageUrls": [
+                "http://lh3.googleusercontent.com/fZMgV-2AkpHn6_tONLHkhOXmvBvz3MtnFYt59hZ9I6EziFRFbnm_G7EBuWEruiMrVPGZLF9MvRxI8wLNaJ8fuIM=s90"
+            ],
+            "recipeName": "Lambada-Schnitten mit Pfirsichen",
+            "totalTimeInSeconds": 3600,
+            "attributes": {
+                "course": [
+                    "Desserts"
+                ]
+            },
+            "flavors": null,
+            "rating": 3
+        }
+    ],
+    "facetCounts": {},
+    "totalMatchCount": 19,
+    "attribution": {
+        "html": "Recipe search powered by <a href='http://www.yummly.co/recipes'><img alt='Yummly' src='https://static.yummly.co/api-logo.png'/></a>",
+        "url": "http://www.yummly.co/recipes/",
+        "text": "Recipe search powered by Yummly",
+        "logo": "https://static.yummly.co/api-logo.png"
+    }
+}

@@ -1,0 +1,69 @@
+{
+    "criteria": {
+        "q": "f+r+i+t+o+s",
+        "allowedIngredient": null,
+        "excludedIngredient": null
+    },
+    "matches": [
+        {
+            "imageUrlsBySize": {
+                "90": "http://lh3.googleusercontent.com/gMGtOvMfHktHwLQBi3zL1O783wClsaqnvZWt8PD5m5BdRQCNvvEzbawzkQBuaaB6mNy4gsNNFZi3hja9GLaYgg=s90-c"
+            },
+            "sourceDisplayName": "My Utensil Crock",
+            "ingredients": [
+                "boneless skinless chicken breasts",
+                "lemon",
+                "extra-virgin olive oil",
+                "minced garlic",
+                "cumin",
+                "pepper",
+                "paprika",
+                "chile powder"
+            ],
+            "id": "Shish-Taouk-Chicken-Kabobs-1165922",
+            "smallImageUrls": [
+                "http://lh3.googleusercontent.com/TiMPwSwcLX6lMMb0CmQUsBVMeEUCJYvZnpAkCbNO4lQnRvtQZyCSr-BYp_1NXLl9gL3Fzw1uTh1LQR_YNWjKeA=s90"
+            ],
+            "recipeName": "Shish Taouk \u2013 Chicken Kabobs",
+            "totalTimeInSeconds": 1200,
+            "attributes": {
+                "course": [
+                    "Main Dishes"
+                ]
+            },
+            "flavors": null,
+            "rating": 4
+        },
+        {
+            "recipeName": "Chicago-Style Steak With Bleu Cheese Butter",
+            "ingredients": [
+                "sirloin steak",
+                "worcestershire sauce",
+                "soy sauce",
+                "cooking sherry",
+                "red wine vinegar",
+                "butter",
+                "blue cheese",
+                "green onions"
+            ],
+            "totalTimeInSeconds": 1200,
+            "sourceDisplayName": "Food.com",
+            "id": "Chicago-Style-Steak-With-Bleu-Cheese-Butter-Food_com-125744",
+            "rating": 4,
+            "flavors": null,
+            "attributes": {
+                "course": [
+                    "Main Dishes"
+                ]
+            }
+        }
+    ],
+    "facetCounts": {},
+    "totalMatchCount": 2,
+    "attribution": {
+        "html": "Recipe search powered by <a href='http://www.yummly.co/recipes'><img alt='Yummly' src='https://static.yummly.co/api-logo.png'/></a>",
+        "url": "http://www.yummly.co/recipes/",
+        "text": "Recipe search powered by Yummly",
+        "logo": "https://static.yummly.co/api-logo.png"
+    }
+}

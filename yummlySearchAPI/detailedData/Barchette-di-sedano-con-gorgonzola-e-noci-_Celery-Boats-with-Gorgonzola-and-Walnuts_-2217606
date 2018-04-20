@@ -1,0 +1,50 @@
+{
+    "yield": "One antipasto platter",
+    "nutritionEstimates": [],
+    "totalTime": "15 min",
+    "images": [
+        {
+            "hostedSmallUrl": "https://lh3.googleusercontent.com/57stl9U0PmLjY6_CSlr17Uot6s6YIfQ0XVDdJ7axvoNHzWdpRQ5REYDQmvv0jPyLv2Ha1WsdATN3jJu38DZG=s90",
+            "hostedMediumUrl": "https://lh3.googleusercontent.com/57stl9U0PmLjY6_CSlr17Uot6s6YIfQ0XVDdJ7axvoNHzWdpRQ5REYDQmvv0jPyLv2Ha1WsdATN3jJu38DZG=s180",
+            "hostedLargeUrl": "https://lh3.googleusercontent.com/57stl9U0PmLjY6_CSlr17Uot6s6YIfQ0XVDdJ7axvoNHzWdpRQ5REYDQmvv0jPyLv2Ha1WsdATN3jJu38DZG=s360",
+            "imageUrlsBySize": {
+                "90": "https://lh3.googleusercontent.com/R63m1KwT_1gvb8OI8Ivm9p-JNAD5VSMljBGdrc65MmYHsJxva-kA3c2cgFf0PsjpXuddC5Z5V_ATWGI_J3hmCQ=s90-c",
+                "360": "https://lh3.googleusercontent.com/R63m1KwT_1gvb8OI8Ivm9p-JNAD5VSMljBGdrc65MmYHsJxva-kA3c2cgFf0PsjpXuddC5Z5V_ATWGI_J3hmCQ=s360-c"
+            }
+        }
+    ],
+    "name": "Barchette di sedano con gorgonzola e noci (Celery Boats with Gorgonzola and Walnuts)",
+    "source": {
+        "sourceDisplayName": "Memorie di Angelina",
+        "sourceSiteUrl": "memoriediangelina.com",
+        "sourceRecipeUrl": "http://memoriediangelina.com/2017/09/30/barchette-di-sedano/"
+    },
+    "id": "Barchette-di-sedano-con-gorgonzola-e-noci-_Celery-Boats-with-Gorgonzola-and-Walnuts_-2217606",
+    "ingredientLines": [
+        "One bunch of celery",
+        "200g (7 oz) gorgonzola",
+        "100g (3-1/2 oz) mascarpone",
+        "Walnuts, q.b.",
+        "Freshly ground or cracked black pepper",
+        "Minced chives or parsley"
+    ],
+    "attribution": {
+        "html": "<a href='http://www.yummly.co/recipe/Barchette-di-sedano-con-gorgonzola-e-noci-_Celery-Boats-with-Gorgonzola-and-Walnuts_-2217606'>Barchette di sedano con gorgonzola e noci (Celery Boats with Gorgonzola and Walnuts) recipe</a> information powered by <img alt='Yummly' src='https://static.yummly.co/api-logo.png'/>",
+        "url": "http://www.yummly.co/recipe/Barchette-di-sedano-con-gorgonzola-e-noci-_Celery-Boats-with-Gorgonzola-and-Walnuts_-2217606",
+        "text": "Barchette di sedano con gorgonzola e noci (Celery Boats with Gorgonzola and Walnuts) recipes: information powered by Yummly",
+        "logo": "https://static.yummly.co/api-logo.png"
+    },
+    "numberOfServings": 1,
+    "totalTimeInSeconds": 900,
+    "attributes": {
+        "cuisine": [
+            "Italian"
+        ],
+        "course": [
+            "Lunch",
+            "Appetizers"
+        ]
+    },
+    "flavors": {},
+    "rating": 4
+}

@@ -1,0 +1,45 @@
+{
+    "nutritionEstimates": [],
+    "totalTime": "1 hr 5 min",
+    "images": [
+        {
+            "hostedSmallUrl": "http://lh4.ggpht.com/zGlwonPyVMQQzEoaC156aN2765Ju6DqeLUxgeJEFeG-fnLL79rU9K-QLxzl0WDj60LioMiiRDdVMcHpvNULHQS0=s90",
+            "hostedMediumUrl": "http://lh4.ggpht.com/zGlwonPyVMQQzEoaC156aN2765Ju6DqeLUxgeJEFeG-fnLL79rU9K-QLxzl0WDj60LioMiiRDdVMcHpvNULHQS0=s180",
+            "hostedLargeUrl": "http://lh4.ggpht.com/zGlwonPyVMQQzEoaC156aN2765Ju6DqeLUxgeJEFeG-fnLL79rU9K-QLxzl0WDj60LioMiiRDdVMcHpvNULHQS0=s360",
+            "imageUrlsBySize": {
+                "90": "http://lh4.ggpht.com/w_mp_5PHg3eLAtzapqApQxA8oqvHTUDRL7q2sfXOd0F6zvJZyfA3mAhpP3rk-Av2SLZHAxYhqIUM_Giz3qC0Oik=s90-c",
+                "360": "http://lh4.ggpht.com/w_mp_5PHg3eLAtzapqApQxA8oqvHTUDRL7q2sfXOd0F6zvJZyfA3mAhpP3rk-Av2SLZHAxYhqIUM_Giz3qC0Oik=s360-c"
+            }
+        }
+    ],
+    "name": "Raspberry Confetti Kisses",
+    "source": {
+        "sourceDisplayName": "Easybaked",
+        "sourceSiteUrl": "easybaked.net",
+        "sourceRecipeUrl": "http://easybaked.net/2011/12/26/raspberry-confetti-kisses/"
+    },
+    "id": "Raspberry-Confetti-Kisses-1037562",
+    "ingredientLines": [
+        "3 egg whites",
+        "1/8t. salt",
+        "3 1/2 T. raspberry Jell-O",
+        "3/4 c. sugar",
+        "1T. vinegar",
+        "Confetti sprinkles"
+    ],
+    "attribution": {
+        "html": "<a href='http://www.yummly.co/recipe/Raspberry-Confetti-Kisses-1037562'>Raspberry Confetti Kisses recipe</a> information powered by <img alt='Yummly' src='https://static.yummly.co/api-logo.png'/>",
+        "url": "http://www.yummly.co/recipe/Raspberry-Confetti-Kisses-1037562",
+        "text": "Raspberry Confetti Kisses recipes: information powered by Yummly",
+        "logo": "https://static.yummly.co/api-logo.png"
+    },
+    "numberOfServings": 4,
+    "totalTimeInSeconds": 3900,
+    "attributes": {
+        "course": [
+            "Desserts"
+        ]
+    },
+    "flavors": {},
+    "rating": 4
+}

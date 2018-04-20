@@ -1,0 +1,101 @@
+{
+    "criteria": {
+        "q": "b+a+y+ +l+e+a+f",
+        "allowedIngredient": null,
+        "excludedIngredient": null
+    },
+    "matches": [
+        {
+            "imageUrlsBySize": {
+                "90": "http://lh3.googleusercontent.com/7ws9nxJj_j4r9Mp0YNos7XLVbNu-d_0X_2lI2H75RcNGDVCUIR1xjnoiuKNMhVoizLxf0afqcA47YDjLYWg_d2E=s90-c"
+            },
+            "sourceDisplayName": "Oh, Ladycakes",
+            "ingredients": [
+                "all purpose gluten free flour blend",
+                "oat flour",
+                "rolled oats",
+                "xanthan gum",
+                "fine sea salt",
+                "baking powder",
+                "canola oil",
+                "maple syrup",
+                "almond milk",
+                "pure vanilla extract",
+                "sugar"
+            ],
+            "id": "MAPLE-OAT-SCONES-1252509",
+            "smallImageUrls": [
+                "http://lh3.googleusercontent.com/apg-qPJgqSVtk1-YrtkKU3qfuzOQFOjcHElLJJR43Z6KnD50oGN3M9Zf1fsV30rOxgIbXGQetr9979rYGlF8bcI=s90"
+            ],
+            "recipeName": "MAPLE OAT SCONES",
+            "totalTimeInSeconds": 2400,
+            "attributes": {
+                "course": [
+                    "Breads"
+                ],
+                "cuisine": [
+                    "English"
+                ]
+            },
+            "flavors": {
+                "piquant": 0.0,
+                "meaty": 0.3333333333333333,
+                "bitter": 0.8333333333333334,
+                "sweet": 0.6666666666666666,
+                "sour": 0.16666666666666666,
+                "salty": 0.8333333333333334
+            },
+            "rating": 4
+        },
+        {
+            "imageUrlsBySize": {
+                "90": "https://lh3.googleusercontent.com/Z1Unq45X0Vff2vLneldj_YBn4nYPK83Sm_zw1l1-t2kpjiJQBOhTNPVZho2A0WhK1IULoOUu-w6bmp3AhjAgAQ=s90-c"
+            },
+            "sourceDisplayName": "Oh, Ladycakes",
+            "ingredients": [
+                "all purpose gluten free flour blend",
+                "oat flour",
+                "rolled oats",
+                "xanthan gum",
+                "fine sea salt",
+                "baking powder",
+                "canola oil",
+                "maple syrup",
+                "almond milk",
+                "pure vanilla extract",
+                "sugar"
+            ],
+            "id": "MAPLE-OAT-SCONES-1946347",
+            "smallImageUrls": [
+                "https://lh3.googleusercontent.com/MyfmlpcwS0Dpwmde-BOyEzWSeI_1Qv8Y3ITWi89X1YakICosZ2dj3LJCyocyuqRXIF-YtJr0kJ4W-CFVViZz7A=s90"
+            ],
+            "recipeName": "MAPLE OAT SCONES",
+            "totalTimeInSeconds": 2400,
+            "attributes": {
+                "course": [
+                    "Breads"
+                ],
+                "cuisine": [
+                    "English"
+                ]
+            },
+            "flavors": {
+                "piquant": 0.0,
+                "meaty": 0.3333333333333333,
+                "bitter": 0.8333333333333334,
+                "sweet": 0.6666666666666666,
+                "sour": 0.16666666666666666,
+                "salty": 0.8333333333333334
+            },
+            "rating": 4
+        }
+    ],
+    "facetCounts": {},
+    "totalMatchCount": 2,
+    "attribution": {
+        "html": "Recipe search powered by <a href='http://www.yummly.co/recipes'><img alt='Yummly' src='https://static.yummly.co/api-logo.png'/></a>",
+        "url": "http://www.yummly.co/recipes/",
+        "text": "Recipe search powered by Yummly",
+        "logo": "https://static.yummly.co/api-logo.png"
+    }
+}

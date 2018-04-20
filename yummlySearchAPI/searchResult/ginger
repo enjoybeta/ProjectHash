@@ -24,8 +24,19 @@
             ],
             "recipeName": "Rote Grapefruit-Filets mit Pistazienzabaione",
             "totalTimeInSeconds": 1500,
-            "attributes": {},
-            "flavors": null,
+            "attributes": {
+                "course": [
+                    "Desserts"
+                ]
+            },
+            "flavors": {
+                "sweet": 0.6666666666666666,
+                "piquant": 0.0,
+                "sour": 0.8333333333333334,
+                "salty": 0.0,
+                "meaty": 0.16666666666666666,
+                "bitter": 0.16666666666666666
+            },
             "rating": 3
         },
         {
@@ -83,7 +94,11 @@
             ],
             "recipeName": "Obstsalat mit Joghurt-Vanille-So\u00dfe",
             "totalTimeInSeconds": 1500,
-            "attributes": {},
+            "attributes": {
+                "course": [
+                    "Desserts"
+                ]
+            },
             "flavors": null,
             "rating": 3
         },
@@ -194,7 +209,11 @@
             ],
             "recipeName": "Joghurt-Amaretti-Torte",
             "totalTimeInSeconds": 3600,
-            "attributes": {},
+            "attributes": {
+                "course": [
+                    "Desserts"
+                ]
+            },
             "flavors": null,
             "rating": 3
         },
@@ -286,8 +305,19 @@
             "sourceDisplayName": "Lecker",
             "id": "H-I-M-B-E-E-R-T-O-R-T-E-839122",
             "rating": 3,
-            "flavors": null,
-            "attributes": {}
+            "flavors": {
+                "sweet": 0.8333333333333334,
+                "piquant": 0.0,
+                "sour": 0.6666666666666666,
+                "salty": 0.16666666666666666,
+                "meaty": 0.16666666666666666,
+                "bitter": 0.16666666666666666
+            },
+            "attributes": {
+                "course": [
+                    "Desserts"
+                ]
+            }
         },
         {
             "recipeName": "Eierpunsch - Total Easy",

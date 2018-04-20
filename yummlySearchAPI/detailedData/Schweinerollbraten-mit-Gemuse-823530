@@ -1,0 +1,49 @@
+{
+    "yield": "Zutaten f\u00fcr 4 Personen:",
+    "nutritionEstimates": [],
+    "totalTime": "2 hr",
+    "images": [
+        {
+            "hostedSmallUrl": "http://lh3.googleusercontent.com/GJf6IAh-0Q-fF7KAzNrfHpMd_9hHq5Al7X1muKkYkhbgjRFgXF1_TohZgDw5VWe0ESEZe3wffYcKHJ4v7Ixt-A=s90",
+            "hostedMediumUrl": "http://lh3.googleusercontent.com/GJf6IAh-0Q-fF7KAzNrfHpMd_9hHq5Al7X1muKkYkhbgjRFgXF1_TohZgDw5VWe0ESEZe3wffYcKHJ4v7Ixt-A=s180",
+            "hostedLargeUrl": "http://lh3.googleusercontent.com/GJf6IAh-0Q-fF7KAzNrfHpMd_9hHq5Al7X1muKkYkhbgjRFgXF1_TohZgDw5VWe0ESEZe3wffYcKHJ4v7Ixt-A=s360",
+            "imageUrlsBySize": {
+                "90": "http://lh3.googleusercontent.com/JdKtY1W8xF1uyX8H0ISnEc8EcOzfDpjwFpFomKeEm_8jcnU5J7DMv4Jjkv4ybASF6dEnX1oRCXAwIHKSrk8G=s90-c",
+                "360": "http://lh3.googleusercontent.com/JdKtY1W8xF1uyX8H0ISnEc8EcOzfDpjwFpFomKeEm_8jcnU5J7DMv4Jjkv4ybASF6dEnX1oRCXAwIHKSrk8G=s360-c"
+            }
+        }
+    ],
+    "name": "Schweinerollbraten mit Gemu\u0308se",
+    "source": {
+        "sourceDisplayName": "Lecker",
+        "sourceSiteUrl": "lecker.de",
+        "sourceRecipeUrl": "http://www.lecker.de/rezept/736811/Schweinerollbraten-mit-Gemuese.html"
+    },
+    "id": "Schweinerollbraten-mit-Gemuse-823530",
+    "ingredientLines": [
+        "100 g Waln\u00fcsse",
+        "1 Bund Petersilie",
+        "1 Packung (200 g) Frischk\u00e4se",
+        "1,2 kg Schweinerollbraten (Nacken, beim Fleischer zu gro\u00dfer d\u00fcnner Scheibe aufschneiden lassen)",
+        "Salz",
+        "Pfeffer",
+        "1 Zwiebel",
+        "500 g M\u00f6hren",
+        "250 g Champignons",
+        "20 g Butter oder Margarine",
+        "3/8 l Fleischbr\u00fche",
+        "100 g Schlagsahne",
+        "3 EL dunkler So\u00dfenbinder"
+    ],
+    "attribution": {
+        "html": "<a href='http://www.yummly.co/recipe/Schweinerollbraten-mit-Gemuse-823530'>Schweinerollbraten mit Gemu\u0308se recipe</a> information powered by <img alt='Yummly' src='https://static.yummly.co/api-logo.png'/>",
+        "url": "http://www.yummly.co/recipe/Schweinerollbraten-mit-Gemuse-823530",
+        "text": "Schweinerollbraten mit Gemu\u0308se recipes: information powered by Yummly",
+        "logo": "https://static.yummly.co/api-logo.png"
+    },
+    "numberOfServings": 4,
+    "totalTimeInSeconds": 7200,
+    "attributes": {},
+    "flavors": {},
+    "rating": 3
+}

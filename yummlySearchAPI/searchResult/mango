@@ -1,0 +1,370 @@
+{
+    "criteria": {
+        "q": "M+a+n+g+o",
+        "allowedIngredient": null,
+        "excludedIngredient": null
+    },
+    "matches": [
+        {
+            "imageUrlsBySize": {
+                "90": "https://lh3.googleusercontent.com/kpXJ3nSnicePihJfDtl2t69omEhmvhazxPuohzdUZDWLETeYbOX8z3KKtAHK2ULotA0xmg88tDQUpPNFvEqb=s90-c"
+            },
+            "sourceDisplayName": "Serendipity And Spice",
+            "ingredients": [
+                "boneless skinless chicken breasts",
+                "cream of chicken soup",
+                "italian salad dressing",
+                "ranch dressing",
+                "cream cheese"
+            ],
+            "id": "O-M-G-BEST-Crockpot-Chicken-EVER-2402869",
+            "smallImageUrls": [
+                "https://lh3.googleusercontent.com/xMcTR2GVrYUGCMeGjFPjyig9CsvkpJXhzGwVBeogK7tDdu7-rY0B6BEZ59GYClnjlZWHXbBU0N3fTgjoY8lVuA=s90"
+            ],
+            "recipeName": "O-M-G BEST Crockpot Chicken EVER",
+            "totalTimeInSeconds": 21900,
+            "attributes": {
+                "course": [
+                    "Main Dishes"
+                ],
+                "cuisine": [
+                    "Kid-Friendly"
+                ]
+            },
+            "flavors": null,
+            "rating": 4
+        },
+        {
+            "imageUrlsBySize": {
+                "90": "http://lh3.ggpht.com/ykJiFVhs9vwjmDmKcySdBxixJ7soyNus_WLKilAGuAq_EotKwSJaAPplcSkbnFOppOyKILDK6MRAvwTilweI=s90-c"
+            },
+            "sourceDisplayName": "Food52",
+            "ingredients": [
+                "ginger liqueur",
+                "fresh orange juice",
+                "liqueur",
+                "vodka"
+            ],
+            "id": "G_o_p_-up-in-flames-324465",
+            "smallImageUrls": [
+                "http://lh6.ggpht.com/ntzM8W8mseKESuECctJ5wcpnX4UdrmGg4IA_9DMSysyJny-mF8GBRr_mAUh1YFINWm3h-D0nTXSE-WDxNmKvdg=s90"
+            ],
+            "recipeName": "G.O.P. Up in Flames",
+            "totalTimeInSeconds": 300,
+            "attributes": {
+                "course": [
+                    "Beverages",
+                    "Cocktails"
+                ]
+            },
+            "flavors": null,
+            "rating": 4
+        },
+        {
+            "imageUrlsBySize": {
+                "90": "https://lh3.googleusercontent.com/ZaYQflPF44zvf-fdMvlHu1yGuvZQw0dmgr3Rn1Yr6JkvwzPdUvsX6Matqf5fdFzv-iInjqKCKWrZOb9zX6MOTg=s90-c"
+            },
+            "sourceDisplayName": "The Pampered Chef",
+            "ingredients": [
+                "refrigerated sugar cookie dough",
+                "cream cheese",
+                "sugar",
+                "fruit"
+            ],
+            "id": "Dessert-Pizza-1564642",
+            "smallImageUrls": [
+                "https://lh3.googleusercontent.com/hdbExbaFYZ54zK-JMi8Hp7R-LRFNeluX5cYf6ieik--Y5cfef7s2BC0RodxaSMT4z8kkvomBsYfS4203Qisgkg=s90"
+            ],
+            "recipeName": "Dessert Pizza",
+            "totalTimeInSeconds": 3000,
+            "attributes": {
+                "course": [
+                    "Desserts"
+                ]
+            },
+            "flavors": {
+                "piquant": 0.0,
+                "meaty": 0.16666666666666666,
+                "bitter": 0.16666666666666666,
+                "sweet": 0.6666666666666666,
+                "sour": 0.16666666666666666,
+                "salty": 0.16666666666666666
+            },
+            "rating": 3
+        },
+        {
+            "imageUrlsBySize": {
+                "90": "https://lh3.googleusercontent.com/4W_trKuCSB2OVj-j3WXfSxTsBDyO40XSPZ05jF0ZPGGQ8mS8U31XvH_G_90AS-hJtm3ZlkhWQiIEIKm020d0=s90-c"
+            },
+            "sourceDisplayName": "The Spruce",
+            "ingredients": [
+                "filet",
+                "corn tortillas",
+                "oil",
+                "lime",
+                "garlic",
+                "honey",
+                "cumin",
+                "chili powder",
+                "onion powder",
+                "sea salt",
+                "black pepper",
+                "radicchio",
+                "avocado",
+                "cilantro leaves",
+                "jalapeno chilies",
+                "mayonnaise",
+                "olive oil",
+                "chipotles in adobo",
+                "apple cider vinegar"
+            ],
+            "id": "Halibut-Tacos-with-Spicy-Radicchio-Avocado-Slaw-2215374",
+            "smallImageUrls": [
+                "https://lh3.googleusercontent.com/DfT81UM-Jy353Hnu23dhp3E8JL_vjJZBMMQwWaY_4bapO6q3a65OS9vQI8DJv0V-64t-3YOvP1-vmMAZixV0BA=s90"
+            ],
+            "recipeName": "Halibut Tacos with Spicy Radicchio-Avocado Slaw",
+            "totalTimeInSeconds": 3000,
+            "attributes": {
+                "course": [
+                    "Main Dishes",
+                    "Lunch"
+                ],
+                "cuisine": [
+                    "Barbecue"
+                ]
+            },
+            "flavors": {
+                "piquant": 0.8333333333333334,
+                "meaty": 0.16666666666666666,
+                "bitter": 0.16666666666666666,
+                "sweet": 0.16666666666666666,
+                "sour": 0.16666666666666666,
+                "salty": 0.6666666666666666
+            },
+            "rating": 4
+        },
+        {
+            "imageUrlsBySize": {
+                "90": "http://lh5.ggpht.com/CUNjZYJU4-GJF9NqVQPDU4nqGnddyVyxbXa2ds_qyoULA_9ppdGvsjqx3LrSlXewIUluh1vGdL1bpmBYWmex=s90-c"
+            },
+            "sourceDisplayName": "101 Cookbooks",
+            "ingredients": [
+                "rye flour",
+                "all-purpose flour",
+                "salt",
+                "salted butter",
+                "cold water",
+                "brown sugar",
+                "flour",
+                "cinnamon",
+                "thyme",
+                "berries",
+                "lemon juice",
+                "butter",
+                "eggs",
+                "sugar"
+            ],
+            "id": "Flaky-rye-pie-crust-308621",
+            "smallImageUrls": [
+                "http://lh5.ggpht.com/rsZo8zsQef2-ZhXqRu2-Z83grcbTT1Siozn3NZwHijzmxdlXsDpTVplJ9FdouzOdrFRyHPxPRrqN5lDGPZ6ixw=s90"
+            ],
+            "recipeName": "A Nice Berry Pie",
+            "totalTimeInSeconds": 5400,
+            "attributes": {
+                "course": [
+                    "Desserts"
+                ]
+            },
+            "flavors": {
+                "sweet": 0.5,
+                "piquant": 0.0,
+                "sour": 0.8333333333333334,
+                "salty": 0.16666666666666666,
+                "meaty": 0.16666666666666666,
+                "bitter": 0.16666666666666666
+            },
+            "rating": 5
+        },
+        {
+            "imageUrlsBySize": {
+                "90": "https://lh3.googleusercontent.com/-kQ4lV34FX1poebHBklkq8JP8fbMtPguZx-_YF0PUsXgzql0LnzTB4X_ndEhfggo_a23iTl05O55YPE_VPPDrA=s90-c"
+            },
+            "sourceDisplayName": "Messy Witchen",
+            "ingredients": [
+                "butter",
+                "powdered sugar",
+                "vanilla essence",
+                "eggs",
+                "flour",
+                "powdered milk",
+                "pastry",
+                "cream cheese",
+                "sugar",
+                "whipping cream",
+                "blueberry jam",
+                "apricots"
+            ],
+            "id": "Blueberry-Cheese-Tarts-1590312",
+            "smallImageUrls": [
+                "https://lh3.googleusercontent.com/1kPkrCx8WkVwFZ5BEAv-IvtOz5O7QGccqLE4CCEwmP0faM6VTe0FRzTRlr-ytSpcy3wykctEas4Tr86-Um0_BQ=s90"
+            ],
+            "recipeName": "Blueberry Cheese Tarts",
+            "totalTimeInSeconds": 3600,
+            "attributes": {
+                "course": [
+                    "Desserts"
+                ]
+            },
+            "flavors": null,
+            "rating": 4
+        },
+        {
+            "imageUrlsBySize": {
+                "90": "https://lh3.googleusercontent.com/JWdPbOrkljqV0frERVzy_vshwDYxKlt8wM58eY6ZrlfpbdvjrIITi2bvFXlEcl833su_DO4HedDpuIiV4lqp2Sk=s90-c"
+            },
+            "sourceDisplayName": "Baking A Moment",
+            "ingredients": [
+                "cake flour",
+                "all-purpose flour",
+                "granulated sugar",
+                "baking powder",
+                "kosher salt",
+                "unsalted butter",
+                "eggs",
+                "milk",
+                "vanilla extract",
+                "vanilla bean paste",
+                "egg whites"
+            ],
+            "id": "Simply-Perfect-Vanilla-Cupcakes-2040509",
+            "smallImageUrls": [
+                "https://lh3.googleusercontent.com/wlR5cCCnPtyLV3d_saxCEXNeN2u1WrtUhJT9e8Xb9oo34ppO9Ui8pGv8OPtrWEN-qyBLjbUTqkk7AE_HmC7Qg_c=s90"
+            ],
+            "recipeName": "Simply Perfect Vanilla Cupcakes",
+            "totalTimeInSeconds": 3300,
+            "attributes": {
+                "course": [
+                    "Desserts"
+                ]
+            },
+            "flavors": {
+                "piquant": 0.0,
+                "meaty": 0.8333333333333334,
+                "bitter": 0.16666666666666666,
+                "sweet": 0.5,
+                "sour": 0.16666666666666666,
+                "salty": 0.6666666666666666
+            },
+            "rating": 4
+        },
+        {
+            "imageUrlsBySize": {
+                "90": "https://lh3.googleusercontent.com/K_KNOjlRM3VozpJ3nj_mqpmH4StbGw8F0xTaikDHPe0HyWNjG5lZpY0wRtdShGtvz_2MZHWwymk9TIPVkyfrMBU=s90-c"
+            },
+            "sourceDisplayName": "Baking Equals Love",
+            "ingredients": [
+                "plain flour",
+                "baking powder",
+                "salt",
+                "sugar",
+                "milk",
+                "oil",
+                "large eggs",
+                "vanilla",
+                "apricot halves",
+                "cream cheese",
+                "powdered sugar"
+            ],
+            "id": "Apricot-_-Cream-Cheese-Muffins-1785315",
+            "smallImageUrls": [
+                "https://lh3.googleusercontent.com/ERdqh571kgPN8K40H2zPv5ghfWGq9-Np1wtytAC1FWlrfr1226AcnSUuNfyThmecL_3wTzNFC-zrDqSHCMWmVw=s90"
+            ],
+            "recipeName": "Apricot & Cream Cheese Muffins",
+            "totalTimeInSeconds": 1800,
+            "attributes": {
+                "course": [
+                    "Desserts",
+                    "Breads"
+                ]
+            },
+            "flavors": {
+                "piquant": 0.0,
+                "meaty": 0.16666666666666666,
+                "bitter": 0.5,
+                "sweet": 0.6666666666666666,
+                "sour": 0.16666666666666666,
+                "salty": 0.5
+            },
+            "rating": 4
+        },
+        {
+            "imageUrlsBySize": {
+                "90": "https://lh3.googleusercontent.com/w6Z0_3lMgKCa-6gBpifjyqFSFOwa9cP0lRSIrOJZZrDWS02ZZntim_ai0g_DIGIX8IsMBydsANYKYTI39cx_LA=s90-c"
+            },
+            "sourceDisplayName": "Tesco Food",
+            "ingredients": [
+                "butter",
+                "dark chocolate",
+                "marshmallows",
+                "orange",
+                "water",
+                "double cream",
+                "vanilla extract"
+            ],
+            "id": "Dark-Chocolate-Orange-Mousse-1479406",
+            "smallImageUrls": [
+                "https://lh3.googleusercontent.com/iGq7OXSzJWi1SN-3RH46DgQarMmyK0KY9VwoKMIUcYDwVnyfa4OBwBxKU7fp_GcdiAe9zRDXNIz2gun8FGLqNo0=s90"
+            ],
+            "recipeName": "Dark Chocolate Orange Mousse",
+            "totalTimeInSeconds": 1200,
+            "attributes": {
+                "course": [
+                    "Desserts"
+                ]
+            },
+            "flavors": null,
+            "rating": 3
+        },
+        {
+            "imageUrlsBySize": {
+                "90": "https://lh3.googleusercontent.com/WPlCF8W6d4fXnZwDxp3rzTPadOy1rS_6jPoN7EserIthF4tXwqck-EXIK1r2Vdi6RuEQUN8tvu8RK2PkMTPH=s90-c"
+            },
+            "sourceDisplayName": "Mason Woodruff",
+            "ingredients": [
+                "OREO\u00ae Cookies",
+                "crumbles",
+                "vanilla",
+                "coconut flour",
+                "baking powder",
+                "liquid egg whites",
+                "Walden Farms Pancake Syrup",
+                "marshmallows",
+                "dark chocolate chips"
+            ],
+            "id": "S_moreos-Protein-Poppers-2367929",
+            "smallImageUrls": [
+                "https://lh3.googleusercontent.com/owH_13SAw69zh2XTYyVMYz9qtUoxXkFH7nUxZ3JmpSxhfA_bwhv6cjeOw-RKksmqSdXSTD78AD3qXWjmKt_bSlw=s90"
+            ],
+            "recipeName": "S'moreos Protein Poppers",
+            "totalTimeInSeconds": 1800,
+            "attributes": {
+                "course": [
+                    "Desserts"
+                ],
+                "cuisine": [
+                    "Kid-Friendly"
+                ]
+            },
+            "flavors": null,
+            "rating": 4
+        }
+    ],
+    "facetCounts": {},
+    "totalMatchCount": 5146,
+    "attribution": {
+        "html": "Recipe search powered by <a href='http://www.yummly.co/recipes'><img alt='Yummly' src='https://static.yummly.co/api-logo.png'/></a>",
+        "url": "http://www.yummly.co/recipes/",
+        "text": "Recipe search powered by Yummly",
+        "logo": "https://static.yummly.co/api-logo.png"
+    }
+}

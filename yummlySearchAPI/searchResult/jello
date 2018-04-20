@@ -1,0 +1,336 @@
+{
+    "criteria": {
+        "q": "j+e+l+l+o",
+        "allowedIngredient": null,
+        "excludedIngredient": null
+    },
+    "matches": [
+        {
+            "imageUrlsBySize": {
+                "90": "http://lh3.googleusercontent.com/RFif7uUkjcIZPINRUnKaVfVPTJkS2NsD7aMw78K5VPKhHK2q0jJbULpXQHDwgw4_R0tuhjzHAxZI-UmmhiOG8w=s90-c"
+            },
+            "sourceDisplayName": "A Pretty Life in the Suburbs",
+            "ingredients": [
+                "white cake mix",
+                "jello",
+                "boiling water",
+                "whipping cream"
+            ],
+            "id": "Rainbow-J-E-L-L-O-Cake_-1097534",
+            "smallImageUrls": [
+                "http://lh3.googleusercontent.com/jh2Fi7sGyL1mefx6DcYuJEhNhO6oDZSWjbNnIXga9BE_6W6qhcM8fvH9QW0e8yti6AbYWASElA1fZyk6aonxEcA=s90"
+            ],
+            "recipeName": "Rainbow J-E-L-L-O Cake!",
+            "totalTimeInSeconds": 2700,
+            "attributes": {
+                "course": [
+                    "Desserts"
+                ]
+            },
+            "flavors": null,
+            "rating": 4
+        },
+        {
+            "imageUrlsBySize": {
+                "90": "https://lh3.googleusercontent.com/jGIaZ2RN05Q3LhJhFdCXQOZtVgQMVWR4xU5b1mCuKpLQn8ajfrcALjmG2gEzFtTpOZf_7gNITKqwAVnngbRrjA=s90-c"
+            },
+            "sourceDisplayName": "Whole LIfestyle Nutrition",
+            "ingredients": [
+                "cantaloupe",
+                "greek yogurt",
+                "pure maple syrup",
+                "gelatin",
+                "ice"
+            ],
+            "id": "An-Amazing-Cantaloupe-Smoothie-1773869",
+            "smallImageUrls": [
+                "https://lh3.googleusercontent.com/C5WnkwsIKfnlypplFVNG1QWe4p0Gt7pIXnuZrA-bRK9KL6S1xafnXt3WEhw7y_DcWwdtUN4L27JHxx6F5isF=s90"
+            ],
+            "recipeName": "An Amazing Cantaloupe Smoothie",
+            "totalTimeInSeconds": 300,
+            "attributes": {
+                "course": [
+                    "Beverages"
+                ]
+            },
+            "flavors": {
+                "piquant": 0.0,
+                "meaty": 0.16666666666666666,
+                "bitter": 0.3333333333333333,
+                "sweet": 0.6666666666666666,
+                "sour": 0.8333333333333334,
+                "salty": 0.16666666666666666
+            },
+            "rating": 4
+        },
+        {
+            "recipeName": "J-E-L-L-O Fruit and Cookie Dream",
+            "ingredients": [
+                "strawberry yogurt",
+                "Jell-O Gelatin Dessert",
+                "cool whip",
+                "blueberries",
+                "raspberries",
+                "strawberries",
+                "OREO\u00ae Cookies"
+            ],
+            "totalTimeInSeconds": 1200,
+            "sourceDisplayName": "Food.com",
+            "id": "J_e_l_l_o-Fruit-And-Cookie-Dream-Recipezaar",
+            "rating": 2,
+            "flavors": null,
+            "attributes": {
+                "course": [
+                    "Desserts"
+                ],
+                "cuisine": [
+                    "Kid-Friendly"
+                ]
+            }
+        },
+        {
+            "imageUrlsBySize": {
+                "90": "http://lh3.googleusercontent.com/DZWTOLFPZl56tSIha1kR9UDkY_LaGXnAc23tFsQmoSJp1PGbBgQFqYmw4tCNFWxIFDDz_uqSJLfrvGVDEtAzHA=s90-c"
+            },
+            "sourceDisplayName": "Lecker",
+            "ingredients": [
+                "Schweineschmalz",
+                "Mehl",
+                "Backpulver",
+                "Zucker",
+                "Salz",
+                "Ei",
+                "Milch"
+            ],
+            "id": "Tea-Scones-922643",
+            "smallImageUrls": [
+                "http://lh3.googleusercontent.com/3Wk8mbfR-IgeiWdztsRK6N3eX9ttlZXO9ZwlskQpcEFuujpQrSKvue4qTJDgpjAkEUYMhIgPhDo9qKXm8JE-NA=s90"
+            ],
+            "recipeName": "Tea Scones",
+            "totalTimeInSeconds": 1800,
+            "attributes": {},
+            "flavors": {
+                "sweet": 0.3333333333333333,
+                "piquant": 0.0,
+                "sour": 0.16666666666666666,
+                "salty": 0.3333333333333333,
+                "meaty": 0.3333333333333333,
+                "bitter": 0.16666666666666666
+            },
+            "rating": 3
+        },
+        {
+            "imageUrlsBySize": {
+                "90": "http://lh3.googleusercontent.com/2PIvbaraQsS2_KMpp0VVz1wGBLb80LqSNTjgthI-KqVt0RHpx2TixGxreTH-bomZsyIXpTdDSEqyXWvOy_hKX6k=s90-c"
+            },
+            "sourceDisplayName": "Lecker",
+            "ingredients": [
+                "Butter",
+                "Zucker",
+                "Mehl",
+                "Eigelb",
+                "Ei",
+                "Salz",
+                "Zitrone",
+                "magerquark",
+                "Milch",
+                "semolina",
+                "Erdbeere",
+                "Tortenguss",
+                "Fett",
+                "H\u00fclsenfr\u00fcchte"
+            ],
+            "id": "Erdbeer-Kasekuchen-921074",
+            "smallImageUrls": [
+                "http://lh3.googleusercontent.com/GdptLpj8dgCibi9LsdeI92EMegP3MasA9HsUJr3I24u5u3kwPmNfw7Q_wOValw66j8q2l-0lj6h0SwBFAFfg3A=s90"
+            ],
+            "recipeName": "Erdbeer-Ka\u0308sekuchen",
+            "totalTimeInSeconds": 7200,
+            "attributes": {
+                "course": [
+                    "Desserts"
+                ]
+            },
+            "flavors": null,
+            "rating": 3
+        },
+        {
+            "imageUrlsBySize": {
+                "90": "http://lh3.googleusercontent.com/cE1v7kxKuoay2c5x8cQW82BqCE_ndSLfKzg4mjQsQbLzi7FGkG0JWLrRcWnum1s8TiOO5qUnSKGW8TtGBTlPpPE=s90-c"
+            },
+            "sourceDisplayName": "Lecker",
+            "ingredients": [
+                "Puddingpulver",
+                "Zucker",
+                "Kakaopulver",
+                "Milch",
+                "wiener",
+                "Schlabgobers",
+                "Zitronensaft"
+            ],
+            "id": "Dobosz-Schichtspeise-mit-Pudding-821055",
+            "smallImageUrls": [
+                "http://lh3.googleusercontent.com/WHwiiiDGVCfwOXjgwJRrUbklTl8n3muE2XuVzlmBs33Zm1sF0Qk6vwcyq44CfJzJZWVwA96MXfmNx8_AS7UEEw=s90"
+            ],
+            "recipeName": "Dobosz-Schichtspeise mit Pudding",
+            "totalTimeInSeconds": 2400,
+            "attributes": {
+                "course": [
+                    "Desserts"
+                ]
+            },
+            "flavors": null,
+            "rating": 3
+        },
+        {
+            "imageUrlsBySize": {
+                "90": "http://lh3.googleusercontent.com/5ANZ4Bi8FnHSAA2Zxyx4Aa9qtNXF4Yt-W3D8F3pWy6t9XFV4aa8Ioq_UzOVhJRxfeBNz62zSM6mZ7KnvC5INvKE=s90-c"
+            },
+            "sourceDisplayName": "Lecker",
+            "ingredients": [
+                "Ei",
+                "Salz",
+                "Milch",
+                "Mehl",
+                "camembert",
+                "Butter",
+                "Cranberry"
+            ],
+            "id": "Camembert-Pfannkuchen-mit-Preiselbeeren-812250",
+            "smallImageUrls": [
+                "http://lh3.googleusercontent.com/NARXx0rP59I5t4lPpWckNIqqzgKdiand1wGOVyHjo-w6v39dLvUpXiE0BOk6Z0Bl2V1pPuJMN7sEQtogkY3kiA=s90"
+            ],
+            "recipeName": "Camembert-Pfannkuchen mit Preiselbeeren",
+            "totalTimeInSeconds": 1500,
+            "attributes": {},
+            "flavors": {
+                "sweet": 0.16666666666666666,
+                "piquant": 0.0,
+                "sour": 0.16666666666666666,
+                "salty": 0.6666666666666666,
+                "meaty": 0.8333333333333334,
+                "bitter": 0.6666666666666666
+            },
+            "rating": 3
+        },
+        {
+            "imageUrlsBySize": {
+                "90": "http://lh3.googleusercontent.com/WSWxzHJ3bcreuyjVyFtpnEgktzdlHUEDSGWJF38CKgNQiiX7IrRNj2kFXstSAgAUidzaT39tcNlG2iHIpcEtsw=s90-c"
+            },
+            "sourceDisplayName": "Lecker",
+            "ingredients": [
+                "M\u00f6hre",
+                "Pistazienkern",
+                "Mehl",
+                "Backpulver",
+                "Zucker",
+                "Salz",
+                "Zimt",
+                "\u00d6l",
+                "Ei",
+                "Mandel",
+                "Obersk\u00e4se",
+                "Schlabgobers",
+                "Puderzucker",
+                "Zitronenmelisse"
+            ],
+            "id": "Carrotcake-_Mohrenkuchen-mit-Pistazien_-846120",
+            "smallImageUrls": [
+                "http://lh3.googleusercontent.com/FSp46zfhfP7gXl0_sOQ1QufTXWh1euQXB-AEJFyWDqbM0-IIIuBzANjT5Qu-1JWTTknYnXnZUaBLg5dRSya-F-U=s90"
+            ],
+            "recipeName": "Carrotcake (Mo\u0308hrenkuchen mit Pistazien)",
+            "totalTimeInSeconds": 5400,
+            "attributes": {
+                "course": [
+                    "Desserts"
+                ]
+            },
+            "flavors": {
+                "sweet": 0.8333333333333334,
+                "piquant": 0.0,
+                "sour": 0.16666666666666666,
+                "salty": 0.16666666666666666,
+                "meaty": 0.16666666666666666,
+                "bitter": 0.16666666666666666
+            },
+            "rating": 3
+        },
+        {
+            "imageUrlsBySize": {
+                "90": "http://lh3.googleusercontent.com/g1VxDaQPBY8jSTPP2w2VkcadhvAmOZ17YgBobqz-pV2HiM01YAnne7xWl_UJjCiaTFRspO734wEKvEOSmkJN=s90-c"
+            },
+            "sourceDisplayName": "Lecker",
+            "ingredients": [
+                "Butter",
+                "Haselnuss",
+                "Zucker",
+                "Espresso",
+                "magerquark",
+                "Obersk\u00e4se",
+                "Puddingpulver",
+                "Ei",
+                "Schlabgobers",
+                "Moccabohnen",
+                "Fett"
+            ],
+            "id": "Espresso-Kasekuchen-811322",
+            "smallImageUrls": [
+                "http://lh3.googleusercontent.com/6rgcIxTpbAWtRB9ZbkLC5BrRHn8jUNoJxw_yw4UXCegRodXYr1K4D0fKyaKxj-jVJa5e4S3zliQngPu7vNjJEw=s90"
+            ],
+            "recipeName": "Espresso-Ka\u0308sekuchen",
+            "totalTimeInSeconds": 3600,
+            "attributes": {
+                "course": [
+                    "Desserts"
+                ]
+            },
+            "flavors": {
+                "sweet": 0.8333333333333334,
+                "piquant": 0.0,
+                "sour": 0.16666666666666666,
+                "salty": 0.5,
+                "meaty": 0.8333333333333334,
+                "bitter": 0.5
+            },
+            "rating": 3
+        },
+        {
+            "imageUrlsBySize": {
+                "90": "http://lh3.googleusercontent.com/8aTUOdbrkz3a8xhnOHV2MDHsK-5IY-MId9MgzOzsnjJrZz3G959UHQMBYXLAXEeyLurbVSXLKPrugKqz42q-jg=s90-c"
+            },
+            "sourceDisplayName": "Lecker",
+            "ingredients": [
+                "Rosine",
+                "Ei",
+                "Zucker",
+                "Salz",
+                "Milch",
+                "Mehl",
+                "Butter",
+                "\u00d6l",
+                "Puderzucker"
+            ],
+            "id": "Kaiserschmarrn-825799",
+            "smallImageUrls": [
+                "http://lh3.googleusercontent.com/xQwV2NvS6CX3A3uq6kfDUiW3iLpTpGsbV5spSjjwTgk6amkjlEWQcZCefeWWh_8UHYQjZHElkkLEKHIHSD5bTg=s90"
+            ],
+            "recipeName": "Kaiserschmarrn",
+            "totalTimeInSeconds": 1800,
+            "attributes": {
+                "course": [
+                    "Desserts"
+                ]
+            },
+            "flavors": null,
+            "rating": 3
+        }
+    ],
+    "facetCounts": {},
+    "totalMatchCount": 769,
+    "attribution": {
+        "html": "Recipe search powered by <a href='http://www.yummly.co/recipes'><img alt='Yummly' src='https://static.yummly.co/api-logo.png'/></a>",
+        "url": "http://www.yummly.co/recipes/",
+        "text": "Recipe search powered by Yummly",
+        "logo": "https://static.yummly.co/api-logo.png"
+    }
+}

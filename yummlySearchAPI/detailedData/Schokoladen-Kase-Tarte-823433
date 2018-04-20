@@ -1,0 +1,56 @@
+{
+    "yield": "Zutaten f\u00fcr 12 St\u00fccke:",
+    "nutritionEstimates": [],
+    "totalTime": "1 hr 45 min",
+    "images": [
+        {
+            "hostedSmallUrl": "http://lh3.googleusercontent.com/OMCRJdew5fcK4j2Ofted69AoIWX30ZBEnhoHidJHjsSU4zXZdl4R1IyLZrCnbhs1hnTZJ1Rci6cGlZzjXPnTxyc=s90",
+            "hostedMediumUrl": "http://lh3.googleusercontent.com/OMCRJdew5fcK4j2Ofted69AoIWX30ZBEnhoHidJHjsSU4zXZdl4R1IyLZrCnbhs1hnTZJ1Rci6cGlZzjXPnTxyc=s180",
+            "hostedLargeUrl": "http://lh3.googleusercontent.com/OMCRJdew5fcK4j2Ofted69AoIWX30ZBEnhoHidJHjsSU4zXZdl4R1IyLZrCnbhs1hnTZJ1Rci6cGlZzjXPnTxyc=s360",
+            "imageUrlsBySize": {
+                "90": "http://lh3.googleusercontent.com/26irdxmHPr3KD_zmJOylSr32_-ItzEA9Za1dIXu5mBg5etEOsC-ldMOB-TmZrLTQZJ5mu6YlW7tbxjfAvzay=s90-c",
+                "360": "http://lh3.googleusercontent.com/26irdxmHPr3KD_zmJOylSr32_-ItzEA9Za1dIXu5mBg5etEOsC-ldMOB-TmZrLTQZJ5mu6YlW7tbxjfAvzay=s360-c"
+            }
+        }
+    ],
+    "name": "Schokoladen-Ka\u0308se-Tarte",
+    "source": {
+        "sourceDisplayName": "Lecker",
+        "sourceSiteUrl": "lecker.de",
+        "sourceRecipeUrl": "http://www.lecker.de/rezept/668861/Schokoladen-Kaese-Tarte.html"
+    },
+    "id": "Schokoladen-Kase-Tarte-823433",
+    "ingredientLines": [
+        "75 g Butter",
+        "150 g Mehl",
+        "1 Eigelb (Gr\u00f6\u00dfe M)",
+        "1 Prise Salz",
+        "1 P\u00e4ckchen Vanillin-Zucker",
+        "175 g Zucker",
+        "350 g Zartbitter Kuvert\u00fcre Chips",
+        "300 g Doppelrahm-Frischk\u00e4se",
+        "150 g Cr\u00e8me fra\u00eeche",
+        "4 Eier (Gr\u00f6\u00dfe M)",
+        "1 P\u00e4ckchen Puddingpulver \"Schokoladen-Geschmack\" (f\u00fcr 1/2 l Milch; zum Kochen)",
+        "150 g Schlagsahne",
+        "75 g Pecann\u00fcsse",
+        "1-2 EL Kakaopulver",
+        "Mehl f\u00fcr Arbeitsfl\u00e4che",
+        "Fett und Mehl f\u00fcr Tarteform"
+    ],
+    "attribution": {
+        "html": "<a href='http://www.yummly.co/recipe/Schokoladen-Kase-Tarte-823433'>Schokoladen-Ka\u0308se-Tarte recipe</a> information powered by <img alt='Yummly' src='https://static.yummly.co/api-logo.png'/>",
+        "url": "http://www.yummly.co/recipe/Schokoladen-Kase-Tarte-823433",
+        "text": "Schokoladen-Ka\u0308se-Tarte recipes: information powered by Yummly",
+        "logo": "https://static.yummly.co/api-logo.png"
+    },
+    "numberOfServings": 12,
+    "totalTimeInSeconds": 6300,
+    "attributes": {
+        "course": [
+            "Desserts"
+        ]
+    },
+    "flavors": {},
+    "rating": 3
+}

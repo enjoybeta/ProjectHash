@@ -24,7 +24,14 @@
             "recipeName": "Low fat Vegan Breaded Cauliflower Chunks",
             "totalTimeInSeconds": 2100,
             "attributes": {},
-            "flavors": null,
+            "flavors": {
+                "sweet": 0.3333333333333333,
+                "piquant": 0.0,
+                "sour": 0.8333333333333334,
+                "salty": 0.8333333333333334,
+                "meaty": 0.16666666666666666,
+                "bitter": 0.8333333333333334
+            },
             "rating": 4
         },
         {
@@ -45,8 +52,22 @@
             ],
             "recipeName": "Casa Lawrence and a Recipe for Spaghetti Cacio e Pepe (Spaghetti with Pecorino Cheese and Black Pepper)",
             "totalTimeInSeconds": 1500,
-            "attributes": {},
-            "flavors": null,
+            "attributes": {
+                "course": [
+                    "Main Dishes"
+                ],
+                "cuisine": [
+                    "Italian"
+                ]
+            },
+            "flavors": {
+                "piquant": 0.0,
+                "meaty": 0.8333333333333334,
+                "bitter": 0.8333333333333334,
+                "sweet": 0.16666666666666666,
+                "sour": 0.16666666666666666,
+                "salty": 0.8333333333333334
+            },
             "rating": 4
         },
         {
@@ -168,7 +189,12 @@
             ],
             "recipeName": "Sausage-Happy Brunch Tart",
             "totalTimeInSeconds": 5100,
-            "attributes": {},
+            "attributes": {
+                "course": [
+                    "Breakfast and Brunch",
+                    "Main Dishes"
+                ]
+            },
             "flavors": null,
             "rating": 3
         },
@@ -189,7 +215,11 @@
             "id": "Chicago-Style-Steak-With-Bleu-Cheese-Butter-Food_com-125744",
             "rating": 4,
             "flavors": null,
-            "attributes": {}
+            "attributes": {
+                "course": [
+                    "Main Dishes"
+                ]
+            }
         },
         {
             "recipeName": "Mary's Zucchini Bread (There's Non Better)",
@@ -210,8 +240,19 @@
             "sourceDisplayName": "Food.com",
             "id": "Mary_s-Zucchini-Bread-_there_s-Non-Better_-Recipezaar",
             "rating": 4,
-            "flavors": null,
-            "attributes": {}
+            "flavors": {
+                "piquant": 0.0,
+                "meaty": 0.6666666666666666,
+                "bitter": 0.16666666666666666,
+                "sweet": 0.8333333333333334,
+                "sour": 0.3333333333333333,
+                "salty": 0.6666666666666666
+            },
+            "attributes": {
+                "course": [
+                    "Breads"
+                ]
+            }
         }
     ],
     "facetCounts": {},

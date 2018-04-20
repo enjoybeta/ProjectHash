@@ -1,0 +1,46 @@
+{
+    "yield": "makes 7-10 portions, depending on how big you want your portions to be",
+    "nutritionEstimates": [],
+    "totalTime": "30 min",
+    "images": [
+        {
+            "hostedSmallUrl": "https://lh3.googleusercontent.com/uwhUXMNb7mTgTNj_ALy7FjjzCNjEcG0AHkIpL6gJI7M2Z-e-pR3BNbN20HkGMWCZtHf_kzdOu6MyLIQDlS4e5w=s90",
+            "hostedMediumUrl": "https://lh3.googleusercontent.com/uwhUXMNb7mTgTNj_ALy7FjjzCNjEcG0AHkIpL6gJI7M2Z-e-pR3BNbN20HkGMWCZtHf_kzdOu6MyLIQDlS4e5w=s180",
+            "hostedLargeUrl": "https://lh3.googleusercontent.com/uwhUXMNb7mTgTNj_ALy7FjjzCNjEcG0AHkIpL6gJI7M2Z-e-pR3BNbN20HkGMWCZtHf_kzdOu6MyLIQDlS4e5w=s360",
+            "imageUrlsBySize": {
+                "90": "https://lh3.googleusercontent.com/Tvtb40M9KDsrHQE1ENPf9erj7byLe4wm73hMDSwLPSkGM9OJkovqnnH2VOIjrhfp8zTDt6GidXShPY-whRF58g=s90-c",
+                "360": "https://lh3.googleusercontent.com/Tvtb40M9KDsrHQE1ENPf9erj7byLe4wm73hMDSwLPSkGM9OJkovqnnH2VOIjrhfp8zTDt6GidXShPY-whRF58g=s360-c"
+            }
+        }
+    ],
+    "name": "Individually Sized Tiramisu",
+    "source": {
+        "sourceDisplayName": "Toxo Bread",
+        "sourceSiteUrl": "toxobread.wordpress.com",
+        "sourceRecipeUrl": "http://toxobread.wordpress.com/2008/12/31/individually-sized-tiramisu/"
+    },
+    "id": "Individually-Sized-Tiramisu-1750543",
+    "ingredientLines": [
+        "\u2013 1 package (~250g/80z) of ladyfingers (I like the Milano brand ones)",
+        "\u2013 1 container (~454g/1lb) of mascarpone cheese",
+        "\u2013 4 eggs",
+        "\u2013 3/8 cup (75g) of granulated sugar",
+        "\u2013 400mL strong coffee <!\u2013[if gte mso 9]> Normal 0 0 2 false false false MicrosoftInternetExplorer4 <![endif]\u2013><!\u2013[if gte mso 9]> <![endif]\u2013> (I\u2019ve used everything from House Blend to Irish Cream to Chocolate Decadent Truffle to Maple Pecan, mmm)",
+        "\u2013 cocoa powder or shaved chocolate for dusting"
+    ],
+    "attribution": {
+        "html": "<a href='http://www.yummly.co/recipe/Individually-Sized-Tiramisu-1750543'>Individually Sized Tiramisu recipe</a> information powered by <img alt='Yummly' src='https://static.yummly.co/api-logo.png'/>",
+        "url": "http://www.yummly.co/recipe/Individually-Sized-Tiramisu-1750543",
+        "text": "Individually Sized Tiramisu recipes: information powered by Yummly",
+        "logo": "https://static.yummly.co/api-logo.png"
+    },
+    "numberOfServings": 8,
+    "totalTimeInSeconds": 1800,
+    "attributes": {
+        "course": [
+            "Desserts"
+        ]
+    },
+    "flavors": {},
+    "rating": 4
+}

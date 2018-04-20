@@ -1,0 +1,49 @@
+{
+    "yield": "Zutaten f\u00fcr ca. 24 St\u00fccke:",
+    "nutritionEstimates": [],
+    "totalTime": "1 hr 30 min",
+    "images": [
+        {
+            "hostedSmallUrl": "http://lh3.googleusercontent.com/NSFmsrzIBfg0E2wmAE2oW8T2K5ZY0t0BCPXdmsAQSOuDTStSJrGNZCCBD9Xx8kg6lZqfqKqLmfwkLN27SBgOXK0=s90",
+            "hostedMediumUrl": "http://lh3.googleusercontent.com/NSFmsrzIBfg0E2wmAE2oW8T2K5ZY0t0BCPXdmsAQSOuDTStSJrGNZCCBD9Xx8kg6lZqfqKqLmfwkLN27SBgOXK0=s180",
+            "hostedLargeUrl": "http://lh3.googleusercontent.com/NSFmsrzIBfg0E2wmAE2oW8T2K5ZY0t0BCPXdmsAQSOuDTStSJrGNZCCBD9Xx8kg6lZqfqKqLmfwkLN27SBgOXK0=s360",
+            "imageUrlsBySize": {
+                "90": "http://lh3.googleusercontent.com/PvG6fdRDPXgTuFtxfbtWCOgDTlB571_fusjCZ_S0DeYKI8aEwyKnYScvEInHhN-ES8dO5YXlixQSDyJFpzcG=s90-c",
+                "360": "http://lh3.googleusercontent.com/PvG6fdRDPXgTuFtxfbtWCOgDTlB571_fusjCZ_S0DeYKI8aEwyKnYScvEInHhN-ES8dO5YXlixQSDyJFpzcG=s360-c"
+            }
+        }
+    ],
+    "name": "Getra\u0308nkter Congnac-Kuchen",
+    "source": {
+        "sourceDisplayName": "Lecker",
+        "sourceSiteUrl": "lecker.de",
+        "sourceRecipeUrl": "http://www.lecker.de/rezept/859873/Getraenkter-Congnac-Kuchen.html"
+    },
+    "id": "Getrankter-Congnac-Kuchen-832118",
+    "ingredientLines": [
+        "Fett u. Paniermehl f\u00fcr die Form",
+        "400 g weiche Butter/Margarine",
+        "400 g + 100 g Zucker",
+        "4 P\u00e4ckchen Vanillin-Zucker",
+        "1 Prise Salz, 8 Eier (Gr. M)",
+        "400 g Mehl",
+        "1 P\u00e4ckchen Backpulver",
+        "1/4 l Cognac oder Weinbrand",
+        "1 EL Puderzucker"
+    ],
+    "attribution": {
+        "html": "<a href='http://www.yummly.co/recipe/Getrankter-Congnac-Kuchen-832118'>Getra\u0308nkter Congnac-Kuchen recipe</a> information powered by <img alt='Yummly' src='https://static.yummly.co/api-logo.png'/>",
+        "url": "http://www.yummly.co/recipe/Getrankter-Congnac-Kuchen-832118",
+        "text": "Getra\u0308nkter Congnac-Kuchen recipes: information powered by Yummly",
+        "logo": "https://static.yummly.co/api-logo.png"
+    },
+    "numberOfServings": 24,
+    "totalTimeInSeconds": 5400,
+    "attributes": {
+        "course": [
+            "Desserts"
+        ]
+    },
+    "flavors": {},
+    "rating": 3
+}

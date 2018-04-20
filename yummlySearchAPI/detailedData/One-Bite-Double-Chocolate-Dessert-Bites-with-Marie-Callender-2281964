@@ -1,0 +1,47 @@
+{
+    "yield": "15-20 Cake Bites",
+    "nutritionEstimates": [],
+    "prepTimeInSeconds": 600,
+    "totalTime": "10 min",
+    "images": [
+        {
+            "hostedSmallUrl": "https://lh3.googleusercontent.com/BDg-OLTTUDzYGGTQMCqhWZZHNCJmqzd9Kce3qyYlb0a-69AmU2ViuRpYJxIeS2J98fsnHRrBtK1l6vy5fcdjZuk=s90",
+            "hostedMediumUrl": "https://lh3.googleusercontent.com/BDg-OLTTUDzYGGTQMCqhWZZHNCJmqzd9Kce3qyYlb0a-69AmU2ViuRpYJxIeS2J98fsnHRrBtK1l6vy5fcdjZuk=s180",
+            "hostedLargeUrl": "https://lh3.googleusercontent.com/BDg-OLTTUDzYGGTQMCqhWZZHNCJmqzd9Kce3qyYlb0a-69AmU2ViuRpYJxIeS2J98fsnHRrBtK1l6vy5fcdjZuk=s360",
+            "imageUrlsBySize": {
+                "90": "https://lh3.googleusercontent.com/V7qDtIplhUlVMV87Unyy2p3OaftB74SxA3_Tt4FRlmVXDgGhkbAfoJfLJxlRAMn4EbJIfZyZyl3lfspfcY-D6Q=s90-c",
+                "360": "https://lh3.googleusercontent.com/V7qDtIplhUlVMV87Unyy2p3OaftB74SxA3_Tt4FRlmVXDgGhkbAfoJfLJxlRAMn4EbJIfZyZyl3lfspfcY-D6Q=s360-c"
+            }
+        }
+    ],
+    "name": "One-Bite Double Chocolate Dessert Bites with Marie Callender",
+    "source": {
+        "sourceDisplayName": "R and M Cooks",
+        "sourceSiteUrl": "randmcooks.com",
+        "sourceRecipeUrl": "http://randmcooks.com/doublechocolatecakebites/"
+    },
+    "prepTime": "10 Min",
+    "id": "One-Bite-Double-Chocolate-Dessert-Bites-with-Marie-Callender-2281964",
+    "ingredientLines": [
+        "Marie Callender\u2019s\u00ae Double Chocolate Chip Loaf Cake",
+        "Reddi-Wip\u00ae Real Whipped Cream (6.5 oz.)",
+        "Reddi-Wip\u00ae Real Whipped Cream (6.5 oz.)",
+        "1 cup powdered sugar",
+        "1-2 tablespoons of milk (or almond milk)"
+    ],
+    "attribution": {
+        "html": "<a href='http://www.yummly.co/recipe/One-Bite-Double-Chocolate-Dessert-Bites-with-Marie-Callender-2281964'>One-Bite Double Chocolate Dessert Bites with Marie Callender recipe</a> information powered by <img alt='Yummly' src='https://static.yummly.co/api-logo.png'/>",
+        "url": "http://www.yummly.co/recipe/One-Bite-Double-Chocolate-Dessert-Bites-with-Marie-Callender-2281964",
+        "text": "One-Bite Double Chocolate Dessert Bites with Marie Callender recipes: information powered by Yummly",
+        "logo": "https://static.yummly.co/api-logo.png"
+    },
+    "numberOfServings": 210,
+    "totalTimeInSeconds": 600,
+    "attributes": {
+        "course": [
+            "Desserts"
+        ]
+    },
+    "flavors": {},
+    "rating": 4
+}

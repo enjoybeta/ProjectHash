@@ -1,0 +1,51 @@
+{
+    "yield": "40",
+    "nutritionEstimates": [],
+    "prepTimeInSeconds": 300,
+    "totalTime": "25 min",
+    "images": [
+        {
+            "hostedSmallUrl": "https://lh3.googleusercontent.com/FEsLHPNW0gXf1Jsu6Fx-pwkXCwNnSTPi6_XqTNiGVsb_UNhChO5o6QhLwH733A_NF4uHQjVtyVpQ90Vq7l3x0Tw=s90",
+            "hostedMediumUrl": "https://lh3.googleusercontent.com/FEsLHPNW0gXf1Jsu6Fx-pwkXCwNnSTPi6_XqTNiGVsb_UNhChO5o6QhLwH733A_NF4uHQjVtyVpQ90Vq7l3x0Tw=s180",
+            "hostedLargeUrl": "https://lh3.googleusercontent.com/FEsLHPNW0gXf1Jsu6Fx-pwkXCwNnSTPi6_XqTNiGVsb_UNhChO5o6QhLwH733A_NF4uHQjVtyVpQ90Vq7l3x0Tw=s360",
+            "imageUrlsBySize": {
+                "90": "https://lh3.googleusercontent.com/lWCNinsoP9HinP4M2RJ7yGq2D1VTZ7l7GyW6i8z48MtsLCVAu2Fd409uizeNm4kONMBnJVrh4l3HugSoTeLAdEs=s90-c",
+                "360": "https://lh3.googleusercontent.com/lWCNinsoP9HinP4M2RJ7yGq2D1VTZ7l7GyW6i8z48MtsLCVAu2Fd409uizeNm4kONMBnJVrh4l3HugSoTeLAdEs=s360-c"
+            }
+        }
+    ],
+    "name": "Jell-O Meringue Cookies",
+    "source": {
+        "sourceDisplayName": "Mind Over Batter",
+        "sourceSiteUrl": "mind-over-batter.com",
+        "sourceRecipeUrl": "http://www.mind-over-batter.com/sweet-situations/jell-o-meringue-cookies/"
+    },
+    "prepTime": "5 Min",
+    "id": "Jell-O-Meringue-Cookies-1541555",
+    "ingredientLines": [
+        "Eggs whites, room temperature",
+        "Salt",
+        "Cream of tartar",
+        "Granulated sugar",
+        "Vanilla extract",
+        "Jell-O powder",
+        "a few drops of food coloring, if desired"
+    ],
+    "cookTime": "20 Min",
+    "attribution": {
+        "html": "<a href='http://www.yummly.co/recipe/Jell-O-Meringue-Cookies-1541555'>Jell-O Meringue Cookies recipe</a> information powered by <img alt='Yummly' src='https://static.yummly.co/api-logo.png'/>",
+        "url": "http://www.yummly.co/recipe/Jell-O-Meringue-Cookies-1541555",
+        "text": "Jell-O Meringue Cookies recipes: information powered by Yummly",
+        "logo": "https://static.yummly.co/api-logo.png"
+    },
+    "numberOfServings": 40,
+    "totalTimeInSeconds": 1500,
+    "attributes": {
+        "course": [
+            "Desserts"
+        ]
+    },
+    "cookTimeInSeconds": 1200,
+    "flavors": {},
+    "rating": 4
+}

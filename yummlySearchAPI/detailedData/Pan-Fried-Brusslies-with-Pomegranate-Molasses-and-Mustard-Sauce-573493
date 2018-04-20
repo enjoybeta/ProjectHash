@@ -1121,7 +1121,18 @@
     },
     "numberOfServings": 5,
     "totalTimeInSeconds": 2100,
-    "attributes": {},
-    "flavors": {},
+    "attributes": {
+        "cuisine": [
+            "Vietnamese"
+        ]
+    },
+    "flavors": {
+        "Piquant": 0.1667,
+        "Meaty": 0.1667,
+        "Bitter": 0.6667,
+        "Sweet": 0.1667,
+        "Sour": 0.8333,
+        "Salty": 0.5
+    },
     "rating": 3
 }

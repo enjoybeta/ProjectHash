@@ -1,0 +1,108 @@
+{
+    "criteria": {
+        "q": "f+o+o+d+ +g+e+l",
+        "allowedIngredient": null,
+        "excludedIngredient": null
+    },
+    "matches": [
+        {
+            "imageUrlsBySize": {
+                "90": "http://lh3.googleusercontent.com/02OT7pzXJscnRMOvaXS7hEkTbygHV0bTkvs9j47wba_VajvWGqJ1O_KnbeFSDpfI_QHNQ1ViS2mZTMxXwqM1=s90-c"
+            },
+            "sourceDisplayName": "Lecker",
+            "ingredients": [
+                "Zucker",
+                "Backpulver",
+                "Butter",
+                "Mehl",
+                "Limone",
+                "Schlabgobers"
+            ],
+            "id": "Lemontarte-828036",
+            "smallImageUrls": [
+                "http://lh3.googleusercontent.com/75V3jtq-EN4cQ7DXwpSxTKJPGt3rpPJaNgnm7XLG4etnb_O0sZiCrQcOlcU65DKWPLLDEEaSRILjiuiaNVglQrk=s90"
+            ],
+            "recipeName": "Lemontarte",
+            "totalTimeInSeconds": 4500,
+            "attributes": {},
+            "flavors": null,
+            "rating": 3
+        },
+        {
+            "imageUrlsBySize": {
+                "90": "http://lh3.googleusercontent.com/SYMOsrzA6mN-3oSTCAJQgykeZNp0SbmENlXBdBg90Xn6D6F5IAvxbPZqj69NjNTc0PAEATI3K7thIix3kmihQA=s90-c"
+            },
+            "sourceDisplayName": "Lecker",
+            "ingredients": [
+                "Studelteig",
+                "Zwiebel",
+                "durchwachsener Speck",
+                "\u00d6l",
+                "Sauerkraut",
+                "Salz",
+                "Pfeffer",
+                "K\u00fcmmel",
+                "Butter",
+                "Fett",
+                "Fleischbr\u00fche",
+                "Petersile"
+            ],
+            "id": "Teigrollchen-mit-Sauerkraut-und-Speck-820789",
+            "smallImageUrls": [
+                "http://lh3.googleusercontent.com/vzkKqrqT51Uea96XPBK_aSSDGuuQm_9nq3CQmnRv-cEbqiaOEuhIXdxZZ59NzMvFbS9m9vlaYorJv7dGsh1DLQ=s90"
+            ],
+            "recipeName": "Teigro\u0308llchen mit Sauerkraut und Speck",
+            "totalTimeInSeconds": 4200,
+            "attributes": {},
+            "flavors": null,
+            "rating": 3
+        },
+        {
+            "imageUrlsBySize": {
+                "90": "http://lh3.googleusercontent.com/hEklnJTq1Iu2NYDOxIXEfLWsET6KdfOSlKt-1DAiW7drlYEJykWCOy5_HT-fRchodM4bUEiBQFYJ2Cuo_x08aA=s90-c"
+            },
+            "sourceDisplayName": "Lecker",
+            "ingredients": [
+                "Fett",
+                "karamel",
+                "Schokolade",
+                "weiche Butter",
+                "Zucker",
+                "Salz",
+                "Ei",
+                "Eierlik\u00f6r",
+                "Mehl",
+                "Backpulver",
+                "Puderzucker"
+            ],
+            "id": "Eierlikor-Gugelhupf-mit-Knusperfulle-832617",
+            "smallImageUrls": [
+                "http://lh3.googleusercontent.com/O08qnpqzcL6UA0ug1EXCF0fBD9W8pDfrxK7hEBvX_e4N9GMeq6PbH07mT2XVH79k2Y5qLYziaZybhKguv9_qFJs=s90"
+            ],
+            "recipeName": "Eierliko\u0308r-Gugelhupf mit Knusperfu\u0308lle",
+            "totalTimeInSeconds": 5400,
+            "attributes": {
+                "course": [
+                    "Desserts"
+                ]
+            },
+            "flavors": {
+                "sweet": 0.8333333333333334,
+                "piquant": 0.0,
+                "sour": 0.16666666666666666,
+                "salty": 0.5,
+                "meaty": 0.6666666666666666,
+                "bitter": 0.3333333333333333
+            },
+            "rating": 3
+        }
+    ],
+    "facetCounts": {},
+    "totalMatchCount": 3,
+    "attribution": {
+        "html": "Recipe search powered by <a href='http://www.yummly.co/recipes'><img alt='Yummly' src='https://static.yummly.co/api-logo.png'/></a>",
+        "url": "http://www.yummly.co/recipes/",
+        "text": "Recipe search powered by Yummly",
+        "logo": "https://static.yummly.co/api-logo.png"
+    }
+}

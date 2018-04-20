@@ -1,0 +1,393 @@
+{
+    "yield": "makes one cocktail",
+    "nutritionEstimates": [
+        {
+            "attribute": "K",
+            "description": "Potassium, K",
+            "value": 0.15,
+            "unit": {
+                "id": "12485d26-6e69-102c-9a8a-0030485841f8",
+                "name": "gram",
+                "abbreviation": "g",
+                "plural": "grams",
+                "pluralAbbreviation": "grams",
+                "decimal": true
+            }
+        },
+        {
+            "attribute": "PHYSTR",
+            "description": "Phytosterols",
+            "value": 0.01,
+            "unit": {
+                "id": "12485d26-6e69-102c-9a8a-0030485841f8",
+                "name": "gram",
+                "abbreviation": "g",
+                "plural": "grams",
+                "pluralAbbreviation": "grams",
+                "decimal": true
+            }
+        },
+        {
+            "attribute": "FOLDFE",
+            "description": "Folate, DFE",
+            "value": 23.63,
+            "unit": {
+                "id": "4d783ee4-aa07-4958-84bf-3f4b528049dc",
+                "name": "mcg_DFE",
+                "abbreviation": "mcg_DFE",
+                "plural": "mcg_DFE",
+                "pluralAbbreviation": "mcg_DFE",
+                "decimal": false
+            }
+        },
+        {
+            "attribute": "MN",
+            "description": "Manganese, Mn",
+            "value": 0.0,
+            "unit": {
+                "id": "12485d26-6e69-102c-9a8a-0030485841f8",
+                "name": "gram",
+                "abbreviation": "g",
+                "plural": "grams",
+                "pluralAbbreviation": "grams",
+                "decimal": true
+            }
+        },
+        {
+            "attribute": "GLUS",
+            "description": "Glucose (dextrose)",
+            "value": 3.26,
+            "unit": {
+                "id": "12485d26-6e69-102c-9a8a-0030485841f8",
+                "name": "gram",
+                "abbreviation": "g",
+                "plural": "grams",
+                "pluralAbbreviation": "grams",
+                "decimal": true
+            }
+        },
+        {
+            "attribute": "FOLFD",
+            "description": "Folate, food",
+            "value": 0.0,
+            "unit": {
+                "id": "12485d26-6e69-102c-9a8a-0030485841f8",
+                "name": "gram",
+                "abbreviation": "g",
+                "plural": "grams",
+                "pluralAbbreviation": "grams",
+                "decimal": true
+            }
+        },
+        {
+            "attribute": "ENERC_KJ",
+            "description": "Energy",
+            "value": 276.68,
+            "unit": {
+                "id": "fea252f8-9888-4365-b005-e2c63ed3a776",
+                "name": "calorie",
+                "abbreviation": "kcal",
+                "plural": "calories",
+                "pluralAbbreviation": "kcal",
+                "decimal": true
+            }
+        },
+        {
+            "attribute": "FRUS",
+            "description": "Fructose",
+            "value": 3.05,
+            "unit": {
+                "id": "12485d26-6e69-102c-9a8a-0030485841f8",
+                "name": "gram",
+                "abbreviation": "g",
+                "plural": "grams",
+                "pluralAbbreviation": "grams",
+                "decimal": true
+            }
+        },
+        {
+            "attribute": "WATER",
+            "description": "Water",
+            "value": 112.89,
+            "unit": {
+                "id": "12485d26-6e69-102c-9a8a-0030485841f8",
+                "name": "gram",
+                "abbreviation": "g",
+                "plural": "grams",
+                "pluralAbbreviation": "grams",
+                "decimal": true
+            }
+        },
+        {
+            "attribute": "SUGAR",
+            "description": "Sugars, total",
+            "value": 13.13,
+            "unit": {
+                "id": "12485d26-6e69-102c-9a8a-0030485841f8",
+                "name": "gram",
+                "abbreviation": "g",
+                "plural": "grams",
+                "pluralAbbreviation": "grams",
+                "decimal": true
+            }
+        },
+        {
+            "attribute": "FIBTG",
+            "description": "Fiber, total dietary",
+            "value": 1.1,
+            "unit": {
+                "id": "12485d26-6e69-102c-9a8a-0030485841f8",
+                "name": "gram",
+                "abbreviation": "g",
+                "plural": "grams",
+                "pluralAbbreviation": "grams",
+                "decimal": true
+            }
+        },
+        {
+            "attribute": "PROCNT",
+            "description": "Protein",
+            "value": 1.1,
+            "unit": {
+                "id": "12485d26-6e69-102c-9a8a-0030485841f8",
+                "name": "gram",
+                "abbreviation": "g",
+                "plural": "grams",
+                "pluralAbbreviation": "grams",
+                "decimal": true
+            }
+        },
+        {
+            "attribute": "CHOCDF",
+            "description": "Carbohydrate, by difference",
+            "value": 17.06,
+            "unit": {
+                "id": "12485d26-6e69-102c-9a8a-0030485841f8",
+                "name": "gram",
+                "abbreviation": "g",
+                "plural": "grams",
+                "pluralAbbreviation": "grams",
+                "decimal": true
+            }
+        },
+        {
+            "attribute": "FOL",
+            "description": "Folate, total",
+            "value": 0.0,
+            "unit": {
+                "id": "12485d26-6e69-102c-9a8a-0030485841f8",
+                "name": "gram",
+                "abbreviation": "g",
+                "plural": "grams",
+                "pluralAbbreviation": "grams",
+                "decimal": true
+            }
+        },
+        {
+            "attribute": "VITK",
+            "description": "Vitamin K (phylloquinone)",
+            "value": 0.0,
+            "unit": {
+                "id": "12485d26-6e69-102c-9a8a-0030485841f8",
+                "name": "gram",
+                "abbreviation": "g",
+                "plural": "grams",
+                "pluralAbbreviation": "grams",
+                "decimal": true
+            }
+        },
+        {
+            "attribute": "P",
+            "description": "Phosphorus, P",
+            "value": 0.01,
+            "unit": {
+                "id": "12485d26-6e69-102c-9a8a-0030485841f8",
+                "name": "gram",
+                "abbreviation": "g",
+                "plural": "grams",
+                "pluralAbbreviation": "grams",
+                "decimal": true
+            }
+        },
+        {
+            "attribute": "CHOLN",
+            "description": "Choline, total",
+            "value": 0.01,
+            "unit": {
+                "id": "12485d26-6e69-102c-9a8a-0030485841f8",
+                "name": "gram",
+                "abbreviation": "g",
+                "plural": "grams",
+                "pluralAbbreviation": "grams",
+                "decimal": true
+            }
+        },
+        {
+            "attribute": "CA",
+            "description": "Calcium, Ca",
+            "value": 0.02,
+            "unit": {
+                "id": "12485d26-6e69-102c-9a8a-0030485841f8",
+                "name": "gram",
+                "abbreviation": "g",
+                "plural": "grams",
+                "pluralAbbreviation": "grams",
+                "decimal": true
+            }
+        },
+        {
+            "attribute": "MG",
+            "description": "Magnesium, Mg",
+            "value": 0.02,
+            "unit": {
+                "id": "12485d26-6e69-102c-9a8a-0030485841f8",
+                "name": "gram",
+                "abbreviation": "g",
+                "plural": "grams",
+                "pluralAbbreviation": "grams",
+                "decimal": true
+            }
+        },
+        {
+            "attribute": "VITA_RAE",
+            "description": "Vitamin A, RAE",
+            "value": 3.3,
+            "unit": {
+                "id": "0fcf76b3-891a-403d-883f-58c8809ef151",
+                "name": "mcg_RAE",
+                "abbreviation": "mcg_RAE",
+                "plural": "mcg_RAE",
+                "pluralAbbreviation": "mcg_RAE",
+                "decimal": false
+            }
+        },
+        {
+            "attribute": "NIA",
+            "description": "Niacin",
+            "value": 0.0,
+            "unit": {
+                "id": "12485d26-6e69-102c-9a8a-0030485841f8",
+                "name": "gram",
+                "abbreviation": "g",
+                "plural": "grams",
+                "pluralAbbreviation": "grams",
+                "decimal": true
+            }
+        },
+        {
+            "attribute": "SUCS",
+            "description": "Sucrose",
+            "value": 7.03,
+            "unit": {
+                "id": "12485d26-6e69-102c-9a8a-0030485841f8",
+                "name": "gram",
+                "abbreviation": "g",
+                "plural": "grams",
+                "pluralAbbreviation": "grams",
+                "decimal": true
+            }
+        },
+        {
+            "attribute": "CARTB",
+            "description": "Carotene, beta",
+            "value": 0.0,
+            "unit": {
+                "id": "12485d26-6e69-102c-9a8a-0030485841f8",
+                "name": "gram",
+                "abbreviation": "g",
+                "plural": "grams",
+                "pluralAbbreviation": "grams",
+                "decimal": true
+            }
+        },
+        {
+            "attribute": "VITA_IU",
+            "description": "Vitamin A, IU",
+            "value": 64.86,
+            "unit": {
+                "id": "ed46fe0c-44fe-4c1f-b3a8-880f92e30930",
+                "name": "IU",
+                "abbreviation": "IU",
+                "plural": "IU",
+                "pluralAbbreviation": "IU",
+                "decimal": true
+            }
+        },
+        {
+            "attribute": "ENERC_KCAL",
+            "description": "Energy",
+            "value": 66.27,
+            "unit": {
+                "id": "fea252f8-9888-4365-b005-e2c63ed3a776",
+                "name": "calorie",
+                "abbreviation": "kcal",
+                "plural": "calories",
+                "pluralAbbreviation": "kcal",
+                "decimal": true
+            }
+        },
+        {
+            "attribute": "VITC",
+            "description": "Vitamin C, total ascorbic acid",
+            "value": 0.05,
+            "unit": {
+                "id": "12485d26-6e69-102c-9a8a-0030485841f8",
+                "name": "gram",
+                "abbreviation": "g",
+                "plural": "grams",
+                "pluralAbbreviation": "grams",
+                "decimal": true
+            }
+        },
+        {
+            "attribute": "NA",
+            "description": "Sodium, Na",
+            "value": 0.0,
+            "unit": {
+                "id": "12485d26-6e69-102c-9a8a-0030485841f8",
+                "name": "gram",
+                "abbreviation": "g",
+                "plural": "grams",
+                "pluralAbbreviation": "grams",
+                "decimal": true
+            }
+        }
+    ],
+    "images": [
+        {
+            "hostedSmallUrl": "https://lh3.googleusercontent.com/g8M6M7dmXmiViPYXV3HmTsn8OADcxUr8tONNzY6OUQwmdh4Dn9PMUG4l38W8ZtudCktf1MfwnpLm2pjuwZcpQl8=s90",
+            "hostedMediumUrl": "https://lh3.googleusercontent.com/g8M6M7dmXmiViPYXV3HmTsn8OADcxUr8tONNzY6OUQwmdh4Dn9PMUG4l38W8ZtudCktf1MfwnpLm2pjuwZcpQl8=s180",
+            "hostedLargeUrl": "https://lh3.googleusercontent.com/g8M6M7dmXmiViPYXV3HmTsn8OADcxUr8tONNzY6OUQwmdh4Dn9PMUG4l38W8ZtudCktf1MfwnpLm2pjuwZcpQl8=s360",
+            "imageUrlsBySize": {
+                "90": "https://lh3.googleusercontent.com/QsUxdeYTc9H2grsng_9WbfDCr5mYIj_6uFVik6MTgKU89zETJi0GG4iPjRoRBq38-Y9aY1WPVw6y19CNT1iYqQ=s90-c",
+                "360": "https://lh3.googleusercontent.com/QsUxdeYTc9H2grsng_9WbfDCr5mYIj_6uFVik6MTgKU89zETJi0GG4iPjRoRBq38-Y9aY1WPVw6y19CNT1iYqQ=s360-c"
+            }
+        }
+    ],
+    "name": "The U.S.S. Wondrich",
+    "source": {
+        "sourceDisplayName": "Saveur",
+        "sourceSiteUrl": "http://www.saveur.com",
+        "sourceRecipeUrl": "http://www.saveur.com/uss-wondrich-pineapple-vermouth-cocktail-recipe"
+    },
+    "id": "The-U_S_S_-Wondrich-1495299",
+    "ingredientLines": [
+        "1 1\u20442 oz. Amontillado sherry",
+        "3\u20444 oz. pineapple juice",
+        "3\u20444 oz. red Italian Vermouth",
+        "3\u20444 oz. Sabra chocolate-orange liqueur",
+        "1 dash Angostura bitters",
+        "Pineapple wedge, for garnish"
+    ],
+    "attribution": {
+        "html": "<a href='http://www.yummly.co/recipe/The-U_S_S_-Wondrich-1495299'>The U.S.S. Wondrich recipe</a> information powered by <img alt='Yummly' src='https://static.yummly.co/api-logo.png'/>",
+        "url": "http://www.yummly.co/recipe/The-U_S_S_-Wondrich-1495299",
+        "text": "The U.S.S. Wondrich recipes: information powered by Yummly",
+        "logo": "https://static.yummly.co/api-logo.png"
+    },
+    "numberOfServings": 1,
+    "totalTimeInSeconds": null,
+    "attributes": {},
+    "flavors": {},
+    "rating": 3
+}

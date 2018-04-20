@@ -1,0 +1,358 @@
+{
+    "criteria": {
+        "q": "w+i+n+e",
+        "allowedIngredient": null,
+        "excludedIngredient": null
+    },
+    "matches": [
+        {
+            "imageUrlsBySize": {
+                "90": "https://lh3.googleusercontent.com/zaSRfcXgee2mDmVbe_wyK1E6bVt93u3EVYvbPNDnFHlHsAtYyRoNUM8E6N_WYtQVhK9sSzZBALn3MElDwggOeg=s90-c"
+            },
+            "sourceDisplayName": "My Cooking Journey",
+            "ingredients": [
+                "pancake mix",
+                "water",
+                "oil",
+                "sugar",
+                "cinnamon"
+            ],
+            "id": "Churros-Mexican-Churros-made-with-3-Ingredients-Cinco-De-Mayo-Special-Dessert-2400600",
+            "smallImageUrls": [
+                "https://lh3.googleusercontent.com/EAgliS0YFG1HivTMkW-oiZZeeHNBiQCam84EmlFDdbRi2mLsN-wLsiTP-6KK5UR3y-A1y_z959m4hjQqVbE71A=s90"
+            ],
+            "recipeName": "Churros \u2013 Mexican Churros made with 3 Ingredients \u2013 Cinco De Mayo Special Dessert",
+            "totalTimeInSeconds": 2100,
+            "attributes": {
+                "course": [
+                    "Desserts"
+                ],
+                "cuisine": [
+                    "Mexican"
+                ]
+            },
+            "flavors": {
+                "piquant": 0.0,
+                "meaty": 0.16666666666666666,
+                "bitter": 0.3333333333333333,
+                "sweet": 0.5,
+                "sour": 0.16666666666666666,
+                "salty": 0.6666666666666666
+            },
+            "rating": 4
+        },
+        {
+            "imageUrlsBySize": {
+                "90": "http://lh6.ggpht.com/r15qpZKcwWsS4DtX5rCO4vwz09AVMOOnIw48lvQl-ZzrhnCCe31Ty1RccFHZkpTQPl-kO0dIil036EHnvqzX=s90-c"
+            },
+            "sourceDisplayName": "AllRecipes",
+            "ingredients": [
+                "egg yolks",
+                "eggs",
+                "white sugar",
+                "salt",
+                "vanilla extract",
+                "whiskey",
+                "all-purpose flour",
+                "vegetable oil",
+                "confectioners sugar"
+            ],
+            "id": "Chrusciki-I-Allrecipes",
+            "smallImageUrls": [
+                "http://lh3.ggpht.com/frwKIVh17mEb4dRTqVoihjBvKVBO5Wete2SqQNX0k_-6j9bBdZC6Mqqre1zBFbutDH75vGZY6FQ1h4Lhnbch-Kk=s90"
+            ],
+            "recipeName": "Chrusciki I",
+            "totalTimeInSeconds": 5400,
+            "attributes": {
+                "course": [
+                    "Desserts"
+                ]
+            },
+            "flavors": {
+                "sweet": 0.5,
+                "piquant": 0.0,
+                "sour": 0.0,
+                "salty": 0.16666666666666666,
+                "meaty": 0.8333333333333334,
+                "bitter": 0.16666666666666666
+            },
+            "rating": 4
+        },
+        {
+            "imageUrlsBySize": {
+                "90": "https://lh3.googleusercontent.com/3O7dUYJF_7xgqTTsLqDUSnkpjAXpgBY9IlXMpt4YDJWDgVS9dmhLHl8wm9NnoaApC6QgxwJJwSNRJuZpleBiGA=s90-c"
+            },
+            "sourceDisplayName": "The Wholesome Dish",
+            "ingredients": [
+                "red potato",
+                "olive oil",
+                "grated parmesan cheese",
+                "panko breadcrumbs",
+                "garlic powder",
+                "ground black pepper",
+                "boneless pork chops",
+                "asparagus spears"
+            ],
+            "id": "Sheet-Pan-Baked-Parmesan-Pork-Chops-Potatoes-_-Asparagus-2328491",
+            "smallImageUrls": [
+                "https://lh3.googleusercontent.com/59sEhYrILdcJzhxNu8UVEVDkNVEjyiGEpLFIpo9cClP4PBah7e0COYVKutFLCiyggHNybq-ra9_bP2n8YHieHw=s90"
+            ],
+            "recipeName": "Sheet Pan Baked Parmesan Pork Chops Potatoes & Asparagus",
+            "totalTimeInSeconds": 3600,
+            "attributes": {
+                "course": [
+                    "Main Dishes"
+                ]
+            },
+            "flavors": null,
+            "rating": 4
+        },
+        {
+            "imageUrlsBySize": {
+                "90": "http://lh4.ggpht.com/ybxdA6UZ33R4HrZwUB37ruKqE53e5DXMDxqydt62cN4TYftaTOtds06DF4cX9PfuVQqKD25uL6pQOwz87MeS=s90-c"
+            },
+            "sourceDisplayName": "Emily Bites",
+            "ingredients": [
+                "frozen puff pastry sheets",
+                "olive oil",
+                "garlic cloves",
+                "fresh spinach",
+                "pepper",
+                "parmesan cheese",
+                "feta cheese crumbles"
+            ],
+            "id": "Cheesy-Spinach-Pinwheels-931846",
+            "smallImageUrls": [
+                "http://lh5.ggpht.com/kBCwYnArxf_Su16xNBYoZIS7O6rGWcHCyKNDJZfQFRPp-6PUn6ALN8DQMXZLZIX356L8VX_WkXobxou6dJSnp5w=s90"
+            ],
+            "recipeName": "Cheesy Spinach Pinwheels",
+            "totalTimeInSeconds": 3600,
+            "attributes": {
+                "course": [
+                    "Appetizers"
+                ]
+            },
+            "flavors": null,
+            "rating": 4
+        },
+        {
+            "imageUrlsBySize": {
+                "90": "http://lh5.ggpht.com/UwNbjIdEdFmkETuO0pjnBvhuPkgXVskHco3qA5lV1xInenr6jiXt3zljBt9-TptV_oi-xcG_TQuS3dltp-gURQ=s90-c"
+            },
+            "sourceDisplayName": "Witty in the City",
+            "ingredients": [
+                "chicken thighs",
+                "dijon mustard",
+                "maple syrup",
+                "rice vinegar",
+                "fresh rosemary",
+                "salt",
+                "pepper"
+            ],
+            "id": "Man-Pleasing-Chicken-608913",
+            "smallImageUrls": [
+                "http://lh4.ggpht.com/gInMhsmcQ708LZAw4ryeheSm6cOuvDtlzpHpbrE1RW01kYudZlWoRBcEiS-gj_2mj_8Xdl-dzgNY2CJxbHbT=s90"
+            ],
+            "recipeName": "Man-Pleasing Chicken",
+            "totalTimeInSeconds": 3300,
+            "attributes": {
+                "course": [
+                    "Main Dishes"
+                ]
+            },
+            "flavors": null,
+            "rating": 3
+        },
+        {
+            "imageUrlsBySize": {
+                "90": "https://lh3.googleusercontent.com/IDz7Q2v10M0sEFOBweyTZp2vXitaSxzVdsCUqTV9-sMaTY7APmO06n8-YzAyg5T-FZniNJi5y_WlWILe1osQJFY=s90-c"
+            },
+            "sourceDisplayName": "Jo Cooks",
+            "ingredients": [
+                "chicken breasts",
+                "enchilada sauce",
+                "corn tortillas",
+                "monterey jack"
+            ],
+            "id": "Easy-Chicken-Enchilada-Casserole-2233185",
+            "smallImageUrls": [
+                "https://lh3.googleusercontent.com/VsCGpuAxn4TXkAbB46_Ae0FT_GY3qzFjLgtIitk5JcBt0TAukogXhSoPTUH70uU4qKQ698SxUKAUQ5u5slSCQA=s90"
+            ],
+            "recipeName": "Easy Chicken Enchilada Casserole",
+            "totalTimeInSeconds": 3900,
+            "attributes": {
+                "course": [
+                    "Main Dishes"
+                ]
+            },
+            "flavors": {
+                "piquant": 0.8333333333333334,
+                "meaty": 0.6666666666666666,
+                "bitter": 0.8333333333333334,
+                "sweet": 0.16666666666666666,
+                "sour": 0.16666666666666666,
+                "salty": 0.8333333333333334
+            },
+            "rating": 4
+        },
+        {
+            "imageUrlsBySize": {
+                "90": "https://lh3.googleusercontent.com/oiQR3Fo7vLWPJlNTvsJbGzeFSHyMrxeZI_mY9c8s6wngaXbc7Hwlbpw8Pggb9jqyEmg_6fVpvjNpOEI-UbQGlw=s90-c"
+            },
+            "sourceDisplayName": "Kalyn's Kitchen",
+            "ingredients": [
+                "globe eggplant",
+                "salt",
+                "olive oil",
+                "italian seasoning",
+                "basil leaves",
+                "freshly grated parmesan",
+                "mozzarella cheese",
+                "hot red pepper flakes",
+                "virgin olive oil",
+                "large garlic cloves",
+                "petite diced tomatoes",
+                "dried oregano"
+            ],
+            "id": "Julia-Childs-Eggplant-Pizzas-2211869",
+            "smallImageUrls": [
+                "https://lh3.googleusercontent.com/6LYPkoWZBy-1TGl9k4NyVpj_mijJCOEKEXq7zIlMrxuqvzNeyBjWXrPuULd3SR3hdVweJVJQsUbdhlV_S6AoXQ=s90"
+            ],
+            "recipeName": "Julia Child\u2019s Eggplant Pizzas",
+            "totalTimeInSeconds": 3000,
+            "attributes": {
+                "course": [
+                    "Main Dishes",
+                    "Lunch"
+                ],
+                "cuisine": [
+                    "Italian"
+                ]
+            },
+            "flavors": {
+                "piquant": 0.8333333333333334,
+                "meaty": 0.8333333333333334,
+                "bitter": 0.8333333333333334,
+                "sweet": 0.16666666666666666,
+                "sour": 0.8333333333333334,
+                "salty": 0.8333333333333334
+            },
+            "rating": 4
+        },
+        {
+            "imageUrlsBySize": {
+                "90": "http://lh3.ggpht.com/bbbMSZa64BX8j1BSUiT54ao-BTRWMd0hHzAquoGhU-TEm3NZpf0kNbqMfnWqBxs3apQPagzBCX6gRGDDSMKx=s90-c"
+            },
+            "sourceDisplayName": "Unilever North America",
+            "ingredients": [
+                "I Can't Believe It's Not Butter!\u00ae Spread",
+                "white chocolate",
+                "sweetened condensed milk",
+                "liqueur",
+                "strawberries"
+            ],
+            "id": "I-am-berry-fondue-you_-298992",
+            "smallImageUrls": [
+                "http://lh6.ggpht.com/GokOeFcIxAepaD-TmCEZfMfd8UxoDrNaonsEhQVzgDkrT5KXlmCQ27lF9zBeBH_BXBl7Rl0gqQ_5SQ_-veGswA=s90"
+            ],
+            "recipeName": "I Am Berry Fondue You!",
+            "totalTimeInSeconds": 1200,
+            "attributes": {
+                "course": [
+                    "Desserts"
+                ]
+            },
+            "flavors": {
+                "piquant": 0.0,
+                "meaty": 0.6666666666666666,
+                "bitter": 0.5,
+                "sweet": 0.8333333333333334,
+                "sour": 0.16666666666666666,
+                "salty": 0.3333333333333333
+            },
+            "rating": 4
+        },
+        {
+            "imageUrlsBySize": {
+                "90": "http://lh5.ggpht.com/D12S8eRU53nvoJxDaNksCgWG8_AiAJsbdaOpkZJt85DlINFLX9elifxpSHecxrIrdrZ5AEeFs2yNkhjUB_ZmitU=s90-c"
+            },
+            "sourceDisplayName": "Spend with Pennies",
+            "ingredients": [
+                "white bread",
+                "apple pie filling",
+                "melted butter",
+                "sugar",
+                "cinnamon"
+            ],
+            "id": "Baked-Apple-Pie-Roll-Ups-593599",
+            "smallImageUrls": [
+                "http://lh5.ggpht.com/eUGCFo3up5O0ZEXs8QsWoh2x-U4UOThExckzDer36bH96wJkFmG40JQiTxGFYQGsQXB4uTrcYYT0DRIA7Hed1FM=s90"
+            ],
+            "recipeName": "Baked Apple Pie Roll Ups",
+            "totalTimeInSeconds": 1800,
+            "attributes": {
+                "course": [
+                    "Desserts",
+                    "Lunch"
+                ]
+            },
+            "flavors": {
+                "piquant": 0.0,
+                "meaty": 0.16666666666666666,
+                "bitter": 0.16666666666666666,
+                "sweet": 0.6666666666666666,
+                "sour": 0.16666666666666666,
+                "salty": 0.5
+            },
+            "rating": 4
+        },
+        {
+            "imageUrlsBySize": {
+                "90": "http://lh3.ggpht.com/3MQVIUZyiLq_NxwdkYfQvTHTLHRKslxRJdH6SaAuZa89yYlIGE8Vc_rjBBSRGxR0VyM0pGlNbxUGtGnJ_CtM16k=s90-c"
+            },
+            "sourceDisplayName": "AllRecipes",
+            "ingredients": [
+                "all-purpose flour",
+                "baking powder",
+                "butter",
+                "confectioners sugar",
+                "egg yolks",
+                "brandy",
+                "vanilla extract",
+                "blanched almonds",
+                "clove"
+            ],
+            "id": "Kourabiedes-I-Allrecipes",
+            "smallImageUrls": [
+                "http://lh6.ggpht.com/nj8WzR2ithCn-TC1lZlne-zq_nvqaxkNyY8FPQjZNhErG9e1xcsI5PbjIVy2bRRSPx1bTfE0jh3K4ulH7eBx1K0=s90"
+            ],
+            "recipeName": "Kourabiedes I",
+            "totalTimeInSeconds": 3900,
+            "attributes": {
+                "course": [
+                    "Desserts"
+                ],
+                "holiday": [
+                    "Christmas"
+                ]
+            },
+            "flavors": {
+                "piquant": 0.0,
+                "meaty": 0.8333333333333334,
+                "bitter": 0.5,
+                "sweet": 0.5,
+                "sour": 0.16666666666666666,
+                "salty": 0.5
+            },
+            "rating": 4
+        }
+    ],
+    "facetCounts": {},
+    "totalMatchCount": 314956,
+    "attribution": {
+        "html": "Recipe search powered by <a href='http://www.yummly.co/recipes'><img alt='Yummly' src='https://static.yummly.co/api-logo.png'/></a>",
+        "url": "http://www.yummly.co/recipes/",
+        "text": "Recipe search powered by Yummly",
+        "logo": "https://static.yummly.co/api-logo.png"
+    }
+}

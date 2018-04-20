@@ -1,0 +1,47 @@
+{
+    "yield": "4-6",
+    "nutritionEstimates": [],
+    "prepTimeInSeconds": 1800,
+    "totalTime": "1 hr",
+    "images": [
+        {
+            "imageUrlsBySize": {
+                "90": "null=s90-c",
+                "360": "null=s360-c"
+            }
+        }
+    ],
+    "name": "Belokranjska Povitica",
+    "source": {
+        "sourceDisplayName": "Food.com",
+        "sourceSiteUrl": "http://www.food.com",
+        "sourceRecipeUrl": "http://www.food.com/recipe/belokranjska-povitica-150189"
+    },
+    "prepTime": "30 Min",
+    "id": "Belokranjska-Povitica-Food_com-85798",
+    "ingredientLines": [
+        "1/2 kg white flour",
+        "1 egg",
+        "1/3-1/2 liter lukewarm water",
+        "2 tablespoons oil",
+        "1 teaspoon apple cider vinegar",
+        "1 pinch salt",
+        "700 g of fresh homemade cheese, mixed with skrlupec* (ricotta, baked cream, see directions, step 5 for the alternative)",
+        "2 eggs",
+        "2 -3 teaspoons salt or 2 -3 teaspoons sugar",
+        "salt (if making plain variety just a few pinches)"
+    ],
+    "cookTime": "30 Min",
+    "attribution": {
+        "html": "<a href='http://www.yummly.co/recipe/Belokranjska-Povitica-Food_com-85798'>Belokranjska Povitica recipe</a> information powered by <img alt='Yummly' src='https://static.yummly.co/api-logo.png'/>",
+        "url": "http://www.yummly.co/recipe/Belokranjska-Povitica-Food_com-85798",
+        "text": "Belokranjska Povitica recipes: information powered by Yummly",
+        "logo": "https://static.yummly.co/api-logo.png"
+    },
+    "numberOfServings": 5,
+    "totalTimeInSeconds": 3600,
+    "attributes": {},
+    "cookTimeInSeconds": 1800,
+    "flavors": {},
+    "rating": 3
+}

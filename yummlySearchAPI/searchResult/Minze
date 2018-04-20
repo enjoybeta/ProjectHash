@@ -1,0 +1,299 @@
+{
+    "criteria": {
+        "q": "M+i+n+z+e",
+        "allowedIngredient": null,
+        "excludedIngredient": null
+    },
+    "matches": [
+        {
+            "recipeName": "Zurie's Overnight No-Knead Bread",
+            "ingredients": [
+                "white bread flour",
+                "instant yeast",
+                "sugar",
+                "salt",
+                "water"
+            ],
+            "totalTimeInSeconds": 4200,
+            "sourceDisplayName": "Food.com",
+            "id": "Zurie_s-Overnight-No_knead-Bread-Recipezaar",
+            "rating": 4,
+            "flavors": null,
+            "attributes": {
+                "course": [
+                    "Breads"
+                ]
+            }
+        },
+        {
+            "imageUrlsBySize": {
+                "90": "http://lh3.googleusercontent.com/jTzt1BEAy4E1XV2mqbdl1QrvAaGGKxVHtl7pf-JnojuleJTyLGqpzAznI-5x0dmddsnlBB8sbLRt3qlMEe-6=s90-c"
+            },
+            "sourceDisplayName": "Lecker",
+            "ingredients": [
+                "Puddingpulver",
+                "Zucker",
+                "Milch",
+                "Eigelb",
+                "Krokant",
+                "\u00c4pfel",
+                "Johannisbeergelee"
+            ],
+            "id": "Bratapfel-mit-Vanillepudding-und-Johannisbeergelee-838578",
+            "smallImageUrls": [
+                "http://lh3.googleusercontent.com/M1xVUeKhUakx--ePo5TH441BSyln-Ratrcpy8i2CmvS2is5x117Z7KJdZFYsQJPdKXBn8TxrkXs5GOi0oVEJ=s90"
+            ],
+            "recipeName": "Bratapfel mit Vanillepudding und Johannisbeergelee",
+            "totalTimeInSeconds": 3600,
+            "attributes": {
+                "course": [
+                    "Desserts"
+                ]
+            },
+            "flavors": {
+                "sweet": 0.6666666666666666,
+                "piquant": 0.0,
+                "sour": 0.16666666666666666,
+                "salty": 0.16666666666666666,
+                "meaty": 0.16666666666666666,
+                "bitter": 0.16666666666666666
+            },
+            "rating": 3
+        },
+        {
+            "imageUrlsBySize": {
+                "90": "http://lh3.googleusercontent.com/5VGlsM9uNxTTzhC_MW8wSVOIV4mRxhRXlEmbgUSUv-6xBV4fLyHNlAeRCeZt98VU02L6QF-L3Y8NiVL0k3XNHQ=s90-c"
+            },
+            "sourceDisplayName": "Lecker",
+            "ingredients": [
+                "Zucker",
+                "Zitronensaft",
+                "Fett",
+                "Ei",
+                "Schlabgobers",
+                "Milch",
+                "Haselnuss",
+                "Zitronenmelisse",
+                "\u00d6l"
+            ],
+            "id": "Karamell-Flan-mit-Nusskrokant-833912",
+            "smallImageUrls": [
+                "http://lh3.googleusercontent.com/7-TVbYGNoZuDSCxCL8Kzf2jc4BGx7Ku0qrZMnvSZlFHpC1FYTftOyJK-adKbMPRo4-VsmBpSent0zzmO7Z09vho=s90"
+            ],
+            "recipeName": "Karamell-Flan mit Nusskrokant",
+            "totalTimeInSeconds": 9000,
+            "attributes": {
+                "course": [
+                    "Desserts"
+                ]
+            },
+            "flavors": {
+                "sweet": 0.5,
+                "piquant": 0.0,
+                "sour": 0.5,
+                "salty": 0.16666666666666666,
+                "meaty": 0.6666666666666666,
+                "bitter": 0.3333333333333333
+            },
+            "rating": 3
+        },
+        {
+            "imageUrlsBySize": {
+                "90": "http://lh3.googleusercontent.com/mF0w4OFMISn2sY0FpNwWGxzJEZtMyR9ZkZKjRC38ME01gpSPKJj0yS9lG6urP_Hpv7yt4Qn2NdETgi2QxBOv=s90-c"
+            },
+            "sourceDisplayName": "Lecker",
+            "ingredients": [
+                "Filoteig",
+                "Mohn",
+                "Eigelb",
+                "Apfelsine"
+            ],
+            "id": "Orangen-Mohn-Ohrchen-847060",
+            "smallImageUrls": [
+                "http://lh3.googleusercontent.com/vjYrRZ8JRctoqA0MnHOZU7l05kOtAQ2gm5bfKNK5P9blq40973WqO89H7mPpxcpWgzC7iloWbUoHtHpKY-IWpA=s90"
+            ],
+            "recipeName": "Orangen-Mohn-O\u0308hrchen",
+            "totalTimeInSeconds": 1800,
+            "attributes": {},
+            "flavors": {
+                "sweet": 0.16666666666666666,
+                "piquant": 0.0,
+                "sour": 0.8333333333333334,
+                "salty": 0.3333333333333333,
+                "meaty": 0.8333333333333334,
+                "bitter": 0.8333333333333334
+            },
+            "rating": 3
+        },
+        {
+            "imageUrlsBySize": {
+                "90": "http://lh4.ggpht.com/qE_DJbpwR-VanPdef9EhQcA2KcM9XvlRnsMC0tjAa2K3GBVDYDN2OttlsDWjbwYjaC0-x-ZAuLsBuCTm6rhxJdU=s90-c"
+            },
+            "sourceDisplayName": "Lecker",
+            "ingredients": [
+                "Cranberry",
+                "Marille",
+                "Mandellk\u00f6r",
+                "Filoteig",
+                "Eigelb",
+                "Schlabgobers",
+                "Konfit\u00fcre"
+            ],
+            "id": "Blatterteigschnecken-mit-Aprikose-Cranberry-Fullung-820981",
+            "smallImageUrls": [
+                "http://lh6.ggpht.com/NmXGO_OXoV2rW0wW5NDSwAAgH6Y79hO5MsIHIDvZw7LO7gedlWe0toUx8slwPK5Vpz4j1pnE-AVR3hUthfY_nA=s90"
+            ],
+            "recipeName": "Bla\u0308tterteigschnecken mit Aprikose-Cranberry-Fu\u0308llung",
+            "totalTimeInSeconds": 4500,
+            "attributes": {},
+            "flavors": null,
+            "rating": 3
+        },
+        {
+            "imageUrlsBySize": {
+                "90": "http://lh3.googleusercontent.com/1zCTqNwEo2pPC0bkG-vWDavSYTt82qY50O6YVIiUYvKuWorNCXrhgiPUVkSR29NFbOdGFaK8Jfz52WeNS93cyA=s90-c"
+            },
+            "sourceDisplayName": "Lecker",
+            "ingredients": [
+                "Obersk\u00e4se",
+                "Zucker",
+                "Ei",
+                "Fett",
+                "Yufkateig",
+                "Williamsgeist"
+            ],
+            "id": "Mini-Kasekuchlein-847846",
+            "smallImageUrls": [
+                "http://lh3.googleusercontent.com/LQTM5_p6VAD3C09DGyfI75j5WxhVTugBRoIbLwbex1SN7eBLKgYaQEj1XaxOoSzbQIf7zybe_QBuHfsAGrEkkp8=s90"
+            ],
+            "recipeName": "Mini-Ka\u0308seku\u0308chlein",
+            "totalTimeInSeconds": 2700,
+            "attributes": {},
+            "flavors": null,
+            "rating": 3
+        },
+        {
+            "imageUrlsBySize": {
+                "90": "http://lh3.googleusercontent.com/ZdwBUVlJo0wHpf9nc5Kl5nMcKqhsNm2fJE7ycygwe-d4K9AJt6YGPbM8-QLXHz_SzFv1ikCzrmfXggrfZN6J=s90-c"
+            },
+            "sourceDisplayName": "Lecker",
+            "ingredients": [
+                "steinpilze",
+                "Schnittlauch",
+                "Eigelb",
+                "Klo\u00dfteig",
+                "Butterschmalz"
+            ],
+            "id": "Steinpilz-Kartoffelplatzchen-843736",
+            "smallImageUrls": [
+                "http://lh3.googleusercontent.com/TGYw6f7j61XleRIfOCar3Fm5eZ7ck4Frm8WjZ-A6gK6KsMQFfreTGPwGWiaY-rh1CLWczvuGWcmXEuiKzJvCIA=s90"
+            ],
+            "recipeName": "Steinpilz-Kartoffelpla\u0308tzchen",
+            "totalTimeInSeconds": 2700,
+            "attributes": {},
+            "flavors": {
+                "sweet": 0.16666666666666666,
+                "piquant": 0.0,
+                "sour": 0.6666666666666666,
+                "salty": 0.16666666666666666,
+                "meaty": 0.8333333333333334,
+                "bitter": 0.16666666666666666
+            },
+            "rating": 3
+        },
+        {
+            "imageUrlsBySize": {
+                "90": "http://lh3.googleusercontent.com/EwLbSCnlh1TF1RGdccidhBt5ajn9s_Oy6fgvQqYBmkhW9HFTcFtEL874v_VfkBSU54V9ULqO6w0yEMD7NUc-=s90-c"
+            },
+            "sourceDisplayName": "Lecker",
+            "ingredients": [
+                "Mehl",
+                "Puderzucker",
+                "Eigelb",
+                "Butter",
+                "Schlabgobers",
+                "Gelee"
+            ],
+            "id": "Engelsaugen-817994",
+            "smallImageUrls": [
+                "http://lh3.googleusercontent.com/IWHqV1IesVVVpWqpOAJyWHtYrGscwtv3sIjuX8sUd5weQyKhN5d3Th-yt4pytpRICqxCXkzdRa00MzIngddL=s90"
+            ],
+            "recipeName": "Engelsaugen",
+            "totalTimeInSeconds": 2700,
+            "attributes": {
+                "course": [
+                    "Desserts"
+                ]
+            },
+            "flavors": {
+                "sweet": 0.8333333333333334,
+                "piquant": 0.0,
+                "sour": 0.16666666666666666,
+                "salty": 0.16666666666666666,
+                "meaty": 0.8333333333333334,
+                "bitter": 0.16666666666666666
+            },
+            "rating": 3
+        },
+        {
+            "imageUrlsBySize": {
+                "90": "http://lh3.googleusercontent.com/eM5vZTVoFaRBYq5ku1-RXdoze1pUrlsktcp7X_83m3clT_hRNhNwBjLXnsuBI1d7KOB6AEM_wg2goL3ggrGQXg=s90-c"
+            },
+            "sourceDisplayName": "Lecker",
+            "ingredients": [
+                "Milch",
+                "Hefe",
+                "Backmischung",
+                "Ei",
+                "Mehl"
+            ],
+            "id": "Osterhasen-Brote-845629",
+            "smallImageUrls": [
+                "http://lh3.googleusercontent.com/QOK1BKLwY_RrF98WJSgJhfK3DTiWox305V34uzQUcOrdNR7mirOonQfc7mORczR0uqTnL6WZACfXin34FyU8=s90"
+            ],
+            "recipeName": "Osterhasen-Brote",
+            "totalTimeInSeconds": 7200,
+            "attributes": {},
+            "flavors": null,
+            "rating": 3
+        },
+        {
+            "imageUrlsBySize": {
+                "90": "http://lh3.googleusercontent.com/3fnwlWB_is_xxbNlpaio6-Swhi1r68WFhXrkjv9PMEebNWKT7wZt12s3mnFCUKdwqyoVIHJW6Hhjwb6EHvxcfA=s90-c"
+            },
+            "sourceDisplayName": "Lecker",
+            "ingredients": [
+                "Eigelb",
+                "Zucker",
+                "Dessertwein",
+                "Rum",
+                "Feige",
+                "Puderzucker"
+            ],
+            "id": "Gratinierte-Feigen-auf-Zabaione-843557",
+            "smallImageUrls": [
+                "http://lh3.googleusercontent.com/pZSMHofHGBk1JyE1PqzLWImAUqEVqFg8Zq4V_rnCr_Eg4CaWAySRK-7SQjF2qWAHUEMbadAL4QnpQ4rd_qFX=s90"
+            ],
+            "recipeName": "Gratinierte Feigen auf Zabaione",
+            "totalTimeInSeconds": 1500,
+            "attributes": {},
+            "flavors": {
+                "sweet": 0.8333333333333334,
+                "piquant": 0.0,
+                "sour": 0.16666666666666666,
+                "salty": 0.16666666666666666,
+                "meaty": 0.16666666666666666,
+                "bitter": 0.16666666666666666
+            },
+            "rating": 3
+        }
+    ],
+    "facetCounts": {},
+    "totalMatchCount": 159,
+    "attribution": {
+        "html": "Recipe search powered by <a href='http://www.yummly.co/recipes'><img alt='Yummly' src='https://static.yummly.co/api-logo.png'/></a>",
+        "url": "http://www.yummly.co/recipes/",
+        "text": "Recipe search powered by Yummly",
+        "logo": "https://static.yummly.co/api-logo.png"
+    }
+}

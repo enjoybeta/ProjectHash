@@ -1,0 +1,145 @@
+{
+    "criteria": {
+        "q": "d+r+e+s+s+i+n+g",
+        "allowedIngredient": null,
+        "excludedIngredient": null
+    },
+    "matches": [
+        {
+            "imageUrlsBySize": {
+                "90": "https://lh3.googleusercontent.com/HgdP9aqvIvNXVDM6M0-2F4X2gFIM0Nc1YRcy016eQumZtyO0ZMMqeNX12lzn8N8vZr56pn62stXpdUxevVh7VeY=s90-c"
+            },
+            "sourceDisplayName": "Gigi Eats Celebrities",
+            "ingredients": [
+                "sweet potatoes",
+                "sugar",
+                "hickory smoke",
+                "beef brisket",
+                "bbq sauce",
+                "spinach"
+            ],
+            "id": "Nacho-Average-B_R_I_S_K_E_T_-1952403",
+            "smallImageUrls": [
+                "https://lh3.googleusercontent.com/MrXnL83XjSwGVTFf2xMbAMU45DSUoC6Ti5Aws3HW0k_1DXt5ZpEhn-QiyyHKafCLKQOJxwr6PvUjDjrpNJEhWw=s90"
+            ],
+            "recipeName": "Nacho Average B.R.I.S.K.E.T.",
+            "totalTimeInSeconds": 1800,
+            "attributes": {
+                "course": [
+                    "Main Dishes"
+                ]
+            },
+            "flavors": null,
+            "rating": 4
+        },
+        {
+            "recipeName": "R-E-D-R-U-M Cocktail",
+            "ingredients": [
+                "strawberries",
+                "red raspberry preserves",
+                "blood orange juice",
+                "cherry brandy",
+                "brandy",
+                "dark rum",
+                "Malibu Caribbean Rum",
+                "crushed ice",
+                "club soda",
+                "key lime",
+                "sorbet",
+                "sherbet",
+                "fruit"
+            ],
+            "totalTimeInSeconds": 300,
+            "sourceDisplayName": "Food.com",
+            "id": "R_e_d_r_u_m-Cocktail-Recipezaar",
+            "rating": 4,
+            "flavors": null,
+            "attributes": {
+                "course": [
+                    "Beverages",
+                    "Cocktails"
+                ],
+                "holiday": [
+                    "Summer"
+                ]
+            }
+        },
+        {
+            "recipeName": "Chicago-Style Steak With Bleu Cheese Butter",
+            "ingredients": [
+                "sirloin steak",
+                "worcestershire sauce",
+                "soy sauce",
+                "cooking sherry",
+                "red wine vinegar",
+                "butter",
+                "blue cheese",
+                "green onions"
+            ],
+            "totalTimeInSeconds": 1200,
+            "sourceDisplayName": "Food.com",
+            "id": "Chicago-Style-Steak-With-Bleu-Cheese-Butter-Food_com-125744",
+            "rating": 4,
+            "flavors": null,
+            "attributes": {
+                "course": [
+                    "Main Dishes"
+                ]
+            }
+        },
+        {
+            "imageUrlsBySize": {
+                "90": "http://lh3.googleusercontent.com/r7BZPs6gbimFxKd1F4X4sEKUrrWLueLHnMB1sZKVa6RSn6GlngvRJOs3sJ5hQC_Lns7BsDFaYQPJ_21-hMXBcA=s90-c"
+            },
+            "sourceDisplayName": "Chefkoch",
+            "ingredients": [
+                "Zwiebel",
+                "Lauch",
+                "M\u00f6hre",
+                "K\u00fcrbismark",
+                "Maroni",
+                "Kartoffel",
+                "Wasser",
+                "Pfeffer",
+                "Gem\u00fcsebr\u00fche",
+                "Oliven\u00f6l",
+                "Knoblauch",
+                "chili",
+                "Rahm"
+            ],
+            "id": "Kurbis-Maroni-Kartoffelsuppe-811619",
+            "smallImageUrls": [
+                "http://lh3.googleusercontent.com/e5hpnW5FaMGguaCk8bB9RTT5V5Yx005sjzCZ37CaOjWiwGVlCphqKv4I5ohQyELyqo0-wKwrQ_oAa0pJOYSMaQ=s90"
+            ],
+            "recipeName": "Ku\u0308rbis-Maroni-Kartoffelsuppe",
+            "totalTimeInSeconds": 2700,
+            "attributes": {},
+            "flavors": null,
+            "rating": 3
+        },
+        {
+            "recipeName": "Eierpunsch - Total Easy",
+            "ingredients": [
+                "Eierlik\u00f6r",
+                "Wei\u00dfwein",
+                "Milch",
+                "Rahm",
+                "Schokostreusel"
+            ],
+            "totalTimeInSeconds": 360,
+            "sourceDisplayName": "Chefkoch",
+            "id": "Eierpunsch---Total-Easy-959436",
+            "rating": 3,
+            "flavors": null,
+            "attributes": {}
+        }
+    ],
+    "facetCounts": {},
+    "totalMatchCount": 5,
+    "attribution": {
+        "html": "Recipe search powered by <a href='http://www.yummly.co/recipes'><img alt='Yummly' src='https://static.yummly.co/api-logo.png'/></a>",
+        "url": "http://www.yummly.co/recipes/",
+        "text": "Recipe search powered by Yummly",
+        "logo": "https://static.yummly.co/api-logo.png"
+    }
+}

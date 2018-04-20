@@ -699,6 +699,13 @@
     "numberOfServings": 4,
     "totalTimeInSeconds": 2100,
     "attributes": {},
-    "flavors": {},
+    "flavors": {
+        "Sweet": 0.3333,
+        "Piquant": 0.0,
+        "Sour": 0.8333,
+        "Salty": 0.8333,
+        "Meaty": 0.1667,
+        "Bitter": 0.8333
+    },
     "rating": 4
 }

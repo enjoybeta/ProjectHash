@@ -1,0 +1,60 @@
+{
+    "yield": "makes 1 green, 1 red, and 1 yellow container, or 225 calories per serving. ",
+    "nutritionEstimates": [],
+    "totalTime": "15 min",
+    "images": [
+        {
+            "hostedSmallUrl": "https://lh3.googleusercontent.com/ldSUSDOd5g-fBe4jCB3fi0axtphe-ST0_d0hmNDkY0W8UDkMwFaHYQ3L-Af-wjbbjqVXOlI3ggiEm5iBxx6h=s90",
+            "hostedMediumUrl": "https://lh3.googleusercontent.com/ldSUSDOd5g-fBe4jCB3fi0axtphe-ST0_d0hmNDkY0W8UDkMwFaHYQ3L-Af-wjbbjqVXOlI3ggiEm5iBxx6h=s180",
+            "hostedLargeUrl": "https://lh3.googleusercontent.com/ldSUSDOd5g-fBe4jCB3fi0axtphe-ST0_d0hmNDkY0W8UDkMwFaHYQ3L-Af-wjbbjqVXOlI3ggiEm5iBxx6h=s360",
+            "imageUrlsBySize": {
+                "90": "https://lh3.googleusercontent.com/pifxi9yu2iZaL_t2laKJH5PgFmpwwEsWBy1FUWd4ihgIO9_ODlmQXeMlFUnRsO8tQxsIzClPG4thDSTkdD2lXg=s90-c",
+                "360": "https://lh3.googleusercontent.com/pifxi9yu2iZaL_t2laKJH5PgFmpwwEsWBy1FUWd4ihgIO9_ODlmQXeMlFUnRsO8tQxsIzClPG4thDSTkdD2lXg=s360-c"
+            }
+        }
+    ],
+    "name": "Breakfast Oats (320 calories | 1R, 1Y, 1P)",
+    "source": {
+        "sourceDisplayName": "2sharemyjoy",
+        "sourceSiteUrl": "2sharemyjoy.com",
+        "sourceRecipeUrl": "https://www.2sharemyjoy.com/1500-calorie-winter-meal-plan/"
+    },
+    "id": "Breakfast-Oats-_320-calories-_-1R_-1Y_-1P_-2263027",
+    "ingredientLines": [
+        "1/2 cup whole wheat (1-minute) oats",
+        "3/4 cup cooked lentils",
+        "1 small apple diced",
+        "3/4 cup water",
+        "1 t cinnamon",
+        "optional: 1 pack of stevia and 1 T unsweetened cocoa powder",
+        "optional: 1 pack of stevia and 1 T unsweetened cocoa powder",
+        "3/4 cup greek yogurt",
+        "1/2 t ground ginger root",
+        "1/2-1 orange",
+        "1/2 apple",
+        "1 hand full of spinach",
+        "2 T chia seed",
+        "2 dashes of cinnamon",
+        "water (as desired)",
+        "1 cup leafy greens",
+        "1 cup chopped veggies",
+        "2 T dressing (homemade or bought)",
+        "3/4 cup beans, lentils, tuna or 2 hard boiled eggs",
+        "3/4 cup beans, lentils, tuna or 2 hard boiled eggs"
+    ],
+    "attribution": {
+        "html": "<a href='http://www.yummly.co/recipe/Breakfast-Oats-_320-calories-_-1R_-1Y_-1P_-2263027'>Breakfast Oats (320 calories | 1R, 1Y, 1P) recipe</a> information powered by <img alt='Yummly' src='https://static.yummly.co/api-logo.png'/>",
+        "url": "http://www.yummly.co/recipe/Breakfast-Oats-_320-calories-_-1R_-1Y_-1P_-2263027",
+        "text": "Breakfast Oats (320 calories | 1R, 1Y, 1P) recipes: information powered by Yummly",
+        "logo": "https://static.yummly.co/api-logo.png"
+    },
+    "numberOfServings": 1,
+    "totalTimeInSeconds": 900,
+    "attributes": {
+        "course": [
+            "Breakfast and Brunch"
+        ]
+    },
+    "flavors": {},
+    "rating": 4
+}

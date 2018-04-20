@@ -1,0 +1,58 @@
+{
+    "nutritionEstimates": [],
+    "totalTime": "30 min",
+    "images": [
+        {
+            "hostedSmallUrl": "http://lh6.ggpht.com/XmMzfsw7IKaJXERulgy6RF9bz5MLFgGfNf3sKtxJ7mUqzrMQEC1hRaJMtHz_ad_Q-mSWmEIPhXccwSjBc67zHQ=s90",
+            "hostedMediumUrl": "http://lh6.ggpht.com/XmMzfsw7IKaJXERulgy6RF9bz5MLFgGfNf3sKtxJ7mUqzrMQEC1hRaJMtHz_ad_Q-mSWmEIPhXccwSjBc67zHQ=s180",
+            "hostedLargeUrl": "http://lh6.ggpht.com/XmMzfsw7IKaJXERulgy6RF9bz5MLFgGfNf3sKtxJ7mUqzrMQEC1hRaJMtHz_ad_Q-mSWmEIPhXccwSjBc67zHQ=s360",
+            "imageUrlsBySize": {
+                "90": "http://lh5.ggpht.com/jdfknEzvSRCEmBulnkVn4dlnS_9zmHc9wN9tnDIktXg2RjK9cR9U9lWx-p0AHdmizc8f3NQXE7HbudgGO9XV=s90-c",
+                "360": "http://lh5.ggpht.com/jdfknEzvSRCEmBulnkVn4dlnS_9zmHc9wN9tnDIktXg2RjK9cR9U9lWx-p0AHdmizc8f3NQXE7HbudgGO9XV=s360-c"
+            }
+        }
+    ],
+    "name": "Chinese Tea Eggs (\u7cd6\u5fc3\u8336\u8449\u86cb)",
+    "source": {
+        "sourceDisplayName": "uTry.it",
+        "sourceSiteUrl": "utry.it",
+        "sourceRecipeUrl": "http://utry.it/2013/03/chinese-tea-eggs.html"
+    },
+    "id": "Chinese-Tea-Eggs-__-930830",
+    "ingredientLines": [
+        "6 to 8 eggs",
+        "4 cups water",
+        "6 tablespoons light soy sauce",
+        "2 tablespoons dark soy sauce",
+        "2 star anise",
+        "3 tablespoons black tea (or 2 teabags), I used \u666e\u6d31\u8336\u8449",
+        "1 cinnamon stick",
+        "1 teaspoon turbinado sugar (a.k.a raw sugar), or you can use brown sugar",
+        "2 tablespoon five spice powder",
+        "2 tablespoons kosher or coarse salt",
+        "1 tablespoon freshly ground pepper"
+    ],
+    "attribution": {
+        "html": "<a href='http://www.yummly.co/recipe/Chinese-Tea-Eggs-__-930830'>Chinese Tea Eggs (\u7cd6\u5fc3\u8336\u8449\u86cb) recipe</a> information powered by <img alt='Yummly' src='https://static.yummly.co/api-logo.png'/>",
+        "url": "http://www.yummly.co/recipe/Chinese-Tea-Eggs-__-930830",
+        "text": "Chinese Tea Eggs (\u7cd6\u5fc3\u8336\u8449\u86cb) recipes: information powered by Yummly",
+        "logo": "https://static.yummly.co/api-logo.png"
+    },
+    "numberOfServings": 4,
+    "totalTimeInSeconds": 1800,
+    "attributes": {
+        "course": [
+            "Breakfast and Brunch",
+            "Lunch"
+        ],
+        "cuisine": [
+            "Asian",
+            "Chinese"
+        ],
+        "holiday": [
+            "Chinese New Year"
+        ]
+    },
+    "flavors": {},
+    "rating": 4
+}

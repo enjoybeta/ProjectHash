@@ -1,0 +1,51 @@
+{
+    "yield": "24 (4 ounce) servings",
+    "nutritionEstimates": [],
+    "totalTime": "30 min",
+    "images": [
+        {
+            "hostedSmallUrl": "https://lh3.googleusercontent.com/dPcLVZYg6g6Zfd9spEzAT3pAw7hB_tiqbmUx3QxO1f7ou6VWq0V4dDjjC4-Oupl0XnFonz7vQeFqDGMPB855Xg=s90",
+            "hostedMediumUrl": "https://lh3.googleusercontent.com/dPcLVZYg6g6Zfd9spEzAT3pAw7hB_tiqbmUx3QxO1f7ou6VWq0V4dDjjC4-Oupl0XnFonz7vQeFqDGMPB855Xg=s180",
+            "hostedLargeUrl": "https://lh3.googleusercontent.com/dPcLVZYg6g6Zfd9spEzAT3pAw7hB_tiqbmUx3QxO1f7ou6VWq0V4dDjjC4-Oupl0XnFonz7vQeFqDGMPB855Xg=s360",
+            "imageUrlsBySize": {
+                "90": "https://lh3.googleusercontent.com/zCIBqMhOqZMBHrmIwrPuWu1gfV0bA3nYP7vhLRIr0nVnB5eGDQ7GA0qFzF4py9551ZBCj2249NFCWEHcbyOGeg=s90-c",
+                "360": "https://lh3.googleusercontent.com/zCIBqMhOqZMBHrmIwrPuWu1gfV0bA3nYP7vhLRIr0nVnB5eGDQ7GA0qFzF4py9551ZBCj2249NFCWEHcbyOGeg=s360-c"
+            }
+        }
+    ],
+    "name": "Gala Champagne Punch",
+    "source": {
+        "sourceDisplayName": "C&H Sugar brand",
+        "sourceSiteUrl": "chsugar.com",
+        "sourceRecipeUrl": "http://www.yummly.co/recipe/Gala-Champagne-Punch-2129772"
+    },
+    "id": "Gala-Champagne-Punch-2129772",
+    "ingredientLines": [
+        "1 cup orange juice",
+        "1/2 cup lemon juice, freshly squeezed",
+        "1/2 cup C&H\u00ae Quick Dissolve Superfine Sugar or C&H\u00ae Granulated Sugar",
+        "1 (64-oz.) bottle cranberry raspberry juice",
+        "1 (750 mL) bottle dry champagne, chilled",
+        "lemon and orange slices (for garnish)"
+    ],
+    "attribution": {
+        "html": "<a href='http://www.yummly.co/recipe/Gala-Champagne-Punch-2129772'>Gala Champagne Punch recipe</a> information powered by <img alt='Yummly' src='https://static.yummly.co/api-logo.png'/>",
+        "url": "http://www.yummly.co/recipe/Gala-Champagne-Punch-2129772",
+        "text": "Gala Champagne Punch recipes: information powered by Yummly",
+        "logo": "https://static.yummly.co/api-logo.png"
+    },
+    "numberOfServings": 24,
+    "totalTimeInSeconds": 1800,
+    "attributes": {
+        "holiday": [
+            "New Year",
+            "Christmas"
+        ],
+        "course": [
+            "Cocktails",
+            "Beverages"
+        ]
+    },
+    "flavors": {},
+    "rating": 3
+}

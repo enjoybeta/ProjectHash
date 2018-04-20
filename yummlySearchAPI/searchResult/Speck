@@ -1,0 +1,281 @@
+{
+    "criteria": {
+        "q": "S+p+e+c+k",
+        "allowedIngredient": null,
+        "excludedIngredient": null
+    },
+    "matches": [
+        {
+            "imageUrlsBySize": {
+                "90": "https://lh3.googleusercontent.com/v61DlpZSsVDKrDKIR7K6QicOlM-OWuoP40TMPco8fVk4GsD7HA4n5LUBz_3XBvlpPtbhIHu1aUmkEbtyyvq8=s90-c"
+            },
+            "sourceDisplayName": "Gemma's Bigger Bolder Baking",
+            "ingredients": [
+                "all-purpose flour",
+                "baking powder",
+                "baking soda",
+                "white sugar",
+                "kosher salt",
+                "eggs",
+                "buttermilk",
+                "vanilla extract",
+                "melted butter"
+            ],
+            "id": "Make-Perfect-Pancakes-1474421",
+            "smallImageUrls": [
+                "https://lh3.googleusercontent.com/Is8rkgANL4ujKwy_GcmiBEB_luSKj7DFxiJuk08zhUp2zhsSV5PEvuKLEqElKc79jCj06v7jkKXiznckw4Qo=s90"
+            ],
+            "recipeName": "Make Perfect Pancakes",
+            "totalTimeInSeconds": 1500,
+            "attributes": {
+                "course": [
+                    "Breakfast and Brunch"
+                ],
+                "cuisine": [
+                    "Kid-Friendly"
+                ]
+            },
+            "flavors": {
+                "piquant": 0.0,
+                "meaty": 0.16666666666666666,
+                "bitter": 0.6666666666666666,
+                "sweet": 0.5,
+                "sour": 0.16666666666666666,
+                "salty": 0.8333333333333334
+            },
+            "rating": 4
+        },
+        {
+            "recipeName": "Gingerbread House",
+            "ingredients": [
+                "butter",
+                "dark brown sugar",
+                "light molasses",
+                "cinnamon",
+                "ground ginger",
+                "ground cloves",
+                "baking soda",
+                "all-purpose flour",
+                "water",
+                "white chocolate",
+                "gumdrops",
+                "peppermint",
+                "licorice",
+                "powdered sugar",
+                "large egg whites",
+                "almond extract"
+            ],
+            "totalTimeInSeconds": 5400,
+            "sourceDisplayName": "Food Network",
+            "id": "Gingerbread-House-Food-Network-284013",
+            "rating": 5,
+            "flavors": null,
+            "attributes": {
+                "course": [
+                    "Desserts"
+                ],
+                "holiday": [
+                    "Christmas"
+                ]
+            }
+        },
+        {
+            "imageUrlsBySize": {
+                "90": "http://lh3.googleusercontent.com/FDUiKA2y9xzCGzeFwYxMrLwlDKlWyIJ9xKO09TDl-BA17A3aBAc17_kWLXf_MIZn3ROnYe3nmag9qO9CRaZg=s90-c"
+            },
+            "sourceDisplayName": "Nic's Nutrition",
+            "ingredients": [
+                "sweet potatoes",
+                "whitefish fillets",
+                "flour",
+                "eggs",
+                "porridge oats",
+                "black pepper",
+                "frozen peas",
+                "tomato ketchup",
+                "cooking spray",
+                "oats",
+                "vegetables",
+                "fish"
+            ],
+            "id": "Healthy-Fish-_-Chips-Recipe-_FitTeam14-October-1087639",
+            "smallImageUrls": [
+                "http://lh3.googleusercontent.com/v2WR2mbpcXMySYBKP70d1SFtrEa07JCcF6LvVf-0Y_FZYKimN7o71xFkNaIU3mjJ1Pf_tDCDIwZfxXyI2rkkLyY=s90"
+            ],
+            "recipeName": "Healthy Fish & Chips Recipe \u2013 #FitTeam14 October",
+            "totalTimeInSeconds": 2700,
+            "attributes": {
+                "course": [
+                    "Lunch",
+                    "Main Dishes"
+                ]
+            },
+            "flavors": null,
+            "rating": 4
+        },
+        {
+            "imageUrlsBySize": {
+                "90": "http://lh3.googleusercontent.com/jhMPs6GgMvskXoZIUYBpi5Mdl2y9V94C9XWVBUqNqkGiF4Demt25MF12hCm6MDzyoggId6GNAoaPh1_BubQn3w=s90-c"
+            },
+            "sourceDisplayName": "Lecker",
+            "ingredients": [
+                "Filoteig",
+                "Dill",
+                "durchwachsener Speck",
+                "\u00d6l",
+                "Sauerkraut",
+                "K\u00fcmmelsamen",
+                "Salz",
+                "Pfeffer",
+                "Zucker",
+                "Ei",
+                "Mehl",
+                "Kopfsalat",
+                "Tomate",
+                "Weissweinessig",
+                "Senf"
+            ],
+            "id": "Sauerkrauttaschen-922469",
+            "smallImageUrls": [
+                "http://lh3.googleusercontent.com/VqrK8eofsV3m1mtWfSuYdtYTP5sLhW8QZ5XEoghqnNmgvqqxJ46W4sRZ27T9Hv5RcaQSLQ3k9SrqrXc2Bhd1vg=s90"
+            ],
+            "recipeName": "Sauerkrauttaschen",
+            "totalTimeInSeconds": 3600,
+            "attributes": {},
+            "flavors": {
+                "sweet": 0.16666666666666666,
+                "piquant": 0.16666666666666666,
+                "sour": 0.5,
+                "salty": 0.16666666666666666,
+                "meaty": 0.16666666666666666,
+                "bitter": 0.16666666666666666
+            },
+            "rating": 3
+        },
+        {
+            "imageUrlsBySize": {
+                "90": "http://lh3.googleusercontent.com/5VNpkXITbXATd6mr3I9TEaLazGvVGSiVcwZxPsmamuIrAEg4eMRqFyeIw3Pbvzo0iRzG730mQvLYMZHGUhDDrA=s90-c"
+            },
+            "sourceDisplayName": "Lecker",
+            "ingredients": [
+                "Birne",
+                "Marille",
+                "Hefe",
+                "Milch",
+                "weiche Butter",
+                "Mehl",
+                "Fruchtzucker",
+                "Vanilleschote",
+                "Salz",
+                "Ei",
+                "Fett",
+                "Mascarpone",
+                "magerquark",
+                "Zitronensaft",
+                "S\u00fc\u00dfstoff",
+                "Zitronenmelisse"
+            ],
+            "id": "Mascarpone-Obstkuchen-_Diabetiker_-926660",
+            "smallImageUrls": [
+                "http://lh3.googleusercontent.com/5fHaaLsVcZ4eUJbWgkCPLSSu1ZNl-24Ing1ssWzg2WUTXln-1Y3hNpMMZxZY5_eXMtMxZ1z4mHzdxDGuMp-jItg=s90"
+            ],
+            "recipeName": "Mascarpone-Obstkuchen (Diabetiker)",
+            "totalTimeInSeconds": 3600,
+            "attributes": {
+                "course": [
+                    "Desserts"
+                ]
+            },
+            "flavors": {
+                "sweet": 0.3333333333333333,
+                "piquant": 0.0,
+                "sour": 0.3333333333333333,
+                "salty": 0.16666666666666666,
+                "meaty": 0.3333333333333333,
+                "bitter": 0.16666666666666666
+            },
+            "rating": 3
+        },
+        {
+            "imageUrlsBySize": {
+                "90": "http://lh3.googleusercontent.com/eXCdb9rXI4krocoiXDGtR_fLaAr8pVMKNo5-7Rfy_rSLAr7IaqwI55bzlr8ywxhqcaQrSrCcJPisiIO68ALdwQ=s90-c"
+            },
+            "sourceDisplayName": "Chefkoch",
+            "ingredients": [
+                "Tomate",
+                "Zwiebel",
+                "Knoblauch",
+                "Ingwer",
+                "Basilikum",
+                "Oliven\u00f6l",
+                "Salz",
+                "Zucker",
+                "Pfeffer"
+            ],
+            "id": "Bruschetta-Belag-ala-Zaubergaum-mit-frischem-Basilikum_-Koblauch-_-Ingwer-915613",
+            "smallImageUrls": [
+                "http://lh3.googleusercontent.com/kVwYVYcGQ9bSJht7NLrZ-8UOrJFddK8180tkCjTNUKI0rK4HATX5-Lr7SzlxlluITsIh3ElT0U7Lba__wSas=s90"
+            ],
+            "recipeName": "Bruschetta-Belag ala Zaubergaum mit frischem Basilikum, Koblauch & Ingwer",
+            "totalTimeInSeconds": 1800,
+            "attributes": {},
+            "flavors": {
+                "sweet": 0.16666666666666666,
+                "piquant": 0.0,
+                "sour": 0.5,
+                "salty": 0.5,
+                "meaty": 0.5,
+                "bitter": 0.16666666666666666
+            },
+            "rating": 3
+        },
+        {
+            "imageUrlsBySize": {
+                "90": "http://lh3.googleusercontent.com/GztqikYwqFNEFV5ovQpR_40tGVTXa8pUZHpEDZ8GKVvMu2aVdqjDVOFcjm1aWf6Ts074LbHoHf_ErF1jQhtv2w=s90-c"
+            },
+            "sourceDisplayName": "Nic's Nutrition",
+            "ingredients": [
+                "ground almonds",
+                "coconut oil",
+                "honey",
+                "vanilla",
+                "cinnamon",
+                "baking powder",
+                "salt",
+                "cacao nibs",
+                "cocoa powder",
+                "nuts",
+                "chocolate"
+            ],
+            "id": "Almond-Cookie-Bites-FitTeam14-January-1087673",
+            "smallImageUrls": [
+                "http://lh3.googleusercontent.com/BrhRSWAAShe8GTeVJ8oj8Otzr6b-fOM01qlS29REpXFHa9YMhPaGHKpwqsVToG_qJ9umQ2ABhxKo8WDX2gSStw=s90"
+            ],
+            "recipeName": "Almond Cookie Bites \u2013 FitTeam14 January",
+            "totalTimeInSeconds": 900,
+            "attributes": {
+                "course": [
+                    "Desserts",
+                    "Lunch"
+                ]
+            },
+            "flavors": {
+                "piquant": 0.0,
+                "meaty": 0.8333333333333334,
+                "bitter": 0.8333333333333334,
+                "sweet": 0.8333333333333334,
+                "sour": 0.16666666666666666,
+                "salty": 0.8333333333333334
+            },
+            "rating": 4
+        }
+    ],
+    "facetCounts": {},
+    "totalMatchCount": 7,
+    "attribution": {
+        "html": "Recipe search powered by <a href='http://www.yummly.co/recipes'><img alt='Yummly' src='https://static.yummly.co/api-logo.png'/></a>",
+        "url": "http://www.yummly.co/recipes/",
+        "text": "Recipe search powered by Yummly",
+        "logo": "https://static.yummly.co/api-logo.png"
+    }
+}

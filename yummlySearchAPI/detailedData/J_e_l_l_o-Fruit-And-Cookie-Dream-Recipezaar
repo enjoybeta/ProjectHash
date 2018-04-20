@@ -1,0 +1,51 @@
+{
+    "yield": "6",
+    "nutritionEstimates": [],
+    "prepTimeInSeconds": 600,
+    "totalTime": "20 min",
+    "images": [
+        {
+            "imageUrlsBySize": {
+                "90": "null=s90-c",
+                "360": "null=s360-c"
+            }
+        }
+    ],
+    "name": "J-E-L-L-O Fruit and Cookie Dream",
+    "source": {
+        "sourceDisplayName": "Food.com",
+        "sourceSiteUrl": "http://www.food.com",
+        "sourceRecipeUrl": "http://www.food.com/recipe/j-e-l-l-o-fruit-and-cookie-dream-280181"
+    },
+    "prepTime": "10 Min",
+    "id": "J_e_l_l_o-Fruit-And-Cookie-Dream-Recipezaar",
+    "ingredientLines": [
+        "2 cups strawberry yogurt",
+        "1 cup strawberry Jell-O gelatin dessert",
+        "3/4 cup Cool Whip",
+        "1 cup blueberries",
+        "1 cup raspberries",
+        "1 cup strawberry",
+        "6 Oreo cookies, chopped"
+    ],
+    "cookTime": "10 Min",
+    "attribution": {
+        "html": "<a href='http://www.yummly.co/recipe/J_e_l_l_o-Fruit-And-Cookie-Dream-Recipezaar'>J-E-L-L-O Fruit and Cookie Dream recipe</a> information powered by <img alt='Yummly' src='https://static.yummly.co/api-logo.png'/>",
+        "url": "http://www.yummly.co/recipe/J_e_l_l_o-Fruit-And-Cookie-Dream-Recipezaar",
+        "text": "J-E-L-L-O Fruit and Cookie Dream recipes: information powered by Yummly",
+        "logo": "https://static.yummly.co/api-logo.png"
+    },
+    "numberOfServings": 6,
+    "totalTimeInSeconds": 1200,
+    "attributes": {
+        "course": [
+            "Desserts"
+        ],
+        "cuisine": [
+            "Kid-Friendly"
+        ]
+    },
+    "cookTimeInSeconds": 600,
+    "flavors": {},
+    "rating": 2
+}

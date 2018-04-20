@@ -28,7 +28,11 @@
             ],
             "recipeName": "Kirsch-Streuselkuchen",
             "totalTimeInSeconds": 5400,
-            "attributes": {},
+            "attributes": {
+                "course": [
+                    "Desserts"
+                ]
+            },
             "flavors": null,
             "rating": 3
         },
@@ -53,7 +57,11 @@
             ],
             "recipeName": "Kirsch-Marzipan-Strudel",
             "totalTimeInSeconds": 4500,
-            "attributes": {},
+            "attributes": {
+                "course": [
+                    "Desserts"
+                ]
+            },
             "flavors": null,
             "rating": 3
         },
@@ -83,7 +91,11 @@
             ],
             "recipeName": "Erdbeertorte mit Zitronenbuttermilch",
             "totalTimeInSeconds": 4500,
-            "attributes": {},
+            "attributes": {
+                "course": [
+                    "Desserts"
+                ]
+            },
             "flavors": null,
             "rating": 3
         },
@@ -114,7 +126,14 @@
             "recipeName": "Sauerkraut-Pfannkuchen",
             "totalTimeInSeconds": 4500,
             "attributes": {},
-            "flavors": null,
+            "flavors": {
+                "sweet": 0.16666666666666666,
+                "piquant": 0.16666666666666666,
+                "sour": 0.3333333333333333,
+                "salty": 0.5,
+                "meaty": 0.3333333333333333,
+                "bitter": 0.5
+            },
             "rating": 3
         },
         {
@@ -144,7 +163,11 @@
             ],
             "recipeName": "Erdbeer-Sahne-Creme-Torte",
             "totalTimeInSeconds": 4500,
-            "attributes": {},
+            "attributes": {
+                "course": [
+                    "Desserts"
+                ]
+            },
             "flavors": null,
             "rating": 3
         },
@@ -183,6 +206,41 @@
         },
         {
             "imageUrlsBySize": {
+                "90": "http://lh3.googleusercontent.com/SdRAqcFlg0tgKrpyJitjhM4UFmw-KaUf2i4OjQgVivbDF1zaad90zTwXUYXh5kP5A6UhLAQOaCJYfEe9USgH=s90-c"
+            },
+            "sourceDisplayName": "Chefkoch",
+            "ingredients": [
+                "Mehl",
+                "Hefe",
+                "Salz",
+                "Zucker",
+                "\u00d6l",
+                "Wasser",
+                "Ei"
+            ],
+            "id": "Sonntagsbrotchen-aus-Hefeteig-948251",
+            "smallImageUrls": [
+                "http://lh3.googleusercontent.com/lsHyA-MU_qYXXKd7z8x80aH61vr5NQpXg-mwh4o6g1T6FLIWwxUhQXG4Q58_dyqmCULo3grZ9kRCsKZhXxJteoI=s90"
+            ],
+            "recipeName": "Sonntagsbro\u0308tchen aus Hefeteig",
+            "totalTimeInSeconds": 1800,
+            "attributes": {
+                "course": [
+                    "Desserts"
+                ]
+            },
+            "flavors": {
+                "sweet": 0.16666666666666666,
+                "piquant": 0.0,
+                "sour": 0.16666666666666666,
+                "salty": 0.16666666666666666,
+                "meaty": 0.16666666666666666,
+                "bitter": 0.16666666666666666
+            },
+            "rating": 3
+        },
+        {
+            "imageUrlsBySize": {
                 "90": "http://lh3.googleusercontent.com/H3UM6ulmQUfgwHAWtMUJp7EJjM5_Ma6gU_ejlfovJuTFZ_YBz5xqBoXkIlTGIFkJrEE3XnhJubMEsIGbMzMqDA=s90-c"
             },
             "sourceDisplayName": "Lecker",
@@ -209,31 +267,11 @@
             ],
             "recipeName": "Erdbeertorte mit Limettencreme",
             "totalTimeInSeconds": 3600,
-            "attributes": {},
-            "flavors": null,
-            "rating": 3
-        },
-        {
-            "imageUrlsBySize": {
-                "90": "http://lh3.googleusercontent.com/SdRAqcFlg0tgKrpyJitjhM4UFmw-KaUf2i4OjQgVivbDF1zaad90zTwXUYXh5kP5A6UhLAQOaCJYfEe9USgH=s90-c"
+            "attributes": {
+                "course": [
+                    "Desserts"
+                ]
             },
-            "sourceDisplayName": "Chefkoch",
-            "ingredients": [
-                "Mehl",
-                "Hefe",
-                "Salz",
-                "Zucker",
-                "\u00d6l",
-                "Wasser",
-                "Ei"
-            ],
-            "id": "Sonntagsbrotchen-aus-Hefeteig-948251",
-            "smallImageUrls": [
-                "http://lh3.googleusercontent.com/lsHyA-MU_qYXXKd7z8x80aH61vr5NQpXg-mwh4o6g1T6FLIWwxUhQXG4Q58_dyqmCULo3grZ9kRCsKZhXxJteoI=s90"
-            ],
-            "recipeName": "Sonntagsbro\u0308tchen aus Hefeteig",
-            "totalTimeInSeconds": 1800,
-            "attributes": {},
             "flavors": null,
             "rating": 3
         },
@@ -308,7 +346,14 @@
             "recipeName": "Lachs-Cre\u0302pes mit Dijon-Creme",
             "totalTimeInSeconds": 2700,
             "attributes": {},
-            "flavors": null,
+            "flavors": {
+                "sweet": 0.16666666666666666,
+                "piquant": 0.3333333333333333,
+                "sour": 0.16666666666666666,
+                "salty": 0.16666666666666666,
+                "meaty": 0.6666666666666666,
+                "bitter": 0.16666666666666666
+            },
             "rating": 3
         }
     ],

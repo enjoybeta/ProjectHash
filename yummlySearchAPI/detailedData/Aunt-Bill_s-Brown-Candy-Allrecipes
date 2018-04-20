@@ -39,7 +39,14 @@
     },
     "numberOfServings": 5,
     "totalTimeInSeconds": 7200,
-    "attributes": {},
+    "attributes": {
+        "course": [
+            "Desserts"
+        ],
+        "holiday": [
+            "Christmas"
+        ]
+    },
     "cookTimeInSeconds": 2700,
     "flavors": {},
     "rating": 5

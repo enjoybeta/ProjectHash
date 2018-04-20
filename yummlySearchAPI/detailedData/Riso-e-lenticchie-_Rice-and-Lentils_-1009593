@@ -1,0 +1,52 @@
+{
+    "yield": "Serves 4-6",
+    "nutritionEstimates": [],
+    "totalTime": "1 hr",
+    "images": [
+        {
+            "hostedSmallUrl": "http://lh4.ggpht.com/fgTd-kN4mQv74LSgE_mnBSVGQ3oKwPYfMS9pTQ-B1W8Qu8S2CL2x6hjOQmM0dXYQFY3xcKbc2xvAZsVBPZ0vVy8=s90",
+            "hostedMediumUrl": "http://lh4.ggpht.com/fgTd-kN4mQv74LSgE_mnBSVGQ3oKwPYfMS9pTQ-B1W8Qu8S2CL2x6hjOQmM0dXYQFY3xcKbc2xvAZsVBPZ0vVy8=s180",
+            "hostedLargeUrl": "http://lh4.ggpht.com/fgTd-kN4mQv74LSgE_mnBSVGQ3oKwPYfMS9pTQ-B1W8Qu8S2CL2x6hjOQmM0dXYQFY3xcKbc2xvAZsVBPZ0vVy8=s360",
+            "imageUrlsBySize": {
+                "90": "http://lh6.ggpht.com/YQUpGmXzZIcDXk5Ao59xNjfVZq9W1-_AacQ2UWgajjs21wFhHM4mKoOdZHjjDCL0CPtyprl8LT_IsiA8mEsTSA=s90-c",
+                "360": "http://lh6.ggpht.com/YQUpGmXzZIcDXk5Ao59xNjfVZq9W1-_AacQ2UWgajjs21wFhHM4mKoOdZHjjDCL0CPtyprl8LT_IsiA8mEsTSA=s360-c"
+            }
+        }
+    ],
+    "name": "Riso e lenticchie (Rice and Lentils)",
+    "source": {
+        "sourceDisplayName": "Memorie di Angelina",
+        "sourceSiteUrl": "memoriediangelina.com",
+        "sourceRecipeUrl": "http://memoriediangelina.com/2015/01/09/rice-and-lentils/"
+    },
+    "id": "Riso-e-lenticchie-_Rice-and-Lentils_-1009593",
+    "ingredientLines": [
+        "250g (8 oz) dried lentils, soaked overnight (see Notes)",
+        "250g (8 oz) rice (see Notes)",
+        "100g (3-1/2 oz) pancetta, diced",
+        "1 medium onion, finely chopped",
+        "1-2 cloves of garlic, finely chopped",
+        "2-3 canned tomatoes, chopped or simply crushed in your hand (optional)",
+        "A small sprig of fresh rosemary (optional)",
+        "Lard or olive oil",
+        "Broth or water, q.b.",
+        "Best-quality olive oil",
+        "Grated pecorino or Parmesan cheese",
+        "Freshly grated black pepper"
+    ],
+    "attribution": {
+        "html": "<a href='http://www.yummly.co/recipe/Riso-e-lenticchie-_Rice-and-Lentils_-1009593'>Riso e lenticchie (Rice and Lentils) recipe</a> information powered by <img alt='Yummly' src='https://static.yummly.co/api-logo.png'/>",
+        "url": "http://www.yummly.co/recipe/Riso-e-lenticchie-_Rice-and-Lentils_-1009593",
+        "text": "Riso e lenticchie (Rice and Lentils) recipes: information powered by Yummly",
+        "logo": "https://static.yummly.co/api-logo.png"
+    },
+    "numberOfServings": 5,
+    "totalTimeInSeconds": 3600,
+    "attributes": {
+        "course": [
+            "Main Dishes"
+        ]
+    },
+    "flavors": {},
+    "rating": 4
+}

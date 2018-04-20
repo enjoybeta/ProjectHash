@@ -1,0 +1,56 @@
+{
+    "criteria": {
+        "q": "S+a+l+a+t+b+l+\u00e4+t+t+c+h+e+n",
+        "allowedIngredient": null,
+        "excludedIngredient": null
+    },
+    "matches": [
+        {
+            "imageUrlsBySize": {
+                "90": "http://lh3.googleusercontent.com/yaGaEjcAtq9hSFHSM9xT_D7W2dLd7a4cD1EycGO5oJtZRntgLGI1O-A61OpZZNgbWDfTwwM8mMRK_AWHODODpg=s90-c"
+            },
+            "sourceDisplayName": "Healthy Slow Cooking",
+            "ingredients": [
+                "sliced almonds",
+                "vodka",
+                "water",
+                "sugar",
+                "brandy",
+                "rosewater",
+                "orange",
+                "almond extract",
+                "xanthan gum",
+                "light rum",
+                "dark rum",
+                "fresh lime juice",
+                "orgeat syrup",
+                "orange cura\u00e7ao",
+                "mint sprigs",
+                "cocktail cherries",
+                "lime wedges"
+            ],
+            "id": "Orgeat-Syrup-from-Shake_-Stir_-Pour-1286726",
+            "smallImageUrls": [
+                "http://lh3.googleusercontent.com/UYnr8mTYzN1Hai4nS5uj_gJesX5zQmStMYR3BSglvNOxb5rhR3-i59-bBL2BKCFH6eIxzpm0Ab28tKrxyapitSo=s90"
+            ],
+            "recipeName": "Orgeat Syrup from Shake, Stir, Pour",
+            "totalTimeInSeconds": 1200,
+            "attributes": {
+                "course": [
+                    "Beverages",
+                    "Cocktails"
+                ]
+            },
+            "flavors": null,
+            "rating": 4
+        }
+    ],
+    "facetCounts": {},
+    "totalMatchCount": 1,
+    "attribution": {
+        "html": "Recipe search powered by <a href='http://www.yummly.co/recipes'><img alt='Yummly' src='https://static.yummly.co/api-logo.png'/></a>",
+        "url": "http://www.yummly.co/recipes/",
+        "text": "Recipe search powered by Yummly",
+        "logo": "https://static.yummly.co/api-logo.png"
+    }
+}

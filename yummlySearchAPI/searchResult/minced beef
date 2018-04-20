@@ -1,0 +1,129 @@
+{
+    "criteria": {
+        "q": "m+i+n+c+e+d+ +b+e+e+f",
+        "allowedIngredient": null,
+        "excludedIngredient": null
+    },
+    "matches": [
+        {
+            "imageUrlsBySize": {
+                "90": "https://lh3.googleusercontent.com/T2tlV7mUKijyf2OsFUKQtTK3xJkMxN3FOGCxatAPwQtrvKKpnmDEA6wmPiWD5BfQHsUQMzbHRDujQgYcRVjgnBc=s90-c"
+            },
+            "sourceDisplayName": "Bake For Happy Kids",
+            "ingredients": [
+                "oil",
+                "milk",
+                "egg yolks",
+                "vanilla bean paste",
+                "cake flour",
+                "cocoa powder",
+                "egg whites",
+                "sugar",
+                "caster sugar",
+                "corn flour",
+                "salt",
+                "white chocolate"
+            ],
+            "id": "Hokkaido-Chocolate-Chiffon-Cupcakes-with-Dark-and-White-Chocolate-Custard-Cream--2310780",
+            "smallImageUrls": [
+                "https://lh3.googleusercontent.com/kXSgmG5qULE0QfXvxPVvO7s36DaebZp5sOLzTYF6vNWIoh1xeOPIz7EKpX5K1xq2rkiIu0FhEhCtLZUWrLV1fg=s90"
+            ],
+            "recipeName": "Hokkaido Chocolate Chiffon Cupcakes with Dark and White Chocolate Custard Cream \u5317\u6d77\u9053\u5de7\u514b\u529b\u725b\u5976\u86cb\u7cd5",
+            "totalTimeInSeconds": 4500,
+            "attributes": {
+                "course": [
+                    "Desserts"
+                ]
+            },
+            "flavors": {
+                "piquant": 0.0,
+                "meaty": 0.3333333333333333,
+                "bitter": 0.16666666666666666,
+                "sweet": 0.6666666666666666,
+                "sour": 0.16666666666666666,
+                "salty": 0.16666666666666666
+            },
+            "rating": 4
+        },
+        {
+            "imageUrlsBySize": {
+                "90": "http://lh3.googleusercontent.com/rwRkwOVLyOp7pRbFYgvH9-b3NkLrNVFksm83IgJAVkTKq5mGIPqYWiZdoM9Y4qoV_FBlu_U_WzK7c-fxgs7Z6g=s90-c"
+            },
+            "sourceDisplayName": "Lecker",
+            "ingredients": [
+                "Zucker",
+                "Kirsche",
+                "Schokolade",
+                "Schlabgobers",
+                "Milch",
+                "Nu\u00dfnougat",
+                "Speisest\u00e4rke",
+                "Portwein",
+                "Kirschnektar",
+                "Butter",
+                "Mehl",
+                "Kakaopulver",
+                "Salz",
+                "Honig",
+                "Dessertwein",
+                "Eigelb",
+                "Wei\u00dfwein",
+                "Pistazienkern",
+                "\u00d6l"
+            ],
+            "id": "Schokoladenkrapfen-mit-Kirschen-und-Pistaziensabayon-836894",
+            "smallImageUrls": [
+                "http://lh3.googleusercontent.com/L_3haA9mzKxnyEERQAcpHRpGVl4xadXVyozDyuJu-MBEdD3ECL9ef_c6kv16qBLhrzyzEtgL2dRv_IXYcsH-Ug=s90"
+            ],
+            "recipeName": "Schokoladenkrapfen mit Kirschen und Pistaziensabayon",
+            "totalTimeInSeconds": 3600,
+            "attributes": {
+                "course": [
+                    "Desserts"
+                ]
+            },
+            "flavors": null,
+            "rating": 3
+        },
+        {
+            "recipeName": "Apfel-To\u0308rtchen mit Weinschaum",
+            "ingredients": [
+                "\u00c4pfel",
+                "Zitronensaft",
+                "Zucker",
+                "Mohn",
+                "Butter",
+                "Fett",
+                "Salz",
+                "Backpulver",
+                "Mehl",
+                "Wei\u00dfwein"
+            ],
+            "totalTimeInSeconds": 3600,
+            "sourceDisplayName": "Lecker",
+            "id": "Apfel-Tortchen-mit-Weinschaum-833525",
+            "rating": 3,
+            "flavors": {
+                "sweet": 0.8333333333333334,
+                "piquant": 0.0,
+                "sour": 0.16666666666666666,
+                "salty": 0.16666666666666666,
+                "meaty": 0.16666666666666666,
+                "bitter": 0.16666666666666666
+            },
+            "attributes": {
+                "course": [
+                    "Desserts"
+                ]
+            }
+        }
+    ],
+    "facetCounts": {},
+    "totalMatchCount": 3,
+    "attribution": {
+        "html": "Recipe search powered by <a href='http://www.yummly.co/recipes'><img alt='Yummly' src='https://static.yummly.co/api-logo.png'/></a>",
+        "url": "http://www.yummly.co/recipes/",
+        "text": "Recipe search powered by Yummly",
+        "logo": "https://static.yummly.co/api-logo.png"
+    }
+}

@@ -1,0 +1,51 @@
+{
+    "yield": "2",
+    "nutritionEstimates": [],
+    "prepTimeInSeconds": 900,
+    "totalTime": "15 min",
+    "images": [
+        {
+            "hostedSmallUrl": "http://lh3.googleusercontent.com/Ldg29Ecdk6F0TW8xU46435VAXHWiuYv5jzL2eW0L0f7aFqp3lfadFgv0rfIZMPsEURsPjf0NqmCuu_tLdunj=s90",
+            "hostedMediumUrl": "http://lh3.googleusercontent.com/Ldg29Ecdk6F0TW8xU46435VAXHWiuYv5jzL2eW0L0f7aFqp3lfadFgv0rfIZMPsEURsPjf0NqmCuu_tLdunj=s180",
+            "hostedLargeUrl": "http://lh3.googleusercontent.com/Ldg29Ecdk6F0TW8xU46435VAXHWiuYv5jzL2eW0L0f7aFqp3lfadFgv0rfIZMPsEURsPjf0NqmCuu_tLdunj=s360",
+            "imageUrlsBySize": {
+                "90": "http://lh3.googleusercontent.com/JYaHX37mokDFK1y_b69F43Obo06HPwp0C_MvS2Kon8F-G252af35zMd8U4CNTlLFhCn4NH2ocT1ntS0-aUl2Tw=s90-c",
+                "360": "http://lh3.googleusercontent.com/JYaHX37mokDFK1y_b69F43Obo06HPwp0C_MvS2Kon8F-G252af35zMd8U4CNTlLFhCn4NH2ocT1ntS0-aUl2Tw=s360-c"
+            }
+        }
+    ],
+    "name": "Ru\u0308hrei a la Maja",
+    "source": {
+        "sourceDisplayName": "Chefkoch",
+        "sourceSiteUrl": "chefkoch.de",
+        "sourceRecipeUrl": "http://www.chefkoch.de/rezepte/1345171239280102/Ruehrei-a-la-Maja.html"
+    },
+    "prepTime": "15 Min",
+    "id": "Ruhrei-a-la-Maja-955360",
+    "ingredientLines": [
+        "4 m.-gro\u00dfe Ei(er)",
+        "2 Prisen Pfeffer, wei\u00df und schwarz",
+        "2 Prisen Salz",
+        "1 TL Paprikapulver",
+        "3 Prisen Fondor",
+        "75 ml Milch",
+        "1 Pck. Schinken, gew\u00fcrfelt ODER:",
+        "200 g Schinken, roher ODER:",
+        "Salami",
+        "2 EL Oliven\u00f6l",
+        "150 g Champignons",
+        "1 kl. Bund Schnittlauch",
+        "evtl. K\u00e4se"
+    ],
+    "attribution": {
+        "html": "<a href='http://www.yummly.co/recipe/Ruhrei-a-la-Maja-955360'>Ru\u0308hrei a la Maja recipe</a> information powered by <img alt='Yummly' src='https://static.yummly.co/api-logo.png'/>",
+        "url": "http://www.yummly.co/recipe/Ruhrei-a-la-Maja-955360",
+        "text": "Ru\u0308hrei a la Maja recipes: information powered by Yummly",
+        "logo": "https://static.yummly.co/api-logo.png"
+    },
+    "numberOfServings": 2,
+    "totalTimeInSeconds": 900,
+    "attributes": {},
+    "flavors": {},
+    "rating": 3
+}

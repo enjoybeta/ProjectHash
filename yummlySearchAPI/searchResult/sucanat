@@ -1,0 +1,367 @@
+{
+    "criteria": {
+        "q": "s+u+c+a+n+a+t",
+        "allowedIngredient": null,
+        "excludedIngredient": null
+    },
+    "matches": [
+        {
+            "imageUrlsBySize": {
+                "90": "http://lh5.ggpht.com/wgPDNc5HUKf0KGrtULssr_gyyYUs13zhyn972bvh_ROWMNruls7lo6U0nGKixcu0SoeIrnN0x1-DReraP22Hbw=s90-c"
+            },
+            "sourceDisplayName": "Kalyn's Kitchen",
+            "ingredients": [
+                "sweet potatoes",
+                "red onion",
+                "olive oil",
+                "seasoning",
+                "feta cheese"
+            ],
+            "id": "Roasted-Sweet-Potatoes-and-Red-Onions-with-Feta-471055",
+            "smallImageUrls": [
+                "http://lh5.ggpht.com/XerjUEjAjKq1X5Sgd4CTqjGnqe-QVfX1HAHl5tGL-562Qvt-y9rbKNAMmIPTJ2N-2yVVV--WHpp_jobYLsJCaQ=s90"
+            ],
+            "recipeName": "Roasted Sweet Potatoes and Red Onions with Feta",
+            "totalTimeInSeconds": 4200,
+            "attributes": {
+                "course": [
+                    "Side Dishes"
+                ],
+                "holiday": [
+                    "Sunday Lunch"
+                ]
+            },
+            "flavors": {
+                "piquant": 0.0,
+                "meaty": 0.16666666666666666,
+                "bitter": 0.16666666666666666,
+                "sweet": 0.3333333333333333,
+                "sour": 0.3333333333333333,
+                "salty": 0.16666666666666666
+            },
+            "rating": 5
+        },
+        {
+            "imageUrlsBySize": {
+                "90": "https://lh3.googleusercontent.com/qZgXRi2M6ZFE7cg12TCftEni5z9vYVmZhPecTSxexgnVbXs05kVA2qH6h362GgF22G7vZC7c7OFXxjITs320Yg=s90-c"
+            },
+            "sourceDisplayName": "Southern Bite",
+            "ingredients": [
+                "self rising flour",
+                "firmly packed brown sugar",
+                "cinnamon",
+                "melted butter",
+                "milk",
+                "eggs",
+                "vanilla",
+                "apples",
+                "chopped pecans",
+                "flour"
+            ],
+            "id": "Apple-Cinnamon-Crunch-Muffins-_Advantium-Recipe_-1820616",
+            "smallImageUrls": [
+                "https://lh3.googleusercontent.com/lpI-67Sp4sZISZDaUKBgsqeailaXNTNzzdvB9snfAEQfwnLXSeqinJ0lhzRLZo4JkHH4rm7BHlpNuHO6z8Xf=s90"
+            ],
+            "recipeName": "Apple Cinnamon Crunch Muffins (Advantium Recipe)",
+            "totalTimeInSeconds": 1440,
+            "attributes": {
+                "course": [
+                    "Breakfast and Brunch",
+                    "Breads"
+                ]
+            },
+            "flavors": {
+                "piquant": 0.0,
+                "meaty": 0.16666666666666666,
+                "bitter": 0.16666666666666666,
+                "sweet": 0.6666666666666666,
+                "sour": 0.16666666666666666,
+                "salty": 0.3333333333333333
+            },
+            "rating": 4
+        },
+        {
+            "imageUrlsBySize": {
+                "90": "http://lh4.ggpht.com/fQ-X54mbr1f7pU_xs5aGjh8KP1EIi7lzbnXH5elOGUTEmk0FY9yu5A2mJZVXloJIZbi4nBGSQyWBGL103HIGjw=s90-c"
+            },
+            "sourceDisplayName": "Passionated Cook",
+            "ingredients": [
+                "apples",
+                "ground cinnamon",
+                "sugar"
+            ],
+            "id": "Baked-Cinnamon-Apple-Chips-1024848",
+            "smallImageUrls": [
+                "http://lh6.ggpht.com/iSkr6MYtvcpAZesbprl3FtEl5VebXsF0Lzx_HqNddV58-iOVzUOuzPX6E2YcI3wJzG8YJvTp3SEKtahiM9i-mv8=s90"
+            ],
+            "recipeName": "Baked Cinnamon Apple Chips",
+            "totalTimeInSeconds": 5100,
+            "attributes": {
+                "course": [
+                    "Desserts",
+                    "Lunch",
+                    "Snacks"
+                ]
+            },
+            "flavors": {
+                "piquant": 0.0,
+                "meaty": 0.0,
+                "bitter": 0.16666666666666666,
+                "sweet": 0.6666666666666666,
+                "sour": 0.3333333333333333,
+                "salty": 0.0
+            },
+            "rating": 4
+        },
+        {
+            "imageUrlsBySize": {
+                "90": "http://lh4.ggpht.com/c-SL6dkUPFaHtLi3h5SeIi2myT3lb1PPuiFuvC09pSJdHsmv6ddEP6FrfQ1smQGvteHteT8QaWzfFRPe2kkLuOI=s90-c"
+            },
+            "sourceDisplayName": "Kalyn's Kitchen",
+            "ingredients": [
+                "orange",
+                "sweet potatoes",
+                "herbs",
+                "feta cheese",
+                "fat free greek yogurt",
+                "greek seasoning",
+                "green onions"
+            ],
+            "id": "Sweet-Potato-Appetizer-Bites-with-Feta-and-Green-Onion-961718",
+            "smallImageUrls": [
+                "http://lh5.ggpht.com/ZyH4BqzQ4bC86kShXhky08q4rJcGqXTRIQT9oJsQbtplokgT1AZoV26Jbv5wjAxLm7fN-5zCBhOkshdHcpNgeA=s90"
+            ],
+            "recipeName": "Sweet Potato Appetizer Bites with Feta and Green Onion",
+            "totalTimeInSeconds": 2100,
+            "attributes": {
+                "course": [
+                    "Appetizers",
+                    "Lunch"
+                ]
+            },
+            "flavors": null,
+            "rating": 4
+        },
+        {
+            "imageUrlsBySize": {
+                "90": "http://lh4.ggpht.com/JAFKgMYzYiMntoTCi6Zt2gm-SPExSUiWXyvYHCG1wG9kpPTTuqBJk18waZ8sLSSrbpQHn1bArquBlruiXZYz=s90-c"
+            },
+            "sourceDisplayName": "Kalyn's Kitchen",
+            "ingredients": [
+                "sweet potatoes",
+                "olive oil",
+                "light sour cream",
+                "butter",
+                "fresh lime juice",
+                "ground chipotle chile pepper",
+                "salt",
+                "ground black pepper",
+                "sliced green onions"
+            ],
+            "id": "Twice-baked-sweet-potato-cups-with-sour-cream_-chipotle_-and-lime-309353",
+            "smallImageUrls": [
+                "http://lh4.ggpht.com/T3jJ5Ms0tB6KKgGceh_0462cNfRd3i9I_qrlX6sUvGUKNA9gjPYybejiP3YBc9iWmqBU6pWFWngNFsysTarysQ=s90"
+            ],
+            "recipeName": "Twice-Baked Sweet Potato Cups with Sour Cream, Chipotle, and Lime",
+            "totalTimeInSeconds": 5100,
+            "attributes": {
+                "course": [
+                    "Side Dishes"
+                ]
+            },
+            "flavors": null,
+            "rating": 5
+        },
+        {
+            "imageUrlsBySize": {
+                "90": "http://lh3.ggpht.com/4Qrs0_CVke2ZmSu9OJTsPHtSLBQlDBnEw3fARyXI4eylApd-pKmU3v1jMXwVwP6f8i685VrpIaeUZbKpvwIs9g=s90-c"
+            },
+            "sourceDisplayName": "Kalyn's Kitchen",
+            "ingredients": [
+                "sweet potatoes",
+                "garbanzo beans",
+                "lemon juice",
+                "sauce",
+                "extra-virgin olive oil",
+                "ground cumin",
+                "minced garlic",
+                "salt",
+                "ground black pepper",
+                "water",
+                "paprika"
+            ],
+            "id": "Recipe-for-Sweet-Potato-Hummus-with-Olive-Oil-and-Sumac-1020089",
+            "smallImageUrls": [
+                "http://lh3.ggpht.com/ivHKXyhOy_pegqPAd31rOIwPDwjJGwPDQAbsIR5D2eLDBu2PH3rTS4fqutjDsg_GNL6NFtY-3S9KnANNFjL_Mw=s90"
+            ],
+            "recipeName": "Recipe for Sweet Potato Hummus with Olive Oil and Sumac",
+            "totalTimeInSeconds": 600,
+            "attributes": {
+                "course": [
+                    "Appetizers",
+                    "Lunch"
+                ]
+            },
+            "flavors": {
+                "piquant": 0.16666666666666666,
+                "meaty": 0.3333333333333333,
+                "bitter": 0.6666666666666666,
+                "sweet": 0.5,
+                "sour": 0.3333333333333333,
+                "salty": 0.16666666666666666
+            },
+            "rating": 5
+        },
+        {
+            "imageUrlsBySize": {
+                "90": "https://lh3.googleusercontent.com/ZGUfAd09R7_kxGHofNjqig9u-VJQsS9KKnSFUcgI3oC6bn_bM_307Pwvs4JIv-j481OHxfsZ8fDo5eneWO3cgA=s90-c"
+            },
+            "sourceDisplayName": "The Doctor's Kitchen",
+            "ingredients": [
+                "olive oil",
+                "potatoes",
+                "salt",
+                "pepper",
+                "fresh thyme leaves"
+            ],
+            "id": "Roasted-Potato-Stacks-2034710",
+            "smallImageUrls": [
+                "https://lh3.googleusercontent.com/PrJBsiwJaATRFcP4GhvqcgCAw7lWYzGMrtUtut6nX-4BFFpLJ0H_pj-KY2UKPH6zYhhVLw30FIs7pxPROkRzkh4=s90"
+            ],
+            "recipeName": "Roasted Potato Stacks",
+            "totalTimeInSeconds": 4200,
+            "attributes": {},
+            "flavors": {
+                "piquant": 0.0,
+                "meaty": 0.16666666666666666,
+                "bitter": 0.3333333333333333,
+                "sweet": 0.16666666666666666,
+                "sour": 0.8333333333333334,
+                "salty": 0.16666666666666666
+            },
+            "rating": 4
+        },
+        {
+            "imageUrlsBySize": {
+                "90": "https://lh3.googleusercontent.com/gn2wNLbFUhXQoFmdoLFNQLBcg7-mUs5jG265rbC2-zGcnVq_xZpb_TMB33rz9YIUYNjM0OY6Eu2MlTrb-4Uxhw=s90-c"
+            },
+            "sourceDisplayName": "Ice or Rice",
+            "ingredients": [
+                "bread flour",
+                "milk",
+                "sugar",
+                "salt",
+                "butter",
+                "sweetened condensed milk",
+                "yeast"
+            ],
+            "id": "Japanese-Milk-Bread-2261737",
+            "smallImageUrls": [
+                "https://lh3.googleusercontent.com/z15mlsj1fjnSnELeGV6FIfXYtUTRQ4q9-qBAz8mzMBhTwsBY-ukysXnVyyIeXVSwmvzihoTdkhXIn3e4BAYqEQ=s90"
+            ],
+            "recipeName": "Japanese Milk Bread",
+            "totalTimeInSeconds": 12600,
+            "attributes": {
+                "course": [
+                    "Breads"
+                ]
+            },
+            "flavors": {
+                "piquant": 0.0,
+                "meaty": 0.16666666666666666,
+                "bitter": 0.5,
+                "sweet": 0.5,
+                "sour": 0.16666666666666666,
+                "salty": 0.8333333333333334
+            },
+            "rating": 4
+        },
+        {
+            "imageUrlsBySize": {
+                "90": "https://lh3.googleusercontent.com/388v4973p1b816FIGOFzdfW3h9vtsd_8e3IjZpymxY4asPP7980ndOaXOgp_yPTt1vVKohRIy7aFAqNPAdkAKQ=s90-c"
+            },
+            "sourceDisplayName": "Plum Kitchen",
+            "ingredients": [
+                "warm water",
+                "sugar",
+                "dry yeast",
+                "flour",
+                "salt",
+                "milk",
+                "melted butter",
+                "butter",
+                "brown sugar",
+                "cinnamon",
+                "spice mix",
+                "dried fruit"
+            ],
+            "id": "Chelsea-Buns-_not-Man_-U-buns_-2331531",
+            "smallImageUrls": [
+                "https://lh3.googleusercontent.com/7keH8s0DxYNiILGIhMVNIrHwYkjcLsr-60OPq_VEl6fK_-uFJV9XGbDYv4rRzAZO7nGwFVBfDXRPMs0eOlCq=s90"
+            ],
+            "recipeName": "Chelsea Buns (not Man. U buns)",
+            "totalTimeInSeconds": 4200,
+            "attributes": {
+                "course": [
+                    "Breads"
+                ]
+            },
+            "flavors": {
+                "piquant": 0.0,
+                "meaty": 0.16666666666666666,
+                "bitter": 0.5,
+                "sweet": 0.8333333333333334,
+                "sour": 0.16666666666666666,
+                "salty": 0.5
+            },
+            "rating": 4
+        },
+        {
+            "imageUrlsBySize": {
+                "90": "https://lh3.googleusercontent.com/joHvbn6KTow6ZU-hIV8zOF1CUJtyK_G8V8Y9God6oOou1Bduq-4wej10SYa5stmZAZWcIJ-BMQHGYtcbbcGCKVU=s90-c"
+            },
+            "sourceDisplayName": "Little Things Are Big",
+            "ingredients": [
+                "active dry yeast",
+                "sugar",
+                "salt",
+                "flour",
+                "vegetable oil",
+                "water",
+                "baking soda",
+                "sea salt",
+                "black pepper",
+                "seeds",
+                "vegan cheese"
+            ],
+            "id": "Vegan-Soft-Pretzels-1722623",
+            "smallImageUrls": [
+                "https://lh3.googleusercontent.com/ks6EOJFm8F2AQ9vjENPPEtkknG6-ZX19sXepe9UjXUVIhu4pLvV5QijzN_WywsYbi23GZxrSWinABqB6F7tFqw=s90"
+            ],
+            "recipeName": "Vegan Soft Pretzels",
+            "totalTimeInSeconds": 6300,
+            "attributes": {
+                "course": [
+                    "Breads"
+                ]
+            },
+            "flavors": {
+                "sweet": 0.16666666666666666,
+                "piquant": 0.0,
+                "sour": 0.16666666666666666,
+                "salty": 0.8333333333333334,
+                "meaty": 0.16666666666666666,
+                "bitter": 0.8333333333333334
+            },
+            "rating": 4
+        }
+    ],
+    "facetCounts": {},
+    "totalMatchCount": 71,
+    "attribution": {
+        "html": "Recipe search powered by <a href='http://www.yummly.co/recipes'><img alt='Yummly' src='https://static.yummly.co/api-logo.png'/></a>",
+        "url": "http://www.yummly.co/recipes/",
+        "text": "Recipe search powered by Yummly",
+        "logo": "https://static.yummly.co/api-logo.png"
+    }
+}

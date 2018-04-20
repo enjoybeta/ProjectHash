@@ -1,0 +1,50 @@
+{
+    "yield": "Zutaten f\u00fcr ca. 12 St\u00fccke:",
+    "nutritionEstimates": [],
+    "totalTime": "1 hr 15 min",
+    "images": [
+        {
+            "hostedSmallUrl": "http://lh3.googleusercontent.com/rRNBo0GGOF4j5pB2WjzKq5UJMGBzMaqJQ9BjUYzS1-Xge8Li28EcFKuHg4acs03-MHTIQyUmQLWg7AcvDINy=s90",
+            "hostedMediumUrl": "http://lh3.googleusercontent.com/rRNBo0GGOF4j5pB2WjzKq5UJMGBzMaqJQ9BjUYzS1-Xge8Li28EcFKuHg4acs03-MHTIQyUmQLWg7AcvDINy=s180",
+            "hostedLargeUrl": "http://lh3.googleusercontent.com/rRNBo0GGOF4j5pB2WjzKq5UJMGBzMaqJQ9BjUYzS1-Xge8Li28EcFKuHg4acs03-MHTIQyUmQLWg7AcvDINy=s360",
+            "imageUrlsBySize": {
+                "90": "http://lh3.googleusercontent.com/NjkLDpAnQASljpYMRYyaQo9zzIMRvBrPt2ifE4zVwnvVLsZwl0yEcoVZSy54eZo9wSZAQhxRmVNkHaxRjtkz=s90-c",
+                "360": "http://lh3.googleusercontent.com/NjkLDpAnQASljpYMRYyaQo9zzIMRvBrPt2ifE4zVwnvVLsZwl0yEcoVZSy54eZo9wSZAQhxRmVNkHaxRjtkz=s360-c"
+            }
+        }
+    ],
+    "name": "Schneller Apfel-Ka\u0308se-Kuchen",
+    "source": {
+        "sourceDisplayName": "Lecker",
+        "sourceSiteUrl": "lecker.de",
+        "sourceRecipeUrl": "http://www.lecker.de/rezept/536743/Schneller-Apfel-Kaese-Kuchen.html"
+    },
+    "id": "Schneller-Apfel-Kase-Kuchen-922722",
+    "ingredientLines": [
+        "1125 g Sahnequark (40 % Fett i. Tr.)",
+        "250 g Zucker",
+        "3-4 EL Zitronensaft",
+        "5 Eier (Gr\u00f6\u00dfe M)",
+        "1 1/2 Packungen Puddingpulver \"Mandelgeschmack\" (f\u00fcr je 1/2 l Milch, zum Kochen)",
+        "1 1/2 Packungen So\u00dfenpulver \"Vanillegeschmack\" (f\u00fcr je 1/2 l Milch, zum Kochen)",
+        "1 Glas (370 ml) Apfelmus",
+        "250 g Schlagsahne",
+        "1 P\u00e4ckchen Vanillin-Zucker",
+        "Minzebl\u00e4tter zum Verzieren"
+    ],
+    "attribution": {
+        "html": "<a href='http://www.yummly.co/recipe/Schneller-Apfel-Kase-Kuchen-922722'>Schneller Apfel-Ka\u0308se-Kuchen recipe</a> information powered by <img alt='Yummly' src='https://static.yummly.co/api-logo.png'/>",
+        "url": "http://www.yummly.co/recipe/Schneller-Apfel-Kase-Kuchen-922722",
+        "text": "Schneller Apfel-Ka\u0308se-Kuchen recipes: information powered by Yummly",
+        "logo": "https://static.yummly.co/api-logo.png"
+    },
+    "numberOfServings": 12,
+    "totalTimeInSeconds": 4500,
+    "attributes": {
+        "course": [
+            "Desserts"
+        ]
+    },
+    "flavors": {},
+    "rating": 3
+}

@@ -1,0 +1,66 @@
+{
+    "yield": "serves four",
+    "nutritionEstimates": [],
+    "totalTime": "45 min",
+    "images": [
+        {
+            "hostedSmallUrl": "https://lh3.googleusercontent.com/VeghFEx4InlBvpZzyzYnHqT6zh9KQKM7UEw8fYEm6zNx__XRnfyBAGGxfoEL4sE10PcW89WXoWF-uLMCu1ZVw-0=s90",
+            "hostedMediumUrl": "https://lh3.googleusercontent.com/VeghFEx4InlBvpZzyzYnHqT6zh9KQKM7UEw8fYEm6zNx__XRnfyBAGGxfoEL4sE10PcW89WXoWF-uLMCu1ZVw-0=s180",
+            "hostedLargeUrl": "https://lh3.googleusercontent.com/VeghFEx4InlBvpZzyzYnHqT6zh9KQKM7UEw8fYEm6zNx__XRnfyBAGGxfoEL4sE10PcW89WXoWF-uLMCu1ZVw-0=s360",
+            "imageUrlsBySize": {
+                "90": "https://lh3.googleusercontent.com/NB1a9_z17bZxaSbkWBfKCp7virb0BwIDbdF4p08fn0jkQxcirmPTIJsKgqFaKneqH-UF5LaJJ80geRX15vTmrzo=s90-c",
+                "360": "https://lh3.googleusercontent.com/NB1a9_z17bZxaSbkWBfKCp7virb0BwIDbdF4p08fn0jkQxcirmPTIJsKgqFaKneqH-UF5LaJJ80geRX15vTmrzo=s360-c"
+            }
+        }
+    ],
+    "name": "DUROC TONKATSU CURRY",
+    "source": {
+        "sourceDisplayName": "West Coast Prime Meats",
+        "sourceSiteUrl": "westcoastprimemeats.com",
+        "sourceRecipeUrl": "http://www.westcoastprimemeats.com/duroc-tonkatsu-curry-recipe"
+    },
+    "id": "DUROC-TONKATSU-CURRY-1521242",
+    "ingredientLines": [
+        "Four 6-ounce Duroc pork loin chops (about 1 inch thick, no bones)",
+        "One tablespoon each sea salt and ground black pepper",
+        "One-half cup all-purpose flour",
+        "Two eggs, whisked",
+        "One cup panko bread crumbs",
+        "Two quarts canola oil for deep frying",
+        "One medium white onion, peeled, cored and cut in 1/2-inch dice",
+        "One carrot, peeled and cut in 1/2-inch dice",
+        "One-quarter small kabocha squash, skin left on, cut in 1/2-inch dice (to make 1/2 cup)",
+        "One russet potato, peeled and cut in 1/2-inch dice",
+        "Six to eight button mushrooms, rinsed, dried and cut in 1/2-inch dice",
+        "Two cloves garlic, peeled and minced",
+        "Quarter-cup plain yogurt",
+        "Half of an 8.4 ounce package S & B Golden Brand Japanese Curry (see chef's note)",
+        "One quart water",
+        "Two tablespoons salad oil (e.g., canola oil)",
+        "Twelve pieces baby bok choy, washed and patted dry",
+        "Two tablespoons salad oil",
+        "One-half teaspoon each sea salt and ground black pepper",
+        "Four cups steamed white rice",
+        "Four Crispy Pork Chops",
+        "One recipe Tonkatsu Curry Sauce",
+        "One-half cup red pickled ginger, rough chopped"
+    ],
+    "attribution": {
+        "html": "<a href='http://www.yummly.co/recipe/DUROC-TONKATSU-CURRY-1521242'>DUROC TONKATSU CURRY recipe</a> information powered by <img alt='Yummly' src='https://static.yummly.co/api-logo.png'/>",
+        "url": "http://www.yummly.co/recipe/DUROC-TONKATSU-CURRY-1521242",
+        "text": "DUROC TONKATSU CURRY recipes: information powered by Yummly",
+        "logo": "https://static.yummly.co/api-logo.png"
+    },
+    "numberOfServings": 4,
+    "totalTimeInSeconds": 2700,
+    "attributes": {
+        "course": [
+            "Main Dishes"
+        ],
+        "cuisine": [
+            "Asian"
+        ]
+    },
+    "flavors": {},
+    "rating": 3
+}

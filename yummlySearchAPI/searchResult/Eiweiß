@@ -1,0 +1,58 @@
+{
+    "criteria": {
+        "q": "E+i+w+e+i+\u00df",
+        "allowedIngredient": null,
+        "excludedIngredient": null
+    },
+    "matches": [
+        {
+            "imageUrlsBySize": {
+                "90": "http://lh3.ggpht.com/coFMKKBsnGgXEuo6sYy8S6_QlES2dnvWd1ASa1s3wyNcBnosr0VhanQp7cjCB1AJU-Q3vBAZriEr7PKCV6Z9ENc=s90-c"
+            },
+            "sourceDisplayName": "Gal on a Mission",
+            "ingredients": [
+                "all-purpose flour",
+                "corn starch",
+                "baking soda",
+                "sea salt",
+                "unsalted butter",
+                "white sugar",
+                "large eggs",
+                "vanilla extract",
+                "peppermint",
+                "white chocolate chips"
+            ],
+            "id": "Peppermint-White-Chocolate-Cookies-592695",
+            "smallImageUrls": [
+                "http://lh3.ggpht.com/Gx1opgrq9CEPTfkiqnvgXKpyAUehTYphCMKMqM8nLvd8X_7Lic84KCUFkzKfZVJN3yLB5fs7CF-ZYbvYA9i-Fg=s90"
+            ],
+            "recipeName": "Peppermint White Chocolate Cookies",
+            "totalTimeInSeconds": 900,
+            "attributes": {
+                "course": [
+                    "Desserts"
+                ],
+                "cuisine": [
+                    "Kid-Friendly"
+                ]
+            },
+            "flavors": {
+                "piquant": 0.0,
+                "meaty": 0.5,
+                "bitter": 0.16666666666666666,
+                "sweet": 0.8333333333333334,
+                "sour": 0.16666666666666666,
+                "salty": 0.5
+            },
+            "rating": 4
+        }
+    ],
+    "facetCounts": {},
+    "totalMatchCount": 1,
+    "attribution": {
+        "html": "Recipe search powered by <a href='http://www.yummly.co/recipes'><img alt='Yummly' src='https://static.yummly.co/api-logo.png'/></a>",
+        "url": "http://www.yummly.co/recipes/",
+        "text": "Recipe search powered by Yummly",
+        "logo": "https://static.yummly.co/api-logo.png"
+    }
+}

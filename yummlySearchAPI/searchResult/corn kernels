@@ -1,0 +1,85 @@
+{
+    "criteria": {
+        "q": "c+o+r+n+ +k+e+r+n+e+l+s",
+        "allowedIngredient": null,
+        "excludedIngredient": null
+    },
+    "matches": [
+        {
+            "imageUrlsBySize": {
+                "90": "http://lh3.googleusercontent.com/eDVHwgGgYxwmAYwpX1FVG88nTQdkvqyooIgTvPkTuXdByKRLs6wxa6e1dfXZGaof5IRYVm3mLsVpF9KBAjvP=s90-c"
+            },
+            "sourceDisplayName": "Lecker",
+            "ingredients": [
+                "Butter",
+                "Ei",
+                "Milch",
+                "Mehl",
+                "Zucker",
+                "Salz",
+                "Weichsel",
+                "Speisest\u00e4rke",
+                "Zitronenschale",
+                "\u00d6l",
+                "magerquark",
+                "Zitrone",
+                "Schmand",
+                "Eigelb",
+                "Mandelbl\u00e4tter",
+                "Puderzucker"
+            ],
+            "id": "Uberbackener-Palatschinken-823834",
+            "smallImageUrls": [
+                "http://lh3.googleusercontent.com/B_-fYqme2lj9-S9CzthtgIie-yKBK1lX-L01d1pjWUbb5wPpgQ7hmXQADAr3EOHZcR64axeLE-GNPJS3RLB7=s90"
+            ],
+            "recipeName": "U\u0308berbackener Palatschinken",
+            "totalTimeInSeconds": 4500,
+            "attributes": {},
+            "flavors": null,
+            "rating": 3
+        },
+        {
+            "imageUrlsBySize": {
+                "90": "http://lh3.googleusercontent.com/SdRAqcFlg0tgKrpyJitjhM4UFmw-KaUf2i4OjQgVivbDF1zaad90zTwXUYXh5kP5A6UhLAQOaCJYfEe9USgH=s90-c"
+            },
+            "sourceDisplayName": "Chefkoch",
+            "ingredients": [
+                "Mehl",
+                "Hefe",
+                "Salz",
+                "Zucker",
+                "\u00d6l",
+                "Wasser",
+                "Ei"
+            ],
+            "id": "Sonntagsbrotchen-aus-Hefeteig-948251",
+            "smallImageUrls": [
+                "http://lh3.googleusercontent.com/lsHyA-MU_qYXXKd7z8x80aH61vr5NQpXg-mwh4o6g1T6FLIWwxUhQXG4Q58_dyqmCULo3grZ9kRCsKZhXxJteoI=s90"
+            ],
+            "recipeName": "Sonntagsbro\u0308tchen aus Hefeteig",
+            "totalTimeInSeconds": 1800,
+            "attributes": {
+                "course": [
+                    "Desserts"
+                ]
+            },
+            "flavors": {
+                "sweet": 0.16666666666666666,
+                "piquant": 0.0,
+                "sour": 0.16666666666666666,
+                "salty": 0.16666666666666666,
+                "meaty": 0.16666666666666666,
+                "bitter": 0.16666666666666666
+            },
+            "rating": 3
+        }
+    ],
+    "facetCounts": {},
+    "totalMatchCount": 2,
+    "attribution": {
+        "html": "Recipe search powered by <a href='http://www.yummly.co/recipes'><img alt='Yummly' src='https://static.yummly.co/api-logo.png'/></a>",
+        "url": "http://www.yummly.co/recipes/",
+        "text": "Recipe search powered by Yummly",
+        "logo": "https://static.yummly.co/api-logo.png"
+    }
+}

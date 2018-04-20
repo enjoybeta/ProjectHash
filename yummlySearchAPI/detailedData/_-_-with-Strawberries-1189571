@@ -1,0 +1,45 @@
+{
+    "nutritionEstimates": [],
+    "totalTime": "55 min",
+    "images": [
+        {
+            "hostedSmallUrl": "http://lh3.googleusercontent.com/qVg1dlAUASHCLQ4wFVpwZ0D7pK-4K0f9X0xx7Pm7rR8XDY3C9mlBDGUl2cw8C8l5w3bMPeDsqpDE7ZT7hyFOJQ=s90",
+            "hostedMediumUrl": "http://lh3.googleusercontent.com/qVg1dlAUASHCLQ4wFVpwZ0D7pK-4K0f9X0xx7Pm7rR8XDY3C9mlBDGUl2cw8C8l5w3bMPeDsqpDE7ZT7hyFOJQ=s180",
+            "hostedLargeUrl": "http://lh3.googleusercontent.com/qVg1dlAUASHCLQ4wFVpwZ0D7pK-4K0f9X0xx7Pm7rR8XDY3C9mlBDGUl2cw8C8l5w3bMPeDsqpDE7ZT7hyFOJQ=s360",
+            "imageUrlsBySize": {
+                "90": "http://lh3.googleusercontent.com/_bA2L9K_14xK9RoTYi2T76EuzuWIfbwRJrxsg9wcGlWtoPqXjsREgzLT8JD8zfDnck5LfpsEmwRrcnnj06m-hg=s90-c",
+                "360": "http://lh3.googleusercontent.com/_bA2L9K_14xK9RoTYi2T76EuzuWIfbwRJrxsg9wcGlWtoPqXjsREgzLT8JD8zfDnck5LfpsEmwRrcnnj06m-hg=s360-c"
+            }
+        }
+    ],
+    "name": ") ) with Strawberries",
+    "source": {
+        "sourceDisplayName": "Travel For Taste",
+        "sourceSiteUrl": "travel4taste.com",
+        "sourceRecipeUrl": "http://travel4taste.com/2013/04/05/polish-steamed-dumplings-pl-pampuchy-with-strawberries/"
+    },
+    "id": "_-_-with-Strawberries-1189571",
+    "ingredientLines": [
+        "\u2665  1 glass flour (around 135g)",
+        "\u2665  1/2 glass milk (125mL)",
+        "\u2665  1 egg yellow",
+        "\u2665  8g dry yeast",
+        "\u2665  1 spoon melted butter",
+        "\u2665  1 spoon homemade vanilla sugar (can be replaced with regular sugar)"
+    ],
+    "attribution": {
+        "html": "<a href='http://www.yummly.co/recipe/_-_-with-Strawberries-1189571'>) ) with Strawberries recipe</a> information powered by <img alt='Yummly' src='https://static.yummly.co/api-logo.png'/>",
+        "url": "http://www.yummly.co/recipe/_-_-with-Strawberries-1189571",
+        "text": ") ) with Strawberries recipes: information powered by Yummly",
+        "logo": "https://static.yummly.co/api-logo.png"
+    },
+    "numberOfServings": 4,
+    "totalTimeInSeconds": 3300,
+    "attributes": {
+        "course": [
+            "Breads"
+        ]
+    },
+    "flavors": {},
+    "rating": 4
+}

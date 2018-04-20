@@ -1,0 +1,373 @@
+{
+    "criteria": {
+        "q": "s+a+l+s+a",
+        "allowedIngredient": null,
+        "excludedIngredient": null
+    },
+    "matches": [
+        {
+            "imageUrlsBySize": {
+                "90": "https://lh3.googleusercontent.com/5H-XXLjlcddVTLTnkjTfUrZ-sAQvfmwx_o0r7SJE3_ARSB_r1iqE8ce_-dIKiEWRD2FUpDFrVbmoq0nFCBIZ=s90-c"
+            },
+            "sourceDisplayName": "Dinner with Julie",
+            "ingredients": [
+                "black beans",
+                "chili powder",
+                "cumin",
+                "salt",
+                "red onion",
+                "chopped cilantro",
+                "lime juice",
+                "corn tortillas",
+                "canola oil",
+                "feta cheese"
+            ],
+            "id": "Crispy-Black-Bean-_-Feta-Tacos-1850691",
+            "smallImageUrls": [
+                "https://lh3.googleusercontent.com/G4NNvLgxC1rImsHtxc0U7pBiq8V4ALsAyPlQKN8st9AZ8JELIQ-2LdbP-jj3Dfw6XGZCqVnjg3OfPOd-YNWdog=s90"
+            ],
+            "recipeName": "Crispy Black Bean + Feta Tacos",
+            "totalTimeInSeconds": 1500,
+            "attributes": {
+                "course": [
+                    "Main Dishes",
+                    "Lunch"
+                ],
+                "cuisine": [
+                    "Southwestern",
+                    "Mexican"
+                ]
+            },
+            "flavors": {
+                "piquant": 0.5,
+                "meaty": 0.16666666666666666,
+                "bitter": 0.8333333333333334,
+                "sweet": 0.16666666666666666,
+                "sour": 0.16666666666666666,
+                "salty": 0.8333333333333334
+            },
+            "rating": 4
+        },
+        {
+            "imageUrlsBySize": {
+                "90": "https://lh3.googleusercontent.com/rKjpoYY1NKpYVM6F7Gm6SaNELrsSRRqDo44UOI4EhPdm07QX8g44uB4DDFL9aHck0oYHW0wh2Pt3LadbfcLp=s90-c"
+            },
+            "sourceDisplayName": "The Spruce",
+            "ingredients": [
+                "water",
+                "salt",
+                "white vinegar",
+                "brown sugar",
+                "pickling spices",
+                "black pepper",
+                "allspice",
+                "garlic powder",
+                "tarragon"
+            ],
+            "id": "Poultry-Brine-2216523",
+            "smallImageUrls": [
+                "https://lh3.googleusercontent.com/yZ2-W5PRfRy82iIUx5-5z_aEt1-SmzmFnqd9w6s2S2Py9tmDhN-wu875kUMRZgK1L8uKB5zqtaNgO6GqxjvFAQ=s90"
+            ],
+            "recipeName": "Poultry Brine",
+            "totalTimeInSeconds": 3900,
+            "attributes": {},
+            "flavors": null,
+            "rating": 4
+        },
+        {
+            "imageUrlsBySize": {
+                "90": "https://lh3.googleusercontent.com/NYiqbItU_wPggBTXQ5Z1k9Xo-JDKfjVrCyqGoBrDWFyTJ6OE-gR95eVDHKxe2T2e3dPcxIHvbRB7g7gMMZ_g5Q=s90-c"
+            },
+            "sourceDisplayName": "Southern Bite",
+            "ingredients": [
+                "cooked chicken",
+                "instant rice",
+                "cream of chicken soup",
+                "sour cream",
+                "diced onions",
+                "diced tomatoes and green chilies",
+                "chicken broth",
+                "fajita seasoning mix",
+                "Mexican cheese blend"
+            ],
+            "id": "Fajita-Chicken-Casserole---Advantium-240-Wall-Oven-Version-2223892",
+            "smallImageUrls": [
+                "https://lh3.googleusercontent.com/YzmEtbtjEmATC_WIWe37Did14KJWg6xVL17gLCL8bSuNhQATGQjpRmK0f6SoR3Ew1VIrDwQI6SGGm2ikhQPe=s90"
+            ],
+            "recipeName": "Fajita Chicken Casserole - Advantium 240 Wall Oven Version",
+            "totalTimeInSeconds": 1500,
+            "attributes": {
+                "course": [
+                    "Main Dishes"
+                ]
+            },
+            "flavors": {
+                "piquant": 0.16666666666666666,
+                "meaty": 0.3333333333333333,
+                "bitter": 0.5,
+                "sweet": 0.16666666666666666,
+                "sour": 0.16666666666666666,
+                "salty": 0.6666666666666666
+            },
+            "rating": 4
+        },
+        {
+            "imageUrlsBySize": {
+                "90": "https://lh3.googleusercontent.com/gE_IZbQR1hXUKypemzvgCM4zX4HdOPZQlJiM_K2jRibaQnf5_-E8On40eQjWXBb7Gt59nLWhimzJ41IZcDNGjQ=s90-c"
+            },
+            "sourceDisplayName": "Cooking On A Bootstrap",
+            "ingredients": [
+                "dried mushrooms",
+                "salt",
+                "dark soy sauce",
+                "small onion",
+                "clove",
+                "fresh mushrooms",
+                "cooking oil"
+            ],
+            "id": "The-best-mushrooms-youll-ever-eat_-31p-_VEGAN_-2225577",
+            "smallImageUrls": [
+                "https://lh3.googleusercontent.com/voSkNpMueG155x0M7rcJH9QA-OnxTDYUlpcJ3v8y3XOV7mDHbgugS9D_BjzpLlPjy4t6gnKBZ0zf-rS2Jc5hOw=s90"
+            ],
+            "recipeName": "The best mushrooms you\u2019ll ever eat, 31p (VEGAN)",
+            "totalTimeInSeconds": 2700,
+            "attributes": {},
+            "flavors": null,
+            "rating": 4
+        },
+        {
+            "imageUrlsBySize": {
+                "90": "https://lh3.googleusercontent.com/xXI_tRMtM1VyjCwDJ-7oYWzMhEK72ZO1rlKdHuTvcykfIkP2kIJHWsKC09VRM3HWjQH18RLRwyf8QNMd0avNtQ=s90-c"
+            },
+            "sourceDisplayName": "Amanda's Cookin'",
+            "ingredients": [
+                "bananas",
+                "brewed coffee",
+                "milk",
+                "rolled oats",
+                "nut butter"
+            ],
+            "id": "Loaded-Coffee-Smoothie-1579488",
+            "smallImageUrls": [
+                "https://lh3.googleusercontent.com/yM7yf45I0iBjswS2_Qa0l-nqyENumZIQZC8QhnLXbsqv22ZYnrmGYLC5LsRAqOT1f_Jv88EyN6jYc4_KC2bu=s90"
+            ],
+            "recipeName": "Loaded Coffee Smoothie",
+            "totalTimeInSeconds": 900,
+            "attributes": {
+                "course": [
+                    "Breakfast and Brunch",
+                    "Beverages"
+                ]
+            },
+            "flavors": {
+                "piquant": 0.0,
+                "meaty": 1.0,
+                "bitter": 1.0,
+                "sweet": 1.0,
+                "sour": 1.0,
+                "salty": 1.0
+            },
+            "rating": 4
+        },
+        {
+            "imageUrlsBySize": {
+                "90": "https://lh3.googleusercontent.com/tAens1nnbkbtTpRGMMgSHlCdU75CfiikCHq2WhfjBOr7QhkWzqcJM5UKfOa7mncbw__5iqZwP7qvpCu_dWDa9Q=s90-c"
+            },
+            "sourceDisplayName": "The Spruce",
+            "ingredients": [
+                "brown sugar",
+                "paprika",
+                "black pepper",
+                "salt",
+                "chili powder",
+                "garlic powder",
+                "onion powder",
+                "cayenne"
+            ],
+            "id": "Kansas-City-Rib-Rub-2215679",
+            "smallImageUrls": [
+                "https://lh3.googleusercontent.com/jde9pe9vnFBvOHzkkw0ipgkNT_QAlfcQd8Clr5jXs7b36MtYLD-nPdl72_mB2yWCbdxc6-moeNMzS0Saq91bFGA=s90"
+            ],
+            "recipeName": "Kansas City Rib Rub",
+            "totalTimeInSeconds": 1200,
+            "attributes": {
+                "course": [
+                    "Main Dishes"
+                ]
+            },
+            "flavors": {
+                "piquant": 0.8333333333333334,
+                "meaty": 0.16666666666666666,
+                "bitter": 0.8333333333333334,
+                "sweet": 0.8333333333333334,
+                "sour": 0.8333333333333334,
+                "salty": 0.8333333333333334
+            },
+            "rating": 4
+        },
+        {
+            "imageUrlsBySize": {
+                "90": "https://lh3.googleusercontent.com/9Bomp9pDUw9de7V7C6J5CvyC_mgQdBXQ0uk_Etpq9Fcl3ZlITL2ewVLzO4kOCet9MdsgjXo-ECS2U57Rz0FS2A=s90-c"
+            },
+            "sourceDisplayName": "The Girl on Bloor",
+            "ingredients": [
+                "coconut oil",
+                "garlic",
+                "yellow onion",
+                "sweet potatoes",
+                "curry powder",
+                "cumin",
+                "chili powder",
+                "salt",
+                "vegetable broth",
+                "peanut butter",
+                "crushed tomatoes",
+                "chickpeas",
+                "red pepper",
+                "spinach",
+                "chopped cilantro",
+                "peanuts",
+                "basmati rice"
+            ],
+            "id": "Slow-Cooker-African-Peanut-Curry-2344793",
+            "smallImageUrls": [
+                "https://lh3.googleusercontent.com/nxBSGtu5JRc_cYhgkeSQ7etkUUAkAaqj9WtTNYpBJ1-qCOo8gAUNQH-aKUJGgnHNvqOAgG7uUL2TRYnLWYqmEO4=s90"
+            ],
+            "recipeName": "Slow Cooker African Peanut Curry",
+            "totalTimeInSeconds": 22500,
+            "attributes": {
+                "course": [
+                    "Main Dishes"
+                ]
+            },
+            "flavors": {
+                "piquant": 0.16666666666666666,
+                "meaty": 0.16666666666666666,
+                "bitter": 0.3333333333333333,
+                "sweet": 0.16666666666666666,
+                "sour": 0.6666666666666666,
+                "salty": 0.5
+            },
+            "rating": 4
+        },
+        {
+            "imageUrlsBySize": {
+                "90": "https://lh3.googleusercontent.com/WA9w3wXxUa-Qz-tKtH4bG5ckD9vLsHY0UnhuiFrzV3gRrHXEiSwY5VZ5aY47BhtdpSpFQm-aGw_g_T8yhKViDQ=s90-c"
+            },
+            "sourceDisplayName": "The Spruce",
+            "ingredients": [
+                "beef brisket",
+                "brown sugar",
+                "worcestershire sauce",
+                "garlic",
+                "chili powder",
+                "ground black pepper",
+                "yellow mustard",
+                "sea salt",
+                "paprika",
+                "cumin"
+            ],
+            "id": "Oven-Barbecue-Brisket-2133470",
+            "smallImageUrls": [
+                "https://lh3.googleusercontent.com/0iYuZJV89BlCRaHKC2hz6TQPAZkn8e1cYIUPcjmZU-k20sAaH9v1i60mWRTl9GPJ0T871rx5A52hCXUvRoY4rok=s90"
+            ],
+            "recipeName": "Oven Barbecue Brisket",
+            "totalTimeInSeconds": 19800,
+            "attributes": {
+                "course": [
+                    "Main Dishes"
+                ]
+            },
+            "flavors": {
+                "bitter": 1.0,
+                "meaty": 1.0,
+                "piquant": 1.0,
+                "salty": 1.0,
+                "sour": 1.0,
+                "sweet": 1.0
+            },
+            "rating": 4
+        },
+        {
+            "imageUrlsBySize": {
+                "90": "https://lh3.googleusercontent.com/_bLCoWoTFnXse3oRwXi5Zc01zsLBqCl4puqX55gCJJno8O3_Ia-10VODe_UnPHLgh_-2oY1TH2h5bw0C9blTRA=s90-c"
+            },
+            "sourceDisplayName": "The Spruce",
+            "ingredients": [
+                "ketchup",
+                "onions",
+                "water",
+                "chipotle chile",
+                "brown sugar",
+                "oil",
+                "apple cider vinegar",
+                "worcestershire sauce",
+                "garlic",
+                "celery salt",
+                "black pepper"
+            ],
+            "id": "Chipotle-Barbecue-Sauce-2214499",
+            "smallImageUrls": [
+                "https://lh3.googleusercontent.com/vhVsRiNWAyOuZYhUF5FwJS8vGTAYuuYL59J7xfPwmL23rHcgLqMzeatx0vkl7H7srOFULc4dEzBWPB-_EGmV=s90"
+            ],
+            "recipeName": "Chipotle Barbecue Sauce",
+            "totalTimeInSeconds": 2400,
+            "attributes": {
+                "course": [
+                    "Condiments and Sauces"
+                ],
+                "cuisine": [
+                    "Barbecue"
+                ]
+            },
+            "flavors": {
+                "piquant": 0.8333333333333334,
+                "meaty": 0.16666666666666666,
+                "bitter": 0.8333333333333334,
+                "sweet": 0.6666666666666666,
+                "sour": 0.6666666666666666,
+                "salty": 0.8333333333333334
+            },
+            "rating": 4
+        },
+        {
+            "imageUrlsBySize": {
+                "90": "http://lh6.ggpht.com/fwu4ywlFavdV4F_0mCpo1IFXrihKp3bkhTL67hG_kbpDJBXNaeyzYd-OCvgBhhzBXFK5yBe7jdNChjfVNGRIHA=s90-c"
+            },
+            "sourceDisplayName": "Hillshire Farm Brand",
+            "ingredients": [
+                "Hillshire Farm Lit'l Smokies\u00ae",
+                "thick-cut bacon",
+                "brown sugar"
+            ],
+            "id": "Bacon-Wrapped-Brown-Sugar-Lit_L-Smokies-792021",
+            "smallImageUrls": [
+                "http://lh3.ggpht.com/0qPmAsGiI9kMu2YzgWHdeNgQ8XbYnxEft6PfFQON_hQmcFwBM4t_hWM9SZ3o0Zfm6DPWrmDRG7K8XwGMihwj=s90"
+            ],
+            "recipeName": "Bacon Wrapped Brown Sugar Lit'L Smokies\u00ae",
+            "totalTimeInSeconds": 3000,
+            "attributes": {
+                "course": [
+                    "Appetizers"
+                ]
+            },
+            "flavors": {
+                "piquant": 0.0,
+                "meaty": 0.8333333333333334,
+                "bitter": 0.8333333333333334,
+                "sweet": 0.8333333333333334,
+                "sour": 0.0,
+                "salty": 0.8333333333333334
+            },
+            "rating": 4
+        }
+    ],
+    "facetCounts": {},
+    "totalMatchCount": 26068,
+    "attribution": {
+        "html": "Recipe search powered by <a href='http://www.yummly.co/recipes'><img alt='Yummly' src='https://static.yummly.co/api-logo.png'/></a>",
+        "url": "http://www.yummly.co/recipes/",
+        "text": "Recipe search powered by Yummly",
+        "logo": "https://static.yummly.co/api-logo.png"
+    }
+}

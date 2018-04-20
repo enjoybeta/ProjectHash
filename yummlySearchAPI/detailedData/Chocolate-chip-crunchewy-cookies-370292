@@ -1,0 +1,68 @@
+{
+    "nutritionEstimates": [],
+    "totalTime": "40 min",
+    "images": [
+        {
+            "hostedSmallUrl": "http://lh5.ggpht.com/kHu6cnW9ufP58UVh4BzQmbizd6EQ-ydnVmsc4dNMlK080k6hWm9ZFU1G0WMtr4cFPFEElu9egcXQYtXUlxfY=s90",
+            "hostedMediumUrl": "http://lh5.ggpht.com/kHu6cnW9ufP58UVh4BzQmbizd6EQ-ydnVmsc4dNMlK080k6hWm9ZFU1G0WMtr4cFPFEElu9egcXQYtXUlxfY=s180",
+            "hostedLargeUrl": "http://lh5.ggpht.com/kHu6cnW9ufP58UVh4BzQmbizd6EQ-ydnVmsc4dNMlK080k6hWm9ZFU1G0WMtr4cFPFEElu9egcXQYtXUlxfY=s360",
+            "imageUrlsBySize": {
+                "90": "http://lh3.ggpht.com/wdBefyx1DUUXhxY2gWHg5v1gitxvKwrUfvVE9KpGliWHrESk49UMiuVFY59M1DgAb86OSWz4sp0DvXp7HEcpQA=s90-c",
+                "360": "http://lh3.ggpht.com/wdBefyx1DUUXhxY2gWHg5v1gitxvKwrUfvVE9KpGliWHrESk49UMiuVFY59M1DgAb86OSWz4sp0DvXp7HEcpQA=s360-c"
+            }
+        }
+    ],
+    "name": "Chocolate Chip Crunchewy Cookies",
+    "source": {
+        "sourceDisplayName": "Real Mom Kitchen",
+        "sourceSiteUrl": "http://realmomkitchen.com",
+        "sourceRecipeUrl": "http://realmomkitchen.com/645/chocolate-chip-crunchewy-cookies-cowboy-cookies-and-more/"
+    },
+    "id": "Chocolate-chip-crunchewy-cookies-370292",
+    "ingredientLines": [
+        "3/4 cup shortening, butter flavor vegetable",
+        "1-1/2 cups C&H Pure Cane Golden Brown Sugar",
+        "2 tbsp.milk",
+        "3/4 cup peanut butter, creamy style (reduced- fat OK)",
+        "1 tsp.vanilla",
+        "1 egg",
+        "1-1/2 cups all-purpose flour",
+        "1 tsp. salt (I\u2019d reduce this to at least 3/4 tsp.)",
+        "3/4 tsp.baking soda",
+        "1-1/2 cups oats, old-fashioned rolled (I\u2019d reduce this to 1 cup)",
+        "1/2 cup Rice Krispies cereal",
+        "1 cup Cap`n Crunch cereal",
+        "1 (12 oz.) pkg. mini chocolate chips, mini (I\u2019d reduce it to 1 cup)",
+        "1/2 cup toffee bits",
+        "1 cup shortening",
+        "1 cup brown sugar",
+        "1 cup sugar",
+        "2 tsp. vanilla",
+        "2 eggs",
+        "2 cups flour",
+        "1 tsp. baking soda",
+        "1 tsp. salt",
+        "1/2 tsp. baking powder",
+        "2 cups old fashioned oats",
+        "1 1/2 cup semi sweet chocolate chips",
+        "1/2 cup walnuts (or can do more chocolate chips)"
+    ],
+    "attribution": {
+        "html": "<a href='http://www.yummly.co/recipe/Chocolate-chip-crunchewy-cookies-370292'>Chocolate Chip Crunchewy Cookies recipe</a> information powered by <img alt='Yummly' src='https://static.yummly.co/api-logo.png'/>",
+        "url": "http://www.yummly.co/recipe/Chocolate-chip-crunchewy-cookies-370292",
+        "text": "Chocolate Chip Crunchewy Cookies recipes: information powered by Yummly",
+        "logo": "https://static.yummly.co/api-logo.png"
+    },
+    "numberOfServings": 4,
+    "totalTimeInSeconds": 2400,
+    "attributes": {
+        "course": [
+            "Desserts"
+        ],
+        "cuisine": [
+            "Kid-Friendly"
+        ]
+    },
+    "flavors": {},
+    "rating": 4
+}

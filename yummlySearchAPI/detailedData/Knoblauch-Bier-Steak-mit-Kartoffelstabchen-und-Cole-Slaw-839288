@@ -1,0 +1,54 @@
+{
+    "yield": "Zutaten f\u00fcr 4 Personen:",
+    "nutritionEstimates": [],
+    "totalTime": "1 hr",
+    "images": [
+        {
+            "hostedSmallUrl": "http://lh3.googleusercontent.com/iEorwnZ-xrcR5swbR4nwIdwDyOI6s8jxxugsiu2x8zaL5yyUgplvRqS1Nwp6ZOnBJn4mvtemlavBJhrsymKw07k=s90",
+            "hostedMediumUrl": "http://lh3.googleusercontent.com/iEorwnZ-xrcR5swbR4nwIdwDyOI6s8jxxugsiu2x8zaL5yyUgplvRqS1Nwp6ZOnBJn4mvtemlavBJhrsymKw07k=s180",
+            "hostedLargeUrl": "http://lh3.googleusercontent.com/iEorwnZ-xrcR5swbR4nwIdwDyOI6s8jxxugsiu2x8zaL5yyUgplvRqS1Nwp6ZOnBJn4mvtemlavBJhrsymKw07k=s360",
+            "imageUrlsBySize": {
+                "90": "http://lh3.googleusercontent.com/Xywq1dAoxW0KnTl7hNWQofWcF-fjcryh8mE_2g6mIVhKfbIgtq_FYCixzJ5yEw5VHH3hvjvoza-FXJ02jJ4QHos=s90-c",
+                "360": "http://lh3.googleusercontent.com/Xywq1dAoxW0KnTl7hNWQofWcF-fjcryh8mE_2g6mIVhKfbIgtq_FYCixzJ5yEw5VHH3hvjvoza-FXJ02jJ4QHos=s360-c"
+            }
+        }
+    ],
+    "name": "Knoblauch-Bier-Steak mit Kartoffelsta\u0308bchen und Cole Slaw",
+    "source": {
+        "sourceDisplayName": "Lecker",
+        "sourceSiteUrl": "lecker.de",
+        "sourceRecipeUrl": "http://www.lecker.de/rezept/1566952/Knoblauch-Bier-Steak-mit-Kartoffelstaebchen-und-Cole-Slaw.html"
+    },
+    "id": "Knoblauch-Bier-Steak-mit-Kartoffelstabchen-und-Cole-Slaw-839288",
+    "ingredientLines": [
+        "3 Knoblauchzehen",
+        "1 Flasche (330 ml) Bier",
+        "frisch gemahlener schwarzer Pfeffer",
+        "Saft von 1 Zitrone",
+        "150 ml Austernso\u00dfe",
+        "2 T-Bonesteak (\u00e0 ca. 480 g)",
+        "1 Kopf Wei\u00dfkohl (ca. 1,2 kg)",
+        "2 M\u00f6hren",
+        "1 Zwiebel",
+        "Salz",
+        "1 Prise Zucker",
+        "150 g Sour Cream",
+        "50 g Salat-Mayonnaise",
+        "3\u20134 EL wei\u00dfer Balsamico-Essig",
+        "50 g Pecannusskerne",
+        "1,2 kg gro\u00dfe Kartoffeln",
+        "2 l + 4 EL \u00d6l",
+        "nach Belieben grobes Salz"
+    ],
+    "attribution": {
+        "html": "<a href='http://www.yummly.co/recipe/Knoblauch-Bier-Steak-mit-Kartoffelstabchen-und-Cole-Slaw-839288'>Knoblauch-Bier-Steak mit Kartoffelsta\u0308bchen und Cole Slaw recipe</a> information powered by <img alt='Yummly' src='https://static.yummly.co/api-logo.png'/>",
+        "url": "http://www.yummly.co/recipe/Knoblauch-Bier-Steak-mit-Kartoffelstabchen-und-Cole-Slaw-839288",
+        "text": "Knoblauch-Bier-Steak mit Kartoffelsta\u0308bchen und Cole Slaw recipes: information powered by Yummly",
+        "logo": "https://static.yummly.co/api-logo.png"
+    },
+    "numberOfServings": 4,
+    "totalTimeInSeconds": 3600,
+    "attributes": {},
+    "flavors": {},
+    "rating": 3
+}

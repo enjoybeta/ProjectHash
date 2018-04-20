@@ -1,0 +1,354 @@
+{
+    "criteria": {
+        "q": "s+a+g+e+ +l+e+a+v+e+s",
+        "allowedIngredient": null,
+        "excludedIngredient": null
+    },
+    "matches": [
+        {
+            "imageUrlsBySize": {
+                "90": "https://lh3.googleusercontent.com/dROF_f9xoN65wCDyzrvjgzBQFL_1v01LCg5nTVOMUjvKvYyVxTuEBpSXml8CesRI_sfA0wTHudwRB9W2yA3MtQ=s90-c"
+            },
+            "sourceDisplayName": "A Veggie Venture",
+            "ingredients": [
+                "fresh brussels sprouts",
+                "unsalted butter",
+                "kosher salt",
+                "freshly ground pepper",
+                "heavy cream",
+                "panko",
+                "parmesan cheese"
+            ],
+            "id": "CREAMY-BRUSSELS-SPROUTS-GRATIN-1369758",
+            "smallImageUrls": [
+                "https://lh3.googleusercontent.com/Wa2SWveA4jIF2qHAi0jsJKMT4vVT5q0VjHg-IhD4LzUbo44C0U9Vw6nRijeAuI3kji_AkoIgrnkbr9BQiivS=s90"
+            ],
+            "recipeName": "CREAMY BRUSSELS SPROUTS GRATIN",
+            "totalTimeInSeconds": 1800,
+            "attributes": {
+                "course": [
+                    "Side Dishes"
+                ],
+                "holiday": [
+                    "Sunday Lunch",
+                    "Fall"
+                ]
+            },
+            "flavors": {
+                "piquant": 0.6666666666666666,
+                "meaty": 0.8333333333333334,
+                "bitter": 0.16666666666666666,
+                "sweet": 0.0,
+                "sour": 0.16666666666666666,
+                "salty": 0.8333333333333334
+            },
+            "rating": 4
+        },
+        {
+            "imageUrlsBySize": {
+                "90": "http://lh3.googleusercontent.com/W5iegrkr_eUZScrtHCUBNUasxlgSu92jYR-UU6jXv95-HnZoOPjB--iB5DGVQnyCqtAUVZ7x4duuGaYGDUn2AA=s90-c"
+            },
+            "sourceDisplayName": "Lecker",
+            "ingredients": [
+                "Pflaume",
+                "Rotwein",
+                "Gew\u00fcrz",
+                "Zucker",
+                "Zitrone"
+            ],
+            "id": "Pflaumenmus-827527",
+            "smallImageUrls": [
+                "http://lh3.googleusercontent.com/cJekPpoZek31JSpuDCRnIRkvR2z5mIAFQU50ITwgj1t2R5LjB5Ko1IexeHD5ESD6ern2VGecOEyl3efZbhqd=s90"
+            ],
+            "recipeName": "Pflaumenmus",
+            "totalTimeInSeconds": 10800,
+            "attributes": {},
+            "flavors": {
+                "sweet": 0.8333333333333334,
+                "piquant": 0.0,
+                "sour": 0.8333333333333334,
+                "salty": 0.0,
+                "meaty": 0.16666666666666666,
+                "bitter": 0.0
+            },
+            "rating": 3
+        },
+        {
+            "imageUrlsBySize": {
+                "90": "http://lh5.ggpht.com/wyGYsRTsYVX14SD7ULAIF9Imw0ucClEFeFXSE4okl8IkQK_mBZXBFpj66pQqdDmrgCYyJmX7_pnVfMj-swSupw=s90-c"
+            },
+            "sourceDisplayName": "Lecker",
+            "ingredients": [
+                "Wei\u00dfbrot",
+                "Milch",
+                "Butter",
+                "Zucker",
+                "Cranberry",
+                "Ei"
+            ],
+            "id": "Cranberry-Auflauf-mit-Baiserhaube-835453",
+            "smallImageUrls": [
+                "http://lh3.ggpht.com/GweXb0l3atZkvpTfI9w6IAfR2XdZgCHZj522ugTfJeq1wfCHHz06eWUK2zX4fyP2j9FUN_eHCSYiBTe8pVztrw=s90"
+            ],
+            "recipeName": "Cranberry-Auflauf mit Baiserhaube",
+            "totalTimeInSeconds": 3000,
+            "attributes": {},
+            "flavors": {
+                "sweet": 0.5,
+                "piquant": 0.0,
+                "sour": 0.16666666666666666,
+                "salty": 0.16666666666666666,
+                "meaty": 0.16666666666666666,
+                "bitter": 0.16666666666666666
+            },
+            "rating": 3
+        },
+        {
+            "imageUrlsBySize": {
+                "90": "http://lh3.googleusercontent.com/ce-or78ZCi0WxC6XdQS3pYbrZOMkhFNO_rMFGzDu7Dkwum6Mabwz8Xz30OauDSsDuU-yKRJWNcuk4eTw4v4Cnso=s90-c"
+            },
+            "sourceDisplayName": "Lecker",
+            "ingredients": [
+                "Spinat",
+                "Knoblaucknolle",
+                "Basilikumblatt",
+                "Gem\u00fcsebr\u00fche",
+                "Buttermilch",
+                "Salz",
+                "Pfeffer"
+            ],
+            "id": "Spinat-Basilikum-Drink-824799",
+            "smallImageUrls": [
+                "http://lh3.googleusercontent.com/DC4PQQ-IFRtAScANIoa5h0jzE3oRKyoQ89AUh_mzbYSiUVTYHogdCaLYgAwGuvuT2UB97MNRrt8Ek8LTQP1q=s90"
+            ],
+            "recipeName": "Spinat-Basilikum-Drink",
+            "totalTimeInSeconds": 900,
+            "attributes": {},
+            "flavors": {
+                "sweet": 0.16666666666666666,
+                "piquant": 0.0,
+                "sour": 0.5,
+                "salty": 0.8333333333333334,
+                "meaty": 0.16666666666666666,
+                "bitter": 0.8333333333333334
+            },
+            "rating": 3
+        },
+        {
+            "imageUrlsBySize": {
+                "90": "http://lh3.googleusercontent.com/cOocC8wN7FYTHXa00ep80ti4ijljJB2SVrFIpBWxaL6FwZPPJ0opF7Nudu0u8ccNysvRyPs-nyuWqnqGvbGWtQ=s90-c"
+            },
+            "sourceDisplayName": "Lecker",
+            "ingredients": [
+                "Biskuit",
+                "Ei",
+                "Zucker",
+                "Mehl",
+                "Speisest\u00e4rke",
+                "Backpulver",
+                "Kakaopulver",
+                "F\u00fcllung",
+                "\u00c4pfel",
+                "Apelsaft",
+                "Zitrone",
+                "Kuvert\u00fcre",
+                "Schlabgobers",
+                "Kirsch\u00e4pfel"
+            ],
+            "id": "Sahnige-Apfeltorte-Schwarzwalder-Art-827795",
+            "smallImageUrls": [
+                "http://lh3.googleusercontent.com/sVC58VICTckiXpFOMEBQdpXRoQT0oV2TERsBh7msvc8eaWJGUHzfLHTjEY7qhBkaW3wXj-xKL_Rm8fZdQa_Hrw=s90"
+            ],
+            "recipeName": "Sahnige Apfeltorte Schwarzwa\u0308lder Art",
+            "totalTimeInSeconds": 5400,
+            "attributes": {
+                "course": [
+                    "Desserts"
+                ]
+            },
+            "flavors": null,
+            "rating": 3
+        },
+        {
+            "imageUrlsBySize": {
+                "90": "http://lh3.googleusercontent.com/4-z2F-5DOD3OhgKXvFOGxI7kn8aR0FkOxycYpZGL_hcfaF749DTDARVJBvhosZCBmBR8jdIDQqfr6u5OmUjh6A=s90-c"
+            },
+            "sourceDisplayName": "Lecker",
+            "ingredients": [
+                "Teig",
+                "Butter",
+                "Zucker",
+                "Salz",
+                "Ei",
+                "Mehl",
+                "Backpulver",
+                "Milch",
+                "Fett",
+                "Schlabgobers",
+                "Mandelbl\u00e4tter",
+                "F\u00fcllung",
+                "Marille",
+                "Saucenpulver",
+                "Zitronenmelisse"
+            ],
+            "id": "Bienenstich-826075",
+            "smallImageUrls": [
+                "http://lh3.googleusercontent.com/IIjfNdESVu3kFWSNYE5O99rwDtJy195hCsHrGSo8qNX4Btl4an0Zsn1Fav50SX5G9pNQGsDGe45JFp9F2uhQT-Q=s90"
+            ],
+            "recipeName": "Bienenstich",
+            "totalTimeInSeconds": 5400,
+            "attributes": {
+                "course": [
+                    "Desserts"
+                ]
+            },
+            "flavors": null,
+            "rating": 3
+        },
+        {
+            "imageUrlsBySize": {
+                "90": "http://lh3.googleusercontent.com/nKHR1HGU0Oogf6Jxt8uI3AvXmgs5iLrLpGQSb4XBMeC66dCPCgjxILH1T_CqfnHX3nMqw9iGiZDn2XrowwI_5GM=s90-c"
+            },
+            "sourceDisplayName": "Lecker",
+            "ingredients": [
+                "Mehl",
+                "Kuvert\u00fcre",
+                "weiche Butter",
+                "Zucker",
+                "Ei",
+                "Speisest\u00e4rke",
+                "Backpulver",
+                "trockener Wei\u00dfwein",
+                "Mandelbl\u00e4tter",
+                "Plattenfett",
+                "Puderzucker"
+            ],
+            "id": "Weihnachtlicher-Marmorkuchen-836666",
+            "smallImageUrls": [
+                "http://lh3.googleusercontent.com/rwqZGhrNI9p8aPBub6jVNgCQ3_jSmjJBI5lLK2WfGHDyxnt2XTpQJhh-FOdFFqgf2HeN0czzrFVOVTRK4dMO=s90"
+            ],
+            "recipeName": "Weihnachtlicher Marmorkuchen",
+            "totalTimeInSeconds": 2400,
+            "attributes": {
+                "course": [
+                    "Desserts"
+                ]
+            },
+            "flavors": {
+                "sweet": 0.8333333333333334,
+                "piquant": 0.0,
+                "sour": 0.0,
+                "salty": 0.16666666666666666,
+                "meaty": 0.16666666666666666,
+                "bitter": 0.16666666666666666
+            },
+            "rating": 3
+        },
+        {
+            "imageUrlsBySize": {
+                "90": "http://lh3.googleusercontent.com/yEAWdvfaKwIlIdmhiln2_OFZmgx7w9EYWkiMUgdQBJMYBlL6hu0gc4-Jg3-oxj4AHQpZ9srV_sloFkXVXilXHoM=s90-c"
+            },
+            "sourceDisplayName": "Lecker",
+            "ingredients": [
+                "Schinken",
+                "Wein",
+                "Zwiebel",
+                "Lorbeerbl\u00e4tter",
+                "Pfefferkorn",
+                "Nelke",
+                "Hefe",
+                "Brotbackmischung",
+                "Mehl",
+                "Senf"
+            ],
+            "id": "Riesling-Schinken-im-Brotteig-834398",
+            "smallImageUrls": [
+                "http://lh3.googleusercontent.com/IpsIumwtAJf1g6tu9RVKNnniDbaQ1NxhbqbmxFZrSMOnmlCDMtL1sxEePit7e51_iTCB5Hq9FEohn6HlCtvk3Q=s90"
+            ],
+            "recipeName": "Riesling-Schinken im Brotteig",
+            "totalTimeInSeconds": 10800,
+            "attributes": {},
+            "flavors": {
+                "sweet": 0.16666666666666666,
+                "piquant": 0.3333333333333333,
+                "sour": 0.16666666666666666,
+                "salty": 0.8333333333333334,
+                "meaty": 0.5,
+                "bitter": 0.8333333333333334
+            },
+            "rating": 3
+        },
+        {
+            "imageUrlsBySize": {
+                "90": "http://lh3.googleusercontent.com/91D8DKBaRyUNFekOn3emWoh8h25GC86SaUVPb6s9zV2XmxN4ZEDQyV_eExXGyueTXrkF2U6w0pAn9I2cA_drvA=s90-c"
+            },
+            "sourceDisplayName": "Lecker",
+            "ingredients": [
+                "Mehl",
+                "Butter",
+                "Ei",
+                "Milch",
+                "Hefe",
+                "Marzipan",
+                "Zucker",
+                "Zitrone",
+                "Mandelbl\u00e4tter",
+                "Puderzucker"
+            ],
+            "id": "Suer-Wasserkringel-833042",
+            "smallImageUrls": [
+                "http://lh3.googleusercontent.com/4H8-4H5lGVCmhvk2boODm1uhz-AhAzBolD4QS0NNr4Y46arRIThv641qv2PauIgG2A5bMI_0lSdbVBZm1vXX6g=s90"
+            ],
+            "recipeName": "Su\u0308\u00dfer Wasserkringel",
+            "totalTimeInSeconds": 9000,
+            "attributes": {
+                "course": [
+                    "Desserts"
+                ]
+            },
+            "flavors": {
+                "sweet": 0.8333333333333334,
+                "piquant": 0.0,
+                "sour": 0.3333333333333333,
+                "salty": 0.16666666666666666,
+                "meaty": 0.16666666666666666,
+                "bitter": 0.16666666666666666
+            },
+            "rating": 3
+        },
+        {
+            "imageUrlsBySize": {
+                "90": "http://lh3.googleusercontent.com/A-VQ2OtpwvcXRq4YziVJhiokIfrhsBUB4Z68gujLvc1QEGyFx95B0kVikATn9j_jFN9kq_KszARlvj9-VP0w7w=s90-c"
+            },
+            "sourceDisplayName": "Lecker",
+            "ingredients": [
+                "H\u00fchnchenbrust",
+                "H\u00fchnerbouillon",
+                "M\u00f6hre",
+                "Kohlrabi",
+                "Erbsen",
+                "Petersile",
+                "Salz",
+                "Pfeffer",
+                "Rahm"
+            ],
+            "id": "Fruhlingseintopf-827043",
+            "smallImageUrls": [
+                "http://lh3.googleusercontent.com/rz8u7-37i1i1wXGVG9EHHKq5UxBVsW81gBKdnYv3vq9f0xenQXkufUTv8cfcOyVK2kGiCE0Po05798ZX_ZEl=s90"
+            ],
+            "recipeName": "Fru\u0308hlingseintopf",
+            "totalTimeInSeconds": 2100,
+            "attributes": {},
+            "flavors": null,
+            "rating": 3
+        }
+    ],
+    "facetCounts": {},
+    "totalMatchCount": 34,
+    "attribution": {
+        "html": "Recipe search powered by <a href='http://www.yummly.co/recipes'><img alt='Yummly' src='https://static.yummly.co/api-logo.png'/></a>",
+        "url": "http://www.yummly.co/recipes/",
+        "text": "Recipe search powered by Yummly",
+        "logo": "https://static.yummly.co/api-logo.png"
+    }
+}

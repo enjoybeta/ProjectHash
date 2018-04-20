@@ -1,0 +1,163 @@
+{
+    "criteria": {
+        "q": "i+c+e+ +c+u+b+e+s",
+        "allowedIngredient": null,
+        "excludedIngredient": null
+    },
+    "matches": [
+        {
+            "imageUrlsBySize": {
+                "90": "https://lh3.googleusercontent.com/8WoxPfOKGhWAhcTu4x2ThZlSN76E-TVVrI70IEu_aIk4L64ominZ-rsi9qrLo3cid3oMlwWyaPMar0S9AutAAA=s90-c"
+            },
+            "sourceDisplayName": "uTry.it",
+            "ingredients": [
+                "toasted sesame seeds",
+                "Japanese Mayonnaise",
+                "rice vinegar",
+                "soy sauce",
+                "sesame oil",
+                "honey",
+                "dijon mustard",
+                "ground white pepper",
+                "noodles",
+                "deli ham",
+                "carrots",
+                "cucumber",
+                "orange",
+                "green onions",
+                "fresh chili"
+            ],
+            "id": "Asian-Summer-Noodle-With-Dijon-Sesame-Dressing-__-1760731",
+            "smallImageUrls": [
+                "https://lh3.googleusercontent.com/c-nAaU56nrHXKLFTsOPtz1zb6l4l-OcfgU6l_NeB7-NnQAi07V0Mj2o9V2U0Kou8iNxi-3ALHevSnlLpDifxqw=s90"
+            ],
+            "recipeName": "Asian Summer Noodle With Dijon Sesame Dressing (\u590f\u306e\u4e2d\u83ef\u51b7\u9eb5\u914d\u829d\u9ebb\u82a5\u672b\u91ac\u6c41)",
+            "totalTimeInSeconds": 1800,
+            "attributes": {
+                "course": [
+                    "Salads",
+                    "Lunch"
+                ],
+                "cuisine": [
+                    "Kid-Friendly",
+                    "Asian"
+                ]
+            },
+            "flavors": {
+                "piquant": 0.16666666666666666,
+                "meaty": 0.16666666666666666,
+                "bitter": 0.16666666666666666,
+                "sweet": 0.16666666666666666,
+                "sour": 0.5,
+                "salty": 0.3333333333333333
+            },
+            "rating": 4
+        },
+        {
+            "imageUrlsBySize": {
+                "90": "http://lh3.googleusercontent.com/FPQ0LAevih2KgKcTN3UGi5_Sx7dhDWufXv0lcMPhOJZ0Fc6gH7oQq8Zjlk6jXwHMV62NAxOOQyw-MH2HywGE=s90-c"
+            },
+            "sourceDisplayName": "Lecker",
+            "ingredients": [
+                "Zucker",
+                "Haselnuss",
+                "Walnuss",
+                "Semmelbr\u00f6sel",
+                "Butter",
+                "Mehl",
+                "Backpulver",
+                "Salz",
+                "\u00c4pfel",
+                "Saft",
+                "Zitrone"
+            ],
+            "id": "Apfelkuchen-mit-Krokant-Streuseln-834434",
+            "smallImageUrls": [
+                "http://lh3.googleusercontent.com/nW0MrLGGF8XV2j50fEpWy4IkGgzkSvA18Wmgldwc2n6h6qaRmuvVrNpKmnLIOJhtkDifuME37vAfuWHWjvqKGIw=s90"
+            ],
+            "recipeName": "Apfelkuchen mit Krokant-Streuseln",
+            "totalTimeInSeconds": 7200,
+            "attributes": {
+                "course": [
+                    "Desserts"
+                ]
+            },
+            "flavors": {
+                "sweet": 0.8333333333333334,
+                "piquant": 0.0,
+                "sour": 0.16666666666666666,
+                "salty": 0.16666666666666666,
+                "meaty": 0.16666666666666666,
+                "bitter": 0.16666666666666666
+            },
+            "rating": 3
+        },
+        {
+            "imageUrlsBySize": {
+                "90": "http://lh3.googleusercontent.com/CBBsWPg9AQjeeE5ghCsPRG3tQXcElniqaTgpRIslizU9rmHBcmKB2kSi3Yj6XEr7BDGgieM9htIjWxsYPv-i=s90-c"
+            },
+            "sourceDisplayName": "Lecker",
+            "ingredients": [
+                "broccoli",
+                "M\u00f6hre",
+                "Fr\u00fchlingszwiebelgr\u00fcn",
+                "\u00d6l",
+                "Gem\u00fcsebr\u00fche",
+                "Petersile",
+                "Milch",
+                "Streichk\u00e4se",
+                "Sossenpulver",
+                "Salz"
+            ],
+            "id": "Gemuseplatte-mit-Kasesoe-832515",
+            "smallImageUrls": [
+                "http://lh3.googleusercontent.com/y5D76YrOdHp9ud1y3RvEBpV-CQAk_g44zRLvJAwG95BKOAZL_brB8ZkQkZkWUTerOmZRNxdrrH6i9La8Vi1XkQ=s90"
+            ],
+            "recipeName": "Gemu\u0308seplatte mit Ka\u0308seso\u00dfe",
+            "totalTimeInSeconds": 1800,
+            "attributes": {},
+            "flavors": null,
+            "rating": 3
+        },
+        {
+            "recipeName": "Apfel-To\u0308rtchen mit Weinschaum",
+            "ingredients": [
+                "\u00c4pfel",
+                "Zitronensaft",
+                "Zucker",
+                "Mohn",
+                "Butter",
+                "Fett",
+                "Salz",
+                "Backpulver",
+                "Mehl",
+                "Wei\u00dfwein"
+            ],
+            "totalTimeInSeconds": 3600,
+            "sourceDisplayName": "Lecker",
+            "id": "Apfel-Tortchen-mit-Weinschaum-833525",
+            "rating": 3,
+            "flavors": {
+                "sweet": 0.8333333333333334,
+                "piquant": 0.0,
+                "sour": 0.16666666666666666,
+                "salty": 0.16666666666666666,
+                "meaty": 0.16666666666666666,
+                "bitter": 0.16666666666666666
+            },
+            "attributes": {
+                "course": [
+                    "Desserts"
+                ]
+            }
+        }
+    ],
+    "facetCounts": {},
+    "totalMatchCount": 4,
+    "attribution": {
+        "html": "Recipe search powered by <a href='http://www.yummly.co/recipes'><img alt='Yummly' src='https://static.yummly.co/api-logo.png'/></a>",
+        "url": "http://www.yummly.co/recipes/",
+        "text": "Recipe search powered by Yummly",
+        "logo": "https://static.yummly.co/api-logo.png"
+    }
+}

@@ -1,0 +1,355 @@
+{
+    "criteria": {
+        "q": "W+e+i+n",
+        "allowedIngredient": null,
+        "excludedIngredient": null
+    },
+    "matches": [
+        {
+            "imageUrlsBySize": {
+                "90": "https://lh3.googleusercontent.com/7scilqiPm6S3K9QvvUB9-tYnELAH9CgkjhtGMeowvfAJ1I6FE6IL_TCvdQ3jkT-aMcdPcXLGZy1Jr-wv2tdAGw=s90-c"
+            },
+            "sourceDisplayName": "Cooking Classy",
+            "ingredients": [
+                "lean ground beef",
+                "olive oil",
+                "yellow onion",
+                "carrots",
+                "diced celery",
+                "garlic",
+                "tomato sauce",
+                "low sodium chicken broth",
+                "water",
+                "diced tomatoes",
+                "granulated sugar",
+                "dried basil",
+                "dried oregano",
+                "dried thyme",
+                "marjoram",
+                "salt",
+                "freshly ground black pepper",
+                "ditalini pasta",
+                "red kidney beans",
+                "Great Northern Beans",
+                "romano cheese"
+            ],
+            "id": "Copycat-Olive-Garden-Pasta-e-Fagioli-Soup-2195765",
+            "smallImageUrls": [
+                "https://lh3.googleusercontent.com/dvLtbYOrZHM9Fhe7Gjw274AnIKrI8CSGELlRYuM0caKeDMWKtCs2doNC5M-tvwLLFhkOp6Yt5Zl9VKXlOlVDbQ=s90"
+            ],
+            "recipeName": "Copycat Olive Garden Pasta e Fagioli Soup",
+            "totalTimeInSeconds": 3900,
+            "attributes": {
+                "course": [
+                    "Soups"
+                ],
+                "cuisine": [
+                    "Italian"
+                ]
+            },
+            "flavors": null,
+            "rating": 4
+        },
+        {
+            "imageUrlsBySize": {
+                "90": "http://lh3.googleusercontent.com/ix9DgH1VWQNxJN53saFjOZot8kn369YHahWcEkpxgu88G3umBWTZfHk-o5StCq-g99pSeX0WA1kE1X5kzBqw=s90-c"
+            },
+            "sourceDisplayName": "Amuse Your Bouche",
+            "ingredients": [
+                "brown rice",
+                "sunflower oil",
+                "spring onions",
+                "garlic",
+                "bell pepper",
+                "cherry tomatoes",
+                "hot chili powder",
+                "smoked paprika",
+                "black beans",
+                "salt",
+                "black pepper",
+                "cheddar cheese",
+                "fresh coriander"
+            ],
+            "id": "Veggie-Burrito-Bowls-978324",
+            "smallImageUrls": [
+                "http://lh3.googleusercontent.com/Xjkk6qnp3KKnOSGJuadprZtADxkfoNGF0ryRs8m-HbYqfYxxvrDhn1jPmqjpXz8mR1JH98dW0m0v0lvUi8mT=s90"
+            ],
+            "recipeName": "Veggie Burrito Bowls",
+            "totalTimeInSeconds": 1500,
+            "attributes": {
+                "course": [
+                    "Main Dishes",
+                    "Lunch"
+                ]
+            },
+            "flavors": {
+                "piquant": 0.16666666666666666,
+                "meaty": 0.16666666666666666,
+                "bitter": 0.3333333333333333,
+                "sweet": 0.16666666666666666,
+                "sour": 0.8333333333333334,
+                "salty": 0.6666666666666666
+            },
+            "rating": 4
+        },
+        {
+            "imageUrlsBySize": {
+                "90": "https://lh3.googleusercontent.com/NyieysgSzA-roDnFeH6J7NshN99L-c8Zccsa-r49fzqSAAmSWO3nZj7tgF4-omyjUAIA9kAlk4MyOo0P3tRcmcY=s90-c"
+            },
+            "sourceDisplayName": "Natasha's Kitchen",
+            "ingredients": [
+                "unsalted butter",
+                "milk",
+                "all-purpose flour",
+                "active dry yeast",
+                "preserves"
+            ],
+            "id": "Russian-Rugelach-i_e_-Mom_s-famous-Rogaliki-2285342",
+            "smallImageUrls": [
+                "https://lh3.googleusercontent.com/kbbVQIu3JOGKfnrUQo8OiwYeFhof6c0FQ4S7nHMp6LGWjyNEBhBJh9oKdgKn2rlg0NrxrVjd68-f8BzMVLue5Ls=s90"
+            ],
+            "recipeName": "Russian Rugelach i.e. Mom's famous Rogaliki",
+            "totalTimeInSeconds": 4800,
+            "attributes": {},
+            "flavors": null,
+            "rating": 4
+        },
+        {
+            "imageUrlsBySize": {
+                "90": "https://lh3.googleusercontent.com/voWqqGRlBC4SRLMPPPqSy2bye-U-IJqJSEqkqaAb9f0CXoPYPsQV63FFOKfp-HDXQoIpf8yDsFqxSUiwDLOc1oU=s90-c"
+            },
+            "sourceDisplayName": "Skinny Ms",
+            "ingredients": [
+                "boneless skinless chicken breasts",
+                "chunky salsa",
+                "balsamic vinegar"
+            ],
+            "id": "Crock-Pot-3-Ingredient-Balsamic-Chicken-2403441",
+            "smallImageUrls": [
+                "https://lh3.googleusercontent.com/KY_FdpVqkUe9d6Hn00BEB3H-HKtrrfvoWoJO_jtmd68KWbZjp5EQyIAToNGB6VDnaYqybOQtoFGu-BwmwDJK4A=s90"
+            ],
+            "recipeName": "Crock Pot 3-Ingredient Balsamic Chicken",
+            "totalTimeInSeconds": 1200,
+            "attributes": {
+                "course": [
+                    "Main Dishes"
+                ]
+            },
+            "flavors": {
+                "piquant": 0.8333333333333334,
+                "meaty": 0.16666666666666666,
+                "bitter": 0.16666666666666666,
+                "sweet": 0.16666666666666666,
+                "sour": 0.16666666666666666,
+                "salty": 0.5
+            },
+            "rating": 4
+        },
+        {
+            "imageUrlsBySize": {
+                "90": "http://lh4.ggpht.com/P4hst-XxgevN1yVt8uXTxPP2iEIGznRWqoKO7bG484CCFoxTsgxE89oieNYtz9iR8nfMEiYPlMtievBsiC8D2Q=s90-c"
+            },
+            "sourceDisplayName": "Natasha's Kitchen",
+            "ingredients": [
+                "unsalted butter",
+                "milk",
+                "all-purpose flour",
+                "active dry yeast",
+                "preserves"
+            ],
+            "id": "Russian-Rugelach-i_e_-Mom_s-famous-Rogaliki-961689",
+            "smallImageUrls": [
+                "http://lh3.ggpht.com/qh6m3TNHifIWWi03kwvNR5ppAZ8v72KMCMJ6CGMnOUcKaE4YKte-YdL9PU861WOJF0r2H5mmWHGfYXQdpFQ22A=s90"
+            ],
+            "recipeName": "Russian Rugelach i.e. Mom's famous Rogaliki",
+            "totalTimeInSeconds": 4800,
+            "attributes": {
+                "cuisine": [
+                    "Russian"
+                ]
+            },
+            "flavors": null,
+            "rating": 4
+        },
+        {
+            "imageUrlsBySize": {
+                "90": "http://lh3.ggpht.com/0rmLZE7x1HbRWbvipfkv7Uv5_k22lOSgPkDSu9Zv0rKIYKdS4260-hYxu1YHSouwQrGKW0wK8VAy3dCiOASqB5c=s90-c"
+            },
+            "sourceDisplayName": "Steamy Kitchen",
+            "ingredients": [
+                "spaghetti squash",
+                "butter",
+                "garlic",
+                "parsley",
+                "salt",
+                "parmesan cheese"
+            ],
+            "id": "Baked-spaghetti-squash-with-garlic-and-butter-315049",
+            "smallImageUrls": [
+                "http://lh3.ggpht.com/r7ErVPGqh5E5WRijrMcdKJdyxzcu9zeDIdk6JG_ZtiGK7Q3WsMq0S_XDzFlycMr1l2Ke9soTJX_uJzzOBTgM3g=s90"
+            ],
+            "recipeName": "Baked Spaghetti Squash with Garlic and Butter",
+            "totalTimeInSeconds": 5100,
+            "attributes": {
+                "course": [
+                    "Side Dishes"
+                ],
+                "cuisine": [
+                    "Italian"
+                ]
+            },
+            "flavors": {
+                "piquant": 0.0,
+                "meaty": 0.16666666666666666,
+                "bitter": 0.16666666666666666,
+                "sweet": 0.0,
+                "sour": 0.3333333333333333,
+                "salty": 0.3333333333333333
+            },
+            "rating": 5
+        },
+        {
+            "imageUrlsBySize": {
+                "90": "https://lh3.googleusercontent.com/N-ud3N7gnKqxXYG1xBEElYTXsWE8uACytcXZFmkoxw169b5mtyRmI9C9lf5OEUH5-1kLHQydMUAZkLFrbYJ9Hg=s90-c"
+            },
+            "sourceDisplayName": "PetitChef",
+            "ingredients": [
+                "flour",
+                "hot water",
+                "scallions",
+                "sesame oil",
+                "vegetable oil",
+                "salt",
+                "white pepper"
+            ],
+            "id": "Scallion-Pancakes-I_e_-Green-Onion-Pie-1415544",
+            "smallImageUrls": [
+                "https://lh3.googleusercontent.com/0GOtwMkWAVtO3wQ0YTUQlRsScqHFefADWc2i9h_-utFpTWg2CKEHeNbOGpnP-qi9aOvnwRDVpNpuh4sY9nYr-kE=s90"
+            ],
+            "recipeName": "Scallion Pancakes I.e. Green Onion Pie",
+            "totalTimeInSeconds": 600,
+            "attributes": {},
+            "flavors": null,
+            "rating": 3
+        },
+        {
+            "imageUrlsBySize": {
+                "90": "https://lh3.googleusercontent.com/uTA2SeQ2NheU4a8E6hoJny2Z2UL4dTuuKwqmatrUFtzcfb0IyCoMjntBfDSAo8VtMCZNyptsTSF9UT9OihFvNAo=s90-c"
+            },
+            "sourceDisplayName": "Rivka Friedman",
+            "ingredients": [
+                "flour",
+                "sugar",
+                "kosher salt",
+                "active dry yeast",
+                "unsalted butter",
+                "large cage free eggs",
+                "vanilla extract",
+                "whole milk",
+                "walnut pieces",
+                "cocoa powder",
+                "bittersweet chocolate",
+                "egg yolks",
+                "egg whites"
+            ],
+            "id": "Povitica_-i_e_-The-Best-Babka-Ever-2130090",
+            "smallImageUrls": [
+                "https://lh3.googleusercontent.com/tv0NP2tlu79Te6zKgIEuiiETI3gPblb3U3OYv1y61oRnEfgzaGHchuEtVP-xZaz5txVAx7Xrbf2fzr2ddjEj3w=s90"
+            ],
+            "recipeName": "Povitica, i.e. The Best Babka Ever",
+            "totalTimeInSeconds": null,
+            "attributes": {},
+            "flavors": {
+                "sweet": 0.6666666666666666,
+                "piquant": 0.0,
+                "sour": 0.16666666666666666,
+                "salty": 0.5,
+                "meaty": 0.8333333333333334,
+                "bitter": 0.16666666666666666
+            },
+            "rating": 4
+        },
+        {
+            "imageUrlsBySize": {
+                "90": "http://lh4.ggpht.com/UYW_oj0oIv3FJ3Aq1uZN-_6z19IyIJwI9QY_MuxNMCDJltkTOr3ASBXmoY8sQfnzdPG7tZOSMcp35w43Bp2B=s90-c"
+            },
+            "sourceDisplayName": "MOMables",
+            "ingredients": [
+                "spinach",
+                "frozen mango",
+                "pineapple",
+                "clementines",
+                "bananas",
+                "liquid"
+            ],
+            "id": "DIY-Smoothie-Freezer-Packs-1008081",
+            "smallImageUrls": [
+                "http://lh3.ggpht.com/HnB5tccolajL0G4oEObliMy_ZGl8MzMyIgMq5nlI2Xo-ekZnT7o_GBW1N7yUOBX7IZN4VTHsbGiJOeO6URK90mI=s90"
+            ],
+            "recipeName": "DIY Smoothie Freezer Packs",
+            "totalTimeInSeconds": 900,
+            "attributes": {
+                "course": [
+                    "Beverages"
+                ]
+            },
+            "flavors": {
+                "sweet": 0.5,
+                "piquant": 0.0,
+                "sour": 0.8333333333333334,
+                "salty": 0.16666666666666666,
+                "meaty": 0.16666666666666666,
+                "bitter": 0.16666666666666666
+            },
+            "rating": 3
+        },
+        {
+            "imageUrlsBySize": {
+                "90": "https://lh3.googleusercontent.com/ko1vbHNCiX5F1mjwezzFujKkavJfVPmS75gu8lAdTnNxPay8L83LtZL-u-EpZbRTY_BWa4hTiJ8BlpH0OuQbCw=s90-c"
+            },
+            "sourceDisplayName": "Melissa's Southern Style Kitchen",
+            "ingredients": [
+                "sirloin steak",
+                "teriyaki sauce",
+                "light brown sugar",
+                "olive oil",
+                "flat leaf parsley",
+                "garlic",
+                "red pepper flakes",
+                "steak seasoning",
+                "red bell pepper",
+                "green bell pepper",
+                "sweet onion",
+                "black pepper"
+            ],
+            "id": "Sauteed-Sirloin-Tips-With-Bell-Peppers-And-Onion-2154563",
+            "smallImageUrls": [
+                "https://lh3.googleusercontent.com/HlrNyU_ebYhi03uPuxYKzAtHkwsnVLnbid_CKG_ljcQZPpQ_QjestA5qxutwM88uqa0yB5cAE7xCQsss_oAoDA=s90"
+            ],
+            "recipeName": "Sauteed Sirloin Tips With Bell Peppers And Onion",
+            "totalTimeInSeconds": 2100,
+            "attributes": {
+                "course": [
+                    "Main Dishes"
+                ]
+            },
+            "flavors": {
+                "piquant": 0.16666666666666666,
+                "meaty": 0.5,
+                "bitter": 0.16666666666666666,
+                "sweet": 0.3333333333333333,
+                "sour": 0.8333333333333334,
+                "salty": 0.16666666666666666
+            },
+            "rating": 4
+        }
+    ],
+    "facetCounts": {},
+    "totalMatchCount": 6739,
+    "attribution": {
+        "html": "Recipe search powered by <a href='http://www.yummly.co/recipes'><img alt='Yummly' src='https://static.yummly.co/api-logo.png'/></a>",
+        "url": "http://www.yummly.co/recipes/",
+        "text": "Recipe search powered by Yummly",
+        "logo": "https://static.yummly.co/api-logo.png"
+    }
+}

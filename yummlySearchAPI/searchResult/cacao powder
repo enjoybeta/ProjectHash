@@ -22,7 +22,11 @@
             "id": "Chicago-Style-Steak-With-Bleu-Cheese-Butter-Food_com-125744",
             "rating": 4,
             "flavors": null,
-            "attributes": {}
+            "attributes": {
+                "course": [
+                    "Main Dishes"
+                ]
+            }
         }
     ],
     "facetCounts": {},

@@ -1027,7 +1027,14 @@
     },
     "numberOfServings": 2,
     "totalTimeInSeconds": 5100,
-    "attributes": {},
+    "attributes": {
+        "course": [
+            "Side Dishes"
+        ],
+        "cuisine": [
+            "Mediterranean"
+        ]
+    },
     "flavors": {},
     "rating": 5
 }

@@ -1079,7 +1079,16 @@
     },
     "numberOfServings": 4,
     "totalTimeInSeconds": 1800,
-    "attributes": {},
+    "attributes": {
+        "course": [
+            "Breakfast and Brunch",
+            "Lunch",
+            "Desserts"
+        ],
+        "cuisine": [
+            "Kid-Friendly"
+        ]
+    },
     "flavors": {},
     "rating": 4
 }

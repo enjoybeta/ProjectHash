@@ -1,0 +1,61 @@
+{
+    "nutritionEstimates": [],
+    "prepTimeInSeconds": 1200,
+    "totalTime": "1 hr 35 min",
+    "images": [
+        {
+            "hostedSmallUrl": "https://lh3.googleusercontent.com/eMMCE9jZD_zJBgl6Xh-87y81jMRlNtdToZVR3gVpv_s_AMNSr9ePATMAyMD0HbwWwRYmuWDKUdZsl6S7ZrCT=s90",
+            "hostedMediumUrl": "https://lh3.googleusercontent.com/eMMCE9jZD_zJBgl6Xh-87y81jMRlNtdToZVR3gVpv_s_AMNSr9ePATMAyMD0HbwWwRYmuWDKUdZsl6S7ZrCT=s180",
+            "hostedLargeUrl": "https://lh3.googleusercontent.com/eMMCE9jZD_zJBgl6Xh-87y81jMRlNtdToZVR3gVpv_s_AMNSr9ePATMAyMD0HbwWwRYmuWDKUdZsl6S7ZrCT=s360",
+            "imageUrlsBySize": {
+                "90": "https://lh3.googleusercontent.com/nQlyG5ZO-e6rbcxuvA5mQytHVel2ZbHJ_H2OYrHah_vUhhJHXvKfSJ0pT-6pA8lwPMhDoM4jrgrhWGE3brR5Lg=s90-c",
+                "360": "https://lh3.googleusercontent.com/nQlyG5ZO-e6rbcxuvA5mQytHVel2ZbHJ_H2OYrHah_vUhhJHXvKfSJ0pT-6pA8lwPMhDoM4jrgrhWGE3brR5Lg=s360-c"
+            }
+        }
+    ],
+    "name": "Donairs",
+    "source": {
+        "sourceDisplayName": "Recipes by Jenn",
+        "sourceSiteUrl": "recipesbyjenn.com",
+        "sourceRecipeUrl": "http://recipesbyjenn.com/donairs/"
+    },
+    "prepTime": "20 Min",
+    "id": "Donairs-1827739",
+    "ingredientLines": [
+        "sea salt",
+        "ground oregano",
+        "all-purpose flour",
+        "ground black pepper",
+        "italian seasoning",
+        "garlic powder",
+        "onion powder",
+        "cayenne pepper",
+        "extra lean ground beef",
+        "evaporated milk",
+        "sweetened condensed milk",
+        "garlic powder",
+        "onion powder",
+        "white vinegar",
+        "Warm pita",
+        "Sweet sauce",
+        "Warm donair meat"
+    ],
+    "cookTime": "1 Hr 15 Min",
+    "attribution": {
+        "html": "<a href='http://www.yummly.co/recipe/Donairs-1827739'>Donairs recipe</a> information powered by <img alt='Yummly' src='https://static.yummly.co/api-logo.png'/>",
+        "url": "http://www.yummly.co/recipe/Donairs-1827739",
+        "text": "Donairs recipes: information powered by Yummly",
+        "logo": "https://static.yummly.co/api-logo.png"
+    },
+    "numberOfServings": 4,
+    "totalTimeInSeconds": 5700,
+    "attributes": {
+        "course": [
+            "Lunch",
+            "Main Dishes"
+        ]
+    },
+    "cookTimeInSeconds": 4500,
+    "flavors": {},
+    "rating": 4
+}

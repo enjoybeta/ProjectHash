@@ -1,0 +1,46 @@
+{
+    "yield": "1 bread",
+    "nutritionEstimates": [],
+    "prepTimeInSeconds": 900,
+    "totalTime": "1 hr 10 min",
+    "images": [
+        {
+            "imageUrlsBySize": {
+                "90": "null=s90-c",
+                "360": "null=s360-c"
+            }
+        }
+    ],
+    "name": "Zurie's Overnight No-Knead Bread",
+    "source": {
+        "sourceDisplayName": "Food.com",
+        "sourceSiteUrl": "http://www.food.com",
+        "sourceRecipeUrl": "http://www.food.com/recipe/zuries-overnight-no-knead-bread-196201"
+    },
+    "prepTime": "15 Min",
+    "id": "Zurie_s-Overnight-No_knead-Bread-Recipezaar",
+    "ingredientLines": [
+        "3 cups white bread flour, not wholewheat (750 ml)",
+        "1/2 teaspoon instant yeast",
+        "1/2 teaspoon sugar",
+        "2 teaspoons salt",
+        "12 -13 fluid ounces water (415 ml, original recipe said 1 5/8ths cup, which was extremely difficult to get right)"
+    ],
+    "cookTime": "55 Min",
+    "attribution": {
+        "html": "<a href='http://www.yummly.co/recipe/Zurie_s-Overnight-No_knead-Bread-Recipezaar'>Zurie's Overnight No-Knead Bread recipe</a> information powered by <img alt='Yummly' src='https://static.yummly.co/api-logo.png'/>",
+        "url": "http://www.yummly.co/recipe/Zurie_s-Overnight-No_knead-Bread-Recipezaar",
+        "text": "Zurie's Overnight No-Knead Bread recipes: information powered by Yummly",
+        "logo": "https://static.yummly.co/api-logo.png"
+    },
+    "numberOfServings": 1,
+    "totalTimeInSeconds": 4200,
+    "attributes": {
+        "course": [
+            "Breads"
+        ]
+    },
+    "cookTimeInSeconds": 3300,
+    "flavors": {},
+    "rating": 4
+}

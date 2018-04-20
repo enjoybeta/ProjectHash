@@ -1,0 +1,344 @@
+{
+    "criteria": {
+        "q": "s+e+a+ +s+a+l+t",
+        "allowedIngredient": null,
+        "excludedIngredient": null
+    },
+    "matches": [
+        {
+            "imageUrlsBySize": {
+                "90": "https://lh3.googleusercontent.com/EmlYEqqkvNql0yrruP6u2v2cA_0gBL0EBdWRwuSxFgZc-j_c7ONg5JqlHj2Dl9GHZ6uacTF8_lJceRNQn-8R=s90-c"
+            },
+            "sourceDisplayName": "Ahead of Thyme",
+            "ingredients": [
+                "bagels",
+                "vegetable oil",
+                "eggs",
+                "tomatoes",
+                "lettuce",
+                "salt",
+                "pepper"
+            ],
+            "id": "E_L_T_-_Egg-Lettuce-Tomato_-Breakfast-Bagel-1543288",
+            "smallImageUrls": [
+                "https://lh3.googleusercontent.com/1LpgzUQU-Mh1-JiI0ayTyWlE2bwbKYzF7qSQZyEIbAQ3773RghukQwjEuziQi8j_Kb8ODoJwBqWevrNNRw1ejoo=s90"
+            ],
+            "recipeName": "E.L.T. (Egg Lettuce Tomato) Breakfast Bagel",
+            "totalTimeInSeconds": 480,
+            "attributes": {
+                "course": [
+                    "Breakfast and Brunch",
+                    "Lunch"
+                ]
+            },
+            "flavors": {
+                "piquant": 0.0,
+                "meaty": 0.3333333333333333,
+                "bitter": 0.8333333333333334,
+                "sweet": 0.16666666666666666,
+                "sour": 0.3333333333333333,
+                "salty": 0.8333333333333334
+            },
+            "rating": 4
+        },
+        {
+            "imageUrlsBySize": {
+                "90": "https://lh3.googleusercontent.com/AyQZOwfYVUki5wINDypDrVsF-uf7CQ6L5wHGMGuoL3lVpUtgNH7DQwPsgH6oJrZkWHJEGS1rjdf3Gw7A6-GNRA=s90-c"
+            },
+            "sourceDisplayName": "Cookie Dough and Oven Mitt",
+            "ingredients": [
+                "granulated sugar",
+                "unsweetened cocoa powder",
+                "soy milk",
+                "silken tofu",
+                "caramels",
+                "salt"
+            ],
+            "id": "Chocolate-Ice-Cream-with-Salted-Caramel-2146874",
+            "smallImageUrls": [
+                "https://lh3.googleusercontent.com/26Go4sr67zaRncKsp40yiROl4PchBShI3FObUoD6CqlDXN2FQZfJNPvSNLo59CcJ2DgfhfOCKvoAs-Qd_jcgumY=s90"
+            ],
+            "recipeName": "Chocolate Ice Cream with Salted Caramel",
+            "totalTimeInSeconds": 9900,
+            "attributes": {
+                "course": [
+                    "Desserts"
+                ]
+            },
+            "flavors": {
+                "piquant": 0.0,
+                "meaty": 0.16666666666666666,
+                "bitter": 0.5,
+                "sweet": 0.8333333333333334,
+                "sour": 0.16666666666666666,
+                "salty": 0.3333333333333333
+            },
+            "rating": 4
+        },
+        {
+            "imageUrlsBySize": {
+                "90": "https://lh3.googleusercontent.com/LZOaQ_6iR__PJ6og4aOWjqhX4vDwJMYE2hnBGawGgI48XJbDBbxo1dQy12vNxhst2fksS2MF5cT2wFwibRlDKvk=s90-c"
+            },
+            "sourceDisplayName": "Diethood",
+            "ingredients": [
+                "Pillsbury\u00ae Moist Supreme\u00ae Funfetti\u00ae Cake Mix",
+                "baking powder",
+                "eggs",
+                "canola oil",
+                "vanilla",
+                "sprinkles"
+            ],
+            "id": "Cake-Batter-Funfetti-Cookies-2364954",
+            "smallImageUrls": [
+                "https://lh3.googleusercontent.com/b-rz2fYoK9chszeG2sc1W1a0JUj_FDyJKywB319-wfp3btWqkowwV0OCbwXoE4H-dL1UpHl0ihjNF0REu-3I=s90"
+            ],
+            "recipeName": "Cake Batter Funfetti Cookies",
+            "totalTimeInSeconds": 1140,
+            "attributes": {
+                "course": [
+                    "Desserts"
+                ]
+            },
+            "flavors": {
+                "piquant": 0.0,
+                "meaty": 0.8333333333333334,
+                "bitter": 0.8333333333333334,
+                "sweet": 0.3333333333333333,
+                "sour": 0.16666666666666666,
+                "salty": 0.8333333333333334
+            },
+            "rating": 4
+        },
+        {
+            "imageUrlsBySize": {
+                "90": "https://lh3.googleusercontent.com/MSNgN7s8kgVameNlbVabe0e5BDf7x-9HNBFOWKxHLk4Hhl5130KN4an7iRzor0oc2aVA0mVn5v3aG5e3wge_Xg=s90-c"
+            },
+            "sourceDisplayName": "I Should Be Mopping the Floor",
+            "ingredients": [
+                "sandwiches",
+                "cool whip",
+                "caramel ice cream topping",
+                "ice cream"
+            ],
+            "id": "10-Minute-Layered-Ice-Cream-Cake-_easydessert-1914028",
+            "smallImageUrls": [
+                "https://lh3.googleusercontent.com/t9uQksw-8vAc7i8sB2RiuybQLR-JYEt-LA3HgZHHsVITAFLuQplS9aJpBCa39DNiyLt7xsgn9JF4cnfNifgWMg=s90"
+            ],
+            "recipeName": "10-Minute Layered Ice Cream Cake #easydessert",
+            "totalTimeInSeconds": 1500,
+            "attributes": {
+                "course": [
+                    "Desserts"
+                ]
+            },
+            "flavors": null,
+            "rating": 4
+        },
+        {
+            "imageUrlsBySize": {
+                "90": "https://lh3.googleusercontent.com/AJVwGdQOG82dnUsFNEv2vrBj-xrnVijn7doW9hssrd8IxyFyyUpYLTke0D8s4O9boKN2AojFM2WEv-CcRyDfVHI=s90-c"
+            },
+            "sourceDisplayName": "Melissa's Southern Style Kitchen",
+            "ingredients": [
+                "flour",
+                "gorgonzola",
+                "dried beef",
+                "chives",
+                "garlic powder",
+                "sugar",
+                "paprika",
+                "heavy cream"
+            ],
+            "id": "Beef-And-Bleu-Cheese-Biscuits-1814629",
+            "smallImageUrls": [
+                "https://lh3.googleusercontent.com/sr4_NSmDGwZJcnueCc3buCVDMOCqpGNwfFM5uQDcE6a9KqdOHUleu3oWPmaamKPm_ea9ke-WTwQqnjzQh1BiBw=s90"
+            ],
+            "recipeName": "Beef And Bleu Cheese Biscuits",
+            "totalTimeInSeconds": 2100,
+            "attributes": {},
+            "flavors": {
+                "sweet": 0.16666666666666666,
+                "piquant": 0.16666666666666666,
+                "sour": 0.16666666666666666,
+                "salty": 0.16666666666666666,
+                "meaty": 0.8333333333333334,
+                "bitter": 0.16666666666666666
+            },
+            "rating": 4
+        },
+        {
+            "imageUrlsBySize": {
+                "90": "https://lh3.googleusercontent.com/AD-TQKUfOAbjobxg81oWIxwuGPKEVmchlbwJCTpz5-gn77nCqwOBxqVCEeryJy1iPFFU2b9SHAidncqUkU8QaA=s90-c"
+            },
+            "sourceDisplayName": "Bon App\u00e9tit",
+            "ingredients": [
+                "white sandwich bread",
+                "Hellmann's\u00ae Real Mayonnaise",
+                "sliced tomatoes",
+                "kosher salt",
+                "freshly ground pepper",
+                "boiled eggs",
+                "iceberg lettuce"
+            ],
+            "id": "E_L_T_-_Egg-Lettuce-Tomato-Sandwich_-2163416",
+            "smallImageUrls": [
+                "https://lh3.googleusercontent.com/5q7b-4fedqY9bsMtIftZxPXEQA2iMHgsSpRCtNlgH4Z3cpJJ7BjvZYar8gYWM0YDoBltqI3aIBdARPen0haj7A=s90"
+            ],
+            "recipeName": "E.L.T. (Egg Lettuce Tomato Sandwich)",
+            "totalTimeInSeconds": null,
+            "attributes": {},
+            "flavors": {
+                "sweet": 0.16666666666666666,
+                "piquant": 0.16666666666666666,
+                "sour": 0.16666666666666666,
+                "salty": 0.8333333333333334,
+                "meaty": 0.3333333333333333,
+                "bitter": 0.5
+            },
+            "rating": 3
+        },
+        {
+            "imageUrlsBySize": {
+                "90": "http://lh3.googleusercontent.com/gMGtOvMfHktHwLQBi3zL1O783wClsaqnvZWt8PD5m5BdRQCNvvEzbawzkQBuaaB6mNy4gsNNFZi3hja9GLaYgg=s90-c"
+            },
+            "sourceDisplayName": "My Utensil Crock",
+            "ingredients": [
+                "boneless skinless chicken breasts",
+                "lemon",
+                "extra-virgin olive oil",
+                "minced garlic",
+                "cumin",
+                "pepper",
+                "paprika",
+                "chile powder"
+            ],
+            "id": "Shish-Taouk-Chicken-Kabobs-1165922",
+            "smallImageUrls": [
+                "http://lh3.googleusercontent.com/TiMPwSwcLX6lMMb0CmQUsBVMeEUCJYvZnpAkCbNO4lQnRvtQZyCSr-BYp_1NXLl9gL3Fzw1uTh1LQR_YNWjKeA=s90"
+            ],
+            "recipeName": "Shish Taouk \u2013 Chicken Kabobs",
+            "totalTimeInSeconds": 1200,
+            "attributes": {
+                "course": [
+                    "Main Dishes"
+                ]
+            },
+            "flavors": null,
+            "rating": 4
+        },
+        {
+            "imageUrlsBySize": {
+                "90": "https://lh3.googleusercontent.com/b_OZTwUjlJCAKubUoztSI7L9Cj15km_1Usp_MBsDAweQIsMJQNoYcdHH4J9XDOpf3SzfOGhPUPDHFNZ65dPs4w=s90-c"
+            },
+            "sourceDisplayName": "The Herbal Spoon",
+            "ingredients": [
+                "full fat coconut milk",
+                "raw cane sugar",
+                "vanilla extract",
+                "rum",
+                "vodka",
+                "gelatin",
+                "cherries"
+            ],
+            "id": "Cherry-Vanilla-Ice-Cream---Dairy-Free-1631903",
+            "smallImageUrls": [
+                "https://lh3.googleusercontent.com/3hxt1Nh_VmDwfkTcXltv9L6R7WK_OXSWTlce84uSdglWYHPa756948cIgWktQdgcTTeR-zrJWmBOyksEHbs7=s90"
+            ],
+            "recipeName": "Cherry Vanilla Ice Cream - Dairy Free",
+            "totalTimeInSeconds": 3000,
+            "attributes": {
+                "course": [
+                    "Desserts"
+                ],
+                "holiday": [
+                    "Summer"
+                ]
+            },
+            "flavors": null,
+            "rating": 4
+        },
+        {
+            "imageUrlsBySize": {
+                "90": "https://lh3.googleusercontent.com/uwEynHQwc7HxK6Tuilq0s1PU_CcVnDoc148CuHiSnSn6ZiNDmVoyWoAUGDvGKH75VGRf59biOj2lNWvu1XnYGQ=s90-c"
+            },
+            "sourceDisplayName": "saltnpepperhere",
+            "ingredients": [
+                "whole almonds",
+                "unsalted cashews",
+                "espresso",
+                "pure maple syrup",
+                "water"
+            ],
+            "id": "Maple-Almond-Cashew-Iced-Latte-2044559",
+            "smallImageUrls": [
+                "https://lh3.googleusercontent.com/CLMfXVYgspomRToCX1G9QaqlVHBgEkN6wkPJMHCt-awgiacqkd2ikkpeIh_bhsJUzC5k7hbFPccDJzhirl5W=s90"
+            ],
+            "recipeName": "Maple Almond-Cashew Iced Latte",
+            "totalTimeInSeconds": 900,
+            "attributes": {
+                "course": [
+                    "Beverages"
+                ]
+            },
+            "flavors": {
+                "sweet": 0.5,
+                "piquant": 0.0,
+                "sour": 0.0,
+                "salty": 0.16666666666666666,
+                "meaty": 0.8333333333333334,
+                "bitter": 0.8333333333333334
+            },
+            "rating": 4
+        },
+        {
+            "imageUrlsBySize": {
+                "90": "http://lh3.googleusercontent.com/7ws9nxJj_j4r9Mp0YNos7XLVbNu-d_0X_2lI2H75RcNGDVCUIR1xjnoiuKNMhVoizLxf0afqcA47YDjLYWg_d2E=s90-c"
+            },
+            "sourceDisplayName": "Oh, Ladycakes",
+            "ingredients": [
+                "all purpose gluten free flour blend",
+                "oat flour",
+                "rolled oats",
+                "xanthan gum",
+                "fine sea salt",
+                "baking powder",
+                "canola oil",
+                "maple syrup",
+                "almond milk",
+                "pure vanilla extract",
+                "sugar"
+            ],
+            "id": "MAPLE-OAT-SCONES-1252509",
+            "smallImageUrls": [
+                "http://lh3.googleusercontent.com/apg-qPJgqSVtk1-YrtkKU3qfuzOQFOjcHElLJJR43Z6KnD50oGN3M9Zf1fsV30rOxgIbXGQetr9979rYGlF8bcI=s90"
+            ],
+            "recipeName": "MAPLE OAT SCONES",
+            "totalTimeInSeconds": 2400,
+            "attributes": {
+                "course": [
+                    "Breads"
+                ],
+                "cuisine": [
+                    "English"
+                ]
+            },
+            "flavors": {
+                "piquant": 0.0,
+                "meaty": 0.3333333333333333,
+                "bitter": 0.8333333333333334,
+                "sweet": 0.6666666666666666,
+                "sour": 0.16666666666666666,
+                "salty": 0.8333333333333334
+            },
+            "rating": 4
+        }
+    ],
+    "facetCounts": {},
+    "totalMatchCount": 44,
+    "attribution": {
+        "html": "Recipe search powered by <a href='http://www.yummly.co/recipes'><img alt='Yummly' src='https://static.yummly.co/api-logo.png'/></a>",
+        "url": "http://www.yummly.co/recipes/",
+        "text": "Recipe search powered by Yummly",
+        "logo": "https://static.yummly.co/api-logo.png"
+    }
+}

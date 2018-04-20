@@ -1,0 +1,344 @@
+{
+    "criteria": {
+        "q": "f+a+t",
+        "allowedIngredient": null,
+        "excludedIngredient": null
+    },
+    "matches": [
+        {
+            "imageUrlsBySize": {
+                "90": "https://lh3.googleusercontent.com/IDz7Q2v10M0sEFOBweyTZp2vXitaSxzVdsCUqTV9-sMaTY7APmO06n8-YzAyg5T-FZniNJi5y_WlWILe1osQJFY=s90-c"
+            },
+            "sourceDisplayName": "Jo Cooks",
+            "ingredients": [
+                "chicken breasts",
+                "enchilada sauce",
+                "corn tortillas",
+                "monterey jack"
+            ],
+            "id": "Easy-Chicken-Enchilada-Casserole-2233185",
+            "smallImageUrls": [
+                "https://lh3.googleusercontent.com/VsCGpuAxn4TXkAbB46_Ae0FT_GY3qzFjLgtIitk5JcBt0TAukogXhSoPTUH70uU4qKQ698SxUKAUQ5u5slSCQA=s90"
+            ],
+            "recipeName": "Easy Chicken Enchilada Casserole",
+            "totalTimeInSeconds": 3900,
+            "attributes": {
+                "course": [
+                    "Main Dishes"
+                ]
+            },
+            "flavors": {
+                "piquant": 0.8333333333333334,
+                "meaty": 0.6666666666666666,
+                "bitter": 0.8333333333333334,
+                "sweet": 0.16666666666666666,
+                "sour": 0.16666666666666666,
+                "salty": 0.8333333333333334
+            },
+            "rating": 4
+        },
+        {
+            "imageUrlsBySize": {
+                "90": "https://lh3.googleusercontent.com/oiQR3Fo7vLWPJlNTvsJbGzeFSHyMrxeZI_mY9c8s6wngaXbc7Hwlbpw8Pggb9jqyEmg_6fVpvjNpOEI-UbQGlw=s90-c"
+            },
+            "sourceDisplayName": "Kalyn's Kitchen",
+            "ingredients": [
+                "globe eggplant",
+                "salt",
+                "olive oil",
+                "italian seasoning",
+                "basil leaves",
+                "freshly grated parmesan",
+                "mozzarella cheese",
+                "hot red pepper flakes",
+                "virgin olive oil",
+                "large garlic cloves",
+                "petite diced tomatoes",
+                "dried oregano"
+            ],
+            "id": "Julia-Childs-Eggplant-Pizzas-2211869",
+            "smallImageUrls": [
+                "https://lh3.googleusercontent.com/6LYPkoWZBy-1TGl9k4NyVpj_mijJCOEKEXq7zIlMrxuqvzNeyBjWXrPuULd3SR3hdVweJVJQsUbdhlV_S6AoXQ=s90"
+            ],
+            "recipeName": "Julia Child\u2019s Eggplant Pizzas",
+            "totalTimeInSeconds": 3000,
+            "attributes": {
+                "course": [
+                    "Main Dishes",
+                    "Lunch"
+                ],
+                "cuisine": [
+                    "Italian"
+                ]
+            },
+            "flavors": {
+                "piquant": 0.8333333333333334,
+                "meaty": 0.8333333333333334,
+                "bitter": 0.8333333333333334,
+                "sweet": 0.16666666666666666,
+                "sour": 0.8333333333333334,
+                "salty": 0.8333333333333334
+            },
+            "rating": 4
+        },
+        {
+            "imageUrlsBySize": {
+                "90": "https://lh3.googleusercontent.com/pu1Kz_qTLz1IKPsv--BHrHGAI3m6u8E1AA37eEdC45mbgDGipcuCoez8aBjDZA8e6H8xotNlg5dk9cTJh7Gh=s90-c"
+            },
+            "sourceDisplayName": "The Spruce",
+            "ingredients": [
+                "olive oil",
+                "onions",
+                "lamb shoulder chops",
+                "garlic",
+                "dry red wine",
+                "dijon mustard",
+                "salt",
+                "freshly ground black pepper",
+                "rosemary"
+            ],
+            "id": "Braised-Lamb-Shoulder-Chops-2214804",
+            "smallImageUrls": [
+                "https://lh3.googleusercontent.com/B-GZXSA3TpkFBJUEW9KrPeUD-HAD_8hT-zSsG8_UqBwiiM2cYX6Bk5nHdZl6rquuuM8oYaK4GZLV0ArH2cj5=s90"
+            ],
+            "recipeName": "Braised Lamb Shoulder Chops",
+            "totalTimeInSeconds": 4200,
+            "attributes": {
+                "course": [
+                    "Main Dishes"
+                ],
+                "holiday": [
+                    "Sunday Lunch"
+                ]
+            },
+            "flavors": null,
+            "rating": 4
+        },
+        {
+            "imageUrlsBySize": {
+                "90": "https://lh3.googleusercontent.com/V9ijxBjMMcKGWtohJEDDA2strwR1hWKSZsziW0Wkw-pOwP5OOWBvrPVy6jISghCAt7P88xK4hgaamVIIoJPqlg=s90-c"
+            },
+            "sourceDisplayName": "Kalyn's Kitchen",
+            "ingredients": [
+                "carrots",
+                "olive oil",
+                "maple syrup",
+                "salt",
+                "freshly ground black pepper"
+            ],
+            "id": "Maple-Glazed-Roasted-Carrots-2220498",
+            "smallImageUrls": [
+                "https://lh3.googleusercontent.com/UkGOq8lDKztnMl8OV1VYPJiXxqOj5Yvi4UIi4hzb7Dd0PrGfNCtFEh_ke2Hq_YxURLZvtbtv8GmC0kwwZhUj=s90"
+            ],
+            "recipeName": "Maple-Glazed Roasted Carrots",
+            "totalTimeInSeconds": 2100,
+            "attributes": {
+                "course": [
+                    "Side Dishes"
+                ]
+            },
+            "flavors": null,
+            "rating": 4
+        },
+        {
+            "imageUrlsBySize": {
+                "90": "https://lh3.googleusercontent.com/dQmVgZClGlTmtRQb0O1TRD4baEDU5O5ftg62CgacUfIAHtdGe6Cllo0BaK5cO_7ufvP-LuOvAQtk0n2U_uxE=s90-c"
+            },
+            "sourceDisplayName": "Kalyn's Kitchen",
+            "ingredients": [
+                "broccoli",
+                "flowerets",
+                "extra-virgin olive oil",
+                "garlic",
+                "salt",
+                "freshly ground black pepper"
+            ],
+            "id": "Roasted-Broccoli-with-Garlic-2209449",
+            "smallImageUrls": [
+                "https://lh3.googleusercontent.com/kMOAkuKqkOVxWEEhD2ySY6BRI46ObxSxFfAPOLPU_cs6wVzcNG6J9Q0lFUhoKRldpCzhmIqD_F_1JIAlMz_44Q=s90"
+            ],
+            "recipeName": "Roasted Broccoli with Garlic",
+            "totalTimeInSeconds": 1500,
+            "attributes": {
+                "course": [
+                    "Side Dishes"
+                ],
+                "holiday": [
+                    "Sunday Lunch"
+                ]
+            },
+            "flavors": null,
+            "rating": 4
+        },
+        {
+            "imageUrlsBySize": {
+                "90": "https://lh3.googleusercontent.com/HS7-2RCrebZpv5B1vSoaKIYWegcRkTOHzIjCwASNLqespiz1IS3-5FsT4RA70GpThe1fKrDRIjfwIObXDN3R8A=s90-c"
+            },
+            "sourceDisplayName": "Kalyn's Kitchen",
+            "ingredients": [
+                "butternut squash",
+                "olive oil",
+                "lime juice",
+                "fresh rosemary",
+                "sea salt",
+                "squash",
+                "freshly ground black pepper"
+            ],
+            "id": "Roasted-Butternut-Squash-with-Lime-and-Rosemary-2389444",
+            "smallImageUrls": [
+                "https://lh3.googleusercontent.com/Uvk6uGN4z-oasYEDOQdcdeF0sBsJcvzJfHZcnN1iaLlCrLSGiGngae1CGp0kNR2ISEQxerKgEfJ2fXps1syQ=s90"
+            ],
+            "recipeName": "Roasted Butternut Squash with Lime and Rosemary",
+            "totalTimeInSeconds": 3900,
+            "attributes": {
+                "course": [
+                    "Side Dishes"
+                ]
+            },
+            "flavors": null,
+            "rating": 4
+        },
+        {
+            "imageUrlsBySize": {
+                "90": "https://lh3.googleusercontent.com/Xjfahf-3l23TAAeGE39nci7KV9gzXSP-7pNEnLYF4w2KaUrDZpGUKsdfCo3wSNQX3jq-fEm0yEV5uW9tEEyYrQ=s90-c"
+            },
+            "sourceDisplayName": "ruled.me",
+            "ingredients": [
+                "bacon",
+                "large eggs",
+                "cheddar cheese",
+                "cream cheese",
+                "jalapeno chilies",
+                "garlic powder",
+                "onion powder",
+                "salt",
+                "pepper"
+            ],
+            "id": "Jalapeno-Popper-Egg-Cups-2116529",
+            "smallImageUrls": [
+                "https://lh3.googleusercontent.com/15-JTIYmzVvHHfaqPv7iETMgWx1AFHSdI5nOfCazPmM81OHTE5hZrHGpoktWYIA-6SdNeFrgHoPFFJFY4zzpLGU=s90"
+            ],
+            "recipeName": "Jalapeno Popper Egg Cups",
+            "totalTimeInSeconds": 2700,
+            "attributes": {
+                "course": [
+                    "Breakfast and Brunch",
+                    "Appetizers"
+                ]
+            },
+            "flavors": {
+                "piquant": 0.8333333333333334,
+                "meaty": 0.8333333333333334,
+                "bitter": 0.8333333333333334,
+                "sweet": 0.16666666666666666,
+                "sour": 0.16666666666666666,
+                "salty": 0.8333333333333334
+            },
+            "rating": 3
+        },
+        {
+            "imageUrlsBySize": {
+                "90": "https://lh3.googleusercontent.com/5g39SpQtef--yAl8yMRBGZP5cqtFv0F87fpe9vSCcSsKgbqAjrMl7hX1JXKcDF6Tvf41ZYelHMtFPDifXBdgvA=s90-c"
+            },
+            "sourceDisplayName": "Kalyn's Kitchen",
+            "ingredients": [
+                "butternut squash",
+                "extra-virgin olive oil",
+                "balsamic vinegar",
+                "rosemary",
+                "sea salt",
+                "freshly ground black pepper"
+            ],
+            "id": "Roasted-Butternut-Squash-with-Rosemary-and-Balsamic-Vinegar-2217610",
+            "smallImageUrls": [
+                "https://lh3.googleusercontent.com/Uvg-pEFHOpCIPoSbuCEVJnUAF7FEGjjIA-zaBUk4T8CDsBUbmp7b7RkC1Yz2Ac5VmWAR_PpN7iA6B7lRToSykQ=s90"
+            ],
+            "recipeName": "Roasted Butternut Squash with Rosemary and Balsamic Vinegar",
+            "totalTimeInSeconds": 2400,
+            "attributes": {
+                "course": [
+                    "Side Dishes"
+                ]
+            },
+            "flavors": null,
+            "rating": 4
+        },
+        {
+            "imageUrlsBySize": {
+                "90": "https://lh3.googleusercontent.com/woAOcZwmu6qkrhRf3WBLR-WAiXBtdQxh3KYOB-GIs2Tc1QiKrpNDI1owkxwgynK-k-LoUivndgIjmKT9LYLN=s90-c"
+            },
+            "sourceDisplayName": "Life as a Strawberry",
+            "ingredients": [
+                "egg yolks",
+                "lemon juice",
+                "salt",
+                "smoked paprika",
+                "cayenne pepper",
+                "butter",
+                "chives",
+                "andouille sausage",
+                "eggs",
+                "pepper"
+            ],
+            "id": "Cajun-Eggs-Benedict-1920525",
+            "smallImageUrls": [
+                "https://lh3.googleusercontent.com/2tcrEpZpWJJPtslRSC7IDBDR3QJ_0KYPRE-2OfEEEx2E8ZYSNmt2Vy0rxWdyv6fQEDXGsp6pVDp8WnchI4t1haE=s90"
+            ],
+            "recipeName": "Cajun Eggs Benedict",
+            "totalTimeInSeconds": 2100,
+            "attributes": {
+                "course": [
+                    "Breakfast and Brunch"
+                ]
+            },
+            "flavors": {
+                "piquant": 0.6666666666666666,
+                "meaty": 0.8333333333333334,
+                "bitter": 0.8333333333333334,
+                "sweet": 0.16666666666666666,
+                "sour": 0.16666666666666666,
+                "salty": 0.8333333333333334
+            },
+            "rating": 4
+        },
+        {
+            "imageUrlsBySize": {
+                "90": "https://lh3.googleusercontent.com/kRz_NiIsxAN58g5NXiT5lakB6EbiQEtIH2xNJRFVfhZ2M4IKOve0EIwCpKmbm6_jncBt_x0hArU4EV5RG_aZpA=s90-c"
+            },
+            "sourceDisplayName": "Life in the Lofthouse",
+            "ingredients": [
+                "lean ground beef",
+                "yellow onion",
+                "pasta sauce",
+                "Philadelphia Cream Cheese",
+                "cream cheese",
+                "shredded mozzarella cheese",
+                "penn pasta, cook and drain"
+            ],
+            "id": "Baked-Penne-2239264",
+            "smallImageUrls": [
+                "https://lh3.googleusercontent.com/EfjgvuWoIF1fpQ0InOQzQsOYA8qtC5m-1c-b0zhoUbVmL9stqkyddm0XfrMhryqSSFF_iaB9tEO_2jaColW1844=s90"
+            ],
+            "recipeName": "Baked Penne",
+            "totalTimeInSeconds": 3000,
+            "attributes": {
+                "course": [
+                    "Main Dishes"
+                ],
+                "cuisine": [
+                    "Kid-Friendly"
+                ]
+            },
+            "flavors": null,
+            "rating": 4
+        }
+    ],
+    "facetCounts": {},
+    "totalMatchCount": 53901,
+    "attribution": {
+        "html": "Recipe search powered by <a href='http://www.yummly.co/recipes'><img alt='Yummly' src='https://static.yummly.co/api-logo.png'/></a>",
+        "url": "http://www.yummly.co/recipes/",
+        "text": "Recipe search powered by Yummly",
+        "logo": "https://static.yummly.co/api-logo.png"
+    }
+}

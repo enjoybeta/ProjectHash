@@ -1,0 +1,49 @@
+{
+    "yield": "8 servings",
+    "nutritionEstimates": [],
+    "prepTimeInSeconds": 1500,
+    "totalTime": "25 min",
+    "images": [
+        {
+            "hostedSmallUrl": "https://lh3.googleusercontent.com/SbLK5l5Q1Dfp76GTdu2lP0j2-n45JVlvmyHvln8rWV5xvFsE5HntLVF_16M6ldSou30_wVPMmT3HG52OaHH37Q=s90",
+            "hostedMediumUrl": "https://lh3.googleusercontent.com/SbLK5l5Q1Dfp76GTdu2lP0j2-n45JVlvmyHvln8rWV5xvFsE5HntLVF_16M6ldSou30_wVPMmT3HG52OaHH37Q=s180",
+            "hostedLargeUrl": "https://lh3.googleusercontent.com/SbLK5l5Q1Dfp76GTdu2lP0j2-n45JVlvmyHvln8rWV5xvFsE5HntLVF_16M6ldSou30_wVPMmT3HG52OaHH37Q=s360",
+            "imageUrlsBySize": {
+                "90": "https://lh3.googleusercontent.com/LCh8xsWfjg03ZHsdG1Y3x-0lMghG8vmm7_m3VhkpRfpZanl6uMhkTvIvA6IVwOcf_gMkg9cblTNlfaAYvoc75A=s90-c",
+                "360": "https://lh3.googleusercontent.com/LCh8xsWfjg03ZHsdG1Y3x-0lMghG8vmm7_m3VhkpRfpZanl6uMhkTvIvA6IVwOcf_gMkg9cblTNlfaAYvoc75A=s360-c"
+            }
+        }
+    ],
+    "name": "Gummy Bear Mocktail",
+    "source": {
+        "sourceDisplayName": "Simple Seasonal",
+        "sourceSiteUrl": "simpleseasonal.com",
+        "sourceRecipeUrl": "http://simpleseasonal.com/recipes/gummy-bear-mocktails"
+    },
+    "prepTime": "25 Min",
+    "id": "Gummy-Bear-Mocktail-2298154",
+    "ingredientLines": [
+        "8 plastic stemless champagne flutes",
+        "8 plastic swizzle sticks",
+        "2 25.4 oz bottles of sparkling apple cider",
+        "10 oz of gummy bears*",
+        "\u00bc C granulated sugar",
+        "a shallow dish with water"
+    ],
+    "attribution": {
+        "html": "<a href='http://www.yummly.co/recipe/Gummy-Bear-Mocktail-2298154'>Gummy Bear Mocktail recipe</a> information powered by <img alt='Yummly' src='https://static.yummly.co/api-logo.png'/>",
+        "url": "http://www.yummly.co/recipe/Gummy-Bear-Mocktail-2298154",
+        "text": "Gummy Bear Mocktail recipes: information powered by Yummly",
+        "logo": "https://static.yummly.co/api-logo.png"
+    },
+    "numberOfServings": 8,
+    "totalTimeInSeconds": 1500,
+    "attributes": {
+        "course": [
+            "Cocktails",
+            "Beverages"
+        ]
+    },
+    "flavors": {},
+    "rating": 4
+}

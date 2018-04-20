@@ -1,0 +1,81 @@
+{
+    "criteria": {
+        "q": "S+u+l+t+a+n+i+n+e+n",
+        "allowedIngredient": null,
+        "excludedIngredient": null
+    },
+    "matches": [
+        {
+            "imageUrlsBySize": {
+                "90": "https://lh3.googleusercontent.com/qZgXRi2M6ZFE7cg12TCftEni5z9vYVmZhPecTSxexgnVbXs05kVA2qH6h362GgF22G7vZC7c7OFXxjITs320Yg=s90-c"
+            },
+            "sourceDisplayName": "Southern Bite",
+            "ingredients": [
+                "self rising flour",
+                "firmly packed brown sugar",
+                "cinnamon",
+                "melted butter",
+                "milk",
+                "eggs",
+                "vanilla",
+                "apples",
+                "chopped pecans",
+                "flour"
+            ],
+            "id": "Apple-Cinnamon-Crunch-Muffins-_Advantium-Recipe_-1820616",
+            "smallImageUrls": [
+                "https://lh3.googleusercontent.com/lpI-67Sp4sZISZDaUKBgsqeailaXNTNzzdvB9snfAEQfwnLXSeqinJ0lhzRLZo4JkHH4rm7BHlpNuHO6z8Xf=s90"
+            ],
+            "recipeName": "Apple Cinnamon Crunch Muffins (Advantium Recipe)",
+            "totalTimeInSeconds": 1440,
+            "attributes": {
+                "course": [
+                    "Breakfast and Brunch",
+                    "Breads"
+                ]
+            },
+            "flavors": {
+                "piquant": 0.0,
+                "meaty": 0.16666666666666666,
+                "bitter": 0.16666666666666666,
+                "sweet": 0.6666666666666666,
+                "sour": 0.16666666666666666,
+                "salty": 0.3333333333333333
+            },
+            "rating": 4
+        },
+        {
+            "imageUrlsBySize": {
+                "90": "https://lh3.googleusercontent.com/MSNgN7s8kgVameNlbVabe0e5BDf7x-9HNBFOWKxHLk4Hhl5130KN4an7iRzor0oc2aVA0mVn5v3aG5e3wge_Xg=s90-c"
+            },
+            "sourceDisplayName": "I Should Be Mopping the Floor",
+            "ingredients": [
+                "sandwiches",
+                "cool whip",
+                "caramel ice cream topping",
+                "ice cream"
+            ],
+            "id": "10-Minute-Layered-Ice-Cream-Cake-_easydessert-1914028",
+            "smallImageUrls": [
+                "https://lh3.googleusercontent.com/t9uQksw-8vAc7i8sB2RiuybQLR-JYEt-LA3HgZHHsVITAFLuQplS9aJpBCa39DNiyLt7xsgn9JF4cnfNifgWMg=s90"
+            ],
+            "recipeName": "10-Minute Layered Ice Cream Cake #easydessert",
+            "totalTimeInSeconds": 1500,
+            "attributes": {
+                "course": [
+                    "Desserts"
+                ]
+            },
+            "flavors": null,
+            "rating": 4
+        }
+    ],
+    "facetCounts": {},
+    "totalMatchCount": 2,
+    "attribution": {
+        "html": "Recipe search powered by <a href='http://www.yummly.co/recipes'><img alt='Yummly' src='https://static.yummly.co/api-logo.png'/></a>",
+        "url": "http://www.yummly.co/recipes/",
+        "text": "Recipe search powered by Yummly",
+        "logo": "https://static.yummly.co/api-logo.png"
+    }
+}

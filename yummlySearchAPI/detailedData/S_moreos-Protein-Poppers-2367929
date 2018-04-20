@@ -1,0 +1,57 @@
+{
+    "yield": "two servings",
+    "nutritionEstimates": [],
+    "prepTimeInSeconds": 600,
+    "totalTime": "30 min",
+    "images": [
+        {
+            "hostedSmallUrl": "https://lh3.googleusercontent.com/owH_13SAw69zh2XTYyVMYz9qtUoxXkFH7nUxZ3JmpSxhfA_bwhv6cjeOw-RKksmqSdXSTD78AD3qXWjmKt_bSlw=s90",
+            "hostedMediumUrl": "https://lh3.googleusercontent.com/owH_13SAw69zh2XTYyVMYz9qtUoxXkFH7nUxZ3JmpSxhfA_bwhv6cjeOw-RKksmqSdXSTD78AD3qXWjmKt_bSlw=s180",
+            "hostedLargeUrl": "https://lh3.googleusercontent.com/owH_13SAw69zh2XTYyVMYz9qtUoxXkFH7nUxZ3JmpSxhfA_bwhv6cjeOw-RKksmqSdXSTD78AD3qXWjmKt_bSlw=s360",
+            "imageUrlsBySize": {
+                "90": "https://lh3.googleusercontent.com/WPlCF8W6d4fXnZwDxp3rzTPadOy1rS_6jPoN7EserIthF4tXwqck-EXIK1r2Vdi6RuEQUN8tvu8RK2PkMTPH=s90-c",
+                "360": "https://lh3.googleusercontent.com/WPlCF8W6d4fXnZwDxp3rzTPadOy1rS_6jPoN7EserIthF4tXwqck-EXIK1r2Vdi6RuEQUN8tvu8RK2PkMTPH=s360-c"
+            }
+        }
+    ],
+    "name": "S'moreos Protein Poppers",
+    "source": {
+        "sourceDisplayName": "Mason Woodruff",
+        "sourceSiteUrl": "masonfit.com",
+        "sourceRecipeUrl": "https://masonfit.com/smoreos-protein-poppers/"
+    },
+    "prepTime": "10 minutes",
+    "id": "S_moreos-Protein-Poppers-2367929",
+    "ingredientLines": [
+        "1 1/2 C (45g) Oreo O's crushed or blended",
+        "2 Tbsp (13g) Graham Cracker Crumbles",
+        "1 scoop (30-32g) Protein Powder vanilla",
+        "2 Tbsp (14g) Coconut Flour",
+        "1/2 tsp Baking Powder",
+        "1 C (227g) Fat-Free Greek Yogurt vanilla",
+        "3/8 C (92g) Liquid Egg Whites or 2 whole egg whites",
+        "2 Tbsp (30mL) Walden Farms Pancake Syrup or your choice of sticky sweetener",
+        "1/2 C (20g) Marshmallow Bits",
+        "2 Tbsp (28g) Dark Chocolate Chips"
+    ],
+    "cookTime": "20 minutes",
+    "attribution": {
+        "html": "<a href='http://www.yummly.co/recipe/S_moreos-Protein-Poppers-2367929'>S'moreos Protein Poppers recipe</a> information powered by <img alt='Yummly' src='https://static.yummly.co/api-logo.png'/>",
+        "url": "http://www.yummly.co/recipe/S_moreos-Protein-Poppers-2367929",
+        "text": "S'moreos Protein Poppers recipes: information powered by Yummly",
+        "logo": "https://static.yummly.co/api-logo.png"
+    },
+    "numberOfServings": 2,
+    "totalTimeInSeconds": 1800,
+    "attributes": {
+        "cuisine": [
+            "Kid-Friendly"
+        ],
+        "course": [
+            "Desserts"
+        ]
+    },
+    "cookTimeInSeconds": 1200,
+    "flavors": {},
+    "rating": 4
+}

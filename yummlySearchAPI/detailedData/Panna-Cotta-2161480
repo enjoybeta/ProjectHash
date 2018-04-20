@@ -1,0 +1,47 @@
+{
+    "nutritionEstimates": [],
+    "totalTime": "30 min",
+    "images": [
+        {
+            "hostedSmallUrl": "https://lh3.googleusercontent.com/mcbrK_mjOrA6GQOWfF-SAW2IXF2kUU-7lMsUkKmvxYS8KOQ5mKQZE7hGRcasc1EokCiYyNZ2hTF2srmx7cngLA=s90",
+            "hostedMediumUrl": "https://lh3.googleusercontent.com/mcbrK_mjOrA6GQOWfF-SAW2IXF2kUU-7lMsUkKmvxYS8KOQ5mKQZE7hGRcasc1EokCiYyNZ2hTF2srmx7cngLA=s180",
+            "hostedLargeUrl": "https://lh3.googleusercontent.com/mcbrK_mjOrA6GQOWfF-SAW2IXF2kUU-7lMsUkKmvxYS8KOQ5mKQZE7hGRcasc1EokCiYyNZ2hTF2srmx7cngLA=s360",
+            "imageUrlsBySize": {
+                "90": "https://lh3.googleusercontent.com/p6C53zwJeM0JJvI2XRr-FXzhxhwsr04sKoyxaa8EjnQo4X3b7sVJUs2cuo4lB0RaISLl_4vW_-qZ3cR0iXojiA=s90-c",
+                "360": "https://lh3.googleusercontent.com/p6C53zwJeM0JJvI2XRr-FXzhxhwsr04sKoyxaa8EjnQo4X3b7sVJUs2cuo4lB0RaISLl_4vW_-qZ3cR0iXojiA=s360-c"
+            }
+        }
+    ],
+    "name": "Panna Cotta",
+    "source": {
+        "sourceDisplayName": "21Frames.in",
+        "sourceSiteUrl": "21frames.in",
+        "sourceRecipeUrl": "http://www.21frames.in/watch/homecooking/panna-cotta"
+    },
+    "id": "Panna-Cotta-2161480",
+    "ingredientLines": [
+        "Gelatin crystals - 1tbsp",
+        "Water - 1/4 cup",
+        "Milk - 200ml",
+        "Fresh cream - 200ml (Buy : https://goo.gl/hAuwqh )",
+        "Sugar - 1/4 cup",
+        "Vanilla Extract - 1/2 tsp (Buy : https://goo.gl/LSNp1U )",
+        "Blueberry compote",
+        "Mint leaves"
+    ],
+    "attribution": {
+        "html": "<a href='http://www.yummly.co/recipe/Panna-Cotta-2161480'>Panna Cotta recipe</a> information powered by <img alt='Yummly' src='https://static.yummly.co/api-logo.png'/>",
+        "url": "http://www.yummly.co/recipe/Panna-Cotta-2161480",
+        "text": "Panna Cotta recipes: information powered by Yummly",
+        "logo": "https://static.yummly.co/api-logo.png"
+    },
+    "numberOfServings": 4,
+    "totalTimeInSeconds": 1800,
+    "attributes": {
+        "course": [
+            "Desserts"
+        ]
+    },
+    "flavors": {},
+    "rating": 4
+}

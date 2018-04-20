@@ -1,0 +1,75 @@
+{
+    "criteria": {
+        "q": "i+n+s+t+a+n+t+ +r+i+c+e",
+        "allowedIngredient": null,
+        "excludedIngredient": null
+    },
+    "matches": [
+        {
+            "imageUrlsBySize": {
+                "90": "http://lh3.googleusercontent.com/eMZY-AkiYYRAYAC8m5CIHwqPGAgC4EwZbK5D84pX4bJPsJ1pduyMHhKLrVzG6gjSdiAiNtGl5LqYC2Zank27=s90-c"
+            },
+            "sourceDisplayName": "Kids Activities Blog",
+            "ingredients": [
+                "eggs",
+                "buttermilk",
+                "flour",
+                "baking soda",
+                "salt",
+                "sugar",
+                "butter",
+                "bananas",
+                "chocolate spread"
+            ],
+            "id": "Pancake-Roll-Ups-The-Kid-Style-1289760",
+            "smallImageUrls": [
+                "http://lh3.googleusercontent.com/tuYfkUZNa0qOQE4KZdXqFTmUZGYG4jwTO3VHsiuWcNZfzD3qeDfEBxpWBsMYBVdlRxO53pRS_gATjAc5E1cI=s90"
+            ],
+            "recipeName": "Pancake Roll Ups The Kid Style",
+            "totalTimeInSeconds": 1800,
+            "attributes": {
+                "course": [
+                    "Desserts",
+                    "Lunch",
+                    "Breakfast and Brunch"
+                ],
+                "cuisine": [
+                    "Kid-Friendly"
+                ]
+            },
+            "flavors": null,
+            "rating": 4
+        },
+        {
+            "recipeName": "Chicago-Style Steak With Bleu Cheese Butter",
+            "ingredients": [
+                "sirloin steak",
+                "worcestershire sauce",
+                "soy sauce",
+                "cooking sherry",
+                "red wine vinegar",
+                "butter",
+                "blue cheese",
+                "green onions"
+            ],
+            "totalTimeInSeconds": 1200,
+            "sourceDisplayName": "Food.com",
+            "id": "Chicago-Style-Steak-With-Bleu-Cheese-Butter-Food_com-125744",
+            "rating": 4,
+            "flavors": null,
+            "attributes": {
+                "course": [
+                    "Main Dishes"
+                ]
+            }
+        }
+    ],
+    "facetCounts": {},
+    "totalMatchCount": 2,
+    "attribution": {
+        "html": "Recipe search powered by <a href='http://www.yummly.co/recipes'><img alt='Yummly' src='https://static.yummly.co/api-logo.png'/></a>",
+        "url": "http://www.yummly.co/recipes/",
+        "text": "Recipe search powered by Yummly",
+        "logo": "https://static.yummly.co/api-logo.png"
+    }
+}

@@ -1,0 +1,53 @@
+{
+    "yield": "1 turkey",
+    "nutritionEstimates": [],
+    "prepTimeInSeconds": 1200,
+    "totalTime": "1 hr 20 min",
+    "images": [
+        {
+            "imageUrlsBySize": {
+                "90": "null=s90-c",
+                "360": "null=s360-c"
+            }
+        }
+    ],
+    "name": "Grilled Turkey",
+    "source": {
+        "sourceDisplayName": "Food.com",
+        "sourceSiteUrl": "http://www.food.com",
+        "sourceRecipeUrl": "http://www.food.com/recipe/grilled-turkey-239999"
+    },
+    "prepTime": "20 Min",
+    "id": "Grilled-Turkey-Recipezaar_1",
+    "ingredientLines": [
+        "1 whole turkey (I recommend Butterball, and get one with a \"popper\" so you know when it's done)",
+        "apple, cut into large pieces (don't worry about peeling & coring)",
+        "celery, cut into large pieces",
+        "carrot, cut into large pieces",
+        "onion, cut into large pieces",
+        "margarine",
+        "1 (12 ounce) can beer",
+        "salt & pepper",
+        "salt & pepper"
+    ],
+    "cookTime": "1 Hr",
+    "attribution": {
+        "html": "<a href='http://www.yummly.co/recipe/Grilled-Turkey-Recipezaar_1'>Grilled Turkey recipe</a> information powered by <img alt='Yummly' src='https://static.yummly.co/api-logo.png'/>",
+        "url": "http://www.yummly.co/recipe/Grilled-Turkey-Recipezaar_1",
+        "text": "Grilled Turkey recipes: information powered by Yummly",
+        "logo": "https://static.yummly.co/api-logo.png"
+    },
+    "numberOfServings": 1,
+    "totalTimeInSeconds": 4800,
+    "attributes": {
+        "holiday": [
+            "Thanksgiving"
+        ],
+        "course": [
+            "Main Dishes"
+        ]
+    },
+    "cookTimeInSeconds": 3600,
+    "flavors": {},
+    "rating": 3
+}

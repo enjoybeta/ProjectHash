@@ -1,0 +1,383 @@
+{
+    "criteria": {
+        "q": "l+i+m+e",
+        "allowedIngredient": null,
+        "excludedIngredient": null
+    },
+    "matches": [
+        {
+            "imageUrlsBySize": {
+                "90": "https://lh3.googleusercontent.com/SNKEI1qeFwyoLdnpMefK9UikExwMvJjCI-jIrS4b3ddgkmcff2knlNb8xzgab8k7eOmNCqNydosHQK0iaQqF=s90-c"
+            },
+            "sourceDisplayName": "Brown Eyed Baker",
+            "ingredients": [
+                "orange",
+                "lemon",
+                "granulated sugar",
+                "Grand Marnier",
+                "white wine",
+                "ice cubes"
+            ],
+            "id": "White-Sangria-BB",
+            "smallImageUrls": [
+                "https://lh3.googleusercontent.com/ZasRKXokOHsHfC8cPOX7FRmwZyyn4qhMFi7w1jl6rq0Tq8N_fiixJDOwHezs2MCdAeXj8M9zfte3tXZypP7s1_A=s90"
+            ],
+            "recipeName": "White Sangria",
+            "totalTimeInSeconds": 900,
+            "attributes": {
+                "course": [
+                    "Cocktails",
+                    "Beverages"
+                ]
+            },
+            "flavors": {
+                "piquant": 0.0,
+                "meaty": 0.0,
+                "bitter": 0.16666666666666666,
+                "sweet": 0.3333333333333333,
+                "sour": 0.8333333333333334,
+                "salty": 0.0
+            },
+            "rating": 4
+        },
+        {
+            "imageUrlsBySize": {
+                "90": "https://lh3.googleusercontent.com/9svtExcN05IwUg9G1ztB97EKaC_iMmT9xB55N0DzIiTHURRBf3Uc1NJkquqam9KSrbB5bTQAzusxUk9kGDFEV_s=s90-c"
+            },
+            "sourceDisplayName": "Leckerbiss",
+            "ingredients": [
+                "kidney beans",
+                "corn flour",
+                "spelt flour",
+                "teas",
+                "zucchini",
+                "onions",
+                "water"
+            ],
+            "id": "Sauerkraut-a-la-Jamaicana-2082401",
+            "smallImageUrls": [
+                "https://lh3.googleusercontent.com/ThYbZtppqX-uIZCEicTkLtGwbB2XZh63u9LgrgtDdenJrePQsQ5UkzGsj6QDcVRiym6wJi2BmJUiONAfNI3o=s90"
+            ],
+            "recipeName": "Sauerkraut a la Jamaicana",
+            "totalTimeInSeconds": 3300,
+            "attributes": {},
+            "flavors": null,
+            "rating": 4
+        },
+        {
+            "imageUrlsBySize": {
+                "90": "https://lh3.googleusercontent.com/x6qjkSDXWK1TTo3g4OudupjlplOWMS-q-PBM1AVOtnJSUW55oZIX9opAWw8irEFvAYjKmstgzJkpOyo-aauPqQ=s90-c"
+            },
+            "sourceDisplayName": "Splendid Low-Carbing by Jennifer Eloff",
+            "ingredients": [
+                "mozzarella cheese",
+                "monterey jack",
+                "cheddar cheese",
+                "gluten",
+                "baking powder",
+                "bacon",
+                "onions",
+                "almond milk",
+                "eggs",
+                "dijon mustard"
+            ],
+            "id": "BACON-AND-ONION-CHEESE-PUFFS-1990916",
+            "smallImageUrls": [
+                "https://lh3.googleusercontent.com/F3bOWHlFWRF8hirlWZJejvh1_VEsqKSGr3Vbxpy16L7zL2Tlv2pvFCLpF8QGZDVd2WVmmAfbrFC1-ldPZHED=s90"
+            ],
+            "recipeName": "BACON AND ONION CHEESE PUFFS",
+            "totalTimeInSeconds": 2400,
+            "attributes": {
+                "course": [
+                    "Lunch"
+                ]
+            },
+            "flavors": {
+                "piquant": 0.3333333333333333,
+                "meaty": 0.8333333333333334,
+                "bitter": 0.6666666666666666,
+                "sweet": 0.16666666666666666,
+                "sour": 0.16666666666666666,
+                "salty": 0.5
+            },
+            "rating": 4
+        },
+        {
+            "imageUrlsBySize": {
+                "90": "https://lh3.googleusercontent.com/HzV_yPNC-fGYt9_JPRD4nRWGGIqMg7d_ctNv-cdWnBmeJ7zhE5Ct3VqbMl9y-CuoCVVkgrYvrwVNoHDLYjf3=s90-c"
+            },
+            "sourceDisplayName": "A Garden for the House",
+            "ingredients": [
+                "yellow apples",
+                "lemon",
+                "ground cinnamon",
+                "sugar",
+                "flour",
+                "baking powder",
+                "salt",
+                "nutmeg",
+                "unsalted butter",
+                "large eggs",
+                "vegetable oil",
+                "pure vanilla extract"
+            ],
+            "id": "Rustic-Apple-Cake-1344770",
+            "smallImageUrls": [
+                "https://lh3.googleusercontent.com/k_n1_zGD1NXDkD7eQOK_tOZeAlKQSEeVtjlGCJtJnROtSJmQ8JFhD6U_rnGgLGTUwOX8sZY3YQum7ZCLfiDhiw4=s90"
+            ],
+            "recipeName": "Rustic Apple Cake",
+            "totalTimeInSeconds": 3900,
+            "attributes": {
+                "course": [
+                    "Desserts"
+                ]
+            },
+            "flavors": {
+                "piquant": 0.0,
+                "meaty": 0.16666666666666666,
+                "bitter": 0.16666666666666666,
+                "sweet": 0.8333333333333334,
+                "sour": 0.3333333333333333,
+                "salty": 0.16666666666666666
+            },
+            "rating": 4
+        },
+        {
+            "imageUrlsBySize": {
+                "90": "http://lh3.googleusercontent.com/EzbP-XHYQObOnFUotv5QS0vnxN5n_hboxDzg83CqwjIgo4ghOXzl9qNExNaHThbGDtSVNY2v0KbqHRMLGbc73w=s90-c"
+            },
+            "sourceDisplayName": "Kiwi & Bean",
+            "ingredients": [
+                "cooking oil",
+                "onions",
+                "garlic",
+                "vegetables",
+                "chili powder",
+                "ground cumin",
+                "crushed tomatoes",
+                "liquid",
+                "beans",
+                "frozen corn",
+                "sliced black olives"
+            ],
+            "id": "Fridge-Clearing-Veggie-Chili-1059871",
+            "smallImageUrls": [
+                "http://lh3.googleusercontent.com/BQGuUdmjtO-H1SuOwTNBVbnC2o2Pdk1jNbCUPYy9o7VDz73ZfWF35wPPDgYDCQTGuGy8Md9QVhNP4ep2__juRA=s90"
+            ],
+            "recipeName": "Fridge Clearing Veggie Chili",
+            "totalTimeInSeconds": 3000,
+            "attributes": {
+                "course": [
+                    "Main Dishes"
+                ]
+            },
+            "flavors": {
+                "piquant": 0.5,
+                "meaty": 0.16666666666666666,
+                "bitter": 0.16666666666666666,
+                "sweet": 0.16666666666666666,
+                "sour": 0.5,
+                "salty": 0.16666666666666666
+            },
+            "rating": 4
+        },
+        {
+            "imageUrlsBySize": {
+                "90": "http://lh6.ggpht.com/gXGV_uDwrd0VlaghPYksURHTP1RkESnTE3Ch22AqUNRjYxtzfhY_5dwe85NPocYVSl9RRayRpSuwYH62Lj4Q=s90-c"
+            },
+            "sourceDisplayName": "The Bojon Gourmet",
+            "ingredients": [
+                "half & half",
+                "black cardamom pods",
+                "ground cardamom",
+                "vanilla beans",
+                "heavy cream",
+                "large egg yolks",
+                "salt",
+                "organic cane sugar",
+                "water",
+                "honey",
+                "lemon juice",
+                "sugar",
+                "unsalted butter"
+            ],
+            "id": "Smoked-Cardamom-Ice-Cream-with-Salty-Honey-Caramel-Swirl-1018399",
+            "smallImageUrls": [
+                "http://lh3.ggpht.com/Or4NgCuNaDbM1sg1LLOsNcw8QkHt86k_43uN9Tzz-uuK6tNm-h3timMSK-MPJc9wCVra-sBKSMwphFfPCJ_31g=s90"
+            ],
+            "recipeName": "Smoked Cardamom Ice Cream with Salty Honey Caramel Swirl",
+            "totalTimeInSeconds": 4800,
+            "attributes": {
+                "course": [
+                    "Desserts"
+                ]
+            },
+            "flavors": {
+                "sweet": 0.8333333333333334,
+                "piquant": 0.0,
+                "sour": 0.16666666666666666,
+                "salty": 0.16666666666666666,
+                "meaty": 0.5,
+                "bitter": 0.16666666666666666
+            },
+            "rating": 4
+        },
+        {
+            "imageUrlsBySize": {
+                "90": "https://lh3.googleusercontent.com/Ky7XK0KmwYq7UZfynvptrcPJnK4v-yGgcWxkeiLogKGAn8QXlJIOByGWZrIhTxUCQktUoY5AUQv8N8QKO_Fa=s90-c"
+            },
+            "sourceDisplayName": "Nerd Fitness",
+            "ingredients": [
+                "chicken",
+                "lime",
+                "olive oil",
+                "curry powder",
+                "salt",
+                "garlic",
+                "coconut milk",
+                "cashew butter",
+                "coconut aminos",
+                "zucchini",
+                "yellow squash",
+                "red onion",
+                "bell pepper",
+                "button mushrooms"
+            ],
+            "id": "How-to-Make-Chicken-Satay-1845368",
+            "smallImageUrls": [
+                "https://lh3.googleusercontent.com/nmMjNnNJJY2GGA4VQ0BdkSQuGEAuHje8o_eJSUpASjYKVpNl3Y_31RLPo7PbBAzA-BIDaQexx7f8OCf_XeWlkg=s90"
+            ],
+            "recipeName": "How to Make Chicken Satay",
+            "totalTimeInSeconds": 3000,
+            "attributes": {
+                "course": [
+                    "Main Dishes"
+                ]
+            },
+            "flavors": {
+                "piquant": 0.16666666666666666,
+                "meaty": 0.16666666666666666,
+                "bitter": 0.16666666666666666,
+                "sweet": 0.16666666666666666,
+                "sour": 0.8333333333333334,
+                "salty": 0.3333333333333333
+            },
+            "rating": 4
+        },
+        {
+            "imageUrlsBySize": {
+                "90": "https://lh3.googleusercontent.com/mRs98NPEUtAK-X43W8WFL_4Jbz83MYYpZsrT-W8S8938GkdX9TH_pgMtAqkCvKXM-u3aCjoEcmfTxRNhdt9I=s90-c"
+            },
+            "sourceDisplayName": "talesofarantingginger.com",
+            "ingredients": [
+                "flour",
+                "baking soda",
+                "salt",
+                "margarine",
+                "firmly packed light brown sugar",
+                "granulated sugar",
+                "large eggs",
+                "vanilla extract"
+            ],
+            "id": "Becel-Anything-Goes-Cookie-Dough-1948570",
+            "smallImageUrls": [
+                "https://lh3.googleusercontent.com/giVkAbmGIqW94XD6IhrxqtyrKIHfPEp8czXxkBu_Ve3cSDec_z15x4bMVmM0ikG13g6J4IMvtgKiBK3AwvQLhg=s90"
+            ],
+            "recipeName": "Becel Anything Goes Cookie Dough",
+            "totalTimeInSeconds": 1500,
+            "attributes": {
+                "course": [
+                    "Desserts"
+                ]
+            },
+            "flavors": {
+                "piquant": 0.0,
+                "meaty": 0.6666666666666666,
+                "bitter": 0.16666666666666666,
+                "sweet": 0.8333333333333334,
+                "sour": 0.0,
+                "salty": 0.8333333333333334
+            },
+            "rating": 4
+        },
+        {
+            "imageUrlsBySize": {
+                "90": "https://lh3.googleusercontent.com/0ZnfJp11gq_xFg7o7Nqml9mg8ynbanBNHcqUX-qMrzwEQT0UNzy2MeCyKNylMjvQf28Z-UP2OVhlfxO6IQ0avw=s90-c"
+            },
+            "sourceDisplayName": "Kitchen Heals Soul",
+            "ingredients": [
+                "all-purpose flour",
+                "baking powder",
+                "salt",
+                "ground cardamom",
+                "pumpkin pur\u00e9e",
+                "granulated sugar",
+                "canola oil",
+                "vanilla",
+                "large eggs",
+                "powdered sugar",
+                "milk",
+                "sprinkles"
+            ],
+            "id": "Pumpkin-Cardamom-Baked-Doughnuts-1598926",
+            "smallImageUrls": [
+                "https://lh3.googleusercontent.com/gIvG22B6VcJK1LmPsnCAju-Eom2iH0M_XklViKyXxEtysKnis_zQhkpdxD7N9gq1eaC7S9_-cwGBqJTxz05itA=s90"
+            ],
+            "recipeName": "Pumpkin Cardamom Baked Doughnuts",
+            "totalTimeInSeconds": 1920,
+            "attributes": {
+                "course": [
+                    "Desserts",
+                    "Breakfast and Brunch",
+                    "Breads"
+                ]
+            },
+            "flavors": {
+                "piquant": 0.0,
+                "meaty": 0.16666666666666666,
+                "bitter": 0.16666666666666666,
+                "sweet": 0.8333333333333334,
+                "sour": 0.16666666666666666,
+                "salty": 0.3333333333333333
+            },
+            "rating": 4
+        },
+        {
+            "recipeName": "White Sangria",
+            "ingredients": [
+                "orange",
+                "lemon",
+                "granulated sugar",
+                "Grand Marnier",
+                "white wine",
+                "ice cubes"
+            ],
+            "totalTimeInSeconds": 1200,
+            "sourceDisplayName": "Brown Eyed Baker",
+            "id": "White-Sangria-2189289",
+            "rating": 4,
+            "flavors": {
+                "piquant": 0.0,
+                "meaty": 0.0,
+                "bitter": 0.16666666666666666,
+                "sweet": 0.3333333333333333,
+                "sour": 0.8333333333333334,
+                "salty": 0.0
+            },
+            "attributes": {
+                "course": [
+                    "Cocktails",
+                    "Beverages"
+                ]
+            }
+        }
+    ],
+    "facetCounts": {},
+    "totalMatchCount": 351,
+    "attribution": {
+        "html": "Recipe search powered by <a href='http://www.yummly.co/recipes'><img alt='Yummly' src='https://static.yummly.co/api-logo.png'/></a>",
+        "url": "http://www.yummly.co/recipes/",
+        "text": "Recipe search powered by Yummly",
+        "logo": "https://static.yummly.co/api-logo.png"
+    }
+}

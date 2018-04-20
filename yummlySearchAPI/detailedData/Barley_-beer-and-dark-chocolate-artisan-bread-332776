@@ -1052,7 +1052,18 @@
     },
     "numberOfServings": 20,
     "totalTimeInSeconds": 5400,
-    "attributes": {},
-    "flavors": {},
+    "attributes": {
+        "course": [
+            "Breads"
+        ]
+    },
+    "flavors": {
+        "Piquant": 0.0,
+        "Meaty": 0.1667,
+        "Bitter": 0.8333,
+        "Sweet": 0.5,
+        "Sour": 0.0,
+        "Salty": 0.8333
+    },
     "rating": 5
 }

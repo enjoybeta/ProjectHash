@@ -1,0 +1,378 @@
+{
+    "criteria": {
+        "q": "s+p+i+n+a+c+h",
+        "allowedIngredient": null,
+        "excludedIngredient": null
+    },
+    "matches": [
+        {
+            "imageUrlsBySize": {
+                "90": "https://lh3.googleusercontent.com/suykc9DXGJgtO0wOtxk37whxZltqmVlHaLCmPgZLqlssa7E5LHFLMFzaNddKFJGVQ3uI4dyy7dWg6cbXZTNY=s90-c"
+            },
+            "sourceDisplayName": "nourish move love",
+            "ingredients": [
+                "water",
+                "watercress",
+                "cucumber",
+                "lemon",
+                "ginger",
+                "ice"
+            ],
+            "id": "pH-alkalizer-green-smoothie-2123369",
+            "smallImageUrls": [
+                "https://lh3.googleusercontent.com/b9su_ACrLmH_jWEpYShZF-Uok1p352rEpmt6WPeAOxcep5oEnUTPczChHHaQ4Ggd9LipLm-wmYl22UQmeNcqEg=s90"
+            ],
+            "recipeName": "pH alkalizer green smoothie",
+            "totalTimeInSeconds": 600,
+            "attributes": {
+                "course": [
+                    "Beverages"
+                ]
+            },
+            "flavors": null,
+            "rating": 4
+        },
+        {
+            "imageUrlsBySize": {
+                "90": "https://lh3.googleusercontent.com/4p8oSUDUJ5q1E63_80Ptf3jLeqQbE_RaH7GUZXpRtjGqfatmFsoaDVOUbPB5RvOL286GG8GNUkSlV7CBUR1x6A=s90-c"
+            },
+            "sourceDisplayName": "delicious days",
+            "ingredients": [
+                "milk",
+                "all-purpose flour",
+                "fresh yeast",
+                "butter",
+                "sugar",
+                "fine sea salt",
+                "eggs",
+                "ground almonds",
+                "ground hazelnuts",
+                "ceylon cinnamon",
+                "ground cloves",
+                "grated nutmeg",
+                "marzipan",
+                "brown sugar",
+                "honey",
+                "rum",
+                "amaretto",
+                "lemon",
+                "hazelnuts",
+                "apricot jam",
+                "water"
+            ],
+            "id": "T-H-E-Nut-Braid-2186750",
+            "smallImageUrls": [
+                "https://lh3.googleusercontent.com/y2GvKmdzi68UlTf9vHCpyEHrwOSud01nA5g4PZk-IhCyXCXcUw2TLLE7a1dGbv7ZtoML1iWVDX83DI8140k=s90"
+            ],
+            "recipeName": "T-H-E Nut Braid",
+            "totalTimeInSeconds": 4800,
+            "attributes": {},
+            "flavors": {
+                "piquant": 0.0,
+                "meaty": 0.5,
+                "bitter": 0.16666666666666666,
+                "sweet": 0.6666666666666666,
+                "sour": 0.5,
+                "salty": 0.16666666666666666
+            },
+            "rating": 4
+        },
+        {
+            "imageUrlsBySize": {
+                "90": "https://lh3.googleusercontent.com/cDAr-mF6_Zzl4OXaQKq940m1AhIvn1Uv0-LhwP2WgZLrPwJDXrXIItJy4WH3qxClt0AtLnUBzMLF_ur8Nz9z7g=s90-c"
+            },
+            "sourceDisplayName": "HungryShots",
+            "ingredients": [
+                "apples",
+                "shortcrust pastry",
+                "coconut",
+                "eggs",
+                "butter",
+                "sugar",
+                "all-purpose flour"
+            ],
+            "id": "Apple-And-Coconut-Tart-1324600",
+            "smallImageUrls": [
+                "http://lh3.googleusercontent.com/r5UddmGxYln-BSjuB5vh58ShBUxf1mjem9AWxk785PbbsuboIvIJjIwmV03E9ndQU-nokNkr7doSLmBF65mH-Q=s90"
+            ],
+            "recipeName": "Apple And Coconut Tart",
+            "totalTimeInSeconds": 4500,
+            "attributes": {
+                "course": [
+                    "Desserts"
+                ]
+            },
+            "flavors": {
+                "sweet": 0.6666666666666666,
+                "piquant": 0.0,
+                "sour": 0.16666666666666666,
+                "salty": 0.16666666666666666,
+                "meaty": 0.16666666666666666,
+                "bitter": 0.16666666666666666
+            },
+            "rating": 4
+        },
+        {
+            "imageUrlsBySize": {
+                "90": "http://lh4.ggpht.com/hRZ_mZ4wuj3OVwgaNNqueClnuR3N823bfjy6GVurG5OhoUrxJ82A5hudQJffwKF2ablnT0YXVX3zB9vrHqWY=s90-c"
+            },
+            "sourceDisplayName": "Real Mom Kitchen",
+            "ingredients": [
+                "all-purpose flour",
+                "cane sugar",
+                "salt",
+                "eggs",
+                "milk",
+                "butter",
+                "sausage links",
+                "peaches",
+                "pancake syrup",
+                "ground nutmeg"
+            ],
+            "id": "Sausage-peach-filled-puff-pancake-369932",
+            "smallImageUrls": [
+                "http://lh5.ggpht.com/V9Ejc1JisBckNlrKTKxFpSYL_U8vaObuYCmqLBx187qKTs77eQEb75CcR0-2rCc8sAufGKd5onM4w1-3VmD3ESY=s90"
+            ],
+            "recipeName": "Sausage-Peach Filled Puff Pancake",
+            "totalTimeInSeconds": 1800,
+            "attributes": {
+                "course": [
+                    "Breakfast and Brunch"
+                ]
+            },
+            "flavors": {
+                "sweet": 0.5,
+                "piquant": 0.0,
+                "sour": 0.16666666666666666,
+                "salty": 0.5,
+                "meaty": 0.16666666666666666,
+                "bitter": 0.16666666666666666
+            },
+            "rating": 4
+        },
+        {
+            "imageUrlsBySize": {
+                "90": "https://lh3.googleusercontent.com/-8R7G-GWeCCjMcVgF3-vi4MztHvykYgJAMhtyp5I4qucxL2kqG8Zwd9iXyzXqeoLlfjO75kj1y7gKkTH0iggUg=s90-c"
+            },
+            "sourceDisplayName": "BBQ Bastard",
+            "ingredients": [
+                "rib",
+                "eggs",
+                "ground almonds",
+                "sunflower seeds",
+                "liquid coconut oil",
+                "salt",
+                "pepper",
+                "smoked paprika",
+                "ground cumin",
+                "sea salt",
+                "dried thyme",
+                "dried oregano",
+                "lemon zest"
+            ],
+            "id": "Nutty-Ribs-2172367",
+            "smallImageUrls": [
+                "https://lh3.googleusercontent.com/8pTdWfkzOdSd8dzuBEcpJMKp5OXIHCthtEKm4wp99w21cKH8GwFz6zYWUAE-ePOPJCiwLTvO7vYJePW6WMT5ZA=s90"
+            ],
+            "recipeName": "Nutty Ribs",
+            "totalTimeInSeconds": 5400,
+            "attributes": {
+                "course": [
+                    "Main Dishes"
+                ]
+            },
+            "flavors": {
+                "piquant": 0.3333333333333333,
+                "meaty": 0.8333333333333334,
+                "bitter": 0.8333333333333334,
+                "sweet": 0.16666666666666666,
+                "sour": 0.16666666666666666,
+                "salty": 0.8333333333333334
+            },
+            "rating": 4
+        },
+        {
+            "imageUrlsBySize": {
+                "90": "http://lh4.ggpht.com/IWBhhwVR8goTrWTFgTU19JDU-eeoqSYFKb_U-6bx2gWtLHt9q9DMQmnkAw4c8lpCVIardQYylvIR44wAAUs_Fw=s90-c"
+            },
+            "sourceDisplayName": "Real Mom Kitchen",
+            "ingredients": [
+                "active dry yeast",
+                "cane sugar",
+                "milk",
+                "warm water",
+                "eggs",
+                "shortening",
+                "salt",
+                "all-purpose flour",
+                "hot dogs",
+                "American cheese"
+            ],
+            "id": "Pigs-in-a-blanket-369867",
+            "smallImageUrls": [
+                "http://lh4.ggpht.com/VNIMi62_jWKAVFQTVfDaKnWEkNeRlJcCm1r2f0bEac0peFVz0-CN3mxwESuLkG2hANpD1a65O-I1gWjcQSau=s90"
+            ],
+            "recipeName": "Pigs in a Blanket",
+            "totalTimeInSeconds": 6300,
+            "attributes": {
+                "course": [
+                    "Breads"
+                ]
+            },
+            "flavors": {
+                "sweet": 0.5,
+                "piquant": 0.0,
+                "sour": 0.16666666666666666,
+                "salty": 0.8333333333333334,
+                "meaty": 0.5,
+                "bitter": 0.8333333333333334
+            },
+            "rating": 4
+        },
+        {
+            "imageUrlsBySize": {
+                "90": "https://lh3.googleusercontent.com/ZLaOtkqIxNF5d8aP9W9I64YWiJQhVc8zEsltfDc_xC5Mbk2Mqgk2dW_Jv2_3AyDzRQ5jKe9q_B6NnbTILpcjqA=s90-c"
+            },
+            "sourceDisplayName": "Sandra's Easy Cooking",
+            "ingredients": [
+                "whole wheat flour",
+                "all-purpose flour",
+                "rolled oats",
+                "table salt",
+                "active dry yeast",
+                "sugar",
+                "luke warm water",
+                "olive oil"
+            ],
+            "id": "No-Knead-Whole-Wheat-Bread-2312363",
+            "smallImageUrls": [
+                "https://lh3.googleusercontent.com/OLgz0B163rGEDUo351PRXQvaQtNKd7bm2jswYBq9qSPWcLmTg-DOqFdka-xguwb93oSb4L650OYaieaRpUJi5SM=s90"
+            ],
+            "recipeName": "No-Knead Whole Wheat Bread",
+            "totalTimeInSeconds": null,
+            "attributes": {},
+            "flavors": null,
+            "rating": 4
+        },
+        {
+            "imageUrlsBySize": {
+                "90": "https://lh3.googleusercontent.com/I872N9pKkGUtlgbipYuHr3a-0Eu4_jA36OojHQX_Ux7Iew8fZh7eh9xp_3HqpKARb28cXVDhcbxTYiOoVjrzI4A=s90-c"
+            },
+            "sourceDisplayName": "Chefjar",
+            "ingredients": [
+                "chicken sausage",
+                "all-purpose flour",
+                "butter",
+                "eggs",
+                "egg yolks",
+                "milk",
+                "active dry yeast",
+                "sugar",
+                "salt",
+                "sesame seeds"
+            ],
+            "id": "PIGS-IN-A-BLANKET-1797247",
+            "smallImageUrls": [
+                "https://lh3.googleusercontent.com/YalHd5YAUkMzV-6le4xmn9WdawQLcc7h2BpILRzP5A-VNfd2jJNAFcmrst_M9uRW0tEUmiNdaQM16ZM_z2Kh2w=s90"
+            ],
+            "recipeName": "PIGS IN A BLANKET",
+            "totalTimeInSeconds": 8700,
+            "attributes": {
+                "course": [
+                    "Breads"
+                ]
+            },
+            "flavors": null,
+            "rating": 4
+        },
+        {
+            "imageUrlsBySize": {
+                "90": "https://lh3.googleusercontent.com/bH0Xly4D3Vxq6b5mQsJQQO6n9WMT3vm3JA4ArHql1R2mkeQ1IfYnSW5c0LxtOHJ_kvcL8SFkH2hnR6TjQu8ioA=s90-c"
+            },
+            "sourceDisplayName": "HungryShots",
+            "ingredients": [
+                "chocolate",
+                "butter",
+                "sugar",
+                "eggs",
+                "mascarpone",
+                "all-purpose flour",
+                "baking powder",
+                "hazelnuts"
+            ],
+            "id": "Hazelnut-Chocolate-Cake-1469249",
+            "smallImageUrls": [
+                "https://lh3.googleusercontent.com/-guB_fvyBqMXg98HxsSbbeuSIeJAbpclM9H2T2VC5kZ2VO9DYyZ-GmrmuWXXmPBGs5WjF_hj_9Kx61i2zdabQw=s90"
+            ],
+            "recipeName": "Hazelnut Chocolate Cake",
+            "totalTimeInSeconds": 2400,
+            "attributes": {
+                "course": [
+                    "Desserts"
+                ]
+            },
+            "flavors": {
+                "piquant": 0.0,
+                "meaty": 0.8333333333333334,
+                "bitter": 0.5,
+                "sweet": 0.6666666666666666,
+                "sour": 0.16666666666666666,
+                "salty": 0.5
+            },
+            "rating": 4
+        },
+        {
+            "imageUrlsBySize": {
+                "90": "http://lh3.ggpht.com/wdBefyx1DUUXhxY2gWHg5v1gitxvKwrUfvVE9KpGliWHrESk49UMiuVFY59M1DgAb86OSWz4sp0DvXp7HEcpQA=s90-c"
+            },
+            "sourceDisplayName": "Real Mom Kitchen",
+            "ingredients": [
+                "shortening",
+                "golden brown sugar",
+                "milk",
+                "creamy peanut butter",
+                "vanilla",
+                "eggs",
+                "all-purpose flour",
+                "salt",
+                "baking soda",
+                "oats",
+                "Rice Krispies Cereal",
+                "Cap''N Crunch Cereal",
+                "mini chocolate chips",
+                "toffee bits",
+                "brown sugar",
+                "sugar",
+                "flour",
+                "baking powder",
+                "old-fashioned oats",
+                "semi-sweet chocolate morsels",
+                "walnuts"
+            ],
+            "id": "Chocolate-chip-crunchewy-cookies-370292",
+            "smallImageUrls": [
+                "http://lh5.ggpht.com/kHu6cnW9ufP58UVh4BzQmbizd6EQ-ydnVmsc4dNMlK080k6hWm9ZFU1G0WMtr4cFPFEElu9egcXQYtXUlxfY=s90"
+            ],
+            "recipeName": "Chocolate Chip Crunchewy Cookies",
+            "totalTimeInSeconds": 2400,
+            "attributes": {
+                "course": [
+                    "Desserts"
+                ],
+                "cuisine": [
+                    "Kid-Friendly"
+                ]
+            },
+            "flavors": null,
+            "rating": 4
+        }
+    ],
+    "facetCounts": {},
+    "totalMatchCount": 19,
+    "attribution": {
+        "html": "Recipe search powered by <a href='http://www.yummly.co/recipes'><img alt='Yummly' src='https://static.yummly.co/api-logo.png'/></a>",
+        "url": "http://www.yummly.co/recipes/",
+        "text": "Recipe search powered by Yummly",
+        "logo": "https://static.yummly.co/api-logo.png"
+    }
+}

@@ -1,0 +1,62 @@
+{
+    "nutritionEstimates": [],
+    "totalTime": "1 hr 30 min",
+    "images": [
+        {
+            "hostedSmallUrl": "https://lh3.googleusercontent.com/D-UuZ8M734jsKLDHNvMHqUeFyzDh5g4nqUhIIyWBtF8yaGXKUNguHycueqR3CdB12kEMAKNGBH0qMoR0oxIa4Q=s90",
+            "hostedMediumUrl": "https://lh3.googleusercontent.com/D-UuZ8M734jsKLDHNvMHqUeFyzDh5g4nqUhIIyWBtF8yaGXKUNguHycueqR3CdB12kEMAKNGBH0qMoR0oxIa4Q=s180",
+            "hostedLargeUrl": "https://lh3.googleusercontent.com/D-UuZ8M734jsKLDHNvMHqUeFyzDh5g4nqUhIIyWBtF8yaGXKUNguHycueqR3CdB12kEMAKNGBH0qMoR0oxIa4Q=s360",
+            "imageUrlsBySize": {
+                "90": "https://lh3.googleusercontent.com/LLsu3ZmdrKSl2nHLsxuvVU1-2F9qkEnGXgrU1ozFap7z0Hym6k5p6ic_0arJ6WFWpSj1MPvG-m56458lImQ8pA=s90-c",
+                "360": "https://lh3.googleusercontent.com/LLsu3ZmdrKSl2nHLsxuvVU1-2F9qkEnGXgrU1ozFap7z0Hym6k5p6ic_0arJ6WFWpSj1MPvG-m56458lImQ8pA=s360-c"
+            }
+        }
+    ],
+    "name": "Daring Cooks Stacked Green Chile and Chicken Enchiladas",
+    "source": {
+        "sourceDisplayName": "Barbara Bakes",
+        "sourceSiteUrl": "barbarabakes.com",
+        "sourceRecipeUrl": "https://www.barbarabakes.com/daring-cooks-stacked-green-chile-and/"
+    },
+    "id": "Daring-Cooks-Stacked-Green-Chile-and-Chicken-Enchiladas-2353046",
+    "ingredientLines": [
+        "1\u00bd pounds Fresh Anaheim chiles (about eight 6 to 8 inch chiles) 24 ounces 678 grams - roast, peel, remove seeds, chop coarsely. Other green chiles (NOT bell peppers) could probably be substituted but be conscious of heat and size!)",
+        "1\u00bd pounds Fresh Anaheim chiles (about eight 6 to 8 inch chiles) 24 ounces 678 grams - roast, peel, remove seeds, chop coarsely. Other green chiles (NOT bell peppers) could probably be substituted but be conscious of heat and size!)",
+        "1\u00bd pounds Fresh Anaheim chiles (about eight 6 to 8 inch chiles) 24 ounces 678 grams - roast, peel, remove seeds, chop coarsely. Other green chiles (NOT bell peppers) could probably be substituted but be conscious of heat and size!)",
+        "7-8 ounces Tomatillos (about 4-5 medium)212 grams - peel, remove stems",
+        "4 cups Chicken broth (32 ounces/920 grams)",
+        "1 clove Garlic, minced",
+        "2 teaspoons yellow onion, minced",
+        "1 teaspoon dried oregano",
+        "\u00bd tsp Kosher salt (add more to taste)",
+        "\u00bc tsp Black Pepper (add more to taste)",
+        "2 tablespoons Cornstarch (dissolve in 2 tablespoons water, for thickening)",
+        "Hot sauce, your favorite, optional",
+        "2 Boneless chicken breasts (you can also use bone-in chicken breasts or thighs)",
+        "3 tablespoons Olive or other neutral vegetable oil (use more as needed)",
+        "Kosher salt and pepper",
+        "Kosher salt and pepper",
+        "12 Small Corn tortillas (5-6 inch/13-15 cm). (you can also use wheat tortillas or other wraps)",
+        "6 ounces grated Monterey Jack, 170 grams (other cheeses, cheddar, pepper jack, Mexican cheeses, can be used. Just be sure they melt well and complement the filling)",
+        "Cilantro for garnish, chopped and sprinkled optional"
+    ],
+    "attribution": {
+        "html": "<a href='http://www.yummly.co/recipe/Daring-Cooks-Stacked-Green-Chile-and-Chicken-Enchiladas-2353046'>Daring Cooks Stacked Green Chile and Chicken Enchiladas recipe</a> information powered by <img alt='Yummly' src='https://static.yummly.co/api-logo.png'/>",
+        "url": "http://www.yummly.co/recipe/Daring-Cooks-Stacked-Green-Chile-and-Chicken-Enchiladas-2353046",
+        "text": "Daring Cooks Stacked Green Chile and Chicken Enchiladas recipes: information powered by Yummly",
+        "logo": "https://static.yummly.co/api-logo.png"
+    },
+    "numberOfServings": 4,
+    "totalTimeInSeconds": 5400,
+    "attributes": {
+        "cuisine": [
+            "Mexican",
+            "Barbecue"
+        ],
+        "course": [
+            "Main Dishes"
+        ]
+    },
+    "flavors": {},
+    "rating": 4
+}

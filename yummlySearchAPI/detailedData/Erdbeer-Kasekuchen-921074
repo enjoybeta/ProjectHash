@@ -1100,7 +1100,11 @@
     },
     "numberOfServings": 12,
     "totalTimeInSeconds": 7200,
-    "attributes": {},
+    "attributes": {
+        "course": [
+            "Desserts"
+        ]
+    },
     "flavors": {},
     "rating": 3
 }

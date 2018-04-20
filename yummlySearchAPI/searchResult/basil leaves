@@ -1,0 +1,50 @@
+{
+    "criteria": {
+        "q": "b+a+s+i+l+ +l+e+a+v+e+s",
+        "allowedIngredient": null,
+        "excludedIngredient": null
+    },
+    "matches": [
+        {
+            "imageUrlsBySize": {
+                "90": "http://lh3.googleusercontent.com/hDj5EIJPbVmDoAmwHOnTu6PSzqtDqVkySbGE1jKHXhQoamu6Lysx75HkfqjJHKl4cY2xQucjitv-gNGzm68n=s90-c"
+            },
+            "sourceDisplayName": "Lecker",
+            "ingredients": [
+                "Zwiebel",
+                "\u00c4pfel",
+                "Kuttelkraut",
+                "Rosine",
+                "Kandiszucker",
+                "Essig",
+                "Senfsamen",
+                "Salz",
+                "Cayennepfeffer",
+                "Kopfsalat",
+                "K\u00e4se",
+                "Mehl",
+                "Ei",
+                "Mandelbl\u00e4tter",
+                "\u00d6l",
+                "Petersile"
+            ],
+            "id": "Panierter-Camembert-mit-Apfel-Chutney-923178",
+            "smallImageUrls": [
+                "http://lh3.googleusercontent.com/7agYYvhwGCWqPRHS1RDv-9I8OsPsg74hDHUxuBRJO5j8jsj2fkHfN02XygCvGUpYwibUmGVrmr7vy-XbPuYQ=s90"
+            ],
+            "recipeName": "Panierter Camembert mit Apfel-Chutney",
+            "totalTimeInSeconds": 2700,
+            "attributes": {},
+            "flavors": null,
+            "rating": 3
+        }
+    ],
+    "facetCounts": {},
+    "totalMatchCount": 1,
+    "attribution": {
+        "html": "Recipe search powered by <a href='http://www.yummly.co/recipes'><img alt='Yummly' src='https://static.yummly.co/api-logo.png'/></a>",
+        "url": "http://www.yummly.co/recipes/",
+        "text": "Recipe search powered by Yummly",
+        "logo": "https://static.yummly.co/api-logo.png"
+    }
+}

@@ -1,0 +1,384 @@
+{
+    "criteria": {
+        "q": "L+a+m+m+f+o+n+d",
+        "allowedIngredient": null,
+        "excludedIngredient": null
+    },
+    "matches": [
+        {
+            "imageUrlsBySize": {
+                "90": "https://lh3.googleusercontent.com/ZaYQflPF44zvf-fdMvlHu1yGuvZQw0dmgr3Rn1Yr6JkvwzPdUvsX6Matqf5fdFzv-iInjqKCKWrZOb9zX6MOTg=s90-c"
+            },
+            "sourceDisplayName": "The Pampered Chef",
+            "ingredients": [
+                "refrigerated sugar cookie dough",
+                "cream cheese",
+                "sugar",
+                "fruit"
+            ],
+            "id": "Dessert-Pizza-1564642",
+            "smallImageUrls": [
+                "https://lh3.googleusercontent.com/hdbExbaFYZ54zK-JMi8Hp7R-LRFNeluX5cYf6ieik--Y5cfef7s2BC0RodxaSMT4z8kkvomBsYfS4203Qisgkg=s90"
+            ],
+            "recipeName": "Dessert Pizza",
+            "totalTimeInSeconds": 3000,
+            "attributes": {
+                "course": [
+                    "Desserts"
+                ]
+            },
+            "flavors": {
+                "piquant": 0.0,
+                "meaty": 0.16666666666666666,
+                "bitter": 0.16666666666666666,
+                "sweet": 0.6666666666666666,
+                "sour": 0.16666666666666666,
+                "salty": 0.16666666666666666
+            },
+            "rating": 3
+        },
+        {
+            "imageUrlsBySize": {
+                "90": "https://lh3.googleusercontent.com/4W_trKuCSB2OVj-j3WXfSxTsBDyO40XSPZ05jF0ZPGGQ8mS8U31XvH_G_90AS-hJtm3ZlkhWQiIEIKm020d0=s90-c"
+            },
+            "sourceDisplayName": "The Spruce",
+            "ingredients": [
+                "filet",
+                "corn tortillas",
+                "oil",
+                "lime",
+                "garlic",
+                "honey",
+                "cumin",
+                "chili powder",
+                "onion powder",
+                "sea salt",
+                "black pepper",
+                "radicchio",
+                "avocado",
+                "cilantro leaves",
+                "jalapeno chilies",
+                "mayonnaise",
+                "olive oil",
+                "chipotles in adobo",
+                "apple cider vinegar"
+            ],
+            "id": "Halibut-Tacos-with-Spicy-Radicchio-Avocado-Slaw-2215374",
+            "smallImageUrls": [
+                "https://lh3.googleusercontent.com/DfT81UM-Jy353Hnu23dhp3E8JL_vjJZBMMQwWaY_4bapO6q3a65OS9vQI8DJv0V-64t-3YOvP1-vmMAZixV0BA=s90"
+            ],
+            "recipeName": "Halibut Tacos with Spicy Radicchio-Avocado Slaw",
+            "totalTimeInSeconds": 3000,
+            "attributes": {
+                "course": [
+                    "Main Dishes",
+                    "Lunch"
+                ],
+                "cuisine": [
+                    "Barbecue"
+                ]
+            },
+            "flavors": {
+                "piquant": 0.8333333333333334,
+                "meaty": 0.16666666666666666,
+                "bitter": 0.16666666666666666,
+                "sweet": 0.16666666666666666,
+                "sour": 0.16666666666666666,
+                "salty": 0.6666666666666666
+            },
+            "rating": 4
+        },
+        {
+            "imageUrlsBySize": {
+                "90": "http://lh3.googleusercontent.com/SgfIyVohVpX3ROOn-5d2aym5BPs_tEshth4LehutbPm3MTxh9rbe1sCqyWRpjn32XkSt5MvVp6s7iNQeJQpvhA=s90-c"
+            },
+            "sourceDisplayName": "The Lazy Mom's Cooking Blog",
+            "ingredients": [
+                "lemon juice",
+                "egg yolks",
+                "sugar",
+                "butter"
+            ],
+            "id": "Lemon-Curd-1185675",
+            "smallImageUrls": [
+                "http://lh3.googleusercontent.com/642aY3DXGTQ0aShPom7T1wgCKRMN5V1_lop4KB69Bc-gwpT_ud1FJaEOUZspbJeYFhvqltp4rd3r9vYQpny07p8=s90"
+            ],
+            "recipeName": "Lemon Curd",
+            "totalTimeInSeconds": 3900,
+            "attributes": {
+                "course": [
+                    "Desserts"
+                ]
+            },
+            "flavors": {
+                "sweet": 0.8333333333333334,
+                "piquant": 0.0,
+                "sour": 0.8333333333333334,
+                "salty": 0.16666666666666666,
+                "meaty": 0.16666666666666666,
+                "bitter": 0.16666666666666666
+            },
+            "rating": 4
+        },
+        {
+            "imageUrlsBySize": {
+                "90": "https://lh3.googleusercontent.com/WPlCF8W6d4fXnZwDxp3rzTPadOy1rS_6jPoN7EserIthF4tXwqck-EXIK1r2Vdi6RuEQUN8tvu8RK2PkMTPH=s90-c"
+            },
+            "sourceDisplayName": "Mason Woodruff",
+            "ingredients": [
+                "OREO\u00ae Cookies",
+                "crumbles",
+                "vanilla",
+                "coconut flour",
+                "baking powder",
+                "liquid egg whites",
+                "Walden Farms Pancake Syrup",
+                "marshmallows",
+                "dark chocolate chips"
+            ],
+            "id": "S_moreos-Protein-Poppers-2367929",
+            "smallImageUrls": [
+                "https://lh3.googleusercontent.com/owH_13SAw69zh2XTYyVMYz9qtUoxXkFH7nUxZ3JmpSxhfA_bwhv6cjeOw-RKksmqSdXSTD78AD3qXWjmKt_bSlw=s90"
+            ],
+            "recipeName": "S'moreos Protein Poppers",
+            "totalTimeInSeconds": 1800,
+            "attributes": {
+                "course": [
+                    "Desserts"
+                ],
+                "cuisine": [
+                    "Kid-Friendly"
+                ]
+            },
+            "flavors": null,
+            "rating": 4
+        },
+        {
+            "imageUrlsBySize": {
+                "90": "https://lh3.googleusercontent.com/0kiIRQaDsIJy95hchQiQv-iNImOEYX25D03j3AerzPu2DnHDt1VtjATu8mRKoQYFK1sRRyq0asWUrL2kKG3dKs8=s90-c"
+            },
+            "sourceDisplayName": "Mason Woodruff",
+            "ingredients": [
+                "vanilla protein powder",
+                "corn starch",
+                "stevia",
+                "unsweetened almond milk",
+                "OREO\u00ae Cookies",
+                "coconut flour",
+                "vanilla",
+                "liquid egg whites",
+                "applesauce",
+                "Walden Farms Pancake Syrup",
+                "pudding mix"
+            ],
+            "id": "Oreo-Cheesecake-Protein-Donuts-with-a-Regular-Glazed-Option-2352361",
+            "smallImageUrls": [
+                "https://lh3.googleusercontent.com/g7juqQxYREEqKGRW0cDh7mZdrDCuntiN0XU2Wv-ajJrx63z0Np6NjD37OeXaaFJPiLiixkDWpqgbkgSnUWIuPg=s90"
+            ],
+            "recipeName": "Oreo Cheesecake Protein Donuts with a Regular Glazed Option",
+            "totalTimeInSeconds": 2100,
+            "attributes": {
+                "course": [
+                    "Desserts"
+                ]
+            },
+            "flavors": null,
+            "rating": 4
+        },
+        {
+            "imageUrlsBySize": {
+                "90": "http://lh3.googleusercontent.com/Ylv2k3ETBsZLD7q9HZn_x5W9i_i2jQWQFDx4eIXqNiSELyQeX5c3jGkKvc-QhKiWIIq0p4xtbrXFh8AGtyY38w=s90-c"
+            },
+            "sourceDisplayName": "The Bojon Gourmet",
+            "ingredients": [
+                "chocolate",
+                "heavy cream",
+                "blood orange zest",
+                "vanilla beans",
+                "large egg yolks",
+                "cane sugar",
+                "salt",
+                "blood orange"
+            ],
+            "id": "Blood-Orange-Chocolate-Bottom-Creme-Brulee-1173531",
+            "smallImageUrls": [
+                "http://lh3.googleusercontent.com/evXuQIQx8ebLBjkjbkxWkURhDs2oWIOftmiKxIX3DwiELAdUxp5XVP2J02uHfUEx31tHYQC-Xfe484FJP1Nv-Q=s90"
+            ],
+            "recipeName": "Blood Orange Chocolate-Bottom Cre\u0300me Bru\u0302le\u0301e",
+            "totalTimeInSeconds": 6300,
+            "attributes": {
+                "course": [
+                    "Desserts"
+                ]
+            },
+            "flavors": {
+                "sweet": 0.6666666666666666,
+                "piquant": 0.0,
+                "sour": 0.8333333333333334,
+                "salty": 0.16666666666666666,
+                "meaty": 0.6666666666666666,
+                "bitter": 0.16666666666666666
+            },
+            "rating": 4
+        },
+        {
+            "imageUrlsBySize": {
+                "90": "https://lh3.googleusercontent.com/MY1MKpaWHrhB-n3Tj53j-e8XUM1n9hCCZDIYBcLN2q2BItbmhgGDVsfKSGSGDUSDXZJ0bXbFzP1miwHZBc57JzQ=s90-c"
+            },
+            "sourceDisplayName": "Dairy Goodness",
+            "ingredients": [
+                "eggs",
+                "brown sugar",
+                "unsalted butter",
+                "pumpkin pur\u00e9e",
+                "milk",
+                "pure vanilla extract",
+                "wheat bran",
+                "oats",
+                "unbleached flour",
+                "baking powder",
+                "baking soda",
+                "bittersweet chocolate chips",
+                "mild cheddar cheese"
+            ],
+            "id": "Pumpkin_-chocolate-and-Cheddar-muffins-1369470",
+            "smallImageUrls": [
+                "https://lh3.googleusercontent.com/trjIrm6Bzd44461gBB5SA-Kr_pKC7GiEpe-jRpmNom8-iqKUWtf39p3JhmekvFV7jhx0HXfNhDapMua7jQgp=s90"
+            ],
+            "recipeName": "Pumpkin, chocolate and Cheddar muffins",
+            "totalTimeInSeconds": 3300,
+            "attributes": {
+                "course": [
+                    "Breads"
+                ],
+                "cuisine": [
+                    "Kid-Friendly"
+                ]
+            },
+            "flavors": {
+                "piquant": 0.0,
+                "meaty": 0.3333333333333333,
+                "bitter": 0.8333333333333334,
+                "sweet": 0.6666666666666666,
+                "sour": 0.16666666666666666,
+                "salty": 0.6666666666666666
+            },
+            "rating": 3
+        },
+        {
+            "imageUrlsBySize": {
+                "90": "https://lh3.googleusercontent.com/EfZ4K07l7xdmb4ymyl95IqKFO_WDw2IR2dUxicDUXVbwh_7mXQs7wg1O8S8sjS4xNJP3sgZwuArAcxvfnTGK=s90-c"
+            },
+            "sourceDisplayName": "The Bojon Gourmet",
+            "ingredients": [
+                "chocolate",
+                "heavy cream",
+                "blood orange zest",
+                "vanilla beans",
+                "large egg yolks",
+                "cane sugar",
+                "salt",
+                "blood orange"
+            ],
+            "id": "Blood-Orange-Chocolate-Bottom-Creme-Brulee-2359033",
+            "smallImageUrls": [
+                "https://lh3.googleusercontent.com/WdpcbBskI6bq3_I0Rk_QZE4aeu0Veu7e8Ip7OlHBX1iZ9gKlrrMbEqoCW44ATpywru4W2HIeJFXwhn0lb0yd8g=s90"
+            ],
+            "recipeName": "Blood Orange Chocolate-Bottom Cre\u0300me Bru\u0302le\u0301e",
+            "totalTimeInSeconds": 6300,
+            "attributes": {
+                "course": [
+                    "Desserts"
+                ],
+                "cuisine": [
+                    "French"
+                ]
+            },
+            "flavors": {
+                "piquant": 0.0,
+                "meaty": 0.6666666666666666,
+                "bitter": 0.16666666666666666,
+                "sweet": 0.6666666666666666,
+                "sour": 0.8333333333333334,
+                "salty": 0.16666666666666666
+            },
+            "rating": 4
+        },
+        {
+            "imageUrlsBySize": {
+                "90": "https://lh3.googleusercontent.com/q8bmrNGR9HmOtAMLY0fx9g0BBS4gX4vMnccBkG4sJoNEDpJMYCEgravWjNdG720ol2vEz8Lc3la-RFOLpu7gh6c=s90-c"
+            },
+            "sourceDisplayName": "Jill Silverman Hough",
+            "ingredients": [
+                "olive oil",
+                "garlic",
+                "garden peas",
+                "whole milk",
+                "fresh mint",
+                "whole grain mustard",
+                "Tabasco Pepper Sauce",
+                "kosher salt",
+                "freshly ground black pepper",
+                "salmon fillets"
+            ],
+            "id": "Grilled-King-Salmon-with-English-Peas-and-Mint-2156604",
+            "smallImageUrls": [
+                "https://lh3.googleusercontent.com/nPnLbaFBEeJa1HCFnTJM87zVnc8a90wdUikYdnoR8DK6z-IKY00Iigr-VqgWwYHQ8YX9eajLy3DbMEvD6QjypxI=s90"
+            ],
+            "recipeName": "Grilled King Salmon with English Peas and Mint",
+            "totalTimeInSeconds": 2100,
+            "attributes": {
+                "course": [
+                    "Main Dishes"
+                ],
+                "cuisine": [
+                    "English",
+                    "Barbecue"
+                ]
+            },
+            "flavors": null,
+            "rating": 4
+        },
+        {
+            "imageUrlsBySize": {
+                "90": "https://lh3.googleusercontent.com/szF-NpLtbo-4d6iwQzCdvuuP1maBjAp8BSM9nAnLcoaIS227kRGiwjdplUbKPg4eP_P6A31DQn4FW4vWUhHqUk4=s90-c"
+            },
+            "sourceDisplayName": "Family Focus Blog",
+            "ingredients": [
+                "melon",
+                "salt",
+                "amchur",
+                "ground coriander",
+                "cayenne pepper",
+                "ground turmeric",
+                "chickpea flour",
+                "rice flour",
+                "sunflower oil"
+            ],
+            "id": "Bitter-Melon-Chips-Recipe_-Diabetes-Friendly-2118758",
+            "smallImageUrls": [
+                "https://lh3.googleusercontent.com/1BeZFTdjK0ZEoDw-LZNZqvfhMARNIgiCCWXTWnGnyJAByXtJW_edEoCfN82-9lCoCTlUnPmmmGX55C8M6LOk=s90"
+            ],
+            "recipeName": "Bitter Melon Chips Recipe, Diabetes-Friendly",
+            "totalTimeInSeconds": 1200,
+            "attributes": {},
+            "flavors": {
+                "piquant": 0.8333333333333334,
+                "meaty": 0.16666666666666666,
+                "bitter": 0.8333333333333334,
+                "sweet": 0.5,
+                "sour": 0.8333333333333334,
+                "salty": 0.8333333333333334
+            },
+            "rating": 4
+        }
+    ],
+    "facetCounts": {},
+    "totalMatchCount": 596,
+    "attribution": {
+        "html": "Recipe search powered by <a href='http://www.yummly.co/recipes'><img alt='Yummly' src='https://static.yummly.co/api-logo.png'/></a>",
+        "url": "http://www.yummly.co/recipes/",
+        "text": "Recipe search powered by Yummly",
+        "logo": "https://static.yummly.co/api-logo.png"
+    }
+}

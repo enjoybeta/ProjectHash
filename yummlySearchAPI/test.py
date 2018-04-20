@@ -105,4 +105,4 @@ if __name__ == '__main__':
     appId = '4a4d16bf'
     appKey = 'c60f961fefede4811a9f5e9709cb6829'
     search = YummlySearch(appId, appKey)
-    BFS(search, 'salt', 'detailedData', 'searchResult', 1000)
+    BFS(search, 'beef', 'detailedData', 'searchResult', 1000)

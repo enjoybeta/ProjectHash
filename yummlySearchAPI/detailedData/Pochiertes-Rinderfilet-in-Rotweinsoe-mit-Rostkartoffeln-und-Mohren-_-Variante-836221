@@ -1,0 +1,53 @@
+{
+    "yield": "Zutaten f\u00fcr 4 Personen:",
+    "nutritionEstimates": [],
+    "totalTime": "1 hr 15 min",
+    "images": [
+        {
+            "hostedSmallUrl": "http://lh3.googleusercontent.com/cc7mB0i5yYu93adsXe93yr0Sw-uThvO7DlYIXiUqXpldS7QTaSh1WZdL0ViI0M6Imtx84JU3Ui5UywNP2gnwCno=s90",
+            "hostedMediumUrl": "http://lh3.googleusercontent.com/cc7mB0i5yYu93adsXe93yr0Sw-uThvO7DlYIXiUqXpldS7QTaSh1WZdL0ViI0M6Imtx84JU3Ui5UywNP2gnwCno=s180",
+            "hostedLargeUrl": "http://lh3.googleusercontent.com/cc7mB0i5yYu93adsXe93yr0Sw-uThvO7DlYIXiUqXpldS7QTaSh1WZdL0ViI0M6Imtx84JU3Ui5UywNP2gnwCno=s360",
+            "imageUrlsBySize": {
+                "90": "http://lh3.googleusercontent.com/PbqFhFgADd5fSRlaSh7cSPcQhmkkvAuMCmEdFaTaXBW7fBhRZVvCs88mgtA7a6FXLW2ZxUHH7t1YcQe6QiUe=s90-c",
+                "360": "http://lh3.googleusercontent.com/PbqFhFgADd5fSRlaSh7cSPcQhmkkvAuMCmEdFaTaXBW7fBhRZVvCs88mgtA7a6FXLW2ZxUHH7t1YcQe6QiUe=s360-c"
+            }
+        }
+    ],
+    "name": "Pochiertes Rinderfilet in Rotweinso\u00dfe mit Ro\u0308stkartoffeln und Mo\u0308hren + Variante",
+    "source": {
+        "sourceDisplayName": "Lecker",
+        "sourceSiteUrl": "lecker.de",
+        "sourceRecipeUrl": "http://www.lecker.de/rezept/1116410/Pochiertes-Rinderfilet-in-Rotweinsosse-mit-Roestkartoffeln-und-Moehren-Variante.html"
+    },
+    "id": "Pochiertes-Rinderfilet-in-Rotweinsoe-mit-Rostkartoffeln-und-Mohren-_-Variante-836221",
+    "ingredientLines": [
+        "3 Schalotten",
+        "1 Knoblauchzehe",
+        "1 l Rinderbr\u00fche (Instant)",
+        "1 l trockener Rotwein",
+        "100 ml Rotwein-Essig",
+        "2 Lorbeerbl\u00e4tter",
+        "2 Gew\u00fcrznelken",
+        "Salz",
+        "einige Pfefferk\u00f6rner",
+        "800 g Rinderfilet (aus der Mitte)",
+        "600 h Kartoffeln",
+        "400 g M\u00f6hren",
+        "40 g Butter",
+        "Pfeffer",
+        "2 EL \u00d6l",
+        "getrockneter Majoran",
+        "Majoran zum Garnieren"
+    ],
+    "attribution": {
+        "html": "<a href='http://www.yummly.co/recipe/Pochiertes-Rinderfilet-in-Rotweinsoe-mit-Rostkartoffeln-und-Mohren-_-Variante-836221'>Pochiertes Rinderfilet in Rotweinso&szlig;e mit Ro\u0308stkartoffeln und Mo\u0308hren + Variante recipe</a> information powered by <img alt='Yummly' src='https://static.yummly.co/api-logo.png'/>",
+        "url": "http://www.yummly.co/recipe/Pochiertes-Rinderfilet-in-Rotweinsoe-mit-Rostkartoffeln-und-Mohren-_-Variante-836221",
+        "text": "Pochiertes Rinderfilet in Rotweinso&szlig;e mit Ro\u0308stkartoffeln und Mo\u0308hren + Variante recipes: information powered by Yummly",
+        "logo": "https://static.yummly.co/api-logo.png"
+    },
+    "numberOfServings": 4,
+    "totalTimeInSeconds": 4500,
+    "attributes": {},
+    "flavors": {},
+    "rating": 3
+}

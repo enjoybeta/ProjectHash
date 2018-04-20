@@ -1,0 +1,337 @@
+{
+    "criteria": {
+        "q": "c+a+s+s+i+s",
+        "allowedIngredient": null,
+        "excludedIngredient": null
+    },
+    "matches": [
+        {
+            "imageUrlsBySize": {
+                "90": "https://lh3.googleusercontent.com/oiQR3Fo7vLWPJlNTvsJbGzeFSHyMrxeZI_mY9c8s6wngaXbc7Hwlbpw8Pggb9jqyEmg_6fVpvjNpOEI-UbQGlw=s90-c"
+            },
+            "sourceDisplayName": "Kalyn's Kitchen",
+            "ingredients": [
+                "globe eggplant",
+                "salt",
+                "olive oil",
+                "italian seasoning",
+                "basil leaves",
+                "freshly grated parmesan",
+                "mozzarella cheese",
+                "hot red pepper flakes",
+                "virgin olive oil",
+                "large garlic cloves",
+                "petite diced tomatoes",
+                "dried oregano"
+            ],
+            "id": "Julia-Childs-Eggplant-Pizzas-2211869",
+            "smallImageUrls": [
+                "https://lh3.googleusercontent.com/6LYPkoWZBy-1TGl9k4NyVpj_mijJCOEKEXq7zIlMrxuqvzNeyBjWXrPuULd3SR3hdVweJVJQsUbdhlV_S6AoXQ=s90"
+            ],
+            "recipeName": "Julia Child\u2019s Eggplant Pizzas",
+            "totalTimeInSeconds": 3000,
+            "attributes": {
+                "course": [
+                    "Main Dishes",
+                    "Lunch"
+                ],
+                "cuisine": [
+                    "Italian"
+                ]
+            },
+            "flavors": {
+                "piquant": 0.8333333333333334,
+                "meaty": 0.8333333333333334,
+                "bitter": 0.8333333333333334,
+                "sweet": 0.16666666666666666,
+                "sour": 0.8333333333333334,
+                "salty": 0.8333333333333334
+            },
+            "rating": 4
+        },
+        {
+            "imageUrlsBySize": {
+                "90": "https://lh3.googleusercontent.com/V9ijxBjMMcKGWtohJEDDA2strwR1hWKSZsziW0Wkw-pOwP5OOWBvrPVy6jISghCAt7P88xK4hgaamVIIoJPqlg=s90-c"
+            },
+            "sourceDisplayName": "Kalyn's Kitchen",
+            "ingredients": [
+                "carrots",
+                "olive oil",
+                "maple syrup",
+                "salt",
+                "freshly ground black pepper"
+            ],
+            "id": "Maple-Glazed-Roasted-Carrots-2220498",
+            "smallImageUrls": [
+                "https://lh3.googleusercontent.com/UkGOq8lDKztnMl8OV1VYPJiXxqOj5Yvi4UIi4hzb7Dd0PrGfNCtFEh_ke2Hq_YxURLZvtbtv8GmC0kwwZhUj=s90"
+            ],
+            "recipeName": "Maple-Glazed Roasted Carrots",
+            "totalTimeInSeconds": 2100,
+            "attributes": {
+                "course": [
+                    "Side Dishes"
+                ]
+            },
+            "flavors": null,
+            "rating": 4
+        },
+        {
+            "imageUrlsBySize": {
+                "90": "https://lh3.googleusercontent.com/dQmVgZClGlTmtRQb0O1TRD4baEDU5O5ftg62CgacUfIAHtdGe6Cllo0BaK5cO_7ufvP-LuOvAQtk0n2U_uxE=s90-c"
+            },
+            "sourceDisplayName": "Kalyn's Kitchen",
+            "ingredients": [
+                "broccoli",
+                "flowerets",
+                "extra-virgin olive oil",
+                "garlic",
+                "salt",
+                "freshly ground black pepper"
+            ],
+            "id": "Roasted-Broccoli-with-Garlic-2209449",
+            "smallImageUrls": [
+                "https://lh3.googleusercontent.com/kMOAkuKqkOVxWEEhD2ySY6BRI46ObxSxFfAPOLPU_cs6wVzcNG6J9Q0lFUhoKRldpCzhmIqD_F_1JIAlMz_44Q=s90"
+            ],
+            "recipeName": "Roasted Broccoli with Garlic",
+            "totalTimeInSeconds": 1500,
+            "attributes": {
+                "course": [
+                    "Side Dishes"
+                ],
+                "holiday": [
+                    "Sunday Lunch"
+                ]
+            },
+            "flavors": null,
+            "rating": 4
+        },
+        {
+            "imageUrlsBySize": {
+                "90": "https://lh3.googleusercontent.com/5g39SpQtef--yAl8yMRBGZP5cqtFv0F87fpe9vSCcSsKgbqAjrMl7hX1JXKcDF6Tvf41ZYelHMtFPDifXBdgvA=s90-c"
+            },
+            "sourceDisplayName": "Kalyn's Kitchen",
+            "ingredients": [
+                "butternut squash",
+                "extra-virgin olive oil",
+                "balsamic vinegar",
+                "rosemary",
+                "sea salt",
+                "freshly ground black pepper"
+            ],
+            "id": "Roasted-Butternut-Squash-with-Rosemary-and-Balsamic-Vinegar-2217610",
+            "smallImageUrls": [
+                "https://lh3.googleusercontent.com/Uvg-pEFHOpCIPoSbuCEVJnUAF7FEGjjIA-zaBUk4T8CDsBUbmp7b7RkC1Yz2Ac5VmWAR_PpN7iA6B7lRToSykQ=s90"
+            ],
+            "recipeName": "Roasted Butternut Squash with Rosemary and Balsamic Vinegar",
+            "totalTimeInSeconds": 2400,
+            "attributes": {
+                "course": [
+                    "Side Dishes"
+                ]
+            },
+            "flavors": null,
+            "rating": 4
+        },
+        {
+            "imageUrlsBySize": {
+                "90": "http://lh3.googleusercontent.com/CJujNFJaMVWmEwe7xMdWnwm_RkiRYHd1wAPfepXsw-IEA0-pNxf7oRuwJBSLAU4S_QZz3PVDjySS-Xfqh6_FvbM=s90-c"
+            },
+            "sourceDisplayName": "Forgotten Way Farms.com",
+            "ingredients": [
+                "corn starch",
+                "egg yolks",
+                "sugar",
+                "salt",
+                "milk",
+                "vanilla"
+            ],
+            "id": "My-Grannys-Cocoa-Cream-Pie-1227689",
+            "smallImageUrls": [
+                "http://lh3.googleusercontent.com/s903pWU4oL4m0p67zzgzSO34MSlMN_gvuyFe12tB_GLfbTia4d04K6tTKCrXODN0gcZ0zBRpj3ziBqGHgWdU=s90"
+            ],
+            "recipeName": "My Granny\u2019s Cocoa Cream Pie",
+            "totalTimeInSeconds": 2400,
+            "attributes": {
+                "course": [
+                    "Desserts"
+                ]
+            },
+            "flavors": {
+                "piquant": 0.0,
+                "meaty": 0.16666666666666666,
+                "bitter": 0.16666666666666666,
+                "sweet": 0.8333333333333334,
+                "sour": 0.16666666666666666,
+                "salty": 0.16666666666666666
+            },
+            "rating": 4
+        },
+        {
+            "imageUrlsBySize": {
+                "90": "https://lh3.googleusercontent.com/h0qp799bJh1QZZxKdcy2lG-ZizkG2PXEUnErN7GwdIZhizgx9V7x4tMcQq70MIAHrQkgzoQuQOwf608YNrU=s90-c"
+            },
+            "sourceDisplayName": "Stacey in the Sticks",
+            "ingredients": [
+                "butter",
+                "honey",
+                "plain flour",
+                "baking powder"
+            ],
+            "id": "Cinnamon-Honey-Shortbread-_-2331126",
+            "smallImageUrls": [
+                "https://lh3.googleusercontent.com/dbmOVRs4cBJghD5Bpl60wus3ogtaw5ZQYDq8iaiJkEHciWFSjIB5EBVmkjGx5GJjVE8Ub3bJ_4ypaZ-6rcMHS48=s90"
+            ],
+            "recipeName": "Cinnamon Honey Shortbread |",
+            "totalTimeInSeconds": 2700,
+            "attributes": {
+                "course": [
+                    "Desserts",
+                    "Lunch"
+                ]
+            },
+            "flavors": {
+                "piquant": 0.0,
+                "meaty": 0.8333333333333334,
+                "bitter": 0.16666666666666666,
+                "sweet": 0.6666666666666666,
+                "sour": 0.16666666666666666,
+                "salty": 0.3333333333333333
+            },
+            "rating": 4
+        },
+        {
+            "imageUrlsBySize": {
+                "90": "https://lh3.googleusercontent.com/p37ZIZ0SQAaQ9cqKZZ44YFrP5T0DkzAP4lap0vOxArF0W7TKg28eSUIXCnVfbu01gTUIoQCTS52vHtCRPu83=s90-c"
+            },
+            "sourceDisplayName": "Kalyn's Kitchen",
+            "ingredients": [
+                "skinless chicken breasts",
+                "salt",
+                "freshly ground black pepper",
+                "basil pesto",
+                "low-fat mozzarella cheese"
+            ],
+            "id": "Easy-Baked-Pesto-Chicken-2220875",
+            "smallImageUrls": [
+                "https://lh3.googleusercontent.com/5PMXul8zRU8A7ikujld9Ei9G6e3-o8M149H3gLQM8CHPv7esprfnYYP9MWsMl0ORhqJ050nv12AWQpJdSFknFg=s90"
+            ],
+            "recipeName": "Easy Baked Pesto Chicken",
+            "totalTimeInSeconds": 2700,
+            "attributes": {
+                "course": [
+                    "Main Dishes"
+                ]
+            },
+            "flavors": null,
+            "rating": 4
+        },
+        {
+            "imageUrlsBySize": {
+                "90": "https://lh3.googleusercontent.com/NYiqbItU_wPggBTXQ5Z1k9Xo-JDKfjVrCyqGoBrDWFyTJ6OE-gR95eVDHKxe2T2e3dPcxIHvbRB7g7gMMZ_g5Q=s90-c"
+            },
+            "sourceDisplayName": "Southern Bite",
+            "ingredients": [
+                "cooked chicken",
+                "instant rice",
+                "cream of chicken soup",
+                "sour cream",
+                "diced onions",
+                "diced tomatoes and green chilies",
+                "chicken broth",
+                "fajita seasoning mix",
+                "Mexican cheese blend"
+            ],
+            "id": "Fajita-Chicken-Casserole---Advantium-240-Wall-Oven-Version-2223892",
+            "smallImageUrls": [
+                "https://lh3.googleusercontent.com/YzmEtbtjEmATC_WIWe37Did14KJWg6xVL17gLCL8bSuNhQATGQjpRmK0f6SoR3Ew1VIrDwQI6SGGm2ikhQPe=s90"
+            ],
+            "recipeName": "Fajita Chicken Casserole - Advantium 240 Wall Oven Version",
+            "totalTimeInSeconds": 1500,
+            "attributes": {
+                "course": [
+                    "Main Dishes"
+                ]
+            },
+            "flavors": {
+                "piquant": 0.16666666666666666,
+                "meaty": 0.3333333333333333,
+                "bitter": 0.5,
+                "sweet": 0.16666666666666666,
+                "sour": 0.16666666666666666,
+                "salty": 0.6666666666666666
+            },
+            "rating": 4
+        },
+        {
+            "imageUrlsBySize": {
+                "90": "http://lh3.googleusercontent.com/r9YuNp9g79qSOc82wl5GDbfWBmpQq-zP3-kI71AyqmwU3k6CKnDIJXNtlu3oX6Hoz00LhYJvvVc7EAaqalZ54A=s90-c"
+            },
+            "sourceDisplayName": "The Kitchen Girl",
+            "ingredients": [
+                "fresh ginger",
+                "water",
+                "lemon juice",
+                "raw honey",
+                "ice cubes"
+            ],
+            "id": "Miracle-Slushie-Sore-Throat-Remedy-1239331",
+            "smallImageUrls": [
+                "http://lh3.googleusercontent.com/wusbvhpfq--aIFpuMTQnc0b0L0CxIL7FucE9y8ldpcMI1tto4mECgEH53SML6QnA46AbHNJBeoeIwVJEnXvhrw=s90"
+            ],
+            "recipeName": "Miracle Slushie Sore Throat Remedy",
+            "totalTimeInSeconds": 2400,
+            "attributes": {
+                "course": [
+                    "Beverages"
+                ]
+            },
+            "flavors": null,
+            "rating": 4
+        },
+        {
+            "imageUrlsBySize": {
+                "90": "https://lh3.googleusercontent.com/L0zkUmtNgRNg1NqFz6MHl_fEyiv2m7w2v92_tCfMaJ8O_2rg7sm_0lrRwqVeS6jazEZruWh9_-lkYLvEiIfN=s90-c"
+            },
+            "sourceDisplayName": "Beach Ready Now",
+            "ingredients": [
+                "shrimp",
+                "organic butter",
+                "virgin olive oil",
+                "garlic",
+                "fresh parsley",
+                "lemon",
+                "crushed red pepper flakes",
+                "salt",
+                "pepper"
+            ],
+            "id": "Garlic-Shrimp-Scampi-1737760",
+            "smallImageUrls": [
+                "https://lh3.googleusercontent.com/DMAHDRwmuUImuB-vz2B6fuBMsZpqbD0WVjgimni-9U8TpOrFv01ygGy6LePbtcDoyJgCNsy5My2tRXyBXSNR=s90"
+            ],
+            "recipeName": "Garlic Shrimp Scampi",
+            "totalTimeInSeconds": 3000,
+            "attributes": {
+                "course": [
+                    "Main Dishes"
+                ]
+            },
+            "flavors": {
+                "piquant": 0.16666666666666666,
+                "meaty": 0.6666666666666666,
+                "bitter": 0.3333333333333333,
+                "sweet": 0.0,
+                "sour": 0.8333333333333334,
+                "salty": 0.5
+            },
+            "rating": 4
+        }
+    ],
+    "facetCounts": {},
+    "totalMatchCount": 41909,
+    "attribution": {
+        "html": "Recipe search powered by <a href='http://www.yummly.co/recipes'><img alt='Yummly' src='https://static.yummly.co/api-logo.png'/></a>",
+        "url": "http://www.yummly.co/recipes/",
+        "text": "Recipe search powered by Yummly",
+        "logo": "https://static.yummly.co/api-logo.png"
+    }
+}

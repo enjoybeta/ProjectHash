@@ -1,0 +1,378 @@
+{
+    "criteria": {
+        "q": "S+p+i+n+a+t",
+        "allowedIngredient": null,
+        "excludedIngredient": null
+    },
+    "matches": [
+        {
+            "imageUrlsBySize": {
+                "90": "http://lh6.ggpht.com/3PUHJNdXS06cVaJNIXgp_qMSz_pBIN2uXvvCb8FyXLFnXNtp6ZfSnh89L3DAxweOkyBFeN2fMubaJQyV_qtXUg=s90-c"
+            },
+            "sourceDisplayName": "How Sweet It Is",
+            "ingredients": [
+                "whole milk",
+                "brown sugar",
+                "active dry yeast",
+                "all-purpose flour",
+                "salt",
+                "unsalted butter",
+                "eggs"
+            ],
+            "id": "Croissants-333493",
+            "smallImageUrls": [
+                "http://lh6.ggpht.com/JN7TW82lO1X4jUryA4_0ASeK3MN7Q9lrhCOofr6RUHgaER-Tl3XPs8EehkPM2u34qMEuskl4PxOg_kKAO0sX=s90"
+            ],
+            "recipeName": "Croissants",
+            "totalTimeInSeconds": 5100,
+            "attributes": {
+                "course": [
+                    "Breads"
+                ],
+                "cuisine": [
+                    "French"
+                ]
+            },
+            "flavors": {
+                "sweet": 0.3333333333333333,
+                "piquant": 0.0,
+                "sour": 0.16666666666666666,
+                "salty": 0.8333333333333334,
+                "meaty": 0.8333333333333334,
+                "bitter": 0.6666666666666666
+            },
+            "rating": 5
+        },
+        {
+            "imageUrlsBySize": {
+                "90": "https://lh3.googleusercontent.com/xxnOqu0TM4f4HN0MINXwd9fI_0Ri6aNs9FyYUUjT3D60uczQ0s2-BM9lJUu9P3WUG1mS1B4_PZp_joOH4HgegoI=s90-c"
+            },
+            "sourceDisplayName": "The Kitchn",
+            "ingredients": [
+                "warm water",
+                "instant yeast",
+                "all-purpose flour",
+                "salt",
+                "olive oil"
+            ],
+            "id": "How-to-Make-Homemade-Pita-Bread-2319270",
+            "smallImageUrls": [
+                "https://lh3.googleusercontent.com/tzhyW880tTN8VEZZRqtLqNFYj1oAqt5ZJwN6y7GWmG2hf1yz6yc5rSkzgYmPGVVxUIEYt5ZSkCbMal1V6qMkzg=s90"
+            ],
+            "recipeName": "How to Make Homemade Pita Bread",
+            "totalTimeInSeconds": 2400,
+            "attributes": {
+                "course": [
+                    "Breads"
+                ]
+            },
+            "flavors": {
+                "piquant": 0.0,
+                "meaty": 0.16666666666666666,
+                "bitter": 0.8333333333333334,
+                "sweet": 0.0,
+                "sour": 0.16666666666666666,
+                "salty": 0.8333333333333334
+            },
+            "rating": 4
+        },
+        {
+            "imageUrlsBySize": {
+                "90": "https://lh3.googleusercontent.com/aSoJNKsikOq72w_nCqp6o0k0Fxk1tQuH4C7lxvSDLEvx4jiOWAnGAYvfohkU4duFL1xVTRtXoW1B-DnkiHHjJg=s90-c"
+            },
+            "sourceDisplayName": "ifoodreal",
+            "ingredients": [
+                "cauliflower",
+                "egg whites",
+                "mozzarella cheese",
+                "italian seasoning",
+                "ground black pepper",
+                "salt",
+                "marinara sauce"
+            ],
+            "id": "Cauliflower-Breadsticks-2117781",
+            "smallImageUrls": [
+                "https://lh3.googleusercontent.com/C7znEKR40hNU6jmd4B36-NxkeNtiicuYRuG7m3WM3GUOV2rV10R-vrMjbFqtp3PogvYv6itTNclmnkk9mKWKl14=s90"
+            ],
+            "recipeName": "Cauliflower Breadsticks",
+            "totalTimeInSeconds": 2700,
+            "attributes": {
+                "course": [
+                    "Lunch"
+                ]
+            },
+            "flavors": {
+                "piquant": 0.0,
+                "meaty": 0.16666666666666666,
+                "bitter": 0.3333333333333333,
+                "sweet": 0.16666666666666666,
+                "sour": 0.8333333333333334,
+                "salty": 0.16666666666666666
+            },
+            "rating": 4
+        },
+        {
+            "imageUrlsBySize": {
+                "90": "https://lh3.googleusercontent.com/dkFvZU-xQGDGVrqE6_kKMIESDoiMbAyFUmK8V-j3i-SS1kbNbQeXhDE2ec5Yz2zoApWY4VhM6vEt5BIG0pWmzQ=s90-c"
+            },
+            "sourceDisplayName": "Dinner with Julie",
+            "ingredients": [
+                "warm water",
+                "active dry yeast",
+                "sugar",
+                "all-purpose flour",
+                "salt",
+                "butter"
+            ],
+            "id": "Julia-Childs-White-Sandwich-Bread-1689912",
+            "smallImageUrls": [
+                "https://lh3.googleusercontent.com/4njVFoW8j4QfvQL0rKIDG7KkNxdsQtSzbYK3JX6T-mDZOr3p9fdqrUyPKXbz_bfKwQi0CXsOG1_WAk41OlxwDg=s90"
+            ],
+            "recipeName": "Julia Child\u2019s White Sandwich Bread",
+            "totalTimeInSeconds": 5100,
+            "attributes": {
+                "course": [
+                    "Breads",
+                    "Lunch"
+                ]
+            },
+            "flavors": {
+                "piquant": 0.0,
+                "meaty": 0.16666666666666666,
+                "bitter": 0.16666666666666666,
+                "sweet": 0.16666666666666666,
+                "sour": 0.16666666666666666,
+                "salty": 0.6666666666666666
+            },
+            "rating": 4
+        },
+        {
+            "imageUrlsBySize": {
+                "90": "https://lh3.googleusercontent.com/Hf_ej2BGM8zh_Q2JT503pvmMoSs3tvyetOzFsiji82ghR5TqTDd5DlzuCSOV7n2ONzX2vWiYQ5OBCmVrOhaIx1c=s90-c"
+            },
+            "sourceDisplayName": "Smitten Kitchen",
+            "ingredients": [
+                "broccoli",
+                "sliced almonds",
+                "dried cranberries",
+                "red onion",
+                "buttermilk",
+                "mayonnaise",
+                "cider vinegar",
+                "sugar",
+                "shallots"
+            ],
+            "id": "Broccoli-Slaw-1946758",
+            "smallImageUrls": [
+                "https://lh3.googleusercontent.com/i2FwH1lxE7hbcgfTgpix0uEB1ECaOp4d0RmOUQyqC7RWGW_A830v1cZmLWBuTVUcwImAPbT55d52DbKHtsO9jQ=s90"
+            ],
+            "recipeName": "Broccoli Slaw",
+            "totalTimeInSeconds": 600,
+            "attributes": {
+                "course": [
+                    "Salads"
+                ]
+            },
+            "flavors": {
+                "piquant": 0.0,
+                "meaty": 0.16666666666666666,
+                "bitter": 0.5,
+                "sweet": 0.3333333333333333,
+                "sour": 0.8333333333333334,
+                "salty": 0.16666666666666666
+            },
+            "rating": 4
+        },
+        {
+            "imageUrlsBySize": {
+                "90": "http://lh3.googleusercontent.com/PapXM8cPRpHRt2iGrfLPI4i_MlLCIt9jdgtGov_15dO7cbxK_o3lytDNG81-YvSmWYupUN9jSXam7YDF94Haask=s90-c"
+            },
+            "sourceDisplayName": "GBakes",
+            "ingredients": [
+                "unsalted butter",
+                "confectioners sugar",
+                "egg whites",
+                "bread flour",
+                "food coloring",
+                "almond flour",
+                "all-purpose flour",
+                "salt",
+                "eggs",
+                "egg yolks",
+                "granulated sugar",
+                "melted butter"
+            ],
+            "id": "P_S__-I-Cake-You-1134476",
+            "smallImageUrls": [
+                "http://lh3.googleusercontent.com/aKteMWQGU92V0z7zIGcw4fDjZyFWVcRmOmVPvYctw6v-ZZcfRhCf5RA2MxXJfpzZLO_6STrq98QJ4kBKAB6wag=s90"
+            ],
+            "recipeName": "P.S., I Cake You",
+            "totalTimeInSeconds": 2400,
+            "attributes": {
+                "course": [
+                    "Desserts"
+                ]
+            },
+            "flavors": {
+                "sweet": 0.8333333333333334,
+                "piquant": 0.0,
+                "sour": 0.0,
+                "salty": 0.5,
+                "meaty": 0.8333333333333334,
+                "bitter": 0.16666666666666666
+            },
+            "rating": 4
+        },
+        {
+            "imageUrlsBySize": {
+                "90": "https://lh3.googleusercontent.com/drSNYXJJc72nDzm-o-7ZK6QOtsgaAKAqJUUnljgXsaNoTkBklzfLazvXlOq5UMCAYO3Pk5PcjipO883RJUbU4Q=s90-c"
+            },
+            "sourceDisplayName": "Cookie Dough and Oven Mitt",
+            "ingredients": [
+                "water",
+                "granulated sugar",
+                "vegetable oil",
+                "salt",
+                "all-purpose flour",
+                "cinnamon"
+            ],
+            "id": "Churros-2089277",
+            "smallImageUrls": [
+                "https://lh3.googleusercontent.com/TS_31kEIYyB6OkiKMoqmkRkgwTTqLkC8Ede8HJP958j2nBkeD8uexxRZZ5SZkmXoGkg-YRbZbd76NvGWvErDHQ=s90"
+            ],
+            "recipeName": "Churros",
+            "totalTimeInSeconds": 2100,
+            "attributes": {
+                "course": [
+                    "Desserts"
+                ]
+            },
+            "flavors": {
+                "piquant": 0.0,
+                "meaty": 0.8333333333333334,
+                "bitter": 0.16666666666666666,
+                "sweet": 0.6666666666666666,
+                "sour": 0.0,
+                "salty": 0.16666666666666666
+            },
+            "rating": 4
+        },
+        {
+            "imageUrlsBySize": {
+                "90": "https://lh3.googleusercontent.com/yOZopYtlVNcGjNev9-2s1hMlbtPpUE0PYHwIY56ws0hCjHwwRapkNn0EIbzlZFdB0ZejhAYRaaO6QSPJLGXgUw=s90-c"
+            },
+            "sourceDisplayName": "Laughing Spatula",
+            "ingredients": [
+                "luke warm water",
+                "dry yeast",
+                "sugar",
+                "all-purpose flour",
+                "salt"
+            ],
+            "id": "Pita-Bread-Syrian-Style-2124988",
+            "smallImageUrls": [
+                "https://lh3.googleusercontent.com/uckMaSduRdvlEMmncDAP4u9vbDfWZApCvAWxMp8yAbuVsIIttxj3ZwknVLJ4FvU_EZlKEODVTiaLAqLnTqCM=s90"
+            ],
+            "recipeName": "Pita Bread \u2013 Syrian Style",
+            "totalTimeInSeconds": 5100,
+            "attributes": {
+                "course": [
+                    "Breads"
+                ]
+            },
+            "flavors": {
+                "piquant": 0.0,
+                "meaty": 0.16666666666666666,
+                "bitter": 0.16666666666666666,
+                "sweet": 0.0,
+                "sour": 0.16666666666666666,
+                "salty": 0.5
+            },
+            "rating": 4
+        },
+        {
+            "imageUrlsBySize": {
+                "90": "https://lh3.googleusercontent.com/aWyr8OBcO-9DBOuggDWT-3BaDOv0-bclpr98cQmJsOP3u6OL3Umv6IGJHFn-TPJftpBO2S4r56f3gayDr1GGiA=s90-c"
+            },
+            "sourceDisplayName": "Once Upon A Chef",
+            "ingredients": [
+                "chopped walnuts",
+                "honey",
+                "cinnamon",
+                "all-purpose flour",
+                "baking powder",
+                "salt",
+                "unsalted butter",
+                "sugar",
+                "large eggs",
+                "mashed banana",
+                "vanilla extract",
+                "low-fat milk"
+            ],
+            "id": "Banana-Honey-Walnut-Muffins-2030632",
+            "smallImageUrls": [
+                "https://lh3.googleusercontent.com/IkIaWPzuBfsqrOtuTz5x_DCp_ZLNCG1sljFFhe4xqfWFz9kgGGyW_-LMAZKjggnbI4ouzKseyMkW6iRfFU3p=s90"
+            ],
+            "recipeName": "Banana Honey-Walnut Muffins",
+            "totalTimeInSeconds": 3300,
+            "attributes": {
+                "course": [
+                    "Breakfast and Brunch",
+                    "Breads",
+                    "Afternoon Tea"
+                ]
+            },
+            "flavors": {
+                "piquant": 0.0,
+                "meaty": 0.6666666666666666,
+                "bitter": 0.5,
+                "sweet": 0.8333333333333334,
+                "sour": 0.16666666666666666,
+                "salty": 0.5
+            },
+            "rating": 4
+        },
+        {
+            "imageUrlsBySize": {
+                "90": "http://lh3.googleusercontent.com/ZzbA59_Pm51oWGFdB-UiIqcTKKrqsK8zwHZIrCpMLTZAAtO66xp82W4TzrVUb2tSBdeBBn1QX7JNlOPP7quPDA=s90-c"
+            },
+            "sourceDisplayName": "Happier Than A Piginmud",
+            "ingredients": [
+                "boneless skinless chicken breasts",
+                "jalapeno chilies",
+                "bacon",
+                "cream cheese",
+                "Marble Jack cheese",
+                "bbq sauce"
+            ],
+            "id": "Chicken-Bombs-Fabulous-Football-Food_-1280931",
+            "smallImageUrls": [
+                "http://lh3.googleusercontent.com/P3o6LNXbXWZoK2u5lZ5p_XwY3x-YnfC0gZa3XWTSuokTFRZI1Ds8G2UhewjFsnudCrbruKnsuMz_-6E5FQ8xcw=s90"
+            ],
+            "recipeName": "Chicken Bombs-Fabulous Football Food!",
+            "totalTimeInSeconds": 4200,
+            "attributes": {
+                "course": [
+                    "Main Dishes"
+                ]
+            },
+            "flavors": {
+                "piquant": 0.8333333333333334,
+                "meaty": 0.8333333333333334,
+                "bitter": 0.8333333333333334,
+                "sweet": 0.5,
+                "sour": 0.16666666666666666,
+                "salty": 0.8333333333333334
+            },
+            "rating": 4
+        }
+    ],
+    "facetCounts": {},
+    "totalMatchCount": 10570,
+    "attribution": {
+        "html": "Recipe search powered by <a href='http://www.yummly.co/recipes'><img alt='Yummly' src='https://static.yummly.co/api-logo.png'/></a>",
+        "url": "http://www.yummly.co/recipes/",
+        "text": "Recipe search powered by Yummly",
+        "logo": "https://static.yummly.co/api-logo.png"
+    }
+}

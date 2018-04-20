@@ -24,7 +24,14 @@
             ],
             "recipeName": "Aunt Bill's Brown Candy",
             "totalTimeInSeconds": 7200,
-            "attributes": {},
+            "attributes": {
+                "course": [
+                    "Desserts"
+                ],
+                "holiday": [
+                    "Christmas"
+                ]
+            },
             "flavors": null,
             "rating": 5
         },
@@ -48,8 +55,23 @@
             ],
             "recipeName": "CREAMY BRUSSELS SPROUTS GRATIN",
             "totalTimeInSeconds": 1800,
-            "attributes": {},
-            "flavors": null,
+            "attributes": {
+                "course": [
+                    "Side Dishes"
+                ],
+                "holiday": [
+                    "Sunday Lunch",
+                    "Fall"
+                ]
+            },
+            "flavors": {
+                "piquant": 0.6666666666666666,
+                "meaty": 0.8333333333333334,
+                "bitter": 0.16666666666666666,
+                "sweet": 0.0,
+                "sour": 0.16666666666666666,
+                "salty": 0.8333333333333334
+            },
             "rating": 4
         },
         {
@@ -79,7 +101,11 @@
             ],
             "recipeName": "Sahnige Apfeltorte Schwarzwa\u0308lder Art",
             "totalTimeInSeconds": 5400,
-            "attributes": {},
+            "attributes": {
+                "course": [
+                    "Desserts"
+                ]
+            },
             "flavors": null,
             "rating": 3
         },
@@ -111,7 +137,11 @@
             ],
             "recipeName": "Bienenstich",
             "totalTimeInSeconds": 5400,
-            "attributes": {},
+            "attributes": {
+                "course": [
+                    "Desserts"
+                ]
+            },
             "flavors": null,
             "rating": 3
         },
@@ -169,7 +199,11 @@
             "id": "Schachbrett-Torte-830544",
             "rating": 3,
             "flavors": null,
-            "attributes": {}
+            "attributes": {
+                "course": [
+                    "Desserts"
+                ]
+            }
         },
         {
             "recipeName": "Schwa\u0308bischer Zwetschen-Kuchen",
@@ -192,7 +226,11 @@
             "id": "Schwabischer-Zwetschen-Kuchen-831243",
             "rating": 3,
             "flavors": null,
-            "attributes": {}
+            "attributes": {
+                "course": [
+                    "Desserts"
+                ]
+            }
         }
     ],
     "facetCounts": {},

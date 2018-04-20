@@ -1065,7 +1065,18 @@
     },
     "numberOfServings": 6,
     "totalTimeInSeconds": 2700,
-    "attributes": {},
-    "flavors": {},
+    "attributes": {
+        "course": [
+            "Salads"
+        ]
+    },
+    "flavors": {
+        "Piquant": 0.5,
+        "Meaty": 0.1667,
+        "Bitter": 0.3333,
+        "Sweet": 0.3333,
+        "Sour": 0.8333,
+        "Salty": 0.5
+    },
     "rating": 4
 }

@@ -1,0 +1,78 @@
+{
+    "criteria": {
+        "q": "L+a+m+m+g+i+g+o+t",
+        "allowedIngredient": null,
+        "excludedIngredient": null
+    },
+    "matches": [
+        {
+            "imageUrlsBySize": {
+                "90": "http://lh3.googleusercontent.com/2WSyTCcXuYrpTsxiy61nO0zpVv7bYqAT6FhkHA0oAUOz8PAr0oxUIhNtnE-Qg1u_EsAqjNeqqkmPMEZVJmYu=s90-c"
+            },
+            "sourceDisplayName": "The Vegan 8",
+            "ingredients": [
+                "almond flour",
+                "potato starch",
+                "baking powder",
+                "fine sea salt",
+                "coconut sugar",
+                "cinnamon",
+                "sweet potatoes",
+                "vanilla",
+                "low-fat canned coconut milk"
+            ],
+            "id": "Sweet-Potato-Cinnamon-Muffins-with-Sweet-Potato-Caramel-1060963",
+            "smallImageUrls": [
+                "http://lh3.googleusercontent.com/G4JHkIjiFlxuATiioBCLFEWbSaU-TOnLBvis2cW9wdwJy4ZDcfZCXadSDhyuDnMy3BKCjbVlBjxUPlJmDK9Ezw=s90"
+            ],
+            "recipeName": "Sweet Potato Cinnamon Muffins with Sweet Potato Caramel",
+            "totalTimeInSeconds": 4920,
+            "attributes": {
+                "course": [
+                    "Desserts",
+                    "Breads"
+                ]
+            },
+            "flavors": null,
+            "rating": 4
+        },
+        {
+            "imageUrlsBySize": {
+                "90": "http://lh3.googleusercontent.com/Rc6HCZ7rkUIO-1MtDFA84CWgPkKjVcrousJNIQF8o0ub2-W1E4DpXnQRdajVMaBYOrire5y7uw4dQSn0qlbMxA=s90-c"
+            },
+            "sourceDisplayName": "Juneberry Lane",
+            "ingredients": [
+                "large egg whites",
+                "salt",
+                "Jell-O Gelatin",
+                "freeze-dried raspberries",
+                "sugar",
+                "vanilla extract"
+            ],
+            "id": "RASBERRY-MERINGUE-ROSETTES-HOW-TO-1102853",
+            "smallImageUrls": [
+                "http://lh3.googleusercontent.com/bZH3xZEC-TaFNvV3vzb07BLtR55GVW5n8U6Un62wXLtRUeerjJqi59-XU-k1sEHlDXV4VJy1A05z3MPlFzwDDAo=s90"
+            ],
+            "recipeName": "RASBERRY MERINGUE ROSETTES HOW-TO",
+            "totalTimeInSeconds": 4200,
+            "attributes": {
+                "course": [
+                    "Desserts"
+                ],
+                "holiday": [
+                    "Passover"
+                ]
+            },
+            "flavors": null,
+            "rating": 3
+        }
+    ],
+    "facetCounts": {},
+    "totalMatchCount": 2,
+    "attribution": {
+        "html": "Recipe search powered by <a href='http://www.yummly.co/recipes'><img alt='Yummly' src='https://static.yummly.co/api-logo.png'/></a>",
+        "url": "http://www.yummly.co/recipes/",
+        "text": "Recipe search powered by Yummly",
+        "logo": "https://static.yummly.co/api-logo.png"
+    }
+}

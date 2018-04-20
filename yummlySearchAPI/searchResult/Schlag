@@ -1,0 +1,322 @@
+{
+    "criteria": {
+        "q": "S+c+h+l+a+g",
+        "allowedIngredient": null,
+        "excludedIngredient": null
+    },
+    "matches": [
+        {
+            "imageUrlsBySize": {
+                "90": "https://lh3.googleusercontent.com/rkinXmuXWNbGYut1LE0avrK6fujJMxs_7bXrmsPxXVMxdYGqN_csPASHvSTavdFSObgAx2u3-egRXSwuPMSRsQ=s90-c"
+            },
+            "sourceDisplayName": "HungryShots",
+            "ingredients": [
+                "milk",
+                "yogurt",
+                "maple syrup",
+                "jam",
+                "yellow food coloring"
+            ],
+            "id": "Quince-Yogurt-1595330",
+            "smallImageUrls": [
+                "https://lh3.googleusercontent.com/jTsPDJ5X3zb3aysF16eOax0nvVXtI73ijinOdopcHGFMeIwSVjrH4cJMsGI57mvvPV3kFavyKJWtdufxM3hX=s90"
+            ],
+            "recipeName": "Quince Yogurt",
+            "totalTimeInSeconds": 1800,
+            "attributes": {
+                "course": [
+                    "Breakfast and Brunch"
+                ]
+            },
+            "flavors": null,
+            "rating": 4
+        },
+        {
+            "imageUrlsBySize": {
+                "90": "https://lh3.googleusercontent.com/ScBkldHzy3dj2u3Xbr1zI_iWrQ6hurv5Kmue7FSfHXbBgGz19L8PvTygJdFXeFO3eX3E6W7tlaWgobICqa2LYQ=s90-c"
+            },
+            "sourceDisplayName": "Hey Little Sweet Thing",
+            "ingredients": [
+                "butter",
+                "sugar",
+                "egg whites",
+                "golden syrup",
+                "flour",
+                "baking powder",
+                "cocoa",
+                "egg yolks",
+                "sweetened condensed milk",
+                "powdered sugar",
+                "cocoa powder",
+                "boiling water"
+            ],
+            "id": "Fudgey-Choc-_-Gooey-Caramel-Slice-1611485",
+            "smallImageUrls": [
+                "https://lh3.googleusercontent.com/jkKe2aojvXyNSg2LdDTH3e5-bRYjl5hK5kvG1FSclmmgodXmcW_MpzA-XisvcmqM6_MbQdKe0i3nM5gPGLoy=s90"
+            ],
+            "recipeName": "Fudgey Choc & Gooey Caramel Slice",
+            "totalTimeInSeconds": 3000,
+            "attributes": {
+                "course": [
+                    "Desserts"
+                ]
+            },
+            "flavors": {
+                "piquant": 0.0,
+                "meaty": 0.5,
+                "bitter": 0.16666666666666666,
+                "sweet": 0.8333333333333334,
+                "sour": 0.0,
+                "salty": 0.3333333333333333
+            },
+            "rating": 4
+        },
+        {
+            "imageUrlsBySize": {
+                "90": "https://lh3.googleusercontent.com/a8RcdtI9ZfxGY-JwTJul3dkjq2grshyJFtSZFYeRiWqJlrJY2ag1p2AHODD0Rw6dD-1imW9q77EHjwOvZ4LyxrU=s90-c"
+            },
+            "sourceDisplayName": "HungryShots",
+            "ingredients": [
+                "milk",
+                "yogurt",
+                "vanilla essence",
+                "dates"
+            ],
+            "id": "Date-Yogurt-1441585",
+            "smallImageUrls": [
+                "https://lh3.googleusercontent.com/6-YKEJ22gRKdcYF9Y2MomkztoPtNz8-Bqgwn2ra3HECGW56N7mLnbtJKLShXmz5wjvM1q4YDoz8ukP-dC2OpiI8=s90"
+            ],
+            "recipeName": "Date Yogurt",
+            "totalTimeInSeconds": 2100,
+            "attributes": {},
+            "flavors": null,
+            "rating": 4
+        },
+        {
+            "imageUrlsBySize": {
+                "90": "https://lh3.googleusercontent.com/Zu2RPmG3xt6kXdiM9alRwxYkyjcDblhxYhG9zKqtBe-1iJsP63PLHWDiASCoLSlK9LiDaczGvtIQS_U67QKm_Q=s90-c"
+            },
+            "sourceDisplayName": "HungryShots",
+            "ingredients": [
+                "milk",
+                "yogurt",
+                "honey",
+                "dried cranberries",
+                "red food coloring"
+            ],
+            "id": "Cranberry-Yogurt-1496343",
+            "smallImageUrls": [
+                "https://lh3.googleusercontent.com/IH5yMYw3QVGjqe1vMFShcl_vGGkVsNG65KdGFhmuJn5MX0HnCPrJSYur4gHqc-K0INoBveGs54ufBFnHcbzvrG0=s90"
+            ],
+            "recipeName": "Cranberry Yogurt",
+            "totalTimeInSeconds": 2100,
+            "attributes": {
+                "course": [
+                    "Breakfast and Brunch"
+                ]
+            },
+            "flavors": null,
+            "rating": 4
+        },
+        {
+            "imageUrlsBySize": {
+                "90": "https://lh3.googleusercontent.com/zV0ilw1BX4qwWdYXU4cfJ5z5yjP7J-_uR4izrdtIWSPLjPUeEGA49S2hDP3yuw-Y2MfKMnkCiSQBPZ5XIo8hhQ=s90-c"
+            },
+            "sourceDisplayName": "HungryShots",
+            "ingredients": [
+                "milk",
+                "yogurt",
+                "maple syrup",
+                "raisins"
+            ],
+            "id": "Dried-Raisins-Yogurt-1509216",
+            "smallImageUrls": [
+                "https://lh3.googleusercontent.com/YOpD-VzG0zXc-RRa-Z-oOiAStk_NaBBbefTu18qLB-M3AsuUS1dAGMHyQZfUiSrISi4A8_OApn9LGL1CititTw=s90"
+            ],
+            "recipeName": "Dried Raisins Yogurt",
+            "totalTimeInSeconds": 1800,
+            "attributes": {
+                "course": [
+                    "Breakfast and Brunch"
+                ]
+            },
+            "flavors": null,
+            "rating": 4
+        },
+        {
+            "imageUrlsBySize": {
+                "90": "http://lh5.ggpht.com/RY2huGt9o6P1e38qXt4UDgsQsjt7XlX2fbOq5ijZ31pHzAwB3wXU22yMSNZXrLCoSB4cT1ML3f31aHnuf4BYSw=s90-c"
+            },
+            "sourceDisplayName": "Palachinka",
+            "ingredients": [
+                "pork ribs",
+                "coca-cola",
+                "cinnamon sticks",
+                "star anise",
+                "brown sugar",
+                "honey",
+                "ketchup",
+                "mustard",
+                "worcestershire sauce",
+                "soy sauce"
+            ],
+            "id": "Coca-Cola-Pork-Ribs-940008",
+            "smallImageUrls": [
+                "http://lh5.ggpht.com/V3ybfPPTHHWLEStZWmJ4F6qRgpf0cYi_lpkiyEGvcrQcjwO7YObMefe2PoQEi349OfFQV5LOopHvSQuErwp4=s90"
+            ],
+            "recipeName": "Coca-Cola Pork Ribs",
+            "totalTimeInSeconds": 3600,
+            "attributes": {
+                "course": [
+                    "Main Dishes"
+                ]
+            },
+            "flavors": null,
+            "rating": 4
+        },
+        {
+            "imageUrlsBySize": {
+                "90": "https://lh3.googleusercontent.com/GN9hXeGLjzXFt3au95QJAu79b8mzmuDesi14sLtAUDHaV8uZ3KhpA1RU4MFbRbdzW0CoJIgKBm9cUGv5Yt5ERg=s90-c"
+            },
+            "sourceDisplayName": "Cooking Come",
+            "ingredients": [
+                "chicken breasts",
+                "smoked bacon",
+                "clove",
+                "green onions",
+                "soft goat cheese",
+                "olive oil",
+                "freshly ground black pepper",
+                "Italian herbs"
+            ],
+            "id": "Chicken-Breast-Stuffed-With-Goat-Cheese-And-Herbs-1960673",
+            "smallImageUrls": [
+                "https://lh3.googleusercontent.com/bZFXDaQYmCx6NURKPhoPpCZs3dRwdKgvg5UH3r7GTVEPtzpL4xVwflaI9TadrMMUqBygOe7nZ0RJ1bjfbhw9xg=s90"
+            ],
+            "recipeName": "Chicken Breast Stuffed With Goat Cheese And Herbs",
+            "totalTimeInSeconds": 3300,
+            "attributes": {
+                "course": [
+                    "Main Dishes"
+                ]
+            },
+            "flavors": null,
+            "rating": 4
+        },
+        {
+            "imageUrlsBySize": {
+                "90": "https://lh3.googleusercontent.com/VeOsYr2aQWtG2tazO1XW91bVetQgcCF1UARlDP2BqMX-ZCFpHL12vtVROfJ6eNVoMxkhhvAoRlscTHIFoxxafw=s90-c"
+            },
+            "sourceDisplayName": "BarkTime",
+            "ingredients": [
+                "chickpeas",
+                "pecans",
+                "fresh coriander",
+                "flat leaf parsley",
+                "garlic",
+                "fresh ginger",
+                "onions",
+                "spelt flour",
+                "salt",
+                "black pepper",
+                "cumin",
+                "chili flakes",
+                "olive oil",
+                "water"
+            ],
+            "id": "Homemade-Nutty-Falafel-1954292",
+            "smallImageUrls": [
+                "https://lh3.googleusercontent.com/O-_iASIKD2GCVUA-N_vRmPiyel4RXbqiW1JwUA10AsPzMA57dIljoo_Z5kZhzz25iWQTHF-5877iC3tU6LKr=s90"
+            ],
+            "recipeName": "Homemade Nutty Falafel",
+            "totalTimeInSeconds": 2400,
+            "attributes": {},
+            "flavors": null,
+            "rating": 4
+        },
+        {
+            "imageUrlsBySize": {
+                "90": "https://lh3.googleusercontent.com/ojEMq-f86xaoSAF0DMRJhCVUHK8jVgPitsvihijzm-5pUMVrMyhX8H5y6zLCAwRuydvbL4_eAwdlB0HyPmZEwg=s90-c"
+            },
+            "sourceDisplayName": "HungryShots",
+            "ingredients": [
+                "flour",
+                "milk",
+                "fresh yeast",
+                "sugar",
+                "salt",
+                "butter",
+                "rice",
+                "cinnamon",
+                "eggs"
+            ],
+            "id": "Belgian-Rice-Tart-1502841",
+            "smallImageUrls": [
+                "https://lh3.googleusercontent.com/vz-XxLKz7ZLPn4r9qxdD5vPTkZZKqc73Nj_dm2B5xZC2uI4aJqbtUK9OprwLsvGH-57gvubKtBqbhvQQ_WwjMw=s90"
+            ],
+            "recipeName": "Belgian Rice Tart",
+            "totalTimeInSeconds": 4500,
+            "attributes": {
+                "course": [
+                    "Desserts"
+                ]
+            },
+            "flavors": {
+                "piquant": 0.0,
+                "meaty": 0.16666666666666666,
+                "bitter": 0.16666666666666666,
+                "sweet": 0.5,
+                "sour": 0.16666666666666666,
+                "salty": 0.16666666666666666
+            },
+            "rating": 4
+        },
+        {
+            "imageUrlsBySize": {
+                "90": "https://lh3.googleusercontent.com/hwvP4s2TlrVH_xcP7EQcKQ7ERj9ZXfaEBYm7I4l7nUcAcQznoPhflIt_-k6PY_GYdp7g05oZQwVoaE_TdvfES9A=s90-c"
+            },
+            "sourceDisplayName": "Kids Eat by Shanai",
+            "ingredients": [
+                "garlic",
+                "butter",
+                "cauliflower",
+                "milk",
+                "salt",
+                "white pepper",
+                "cream cheese",
+                "lasagna sheets",
+                "whole roasting chicken",
+                "ham",
+                "shredded mozzarella cheese"
+            ],
+            "id": "Leftover-Xmas-Ham-Cordon-Bleu-Lasagne-2308613",
+            "smallImageUrls": [
+                "https://lh3.googleusercontent.com/u2JFgYZCPWrWxoblFU9HRUVLrnb8W9pWn9w_pzy4kWAf0KvOYM4I0c6FWW7cISIlx1FdYqIdzylg3DT5JRtd1H0=s90"
+            ],
+            "recipeName": "Leftover Xmas Ham Cordon Bleu Lasagne",
+            "totalTimeInSeconds": 4200,
+            "attributes": {
+                "course": [
+                    "Main Dishes"
+                ]
+            },
+            "flavors": {
+                "piquant": 0.16666666666666666,
+                "meaty": 0.5,
+                "bitter": 0.6666666666666666,
+                "sweet": 0.16666666666666666,
+                "sour": 0.8333333333333334,
+                "salty": 0.8333333333333334
+            },
+            "rating": 4
+        }
+    ],
+    "facetCounts": {},
+    "totalMatchCount": 32,
+    "attribution": {
+        "html": "Recipe search powered by <a href='http://www.yummly.co/recipes'><img alt='Yummly' src='https://static.yummly.co/api-logo.png'/></a>",
+        "url": "http://www.yummly.co/recipes/",
+        "text": "Recipe search powered by Yummly",
+        "logo": "https://static.yummly.co/api-logo.png"
+    }
+}

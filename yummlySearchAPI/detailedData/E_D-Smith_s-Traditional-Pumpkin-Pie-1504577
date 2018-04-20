@@ -950,7 +950,15 @@
     },
     "numberOfServings": 8,
     "totalTimeInSeconds": 3600,
-    "attributes": {},
+    "attributes": {
+        "holiday": [
+            "Halloween",
+            "Thanksgiving"
+        ],
+        "course": [
+            "Desserts"
+        ]
+    },
     "flavors": {},
     "rating": 4
 }

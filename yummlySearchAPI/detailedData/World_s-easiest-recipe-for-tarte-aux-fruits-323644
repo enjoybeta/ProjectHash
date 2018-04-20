@@ -1,0 +1,47 @@
+{
+    "yield": "Serves 6",
+    "nutritionEstimates": [],
+    "totalTime": "30 min",
+    "images": [
+        {
+            "hostedSmallUrl": "https://lh3.googleusercontent.com/85eEYnVhrZHOrbqh0CI6GyKfMXhCXTEAhQRRhkXoyLigJjbMH3j0MMZ8fOfStCK7751xaGuNqaGTNWow9W97EA=s90",
+            "hostedMediumUrl": "https://lh3.googleusercontent.com/85eEYnVhrZHOrbqh0CI6GyKfMXhCXTEAhQRRhkXoyLigJjbMH3j0MMZ8fOfStCK7751xaGuNqaGTNWow9W97EA=s180",
+            "hostedLargeUrl": "https://lh3.googleusercontent.com/85eEYnVhrZHOrbqh0CI6GyKfMXhCXTEAhQRRhkXoyLigJjbMH3j0MMZ8fOfStCK7751xaGuNqaGTNWow9W97EA=s360",
+            "imageUrlsBySize": {
+                "90": "https://lh3.googleusercontent.com/gcB2BdN9dcr4JXrUO7qW8SkvC-ZmkjSseFxxp71pHUqPUZdKT7tDQmhHvKAzZRk-mhJcOQmZ0I7B6jEYaQWWMWU=s90-c",
+                "360": "https://lh3.googleusercontent.com/gcB2BdN9dcr4JXrUO7qW8SkvC-ZmkjSseFxxp71pHUqPUZdKT7tDQmhHvKAzZRk-mhJcOQmZ0I7B6jEYaQWWMWU=s360-c"
+            }
+        }
+    ],
+    "name": "World's Easiest Recipe for Tarte aux Fruits",
+    "source": {
+        "sourceDisplayName": "Food52",
+        "sourceSiteUrl": "http://food52.com",
+        "sourceRecipeUrl": "https://food52.com/recipes/10083-world-s-easiest-recipe-for-tarte-aux-fruits"
+    },
+    "id": "World_s-easiest-recipe-for-tarte-aux-fruits-323644",
+    "ingredientLines": [
+        "1 Roll of pre-made piecrust dough of a kind you've never seen in any U.S. grocery",
+        "1-2 Jar(s) of plum preserves you made last summer in an un-air-conditioned kitchen",
+        "1/2 Bag of powdered almonds you don't know where to find in the U.S."
+    ],
+    "attribution": {
+        "html": "<a href='http://www.yummly.co/recipe/World_s-easiest-recipe-for-tarte-aux-fruits-323644'>World's Easiest Recipe for Tarte aux Fruits recipe</a> information powered by <img alt='Yummly' src='https://static.yummly.co/api-logo.png'/>",
+        "url": "http://www.yummly.co/recipe/World_s-easiest-recipe-for-tarte-aux-fruits-323644",
+        "text": "World's Easiest Recipe for Tarte aux Fruits recipes: information powered by Yummly",
+        "logo": "https://static.yummly.co/api-logo.png"
+    },
+    "numberOfServings": 6,
+    "totalTimeInSeconds": 1800,
+    "attributes": {
+        "course": [
+            "Lunch",
+            "Desserts"
+        ],
+        "cuisine": [
+            "French"
+        ]
+    },
+    "flavors": {},
+    "rating": 3
+}

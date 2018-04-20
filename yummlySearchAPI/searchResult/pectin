@@ -1,0 +1,392 @@
+{
+    "criteria": {
+        "q": "p+e+c+t+i+n",
+        "allowedIngredient": null,
+        "excludedIngredient": null
+    },
+    "matches": [
+        {
+            "imageUrlsBySize": {
+                "90": "http://lh5.ggpht.com/b6QUxRlcgjFN2RqzTsE0orix0R3NxlOaC64xYhC0PH2iuxvM3Cqri5ugGjuQsZKSOE7N9g-hQSRSgxnnVk1rrg=s90-c"
+            },
+            "sourceDisplayName": "Real Mom Kitchen",
+            "ingredients": [
+                "all-purpose flour",
+                "baking soda",
+                "baking powder",
+                "butter",
+                "white sugar",
+                "eggs",
+                "vanilla extract"
+            ],
+            "id": "Easy-sugar-cookies-369923",
+            "smallImageUrls": [
+                "http://lh6.ggpht.com/MT4joqIt1EzCVdrnDxjT2e87lTCvFoHn9yC9cTdaO7GJexypVNnnOdQZFv_LLp2mlikSaDFRtdVPH9CTF9eBug=s90"
+            ],
+            "recipeName": "Easy Sugar Cookies",
+            "totalTimeInSeconds": 1800,
+            "attributes": {
+                "course": [
+                    "Desserts"
+                ]
+            },
+            "flavors": {
+                "piquant": 0.0,
+                "meaty": 0.6666666666666666,
+                "bitter": 0.16666666666666666,
+                "sweet": 0.8333333333333334,
+                "sour": 0.16666666666666666,
+                "salty": 0.6666666666666666
+            },
+            "rating": 5
+        },
+        {
+            "imageUrlsBySize": {
+                "90": "https://lh3.googleusercontent.com/JRun7CHys55BZXsDS7Cblvxs3CxBv7CaL_0G5OM88qux3bjHa0aU5utHaz5MslZ4pNuUHrMrnGqW2yJ52qv0Hg=s90-c"
+            },
+            "sourceDisplayName": "Love Foodies",
+            "ingredients": [
+                "softened butter",
+                "milk",
+                "regular sugar",
+                "eggs",
+                "strawberries",
+                "all-purpose flour",
+                "baking powder",
+                "salt",
+                "vanilla extract"
+            ],
+            "id": "Strawberry-Pound-Cake-2161706",
+            "smallImageUrls": [
+                "https://lh3.googleusercontent.com/Z-FK3Emwk1tPG_pZXi-SVmhp_2UxnkeoTQIy9_hPTucsUGP_5VkZf_iFcnfmLfw52PCS1s9uPMTIxctcg7x9=s90"
+            ],
+            "recipeName": "Strawberry Pound Cake",
+            "totalTimeInSeconds": 5400,
+            "attributes": {
+                "course": [
+                    "Desserts",
+                    "Afternoon Tea"
+                ]
+            },
+            "flavors": {
+                "piquant": 0.0,
+                "meaty": 0.3333333333333333,
+                "bitter": 0.16666666666666666,
+                "sweet": 0.6666666666666666,
+                "sour": 0.8333333333333334,
+                "salty": 0.6666666666666666
+            },
+            "rating": 4
+        },
+        {
+            "imageUrlsBySize": {
+                "90": "http://lh6.ggpht.com/1oNr7Icsmf6BcN0nf3_hHwSG-FmXU86JEpF7Wjs8v3l9-TcVI8ihkQ1YuQuLotWHkpsjzhsZsoens4ZCJ8cp=s90-c"
+            },
+            "sourceDisplayName": "Love Foodies",
+            "ingredients": [
+                "softened butter",
+                "milk",
+                "regular sugar",
+                "eggs",
+                "all-purpose flour",
+                "baking powder",
+                "salt",
+                "lemon",
+                "juice",
+                "warm water"
+            ],
+            "id": "Moist-Orange-or-Lemon-Pound-_-Loaf-Cake-779282",
+            "smallImageUrls": [
+                "http://lh5.ggpht.com/Ao-vHQSenO9XkUUPHi-qF7t9cE-x_6AnmXxxcUZpD_E7aUgRSzWW2vszCASYsmu9iJjOLHoAT4S-UvsBCzzWKA=s90"
+            ],
+            "recipeName": "Moist Orange or Lemon Pound / Loaf Cake",
+            "totalTimeInSeconds": 5700,
+            "attributes": {
+                "course": [
+                    "Desserts",
+                    "Breads",
+                    "Afternoon Tea"
+                ]
+            },
+            "flavors": {
+                "piquant": 0.0,
+                "meaty": 0.16666666666666666,
+                "bitter": 0.16666666666666666,
+                "sweet": 0.6666666666666666,
+                "sour": 0.8333333333333334,
+                "salty": 0.16666666666666666
+            },
+            "rating": 4
+        },
+        {
+            "imageUrlsBySize": {
+                "90": "http://lh3.googleusercontent.com/Zaz91AuBAiPm5PicNzRo5g-9dZoD338Pe4-P7BX4Ywz8kLa7UOah_ISx7PMMdUOhOGC-Wtv5KC_CMVK36lkj4WE=s90-c"
+            },
+            "sourceDisplayName": "Erica's Recipes",
+            "ingredients": [
+                "low-fat milk",
+                "unsalted butter",
+                "light brown sugar",
+                "rapid rise yeast",
+                "kosher salt",
+                "all-purpose flour",
+                "baking soda",
+                "eggs",
+                "coarse sea salt"
+            ],
+            "id": "Pretzel-Bread-1094923",
+            "smallImageUrls": [
+                "http://lh3.googleusercontent.com/8YRw7ITWAu3KjJfI065gLOPXTiESKG0Ul3TXX_O8uOPLq7gnXKryBQ_sqBDUyX-Dq39iPY4UaKEREc1WVkBKsA=s90"
+            ],
+            "recipeName": "Pretzel Bread",
+            "totalTimeInSeconds": 3900,
+            "attributes": {
+                "course": [
+                    "Breads"
+                ]
+            },
+            "flavors": null,
+            "rating": 4
+        },
+        {
+            "imageUrlsBySize": {
+                "90": "https://lh3.googleusercontent.com/4p8oSUDUJ5q1E63_80Ptf3jLeqQbE_RaH7GUZXpRtjGqfatmFsoaDVOUbPB5RvOL286GG8GNUkSlV7CBUR1x6A=s90-c"
+            },
+            "sourceDisplayName": "delicious days",
+            "ingredients": [
+                "milk",
+                "all-purpose flour",
+                "fresh yeast",
+                "butter",
+                "sugar",
+                "fine sea salt",
+                "eggs",
+                "ground almonds",
+                "ground hazelnuts",
+                "ceylon cinnamon",
+                "ground cloves",
+                "grated nutmeg",
+                "marzipan",
+                "brown sugar",
+                "honey",
+                "rum",
+                "amaretto",
+                "lemon",
+                "hazelnuts",
+                "apricot jam",
+                "water"
+            ],
+            "id": "T-H-E-Nut-Braid-2186750",
+            "smallImageUrls": [
+                "https://lh3.googleusercontent.com/y2GvKmdzi68UlTf9vHCpyEHrwOSud01nA5g4PZk-IhCyXCXcUw2TLLE7a1dGbv7ZtoML1iWVDX83DI8140k=s90"
+            ],
+            "recipeName": "T-H-E Nut Braid",
+            "totalTimeInSeconds": 4800,
+            "attributes": {},
+            "flavors": {
+                "piquant": 0.0,
+                "meaty": 0.5,
+                "bitter": 0.16666666666666666,
+                "sweet": 0.6666666666666666,
+                "sour": 0.5,
+                "salty": 0.16666666666666666
+            },
+            "rating": 4
+        },
+        {
+            "imageUrlsBySize": {
+                "90": "http://lh3.googleusercontent.com/k4vF_16omOqFcZMAQsqx5mH2UuEVu6Ck0Wv3bpPHTQfUKME-B9fJSmQk8Y0BeAEOvNEB-rMgQrEBEXCa_K1Zhg=s90-c"
+            },
+            "sourceDisplayName": "Vegan Noga",
+            "ingredients": [
+                "cauliflower",
+                "bread crumbs",
+                "chickpea flour",
+                "soy sauce",
+                "water"
+            ],
+            "id": "Low-fat-Vegan-Breaded-Cauliflower-Chunks-1241121",
+            "smallImageUrls": [
+                "http://lh3.googleusercontent.com/3yLWcaGkHhk7crodJQmY_v2QYkcOCW9JHIeXqArGSxlhpFBAAItH-ODLOZ3Tz8TPRx7ykdyaZEnzfAGmu2FM=s90"
+            ],
+            "recipeName": "Low fat Vegan Breaded Cauliflower Chunks",
+            "totalTimeInSeconds": 2100,
+            "attributes": {},
+            "flavors": {
+                "sweet": 0.3333333333333333,
+                "piquant": 0.0,
+                "sour": 0.8333333333333334,
+                "salty": 0.8333333333333334,
+                "meaty": 0.16666666666666666,
+                "bitter": 0.8333333333333334
+            },
+            "rating": 4
+        },
+        {
+            "imageUrlsBySize": {
+                "90": "http://lh3.googleusercontent.com/eMZY-AkiYYRAYAC8m5CIHwqPGAgC4EwZbK5D84pX4bJPsJ1pduyMHhKLrVzG6gjSdiAiNtGl5LqYC2Zank27=s90-c"
+            },
+            "sourceDisplayName": "Kids Activities Blog",
+            "ingredients": [
+                "eggs",
+                "buttermilk",
+                "flour",
+                "baking soda",
+                "salt",
+                "sugar",
+                "butter",
+                "bananas",
+                "chocolate spread"
+            ],
+            "id": "Pancake-Roll-Ups-The-Kid-Style-1289760",
+            "smallImageUrls": [
+                "http://lh3.googleusercontent.com/tuYfkUZNa0qOQE4KZdXqFTmUZGYG4jwTO3VHsiuWcNZfzD3qeDfEBxpWBsMYBVdlRxO53pRS_gATjAc5E1cI=s90"
+            ],
+            "recipeName": "Pancake Roll Ups The Kid Style",
+            "totalTimeInSeconds": 1800,
+            "attributes": {
+                "course": [
+                    "Desserts",
+                    "Lunch",
+                    "Breakfast and Brunch"
+                ],
+                "cuisine": [
+                    "Kid-Friendly"
+                ]
+            },
+            "flavors": null,
+            "rating": 4
+        },
+        {
+            "imageUrlsBySize": {
+                "90": "https://lh3.googleusercontent.com/1J6msvvTHN_le56EkUJQh9Z7mzJTDsWGtSW2d-HCdBwsLQsCVIEO0_IvtYK-FNUxQEUokbEJE3pti1WrzjjGnK0=s90-c"
+            },
+            "sourceDisplayName": "Love Foodies",
+            "ingredients": [
+                "softened butter",
+                "milk",
+                "sugar",
+                "eggs",
+                "all-purpose flour",
+                "ground almonds",
+                "cocoa powder",
+                "instant coffee",
+                "hot water",
+                "chocolate",
+                "baking powder",
+                "salt"
+            ],
+            "id": "Chocolate-Almond-Pound-Cake-1695487",
+            "smallImageUrls": [
+                "https://lh3.googleusercontent.com/CUgp8-EhMcIDHEVzcSqJfarF-zayGEqLYabwyzELxp9OnT5wZ7-mGNNSY9umuqwelFdamfdkWoCL3dg_QLM_rro=s90"
+            ],
+            "recipeName": "Chocolate Almond Pound Cake",
+            "totalTimeInSeconds": 3300,
+            "attributes": {
+                "course": [
+                    "Desserts",
+                    "Afternoon Tea"
+                ]
+            },
+            "flavors": {
+                "piquant": 0.0,
+                "meaty": 0.8333333333333334,
+                "bitter": 0.8333333333333334,
+                "sweet": 0.8333333333333334,
+                "sour": 0.16666666666666666,
+                "salty": 0.8333333333333334
+            },
+            "rating": 4
+        },
+        {
+            "imageUrlsBySize": {
+                "90": "http://lh4.ggpht.com/Rx1piXZdSrayASSaN6icvcf38EGt8KOTMNXOxp8ekcitHAhwUKGREf1wfzhyRdxtztwdm_mlMgUmeRqKVRVt=s90-c"
+            },
+            "sourceDisplayName": "Smitten Kitchen",
+            "ingredients": [
+                "unsalted butter",
+                "granulated sugar",
+                "grated orange",
+                "large eggs",
+                "all-purpose flour",
+                "baking powder",
+                "salt",
+                "milk",
+                "sugar",
+                "cream",
+                "plums",
+                "apples",
+                "ground cinnamon",
+                "orange juice"
+            ],
+            "id": "Single-Crust-Plum-and-Apple-Pie-1020064",
+            "smallImageUrls": [
+                "http://lh5.ggpht.com/IOXigx0FPvsmvKajNF1YJC7HMJ2BGenC9Q6xYfVz7hJW_Hjprq0uuj8RgzaPZvG24Q25k494yTHMC6IwjaRMuQ=s90"
+            ],
+            "recipeName": "Single-Crust Plum and Apple Pie",
+            "totalTimeInSeconds": 3900,
+            "attributes": {
+                "course": [
+                    "Desserts"
+                ]
+            },
+            "flavors": {
+                "piquant": 0.0,
+                "meaty": 0.16666666666666666,
+                "bitter": 0.16666666666666666,
+                "sweet": 0.6666666666666666,
+                "sour": 0.8333333333333334,
+                "salty": 0.16666666666666666
+            },
+            "rating": 5
+        },
+        {
+            "imageUrlsBySize": {
+                "90": "http://lh3.googleusercontent.com/oMLW1aKeVRJnCePAa9HV9rYn-4MGSYWlsaq3066UU72Xz4cgojGGfdIvPQdPkORTwQyZE-DJPcIUMTHTGeA4xA=s90-c"
+            },
+            "sourceDisplayName": "Love Foodies",
+            "ingredients": [
+                "softened butter",
+                "coconut milk",
+                "regular sugar",
+                "eggs",
+                "shredded coconut",
+                "all-purpose flour",
+                "baking powder",
+                "salt",
+                "cake",
+                "powdered sugar"
+            ],
+            "id": "Moist-Coconut-Pound-Loaf-Cake-1336777",
+            "smallImageUrls": [
+                "http://lh3.googleusercontent.com/Vrn5Ccm3hApkwFQkHHP_N_IIpdLCTXQYVJNbS4F9raD86sb1bW9aT6ZPKUd6bcYpsmEmLzdVczLvVkz5CsOaGQ=s90"
+            ],
+            "recipeName": "Moist Coconut Pound Loaf Cake",
+            "totalTimeInSeconds": 4800,
+            "attributes": {
+                "course": [
+                    "Desserts",
+                    "Breads",
+                    "Afternoon Tea"
+                ]
+            },
+            "flavors": {
+                "piquant": 0.0,
+                "meaty": 0.6666666666666666,
+                "bitter": 0.5,
+                "sweet": 0.6666666666666666,
+                "sour": 0.16666666666666666,
+                "salty": 0.6666666666666666
+            },
+            "rating": 4
+        }
+    ],
+    "facetCounts": {},
+    "totalMatchCount": 39,
+    "attribution": {
+        "html": "Recipe search powered by <a href='http://www.yummly.co/recipes'><img alt='Yummly' src='https://static.yummly.co/api-logo.png'/></a>",
+        "url": "http://www.yummly.co/recipes/",
+        "text": "Recipe search powered by Yummly",
+        "logo": "https://static.yummly.co/api-logo.png"
+    }
+}

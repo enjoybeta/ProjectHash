@@ -1172,7 +1172,18 @@
     },
     "numberOfServings": 40,
     "totalTimeInSeconds": 5400,
-    "attributes": {},
-    "flavors": {},
+    "attributes": {
+        "course": [
+            "Desserts"
+        ]
+    },
+    "flavors": {
+        "Sweet": 0.6667,
+        "Piquant": 0.0,
+        "Sour": 0.1667,
+        "Salty": 0.1667,
+        "Meaty": 0.8333,
+        "Bitter": 0.1667
+    },
     "rating": 3
 }

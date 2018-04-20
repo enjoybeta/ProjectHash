@@ -1,0 +1,50 @@
+{
+    "yield": "3 loaves (we doubled the recipe)",
+    "nutritionEstimates": [],
+    "prepTimeInSeconds": 12600,
+    "totalTime": "4 hr",
+    "images": [
+        {
+            "hostedSmallUrl": "https://lh3.googleusercontent.com/KFukEnbCcH9ye6DQBJBcVN82uoUnYi1HQ3FiyEmI64oFceX8AVJ2N1YvNkWexdlm2gfX5foymH_OrEl1F8EFET0=s90",
+            "hostedMediumUrl": "https://lh3.googleusercontent.com/KFukEnbCcH9ye6DQBJBcVN82uoUnYi1HQ3FiyEmI64oFceX8AVJ2N1YvNkWexdlm2gfX5foymH_OrEl1F8EFET0=s180",
+            "hostedLargeUrl": "https://lh3.googleusercontent.com/KFukEnbCcH9ye6DQBJBcVN82uoUnYi1HQ3FiyEmI64oFceX8AVJ2N1YvNkWexdlm2gfX5foymH_OrEl1F8EFET0=s360",
+            "imageUrlsBySize": {
+                "90": "https://lh3.googleusercontent.com/nuEWDoFWk9GrYiB5DbXBtb0MDREwxs7miLkki7MgMy2iQZBpai9BapRSpxf-zoj8VpkhMCq4SY1qIsfHhsyCOVQ=s90-c",
+                "360": "https://lh3.googleusercontent.com/nuEWDoFWk9GrYiB5DbXBtb0MDREwxs7miLkki7MgMy2iQZBpai9BapRSpxf-zoj8VpkhMCq4SY1qIsfHhsyCOVQ=s360-c"
+            }
+        }
+    ],
+    "name": "Crusty French Baguettes 4 Hour Recipe \u2013 No Starter Necessary",
+    "source": {
+        "sourceDisplayName": "All Our Way",
+        "sourceSiteUrl": "allourway.com",
+        "sourceRecipeUrl": "http://allourway.com/crusty-french-baguettes-4-hour-recipe/"
+    },
+    "prepTime": "3 Hr 30 Min",
+    "id": "Crusty-French-Baguettes-4-Hour-Recipe-No-Starter-Necessary-2182873",
+    "ingredientLines": [
+        "1 1/2 cups (12 oz.) spring water or distilled water, heated to 115 F.",
+        "1 teaspoon (1/8 oz.) active dry yeast (we use instant yeast but follow the same procedure)",
+        "3 1/4 cups (14 2/3 oz.) all-purpose flour",
+        "1 1/2 teaspoon (3/8 oz.) kosher salt",
+        "Vegetable spray for greasing bowl",
+        "1/2 cup ice cubes"
+    ],
+    "cookTime": "30 Min",
+    "attribution": {
+        "html": "<a href='http://www.yummly.co/recipe/Crusty-French-Baguettes-4-Hour-Recipe-No-Starter-Necessary-2182873'>Crusty French Baguettes 4 Hour Recipe &ndash; No Starter Necessary recipe</a> information powered by <img alt='Yummly' src='https://static.yummly.co/api-logo.png'/>",
+        "url": "http://www.yummly.co/recipe/Crusty-French-Baguettes-4-Hour-Recipe-No-Starter-Necessary-2182873",
+        "text": "Crusty French Baguettes 4 Hour Recipe &ndash; No Starter Necessary recipes: information powered by Yummly",
+        "logo": "https://static.yummly.co/api-logo.png"
+    },
+    "numberOfServings": 30,
+    "totalTimeInSeconds": 14400,
+    "attributes": {
+        "course": [
+            "Breads"
+        ]
+    },
+    "cookTimeInSeconds": 1800,
+    "flavors": {},
+    "rating": 4
+}

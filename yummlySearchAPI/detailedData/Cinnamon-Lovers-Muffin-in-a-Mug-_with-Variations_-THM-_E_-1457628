@@ -1,0 +1,47 @@
+{
+    "nutritionEstimates": [],
+    "totalTime": "5 min",
+    "images": [
+        {
+            "hostedSmallUrl": "https://lh3.googleusercontent.com/xtOltCT2lt0a9C7SXhU4yVwO1Rw3ibx4P8wzLndy8NeUmHPHQ3uqjTQhW1iASl3_MwDGWFW0z-PXJn-vkrNl5xA=s90",
+            "hostedMediumUrl": "https://lh3.googleusercontent.com/xtOltCT2lt0a9C7SXhU4yVwO1Rw3ibx4P8wzLndy8NeUmHPHQ3uqjTQhW1iASl3_MwDGWFW0z-PXJn-vkrNl5xA=s180",
+            "hostedLargeUrl": "https://lh3.googleusercontent.com/xtOltCT2lt0a9C7SXhU4yVwO1Rw3ibx4P8wzLndy8NeUmHPHQ3uqjTQhW1iASl3_MwDGWFW0z-PXJn-vkrNl5xA=s360",
+            "imageUrlsBySize": {
+                "90": "https://lh3.googleusercontent.com/JfQG1_XMS_hDPtA8sU4giRAIo2Dt0H-qHVIbKB9cQeoLVFJscLS5xF43AsWp6bZd8yF-F8yWKsz3q2s-6zuQ=s90-c",
+                "360": "https://lh3.googleusercontent.com/JfQG1_XMS_hDPtA8sU4giRAIo2Dt0H-qHVIbKB9cQeoLVFJscLS5xF43AsWp6bZd8yF-F8yWKsz3q2s-6zuQ=s360-c"
+            }
+        }
+    ],
+    "name": "Cinnamon Lover\u2019s Muffin in a Mug (with Variations) \u2013 THM {E}",
+    "source": {
+        "sourceDisplayName": "Chasing Lost Socks",
+        "sourceSiteUrl": "chasinglostsocks.blogspot.com",
+        "sourceRecipeUrl": "http://chasinglostsocks.blogspot.com/2014/09/cinnamon-lovers-muffin-in-mug-with.html"
+    },
+    "id": "Cinnamon-Lovers-Muffin-in-a-Mug-_with-Variations_-THM-_E_-1457628",
+    "ingredientLines": [
+        "2 Tbsps. Oat Flour (ground Old Fashioned Oats)",
+        "1 Tbsp. Flax Meal",
+        "1 Tbsp. Cinnamon",
+        "4 Tbsps. Liquid Egg Whites",
+        "1 Tbsp. Fat Free Greek Yogurt",
+        "\u00bd Tsp. Baking Powder",
+        "1-2 Doonks Pure Stevia Powder",
+        "Pinch of Salt and a splash of Vanilla (optional)"
+    ],
+    "attribution": {
+        "html": "<a href='http://www.yummly.co/recipe/Cinnamon-Lovers-Muffin-in-a-Mug-_with-Variations_-THM-_E_-1457628'>Cinnamon Lover&rsquo;s Muffin in a Mug (with Variations) &ndash; THM {E} recipe</a> information powered by <img alt='Yummly' src='https://static.yummly.co/api-logo.png'/>",
+        "url": "http://www.yummly.co/recipe/Cinnamon-Lovers-Muffin-in-a-Mug-_with-Variations_-THM-_E_-1457628",
+        "text": "Cinnamon Lover&rsquo;s Muffin in a Mug (with Variations) &ndash; THM {E} recipes: information powered by Yummly",
+        "logo": "https://static.yummly.co/api-logo.png"
+    },
+    "numberOfServings": 4,
+    "totalTimeInSeconds": 300,
+    "attributes": {
+        "course": [
+            "Breakfast and Brunch"
+        ]
+    },
+    "flavors": {},
+    "rating": 3
+}

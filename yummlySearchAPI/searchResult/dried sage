@@ -1,0 +1,63 @@
+{
+    "criteria": {
+        "q": "d+r+i+e+d+ +s+a+g+e",
+        "allowedIngredient": null,
+        "excludedIngredient": null
+    },
+    "matches": [
+        {
+            "imageUrlsBySize": {
+                "90": "http://lh3.googleusercontent.com/r7BZPs6gbimFxKd1F4X4sEKUrrWLueLHnMB1sZKVa6RSn6GlngvRJOs3sJ5hQC_Lns7BsDFaYQPJ_21-hMXBcA=s90-c"
+            },
+            "sourceDisplayName": "Chefkoch",
+            "ingredients": [
+                "Zwiebel",
+                "Lauch",
+                "M\u00f6hre",
+                "K\u00fcrbismark",
+                "Maroni",
+                "Kartoffel",
+                "Wasser",
+                "Pfeffer",
+                "Gem\u00fcsebr\u00fche",
+                "Oliven\u00f6l",
+                "Knoblauch",
+                "chili",
+                "Rahm"
+            ],
+            "id": "Kurbis-Maroni-Kartoffelsuppe-811619",
+            "smallImageUrls": [
+                "http://lh3.googleusercontent.com/e5hpnW5FaMGguaCk8bB9RTT5V5Yx005sjzCZ37CaOjWiwGVlCphqKv4I5ohQyELyqo0-wKwrQ_oAa0pJOYSMaQ=s90"
+            ],
+            "recipeName": "Ku\u0308rbis-Maroni-Kartoffelsuppe",
+            "totalTimeInSeconds": 2700,
+            "attributes": {},
+            "flavors": null,
+            "rating": 3
+        },
+        {
+            "recipeName": "Eierpunsch - Total Easy",
+            "ingredients": [
+                "Eierlik\u00f6r",
+                "Wei\u00dfwein",
+                "Milch",
+                "Rahm",
+                "Schokostreusel"
+            ],
+            "totalTimeInSeconds": 360,
+            "sourceDisplayName": "Chefkoch",
+            "id": "Eierpunsch---Total-Easy-959436",
+            "rating": 3,
+            "flavors": null,
+            "attributes": {}
+        }
+    ],
+    "facetCounts": {},
+    "totalMatchCount": 2,
+    "attribution": {
+        "html": "Recipe search powered by <a href='http://www.yummly.co/recipes'><img alt='Yummly' src='https://static.yummly.co/api-logo.png'/></a>",
+        "url": "http://www.yummly.co/recipes/",
+        "text": "Recipe search powered by Yummly",
+        "logo": "https://static.yummly.co/api-logo.png"
+    }
+}

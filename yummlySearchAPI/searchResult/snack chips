@@ -1,0 +1,101 @@
+{
+    "criteria": {
+        "q": "s+n+a+c+k+ +c+h+i+p+s",
+        "allowedIngredient": null,
+        "excludedIngredient": null
+    },
+    "matches": [
+        {
+            "recipeName": "Gingerbread House",
+            "ingredients": [
+                "butter",
+                "dark brown sugar",
+                "light molasses",
+                "cinnamon",
+                "ground ginger",
+                "ground cloves",
+                "baking soda",
+                "all-purpose flour",
+                "water",
+                "white chocolate",
+                "gumdrops",
+                "peppermint",
+                "licorice",
+                "powdered sugar",
+                "large egg whites",
+                "almond extract"
+            ],
+            "totalTimeInSeconds": 5400,
+            "sourceDisplayName": "Food Network",
+            "id": "Gingerbread-House-Food-Network-284013",
+            "rating": 5,
+            "flavors": null,
+            "attributes": {
+                "course": [
+                    "Desserts"
+                ],
+                "holiday": [
+                    "Christmas"
+                ]
+            }
+        },
+        {
+            "imageUrlsBySize": {
+                "90": "https://lh3.googleusercontent.com/K18f67lTHe743aJvLRkj1n0M1O996Kgxm7R1iuDn5nyw3q9IQXVqp7MYtT0-9RUW3O67oApCpVgwMpw4Z6NCI1c=s90-c"
+            },
+            "sourceDisplayName": "Claire K Creations",
+            "ingredients": [
+                "all-purpose flour",
+                "caster",
+                "cocoa powder",
+                "baking soda",
+                "baking powder",
+                "ground cinnamon",
+                "ground ginger",
+                "ground nutmeg",
+                "ground cloves",
+                "salt",
+                "buttermilk",
+                "pumpkin pur\u00e9e",
+                "brown sugar",
+                "eggs",
+                "egg whites",
+                "olive oil",
+                "light corn syrup",
+                "vanilla extract",
+                "icing",
+                "cocoa",
+                "water",
+                "powdered sugar"
+            ],
+            "id": "Chocolate-Spiced-Pumpkin-Bundt-Cake-1798458",
+            "smallImageUrls": [
+                "https://lh3.googleusercontent.com/2JCe6xUSMhyp4D7-116ccpaeVZS780uDMq59xEYexvKFHrdmaAEIWKOE5EJXX0JwHtUWJDiFohYKjOMvLGP4s8U=s90"
+            ],
+            "recipeName": "Chocolate Spiced Pumpkin Bundt Cake",
+            "totalTimeInSeconds": 5700,
+            "attributes": {
+                "course": [
+                    "Desserts"
+                ]
+            },
+            "flavors": {
+                "piquant": 0.0,
+                "meaty": 0.16666666666666666,
+                "bitter": 0.6666666666666666,
+                "sweet": 0.6666666666666666,
+                "sour": 0.16666666666666666,
+                "salty": 0.8333333333333334
+            },
+            "rating": 4
+        }
+    ],
+    "facetCounts": {},
+    "totalMatchCount": 2,
+    "attribution": {
+        "html": "Recipe search powered by <a href='http://www.yummly.co/recipes'><img alt='Yummly' src='https://static.yummly.co/api-logo.png'/></a>",
+        "url": "http://www.yummly.co/recipes/",
+        "text": "Recipe search powered by Yummly",
+        "logo": "https://static.yummly.co/api-logo.png"
+    }
+}

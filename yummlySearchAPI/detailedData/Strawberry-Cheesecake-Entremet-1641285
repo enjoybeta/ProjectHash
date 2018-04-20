@@ -1,0 +1,67 @@
+{
+    "nutritionEstimates": [],
+    "totalTime": "1 hr 15 min",
+    "images": [
+        {
+            "hostedSmallUrl": "https://lh3.googleusercontent.com/b_8N7LpreH6TaUNrwKFd--cUuL2hafdfvSlzQF7iLBUvVZZZj2y0U1GGsmxLXUZT4igDZar-AjOdmJtnhU7uIg=s90",
+            "hostedMediumUrl": "https://lh3.googleusercontent.com/b_8N7LpreH6TaUNrwKFd--cUuL2hafdfvSlzQF7iLBUvVZZZj2y0U1GGsmxLXUZT4igDZar-AjOdmJtnhU7uIg=s180",
+            "hostedLargeUrl": "https://lh3.googleusercontent.com/b_8N7LpreH6TaUNrwKFd--cUuL2hafdfvSlzQF7iLBUvVZZZj2y0U1GGsmxLXUZT4igDZar-AjOdmJtnhU7uIg=s360",
+            "imageUrlsBySize": {
+                "90": "https://lh3.googleusercontent.com/0pShKDkYXCBiNHDors11zfqP_jr7Jv6p9-CgVHVQN0CN3X_FiozSqkv5hvIdVBCHA9KpkGavAYahJuD_yrz5SQ=s90-c",
+                "360": "https://lh3.googleusercontent.com/0pShKDkYXCBiNHDors11zfqP_jr7Jv6p9-CgVHVQN0CN3X_FiozSqkv5hvIdVBCHA9KpkGavAYahJuD_yrz5SQ=s360-c"
+            }
+        }
+    ],
+    "name": "Strawberry Cheesecake Entremet",
+    "source": {
+        "sourceDisplayName": "Barbara Bakes",
+        "sourceSiteUrl": "barbarabakes.com",
+        "sourceRecipeUrl": "http://www.barbarabakes.com/strawberry-cheesecake-entremet/"
+    },
+    "id": "Strawberry-Cheesecake-Entremet-1641285",
+    "ingredientLines": [
+        "7 tablespoons/100g unsalted butter, softened",
+        "100g Confectioners\u2019 (icing) sugar",
+        "100g egg whites (about four)",
+        "110g cake flour",
+        "85g almond flour/meal",
+        "75g confectioners' (icing) sugar",
+        "15g cake flour",
+        "10g Dutch cocoa powder",
+        "3 large eggs / 150g",
+        "3 large egg whites / 90g",
+        "10g white granulated sugar or superfine (caster) sugar",
+        "2 tablespoons / 30g unsalted butter, melted",
+        "adatped from [melskitchencafe.com|http://www.melskitchencafe.com/2010/05/lemon-icebox-cheesecake.html",
+        "3 tablespoons fresh lemon juice",
+        "1 envelope (2 3/4 teaspoons) unflavored gelatin",
+        "16 oz. (2 bars) cream cheese, softened to room temperature",
+        "1/2 cup sugar",
+        "pinch salt",
+        "2/3 cup whipping cream",
+        "3 tablespoons cold water",
+        "200 grams strawberry puree",
+        "40 grams sugar",
+        "1 envelope (2 3/4 teaspoons) unflavored gelatin",
+        "150 grams whipping cream, soft peaks",
+        "3 tablespoons cold water",
+        "300 grams strawberry puree",
+        "80 grams sugar",
+        "1 envelope (2 3/4 teaspoons) unflavored gelatin"
+    ],
+    "attribution": {
+        "html": "<a href='http://www.yummly.co/recipe/Strawberry-Cheesecake-Entremet-1641285'>Strawberry Cheesecake Entremet recipe</a> information powered by <img alt='Yummly' src='https://static.yummly.co/api-logo.png'/>",
+        "url": "http://www.yummly.co/recipe/Strawberry-Cheesecake-Entremet-1641285",
+        "text": "Strawberry Cheesecake Entremet recipes: information powered by Yummly",
+        "logo": "https://static.yummly.co/api-logo.png"
+    },
+    "numberOfServings": 4,
+    "totalTimeInSeconds": 4500,
+    "attributes": {
+        "course": [
+            "Desserts"
+        ]
+    },
+    "flavors": {},
+    "rating": 4
+}

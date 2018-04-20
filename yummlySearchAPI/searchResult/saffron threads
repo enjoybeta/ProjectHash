@@ -1,0 +1,40 @@
+{
+    "criteria": {
+        "q": "s+a+f+f+r+o+n+ +t+h+r+e+a+d+s",
+        "allowedIngredient": null,
+        "excludedIngredient": null
+    },
+    "matches": [
+        {
+            "recipeName": "Chicago-Style Steak With Bleu Cheese Butter",
+            "ingredients": [
+                "sirloin steak",
+                "worcestershire sauce",
+                "soy sauce",
+                "cooking sherry",
+                "red wine vinegar",
+                "butter",
+                "blue cheese",
+                "green onions"
+            ],
+            "totalTimeInSeconds": 1200,
+            "sourceDisplayName": "Food.com",
+            "id": "Chicago-Style-Steak-With-Bleu-Cheese-Butter-Food_com-125744",
+            "rating": 4,
+            "flavors": null,
+            "attributes": {
+                "course": [
+                    "Main Dishes"
+                ]
+            }
+        }
+    ],
+    "facetCounts": {},
+    "totalMatchCount": 1,
+    "attribution": {
+        "html": "Recipe search powered by <a href='http://www.yummly.co/recipes'><img alt='Yummly' src='https://static.yummly.co/api-logo.png'/></a>",
+        "url": "http://www.yummly.co/recipes/",
+        "text": "Recipe search powered by Yummly",
+        "logo": "https://static.yummly.co/api-logo.png"
+    }
+}

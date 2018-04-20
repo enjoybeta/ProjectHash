@@ -1088,8 +1088,22 @@
     },
     "numberOfServings": 5,
     "totalTimeInSeconds": 4800,
-    "attributes": {},
+    "attributes": {
+        "cuisine": [
+            "Moroccan"
+        ],
+        "course": [
+            "Main Dishes"
+        ]
+    },
     "cookTimeInSeconds": 3600,
-    "flavors": {},
+    "flavors": {
+        "Piquant": 0.1667,
+        "Meaty": 0.1667,
+        "Bitter": 0.1667,
+        "Sweet": 0.3333,
+        "Sour": 0.6667,
+        "Salty": 0.1667
+    },
     "rating": 3
 }

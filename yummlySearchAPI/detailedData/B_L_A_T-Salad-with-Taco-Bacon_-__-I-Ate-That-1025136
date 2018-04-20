@@ -42,7 +42,14 @@
     },
     "numberOfServings": 2,
     "totalTimeInSeconds": 1500,
-    "attributes": {},
+    "attributes": {
+        "holiday": [
+            "Summer"
+        ],
+        "course": [
+            "Salads"
+        ]
+    },
     "flavors": {},
     "rating": 4
 }

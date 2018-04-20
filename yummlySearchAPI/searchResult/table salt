@@ -1,0 +1,411 @@
+{
+    "criteria": {
+        "q": "t+a+b+l+e+ +s+a+l+t",
+        "allowedIngredient": null,
+        "excludedIngredient": null
+    },
+    "matches": [
+        {
+            "imageUrlsBySize": {
+                "90": "https://lh3.googleusercontent.com/AyQZOwfYVUki5wINDypDrVsF-uf7CQ6L5wHGMGuoL3lVpUtgNH7DQwPsgH6oJrZkWHJEGS1rjdf3Gw7A6-GNRA=s90-c"
+            },
+            "sourceDisplayName": "Cookie Dough and Oven Mitt",
+            "ingredients": [
+                "granulated sugar",
+                "unsweetened cocoa powder",
+                "soy milk",
+                "silken tofu",
+                "caramels",
+                "salt"
+            ],
+            "id": "Chocolate-Ice-Cream-with-Salted-Caramel-2146874",
+            "smallImageUrls": [
+                "https://lh3.googleusercontent.com/26Go4sr67zaRncKsp40yiROl4PchBShI3FObUoD6CqlDXN2FQZfJNPvSNLo59CcJ2DgfhfOCKvoAs-Qd_jcgumY=s90"
+            ],
+            "recipeName": "Chocolate Ice Cream with Salted Caramel",
+            "totalTimeInSeconds": 9900,
+            "attributes": {
+                "course": [
+                    "Desserts"
+                ]
+            },
+            "flavors": {
+                "piquant": 0.0,
+                "meaty": 0.16666666666666666,
+                "bitter": 0.5,
+                "sweet": 0.8333333333333334,
+                "sour": 0.16666666666666666,
+                "salty": 0.3333333333333333
+            },
+            "rating": 4
+        },
+        {
+            "imageUrlsBySize": {
+                "90": "https://lh3.googleusercontent.com/LZOaQ_6iR__PJ6og4aOWjqhX4vDwJMYE2hnBGawGgI48XJbDBbxo1dQy12vNxhst2fksS2MF5cT2wFwibRlDKvk=s90-c"
+            },
+            "sourceDisplayName": "Diethood",
+            "ingredients": [
+                "Pillsbury\u00ae Moist Supreme\u00ae Funfetti\u00ae Cake Mix",
+                "baking powder",
+                "eggs",
+                "canola oil",
+                "vanilla",
+                "sprinkles"
+            ],
+            "id": "Cake-Batter-Funfetti-Cookies-2364954",
+            "smallImageUrls": [
+                "https://lh3.googleusercontent.com/b-rz2fYoK9chszeG2sc1W1a0JUj_FDyJKywB319-wfp3btWqkowwV0OCbwXoE4H-dL1UpHl0ihjNF0REu-3I=s90"
+            ],
+            "recipeName": "Cake Batter Funfetti Cookies",
+            "totalTimeInSeconds": 1140,
+            "attributes": {
+                "course": [
+                    "Desserts"
+                ]
+            },
+            "flavors": {
+                "piquant": 0.0,
+                "meaty": 0.8333333333333334,
+                "bitter": 0.8333333333333334,
+                "sweet": 0.3333333333333333,
+                "sour": 0.16666666666666666,
+                "salty": 0.8333333333333334
+            },
+            "rating": 4
+        },
+        {
+            "imageUrlsBySize": {
+                "90": "https://lh3.googleusercontent.com/MSNgN7s8kgVameNlbVabe0e5BDf7x-9HNBFOWKxHLk4Hhl5130KN4an7iRzor0oc2aVA0mVn5v3aG5e3wge_Xg=s90-c"
+            },
+            "sourceDisplayName": "I Should Be Mopping the Floor",
+            "ingredients": [
+                "sandwiches",
+                "cool whip",
+                "caramel ice cream topping",
+                "ice cream"
+            ],
+            "id": "10-Minute-Layered-Ice-Cream-Cake-_easydessert-1914028",
+            "smallImageUrls": [
+                "https://lh3.googleusercontent.com/t9uQksw-8vAc7i8sB2RiuybQLR-JYEt-LA3HgZHHsVITAFLuQplS9aJpBCa39DNiyLt7xsgn9JF4cnfNifgWMg=s90"
+            ],
+            "recipeName": "10-Minute Layered Ice Cream Cake #easydessert",
+            "totalTimeInSeconds": 1500,
+            "attributes": {
+                "course": [
+                    "Desserts"
+                ]
+            },
+            "flavors": null,
+            "rating": 4
+        },
+        {
+            "imageUrlsBySize": {
+                "90": "http://lh3.googleusercontent.com/7ws9nxJj_j4r9Mp0YNos7XLVbNu-d_0X_2lI2H75RcNGDVCUIR1xjnoiuKNMhVoizLxf0afqcA47YDjLYWg_d2E=s90-c"
+            },
+            "sourceDisplayName": "Oh, Ladycakes",
+            "ingredients": [
+                "all purpose gluten free flour blend",
+                "oat flour",
+                "rolled oats",
+                "xanthan gum",
+                "fine sea salt",
+                "baking powder",
+                "canola oil",
+                "maple syrup",
+                "almond milk",
+                "pure vanilla extract",
+                "sugar"
+            ],
+            "id": "MAPLE-OAT-SCONES-1252509",
+            "smallImageUrls": [
+                "http://lh3.googleusercontent.com/apg-qPJgqSVtk1-YrtkKU3qfuzOQFOjcHElLJJR43Z6KnD50oGN3M9Zf1fsV30rOxgIbXGQetr9979rYGlF8bcI=s90"
+            ],
+            "recipeName": "MAPLE OAT SCONES",
+            "totalTimeInSeconds": 2400,
+            "attributes": {
+                "course": [
+                    "Breads"
+                ],
+                "cuisine": [
+                    "English"
+                ]
+            },
+            "flavors": {
+                "piquant": 0.0,
+                "meaty": 0.3333333333333333,
+                "bitter": 0.8333333333333334,
+                "sweet": 0.6666666666666666,
+                "sour": 0.16666666666666666,
+                "salty": 0.8333333333333334
+            },
+            "rating": 4
+        },
+        {
+            "imageUrlsBySize": {
+                "90": "https://lh3.googleusercontent.com/Z1Unq45X0Vff2vLneldj_YBn4nYPK83Sm_zw1l1-t2kpjiJQBOhTNPVZho2A0WhK1IULoOUu-w6bmp3AhjAgAQ=s90-c"
+            },
+            "sourceDisplayName": "Oh, Ladycakes",
+            "ingredients": [
+                "all purpose gluten free flour blend",
+                "oat flour",
+                "rolled oats",
+                "xanthan gum",
+                "fine sea salt",
+                "baking powder",
+                "canola oil",
+                "maple syrup",
+                "almond milk",
+                "pure vanilla extract",
+                "sugar"
+            ],
+            "id": "MAPLE-OAT-SCONES-1946347",
+            "smallImageUrls": [
+                "https://lh3.googleusercontent.com/MyfmlpcwS0Dpwmde-BOyEzWSeI_1Qv8Y3ITWi89X1YakICosZ2dj3LJCyocyuqRXIF-YtJr0kJ4W-CFVViZz7A=s90"
+            ],
+            "recipeName": "MAPLE OAT SCONES",
+            "totalTimeInSeconds": 2400,
+            "attributes": {
+                "course": [
+                    "Breads"
+                ],
+                "cuisine": [
+                    "English"
+                ]
+            },
+            "flavors": {
+                "piquant": 0.0,
+                "meaty": 0.3333333333333333,
+                "bitter": 0.8333333333333334,
+                "sweet": 0.6666666666666666,
+                "sour": 0.16666666666666666,
+                "salty": 0.8333333333333334
+            },
+            "rating": 4
+        },
+        {
+            "imageUrlsBySize": {
+                "90": "https://lh3.googleusercontent.com/PH7W7KNGOE3cCFZMcICWBwdmofLQ-UOCqb0YK0V2uu_ZMDg2V2DkisakgjgvSmNslJYlK82fqCL0XZiq5oYN=s90-c"
+            },
+            "sourceDisplayName": "Life Made Sweeter",
+            "ingredients": [
+                "brownie mix",
+                "graham cracker crust",
+                "unsalted butter",
+                "graham cracker crumbs",
+                "ground cinnamon",
+                "sugar",
+                "salt",
+                "brownies",
+                "granulated sugar",
+                "large eggs",
+                "olive oil",
+                "pure vanilla extract",
+                "all-purpose flour",
+                "unsweetened cocoa powder",
+                "baking powder",
+                "semi-sweet chocolate morsels",
+                "large marshmallows",
+                "graham crackers",
+                "caramel sauce"
+            ],
+            "id": "Salted-Caramel-Smores-Brownies-1810348",
+            "smallImageUrls": [
+                "https://lh3.googleusercontent.com/o0GATo3qHSqLxhA-lVOT5ALLUyO-wChkJLlihjQX4calocDTcS085iWh2xNqmkq16Kq0-b2XVjOCnlQc0Qf3=s90"
+            ],
+            "recipeName": "Salted Caramel S\u2019mores Brownies",
+            "totalTimeInSeconds": 3300,
+            "attributes": {
+                "course": [
+                    "Desserts"
+                ],
+                "cuisine": [
+                    "Kid-Friendly"
+                ]
+            },
+            "flavors": {
+                "piquant": 0.0,
+                "meaty": 0.5,
+                "bitter": 0.3333333333333333,
+                "sweet": 0.8333333333333334,
+                "sour": 0.0,
+                "salty": 0.6666666666666666
+            },
+            "rating": 4
+        },
+        {
+            "imageUrlsBySize": {
+                "90": "http://lh3.googleusercontent.com/yaGaEjcAtq9hSFHSM9xT_D7W2dLd7a4cD1EycGO5oJtZRntgLGI1O-A61OpZZNgbWDfTwwM8mMRK_AWHODODpg=s90-c"
+            },
+            "sourceDisplayName": "Healthy Slow Cooking",
+            "ingredients": [
+                "sliced almonds",
+                "vodka",
+                "water",
+                "sugar",
+                "brandy",
+                "rosewater",
+                "orange",
+                "almond extract",
+                "xanthan gum",
+                "light rum",
+                "dark rum",
+                "fresh lime juice",
+                "orgeat syrup",
+                "orange cura\u00e7ao",
+                "mint sprigs",
+                "cocktail cherries",
+                "lime wedges"
+            ],
+            "id": "Orgeat-Syrup-from-Shake_-Stir_-Pour-1286726",
+            "smallImageUrls": [
+                "http://lh3.googleusercontent.com/UYnr8mTYzN1Hai4nS5uj_gJesX5zQmStMYR3BSglvNOxb5rhR3-i59-bBL2BKCFH6eIxzpm0Ab28tKrxyapitSo=s90"
+            ],
+            "recipeName": "Orgeat Syrup from Shake, Stir, Pour",
+            "totalTimeInSeconds": 1200,
+            "attributes": {
+                "course": [
+                    "Beverages",
+                    "Cocktails"
+                ]
+            },
+            "flavors": null,
+            "rating": 4
+        },
+        {
+            "imageUrlsBySize": {
+                "90": "http://lh4.ggpht.com/OjRbcsyJ2v9tzWqv2-x-YccdKI8bEyDpphS33Lp8I19dCU0IiXHJ10wZMEXdS6Rw2YDJ8Jx0TBEgDua2ojTO2CU=s90-c"
+            },
+            "sourceDisplayName": "Food52",
+            "ingredients": [
+                "canola oil",
+                "clove",
+                "sage leaves",
+                "salt",
+                "homemade chicken stock",
+                "water",
+                "unsalted butter",
+                "finely chopped onion",
+                "anchovy fillets",
+                "arborio rice",
+                "dry vermouth",
+                "balsamic vinegar",
+                "raisins",
+                "mascarpone"
+            ],
+            "id": "Balsamic-risotto-with-prima-black-raisins_-crispy-shallots-and-sage-355320",
+            "smallImageUrls": [
+                "http://lh6.ggpht.com/31NIA7niQ6mZDDGe9j_UPd9AfB7qGktuhLosH43bXZoZ5_69SW8j1h_Bn9L5xq1oL7yXtvSoajfPznoSys8yRg=s90"
+            ],
+            "recipeName": "Balsamic Risotto with Prima Black Raisins, Crispy Shallots and Sage",
+            "totalTimeInSeconds": 3000,
+            "attributes": {
+                "course": [
+                    "Main Dishes"
+                ],
+                "cuisine": [
+                    "Italian"
+                ]
+            },
+            "flavors": {
+                "piquant": 0.0,
+                "meaty": 0.16666666666666666,
+                "bitter": 0.16666666666666666,
+                "sweet": 0.3333333333333333,
+                "sour": 0.16666666666666666,
+                "salty": 0.16666666666666666
+            },
+            "rating": 3
+        },
+        {
+            "imageUrlsBySize": {
+                "90": "http://lh3.googleusercontent.com/FLnKflyewAeqG5G4xL-u9t5PXHoptJoDCmcGoBtbgUSywP7V9rnN8LfxFnUGwXW1jmUNP7bXe8I_PNkX9ssjZA=s90-c"
+            },
+            "sourceDisplayName": "Everyday Epicurist",
+            "ingredients": [
+                "sourdough bread",
+                "bacon",
+                "romaine lettuce",
+                "tomatoes",
+                "avocado",
+                "eggs",
+                "mayonnaise",
+                "olive oil"
+            ],
+            "id": "G_A_B_L_T_E_-Grilled-Avocado-BLT-with-Egg-Sandwich-1442006",
+            "smallImageUrls": [
+                "http://lh3.googleusercontent.com/OG8OoOLJDpl5sLb7ULB3d-4D99fS1FUcQ8Ys2hAWkDSHGfl8YLiwKfk5J8KNg8rT16rA-iotIkrAk2vaNu3SoA=s90"
+            ],
+            "recipeName": "G.A.B.L.T.E. \u2013 Grilled Avocado BLT with Egg Sandwich",
+            "totalTimeInSeconds": 1800,
+            "attributes": {
+                "course": [
+                    "Lunch"
+                ],
+                "cuisine": [
+                    "Barbecue"
+                ]
+            },
+            "flavors": {
+                "piquant": 0.0,
+                "meaty": 0.8333333333333334,
+                "bitter": 0.8333333333333334,
+                "sweet": 0.16666666666666666,
+                "sour": 0.3333333333333333,
+                "salty": 0.8333333333333334
+            },
+            "rating": 4
+        },
+        {
+            "imageUrlsBySize": {
+                "90": "https://lh3.googleusercontent.com/T_lAdqWzfo5YUcLYZ4pXsKi9HH7KbizvhcnTjcgOg5luWdFIVuBJfVOO5tHS5LJ8hopFANEDb_FWl3aJjXe6=s90-c"
+            },
+            "sourceDisplayName": "Cafe Delites",
+            "ingredients": [
+                "coconut oil",
+                "chicken thigh fillets",
+                "onions",
+                "minced garlic",
+                "large carrots",
+                "broccoli",
+                "red capsicum",
+                "capsicum",
+                "snow peas",
+                "zucchini",
+                "light coconut milk",
+                "peanut flour",
+                "chunky peanut butter",
+                "brown sugar",
+                "salt",
+                "steamed brown rice"
+            ],
+            "id": "Chicken-Satay-Fried-Rice-2340421",
+            "smallImageUrls": [
+                "https://lh3.googleusercontent.com/MQ5Ei56MTvH7mjkXVe-RAh-SrigU06TvJTIqA7Mvd7SQzJ23wCbDWP0sPlCL-_d_TsQS2B5Dvk-kbMl5y24JrA=s90"
+            ],
+            "recipeName": "Chicken Satay Fried Rice",
+            "totalTimeInSeconds": 2700,
+            "attributes": {
+                "course": [
+                    "Main Dishes"
+                ]
+            },
+            "flavors": {
+                "piquant": 0.3333333333333333,
+                "meaty": 0.5,
+                "bitter": 0.16666666666666666,
+                "sweet": 0.16666666666666666,
+                "sour": 0.8333333333333334,
+                "salty": 0.16666666666666666
+            },
+            "rating": 4
+        }
+    ],
+    "facetCounts": {},
+    "totalMatchCount": 12,
+    "attribution": {
+        "html": "Recipe search powered by <a href='http://www.yummly.co/recipes'><img alt='Yummly' src='https://static.yummly.co/api-logo.png'/></a>",
+        "url": "http://www.yummly.co/recipes/",
+        "text": "Recipe search powered by Yummly",
+        "logo": "https://static.yummly.co/api-logo.png"
+    }
+}

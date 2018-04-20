@@ -1,0 +1,354 @@
+{
+    "criteria": {
+        "q": "r+a+i+s+i+n+s",
+        "allowedIngredient": null,
+        "excludedIngredient": null
+    },
+    "matches": [
+        {
+            "imageUrlsBySize": {
+                "90": "https://lh3.googleusercontent.com/HgdP9aqvIvNXVDM6M0-2F4X2gFIM0Nc1YRcy016eQumZtyO0ZMMqeNX12lzn8N8vZr56pn62stXpdUxevVh7VeY=s90-c"
+            },
+            "sourceDisplayName": "Gigi Eats Celebrities",
+            "ingredients": [
+                "sweet potatoes",
+                "sugar",
+                "hickory smoke",
+                "beef brisket",
+                "bbq sauce",
+                "spinach"
+            ],
+            "id": "Nacho-Average-B_R_I_S_K_E_T_-1952403",
+            "smallImageUrls": [
+                "https://lh3.googleusercontent.com/MrXnL83XjSwGVTFf2xMbAMU45DSUoC6Ti5Aws3HW0k_1DXt5ZpEhn-QiyyHKafCLKQOJxwr6PvUjDjrpNJEhWw=s90"
+            ],
+            "recipeName": "Nacho Average B.R.I.S.K.E.T.",
+            "totalTimeInSeconds": 1800,
+            "attributes": {
+                "course": [
+                    "Main Dishes"
+                ]
+            },
+            "flavors": null,
+            "rating": 4
+        },
+        {
+            "imageUrlsBySize": {
+                "90": "http://lh5.ggpht.com/LW6YW63P8DlxQHfOMnRE1WDOTVOHHfF0Cjy8zoXwbiVcpen2Ij_cYy85FoRLw8aKqrQ_95ftz7pGYltolKMTtA=s90-c"
+            },
+            "sourceDisplayName": "Every Day with Rachael Ray",
+            "ingredients": [
+                "chocolate chips",
+                "cookies",
+                "chocolate pudding",
+                "chocolate cookie"
+            ],
+            "id": "R_I_P_-Pudding-527609",
+            "smallImageUrls": [
+                "http://lh4.ggpht.com/_gNW1wNqANavaAeDnfYlU2mRl4-d4165QGv2lMQ4cYdf-pF4xpIHWUMhGjrZO-1y6C_B8No_hIcEAsTMwPEnaQ=s90"
+            ],
+            "recipeName": "R.I.P. Pudding",
+            "totalTimeInSeconds": 2400,
+            "attributes": {
+                "course": [
+                    "Desserts"
+                ]
+            },
+            "flavors": null,
+            "rating": 3
+        },
+        {
+            "imageUrlsBySize": {
+                "90": "https://lh3.googleusercontent.com/B0fDeYJgY6iNDmOoiNfp5GIb2RlwVkoTbQ4cWzJqVqERZexFV_AAbCH0bdNoOVp9nWzlTyiAK0ydNy5CpNayYOk=s90-c"
+            },
+            "sourceDisplayName": "AllRecipes",
+            "ingredients": [
+                "biscuit dough",
+                "white sugar",
+                "ground cinnamon",
+                "margarine",
+                "brown sugar",
+                "chopped walnuts",
+                "raisins"
+            ],
+            "id": "Monkey-Bread-I-1633933",
+            "smallImageUrls": [
+                "https://lh3.googleusercontent.com/-bE3zX9urda8Ik3CNCz3TnB4ENU1nxpghGo77i0I55zG596_c5Z7iuczbRFuiNNq_WNhE_2M30SlzSdTBsz-jg=s90"
+            ],
+            "recipeName": "Monkey Bread I",
+            "totalTimeInSeconds": 3600,
+            "attributes": {
+                "course": [
+                    "Breads"
+                ]
+            },
+            "flavors": {
+                "piquant": 0.0,
+                "meaty": 0.16666666666666666,
+                "bitter": 0.16666666666666666,
+                "sweet": 0.8333333333333334,
+                "sour": 0.16666666666666666,
+                "salty": 0.16666666666666666
+            },
+            "rating": 4
+        },
+        {
+            "imageUrlsBySize": {
+                "90": "http://lh6.ggpht.com/_nDrTsfdbY6nWDJxnUf3RznGFGIlolays8_lBQJAzPRZmjPRTekj8fU6khSpdmKNlmdkrB0Eg4yHdL6PzjOF=s90-c"
+            },
+            "sourceDisplayName": "EatMunchLove",
+            "ingredients": [
+                "bananas",
+                "applesauce",
+                "ground flaxseed",
+                "chia seeds",
+                "protein powder",
+                "cocoa powder",
+                "vanilla"
+            ],
+            "id": "Protein-Brownies-_vegan-Friendly_-749952",
+            "smallImageUrls": [
+                "http://lh6.ggpht.com/49v71YT8FC_a4tIDP9yZsLkP649Rg_OqiWhf8AG88b9Sruajac_hDw3I3EnRsZZZfKGM5HnOQAa0HQLaPWjPeys=s90"
+            ],
+            "recipeName": "Protein Brownies (vegan Friendly)",
+            "totalTimeInSeconds": 2400,
+            "attributes": {
+                "course": [
+                    "Desserts"
+                ]
+            },
+            "flavors": {
+                "piquant": 0.0,
+                "meaty": 0.8333333333333334,
+                "bitter": 0.8333333333333334,
+                "sweet": 0.5,
+                "sour": 0.6666666666666666,
+                "salty": 0.16666666666666666
+            },
+            "rating": 4
+        },
+        {
+            "imageUrlsBySize": {
+                "90": "https://lh3.googleusercontent.com/xHRAAp24rQbjzysi4I7SJl1D5txAC3LhewYDGrqsQZ-txkfC0As_cuASzr-tcmQxSYm6sjyPvmTreGPbJOQB=s90-c"
+            },
+            "sourceDisplayName": "Darcy and Brian",
+            "ingredients": [
+                "ice cream",
+                "milk",
+                "Reddi Wip Whipped Cream",
+                "sprinkles",
+                "almond extract"
+            ],
+            "id": "Star-Wars-R2D2-Milkshake-1548684",
+            "smallImageUrls": [
+                "https://lh3.googleusercontent.com/PgBz8Kn7D96bp9-PAe4izdD12go9C2gMvEzxad-AlYHUytx95dXtny5tkFe1BQ9xba7Nh-B-7208jR09BTa7CQ=s90"
+            ],
+            "recipeName": "Star Wars R2D2 Milkshake",
+            "totalTimeInSeconds": 660,
+            "attributes": {
+                "course": [
+                    "Beverages"
+                ]
+            },
+            "flavors": null,
+            "rating": 4
+        },
+        {
+            "imageUrlsBySize": {
+                "90": "http://lh6.ggpht.com/gjvUueoK3vLtCt4PUqUnR_38dRzIYSACNC4-QdgBVm-9wUFKYFLKR-7dwj7nvaByf8jNi665E8xlppa-LK0EKQ=s90-c"
+            },
+            "sourceDisplayName": "Every Day with Rachael Ray",
+            "ingredients": [
+                "egg yolks",
+                "sugar",
+                "cocoa",
+                "Baileys Irish Cream Liqueur",
+                "heavy whipping cream",
+                "vanilla extract"
+            ],
+            "id": "Baileys-caramel-mousse-348067",
+            "smallImageUrls": [
+                "http://lh5.ggpht.com/599xFlk9YI_2cQz2QJAW2iaF01uYH3oqFRtYqVGHQ3Ux2rrTdQ7yRGrKs1Dy8Ms6zqSkBUWXqVcZ92E3WfyV=s90"
+            ],
+            "recipeName": "Baileys Caramel Mousse",
+            "totalTimeInSeconds": 2700,
+            "attributes": {
+                "course": [
+                    "Desserts"
+                ],
+                "holiday": [
+                    "St. Patrick's Day"
+                ]
+            },
+            "flavors": {
+                "piquant": 0.0,
+                "meaty": 0.8333333333333334,
+                "bitter": 0.16666666666666666,
+                "sweet": 0.6666666666666666,
+                "sour": 0.16666666666666666,
+                "salty": 0.16666666666666666
+            },
+            "rating": 5
+        },
+        {
+            "imageUrlsBySize": {
+                "90": "http://lh3.googleusercontent.com/uo-l6Yvpvu48aT2IORie0KmUgb9Cp8fxPtyg1PsD_CUlo95rcf3AeAeFWx6E1dOwcveVUQ7gbA4Y22ecXO8EjA=s90-c"
+            },
+            "sourceDisplayName": "Chocolate Covered Katie",
+            "ingredients": [
+                "milk",
+                "hazelnut liqueur",
+                "stevia",
+                "salt",
+                "chocolate chips",
+                "toasted coconut"
+            ],
+            "id": "R-Rated-Ice-Cream-1066494",
+            "smallImageUrls": [
+                "http://lh3.googleusercontent.com/HlTxDQNXw7VYeJpAdssO6FlLZBC5LPLIuAnfrAcTTYK23Kxf5-53HaHOprc-GcOsaslOiaHNmvFJWhUbz9mNXg=s90"
+            ],
+            "recipeName": "R Rated Ice Cream",
+            "totalTimeInSeconds": 1500,
+            "attributes": {
+                "course": [
+                    "Desserts"
+                ]
+            },
+            "flavors": null,
+            "rating": 4
+        },
+        {
+            "imageUrlsBySize": {
+                "90": "http://lh3.googleusercontent.com/xZNeEWO0LHnSHHfmQMq4BIj43j4ySBJi7H6x3pEJVF0gcORU_0OzlQrHXzXd346kWeeZg2WXIzV0pEZwUk-H_BE=s90-c"
+            },
+            "sourceDisplayName": "Carnal Dish",
+            "ingredients": [
+                "new york strip steaks",
+                "heavy cream",
+                "extra-virgin olive oil",
+                "worcestershire sauce",
+                "gruyere cheese",
+                "tomatoes",
+                "arugula",
+                "hamburger buns",
+                "Montr\u00e9al steak seasoning",
+                "cayenne pepper",
+                "granulated garlic",
+                "onion powder",
+                "kosher salt",
+                "jumbo shrimp",
+                "panko breadcrumbs",
+                "Italian style breadcrumbs",
+                "all-purpose flour",
+                "eggs",
+                "salt",
+                "black pepper",
+                "old bay seasoning",
+                "paprika",
+                "oil",
+                "yellow onion",
+                "low-fat cultured buttermilk",
+                "seasoning salt",
+                "dried parsley",
+                "mayonnaise",
+                "flat leaf parsley",
+                "prepar pesto",
+                "garlic",
+                "lemon juice",
+                "capers",
+                "crushed red pepper flakes",
+                "pepper"
+            ],
+            "id": "The-Big-K_R_I_T_-King-Burger-1058545",
+            "smallImageUrls": [
+                "http://lh3.googleusercontent.com/nAg143-KhKp6w4KxBvyADo3S_MSakLW0h7osELlyK4YBbyibxbovfE5HxC3hNyY7q_5KISj9bqGPPpf_wNJT-rE=s90"
+            ],
+            "recipeName": "The Big K.R.I.T. \u201cKing\u201d Burger",
+            "totalTimeInSeconds": 3300,
+            "attributes": {
+                "course": [
+                    "Lunch",
+                    "Main Dishes"
+                ]
+            },
+            "flavors": null,
+            "rating": 4
+        },
+        {
+            "imageUrlsBySize": {
+                "90": "https://lh3.googleusercontent.com/dhX9ESKoujwfTDWpHtCqLgOuhH0pvJyA9fXaytXDmVxtN0OsaobVSmHD2Sb4sgZcIe3kU3gGPhyklj1C-WiApj8=s90-c"
+            },
+            "sourceDisplayName": "Sam Tan's kitchen",
+            "ingredients": [
+                "dark chocolate",
+                "butter",
+                "eggs",
+                "sugar",
+                "coffee essence",
+                "vanilla extract",
+                "flour"
+            ],
+            "id": "Chunky-Chocolate-Brownies-1748751",
+            "smallImageUrls": [
+                "https://lh3.googleusercontent.com/BtldOe2ekeS1oarEdtBr4SvALn2SDu2oEhF25S2Nh1EYblhEAtMWvp9vwwGBabyAL_dE6zY8jN6c-kenYdU=s90"
+            ],
+            "recipeName": "Chunky Chocolate Brownies",
+            "totalTimeInSeconds": 2700,
+            "attributes": {
+                "course": [
+                    "Desserts"
+                ]
+            },
+            "flavors": null,
+            "rating": 4
+        },
+        {
+            "imageUrlsBySize": {
+                "90": "https://lh3.googleusercontent.com/gAkUL7F89RX3HfZ6Bz84nCtE2J3ktbcB4oMzZLOMQMNR2O9ftjpUwi3qdrMV6JND2jLeJA4Ga8wsLv5grhKqvw=s90-c"
+            },
+            "sourceDisplayName": "The Bz House That Love Built",
+            "ingredients": [
+                "hamburger",
+                "pepper",
+                "salt",
+                "brown sugar",
+                "onions",
+                "tomato soup",
+                "Velveeta",
+                "egg noodles",
+                "cream of chicken soup"
+            ],
+            "id": "Yum-A-Setta-1356775",
+            "smallImageUrls": [
+                "https://lh3.googleusercontent.com/DsKfDkfkDigi0eTXhqraKWWqqA-XPuyrEaqSytJlCqHL8zlMBS4miznAyjk31z9k_ecpRnFtPRHdMeNdUnyb=s90"
+            ],
+            "recipeName": "Yum-A-Setta",
+            "totalTimeInSeconds": 6300,
+            "attributes": {
+                "course": [
+                    "Main Dishes"
+                ],
+                "cuisine": [
+                    "Kid-Friendly"
+                ]
+            },
+            "flavors": {
+                "piquant": 0.0,
+                "meaty": 0.6666666666666666,
+                "bitter": 0.6666666666666666,
+                "sweet": 0.16666666666666666,
+                "sour": 0.16666666666666666,
+                "salty": 0.6666666666666666
+            },
+            "rating": 4
+        }
+    ],
+    "facetCounts": {},
+    "totalMatchCount": 252,
+    "attribution": {
+        "html": "Recipe search powered by <a href='http://www.yummly.co/recipes'><img alt='Yummly' src='https://static.yummly.co/api-logo.png'/></a>",
+        "url": "http://www.yummly.co/recipes/",
+        "text": "Recipe search powered by Yummly",
+        "logo": "https://static.yummly.co/api-logo.png"
+    }
+}

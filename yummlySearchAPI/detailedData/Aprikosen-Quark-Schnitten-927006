@@ -1,0 +1,53 @@
+{
+    "yield": "Zutaten f\u00fcr ca. 24 St\u00fccke:",
+    "nutritionEstimates": [],
+    "totalTime": "1 hr 45 min",
+    "images": [
+        {
+            "hostedSmallUrl": "http://lh3.googleusercontent.com/G8zEeUacbTgkjE9mUlxQmquzFXl3Dihd2BvF43jltAdNv4h8gRS4k4ixvldNI7tX-G6gWGGHIUGOmqpsTX6jgQ=s90",
+            "hostedMediumUrl": "http://lh3.googleusercontent.com/G8zEeUacbTgkjE9mUlxQmquzFXl3Dihd2BvF43jltAdNv4h8gRS4k4ixvldNI7tX-G6gWGGHIUGOmqpsTX6jgQ=s180",
+            "hostedLargeUrl": "http://lh3.googleusercontent.com/G8zEeUacbTgkjE9mUlxQmquzFXl3Dihd2BvF43jltAdNv4h8gRS4k4ixvldNI7tX-G6gWGGHIUGOmqpsTX6jgQ=s360",
+            "imageUrlsBySize": {
+                "90": "http://lh3.googleusercontent.com/frEsy6xWD7DUog3TpyIJSH3jWrwAFHuXqLdqX6Kpo4piUJO6U1HoV2QJ5BAYPCJp7VvE_-Fm_9kH82YJp3b8Xx8=s90-c",
+                "360": "http://lh3.googleusercontent.com/frEsy6xWD7DUog3TpyIJSH3jWrwAFHuXqLdqX6Kpo4piUJO6U1HoV2QJ5BAYPCJp7VvE_-Fm_9kH82YJp3b8Xx8=s360-c"
+            }
+        }
+    ],
+    "name": "Aprikosen-Quark-Schnitten",
+    "source": {
+        "sourceDisplayName": "Lecker",
+        "sourceSiteUrl": "lecker.de",
+        "sourceRecipeUrl": "http://www.lecker.de/rezept/895877/Aprikosen-Quark-Schnitten.html"
+    },
+    "id": "Aprikosen-Quark-Schnitten-927006",
+    "ingredientLines": [
+        "Fett u. Paniermehl f\u00fcr d. Fettpfanne",
+        "3 Dosen (\u00e0 425 ml) Aprikosen",
+        "10 Eier (Gr. M)",
+        "250 g Zucker",
+        "1 Prise Salz",
+        "1,5 kg Magerquark",
+        "500 g Mascarpone",
+        "ital. Frischk\u00e4se",
+        "2 P\u00e4ckchen Vanillin-Zucker",
+        "2 P\u00e4ckchen Puddingpulver \"Mandel-Geschmack\" (zum Kochen; f\u00fcr je 1/2 l Milch)",
+        "2-3 EL Mandelbl\u00e4ttchen",
+        "100 g Aprikosen-Konfit\u00fcre",
+        "Puderzucker zum Best\u00e4uben"
+    ],
+    "attribution": {
+        "html": "<a href='http://www.yummly.co/recipe/Aprikosen-Quark-Schnitten-927006'>Aprikosen-Quark-Schnitten recipe</a> information powered by <img alt='Yummly' src='https://static.yummly.co/api-logo.png'/>",
+        "url": "http://www.yummly.co/recipe/Aprikosen-Quark-Schnitten-927006",
+        "text": "Aprikosen-Quark-Schnitten recipes: information powered by Yummly",
+        "logo": "https://static.yummly.co/api-logo.png"
+    },
+    "numberOfServings": 24,
+    "totalTimeInSeconds": 6300,
+    "attributes": {
+        "course": [
+            "Desserts"
+        ]
+    },
+    "flavors": {},
+    "rating": 3
+}

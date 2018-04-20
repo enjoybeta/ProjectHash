@@ -128,7 +128,11 @@
             ],
             "recipeName": "Rainbow Cube Bread",
             "totalTimeInSeconds": 4800,
-            "attributes": {},
+            "attributes": {
+                "course": [
+                    "Breads"
+                ]
+            },
             "flavors": null,
             "rating": 4
         },
@@ -326,7 +330,12 @@
             ],
             "recipeName": "Sesame Canape\u0301 Cones (adapted from Wolfgang Puck)",
             "totalTimeInSeconds": 2400,
-            "attributes": {},
+            "attributes": {
+                "course": [
+                    "Appetizers",
+                    "Lunch"
+                ]
+            },
             "flavors": null,
             "rating": 3
         },
@@ -342,8 +351,19 @@
             "sourceDisplayName": "Food.com",
             "id": "Raspberry-Rhubarb-Jam-Recipezaar",
             "rating": 4,
-            "flavors": null,
-            "attributes": {}
+            "flavors": {
+                "piquant": 0.0,
+                "meaty": 0.16666666666666666,
+                "bitter": 0.16666666666666666,
+                "sweet": 0.8333333333333334,
+                "sour": 0.5,
+                "salty": 0.0
+            },
+            "attributes": {
+                "course": [
+                    "Desserts"
+                ]
+            }
         }
     ],
     "facetCounts": {},

@@ -938,8 +938,25 @@
     },
     "numberOfServings": 10,
     "totalTimeInSeconds": 11700,
-    "attributes": {},
+    "attributes": {
+        "course": [
+            "Desserts"
+        ],
+        "cuisine": [
+            "Kid-Friendly"
+        ],
+        "holiday": [
+            "Thanksgiving"
+        ]
+    },
     "cookTimeInSeconds": 4500,
-    "flavors": {},
+    "flavors": {
+        "Piquant": 0.0,
+        "Meaty": 0.1667,
+        "Bitter": 0.5,
+        "Sweet": 0.6667,
+        "Sour": 0.3333,
+        "Salty": 0.1667
+    },
     "rating": 4
 }

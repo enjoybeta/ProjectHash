@@ -1,0 +1,45 @@
+{
+    "yield": "makes about 1 gallon of brine",
+    "nutritionEstimates": [],
+    "totalTime": "1 hr 5 min",
+    "images": [
+        {
+            "hostedSmallUrl": "https://lh3.googleusercontent.com/yZ2-W5PRfRy82iIUx5-5z_aEt1-SmzmFnqd9w6s2S2Py9tmDhN-wu875kUMRZgK1L8uKB5zqtaNgO6GqxjvFAQ=s90",
+            "hostedMediumUrl": "https://lh3.googleusercontent.com/yZ2-W5PRfRy82iIUx5-5z_aEt1-SmzmFnqd9w6s2S2Py9tmDhN-wu875kUMRZgK1L8uKB5zqtaNgO6GqxjvFAQ=s180",
+            "hostedLargeUrl": "https://lh3.googleusercontent.com/yZ2-W5PRfRy82iIUx5-5z_aEt1-SmzmFnqd9w6s2S2Py9tmDhN-wu875kUMRZgK1L8uKB5zqtaNgO6GqxjvFAQ=s360",
+            "imageUrlsBySize": {
+                "90": "https://lh3.googleusercontent.com/rKjpoYY1NKpYVM6F7Gm6SaNELrsSRRqDo44UOI4EhPdm07QX8g44uB4DDFL9aHck0oYHW0wh2Pt3LadbfcLp=s90-c",
+                "360": "https://lh3.googleusercontent.com/rKjpoYY1NKpYVM6F7Gm6SaNELrsSRRqDo44UOI4EhPdm07QX8g44uB4DDFL9aHck0oYHW0wh2Pt3LadbfcLp=s360-c"
+            }
+        }
+    ],
+    "name": "Poultry Brine",
+    "source": {
+        "sourceDisplayName": "The Spruce",
+        "sourceSiteUrl": "thespruce.com",
+        "sourceRecipeUrl": "https://www.thespruce.com/poultry-brine-recipe-333865"
+    },
+    "id": "Poultry-Brine-2216523",
+    "ingredientLines": [
+        "1 gallon/3.8 liters water",
+        "1 cup/240 mL salt (1 1/2 cups/360 mL kosher or coarse salt)",
+        "1/2 cup/120 mL white vinegar",
+        "3 tablespoons/45 mL brown sugar",
+        "1 tablespoon/15 mL pickling spice",
+        "1 teaspoon/5 mL black pepper",
+        "1 teaspoon/5 mL allspice",
+        "1 teaspoon/5 mL garlic powder",
+        "1 teaspoon/5 mL tarragon"
+    ],
+    "attribution": {
+        "html": "<a href='http://www.yummly.co/recipe/Poultry-Brine-2216523'>Poultry Brine recipe</a> information powered by <img alt='Yummly' src='https://static.yummly.co/api-logo.png'/>",
+        "url": "http://www.yummly.co/recipe/Poultry-Brine-2216523",
+        "text": "Poultry Brine recipes: information powered by Yummly",
+        "logo": "https://static.yummly.co/api-logo.png"
+    },
+    "numberOfServings": 1,
+    "totalTimeInSeconds": 3900,
+    "attributes": {},
+    "flavors": {},
+    "rating": 4
+}

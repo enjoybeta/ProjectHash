@@ -1,0 +1,48 @@
+{
+    "nutritionEstimates": [],
+    "prepTimeInSeconds": 1500,
+    "totalTime": "9 hr",
+    "images": [
+        {
+            "hostedSmallUrl": "http://lh3.googleusercontent.com/jycSDOyhcyM48D3IPNJMx_4s6kpf_3arzMBufhHE38SBF1IRyJ1mLVFPp7ACsdulZyqAWQJ9mBrbsyVK0_Ij1w=s90",
+            "hostedMediumUrl": "http://lh3.googleusercontent.com/jycSDOyhcyM48D3IPNJMx_4s6kpf_3arzMBufhHE38SBF1IRyJ1mLVFPp7ACsdulZyqAWQJ9mBrbsyVK0_Ij1w=s180",
+            "hostedLargeUrl": "http://lh3.googleusercontent.com/jycSDOyhcyM48D3IPNJMx_4s6kpf_3arzMBufhHE38SBF1IRyJ1mLVFPp7ACsdulZyqAWQJ9mBrbsyVK0_Ij1w=s360",
+            "imageUrlsBySize": {
+                "90": "http://lh3.googleusercontent.com/dPXDHHclG9yoXruoTBCc181a8AIFupKwG3oa28Hzq-e3_PQszZ9a0WRnyCLIRrTHsK0yF-wP03AhiVOTwboPI5E=s90-c",
+                "360": "http://lh3.googleusercontent.com/dPXDHHclG9yoXruoTBCc181a8AIFupKwG3oa28Hzq-e3_PQszZ9a0WRnyCLIRrTHsK0yF-wP03AhiVOTwboPI5E=s360-c"
+            }
+        }
+    ],
+    "name": "Rainbow Rind Jell-O Shots",
+    "source": {
+        "sourceDisplayName": "The Starving Chef",
+        "sourceSiteUrl": "thestarvingchefblog.com",
+        "sourceRecipeUrl": "https://www.thestarvingchefblog.com/2015/08/rainbow-rind-jell-o-shots.html"
+    },
+    "prepTime": "25 minutes",
+    "id": "Rainbow-Rind-Jell-O-Shots-1245499",
+    "ingredientLines": [
+        "10 lemons",
+        "5 oranges",
+        "Jell-O packets, one of each color of the rainbow",
+        "1 cup water (per Jell-O packet)",
+        "1 cup liquor (per Jell-O packet), chilled"
+    ],
+    "attribution": {
+        "html": "<a href='http://www.yummly.co/recipe/Rainbow-Rind-Jell-O-Shots-1245499'>Rainbow Rind Jell-O Shots recipe</a> information powered by <img alt='Yummly' src='https://static.yummly.co/api-logo.png'/>",
+        "url": "http://www.yummly.co/recipe/Rainbow-Rind-Jell-O-Shots-1245499",
+        "text": "Rainbow Rind Jell-O Shots recipes: information powered by Yummly",
+        "logo": "https://static.yummly.co/api-logo.png"
+    },
+    "numberOfServings": 4,
+    "totalTimeInSeconds": 32400,
+    "attributes": {
+        "course": [
+            "Cocktails",
+            "Beverages",
+            "Desserts"
+        ]
+    },
+    "flavors": {},
+    "rating": 4
+}

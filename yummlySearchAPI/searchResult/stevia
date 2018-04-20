@@ -1,0 +1,385 @@
+{
+    "criteria": {
+        "q": "s+t+e+v+i+a",
+        "allowedIngredient": null,
+        "excludedIngredient": null
+    },
+    "matches": [
+        {
+            "imageUrlsBySize": {
+                "90": "https://lh3.googleusercontent.com/aB21zgnr4xTpNRz3knLA3rO2Fkq1EW9-7fUyfK9zCdIrNNeI699Is4eegmJHVwJAeFFceSnMqGFd0whyQGf9rg=s90-c"
+            },
+            "sourceDisplayName": "Grounded And Surrounded",
+            "ingredients": [
+                "avocado",
+                "roma tomatoes",
+                "red onion",
+                "lime juice",
+                "hot sauce",
+                "sea salt",
+                "garlic powder"
+            ],
+            "id": "The-Best-Guacamole-E_V_E_R_-1541651",
+            "smallImageUrls": [
+                "https://lh3.googleusercontent.com/SvR_KxwYxfrAaIcywvYHRsFZkMo5-FVYMJ_Ipz6DqVEMqhiqhMPTcNSgX2XFvemGpZzj-aOZhxRnlO-mO4Ma7g=s90"
+            ],
+            "recipeName": "The Best Guacamole E.V.E.R.",
+            "totalTimeInSeconds": 1200,
+            "attributes": {
+                "course": [
+                    "Appetizers",
+                    "Lunch"
+                ]
+            },
+            "flavors": {
+                "piquant": 0.3333333333333333,
+                "meaty": 0.3333333333333333,
+                "bitter": 0.8333333333333334,
+                "sweet": 0.16666666666666666,
+                "sour": 0.8333333333333334,
+                "salty": 0.16666666666666666
+            },
+            "rating": 4
+        },
+        {
+            "imageUrlsBySize": {
+                "90": "http://lh3.googleusercontent.com/gMGtOvMfHktHwLQBi3zL1O783wClsaqnvZWt8PD5m5BdRQCNvvEzbawzkQBuaaB6mNy4gsNNFZi3hja9GLaYgg=s90-c"
+            },
+            "sourceDisplayName": "My Utensil Crock",
+            "ingredients": [
+                "boneless skinless chicken breasts",
+                "lemon",
+                "extra-virgin olive oil",
+                "minced garlic",
+                "cumin",
+                "pepper",
+                "paprika",
+                "chile powder"
+            ],
+            "id": "Shish-Taouk-Chicken-Kabobs-1165922",
+            "smallImageUrls": [
+                "http://lh3.googleusercontent.com/TiMPwSwcLX6lMMb0CmQUsBVMeEUCJYvZnpAkCbNO4lQnRvtQZyCSr-BYp_1NXLl9gL3Fzw1uTh1LQR_YNWjKeA=s90"
+            ],
+            "recipeName": "Shish Taouk \u2013 Chicken Kabobs",
+            "totalTimeInSeconds": 1200,
+            "attributes": {
+                "course": [
+                    "Main Dishes"
+                ]
+            },
+            "flavors": null,
+            "rating": 4
+        },
+        {
+            "imageUrlsBySize": {
+                "90": "http://lh3.googleusercontent.com/Z7uvUwvJjFrHEMFfUWorGVCinFvYXwAo90lrI4-A6kCC-gpzurvMee5wbOrYJpAINq1ZdTev6ZQwa94MsuEirnc=s90-c"
+            },
+            "sourceDisplayName": "Kelley and Cricket",
+            "ingredients": [
+                "waffle fries",
+                "kimchi",
+                "coconut sugar",
+                "tamari soy sauce",
+                "apple cider vinegar",
+                "shredded cheese",
+                "cilantro",
+                "mayonnaise with chilli",
+                "plain greek yogurt",
+                "sriracha sauce",
+                "chili powder",
+                "beef",
+                "toasted sesame seeds"
+            ],
+            "id": "Caramelized-Kimchi-Fries-_Lightened-up_-Gluten-Free_-Vegan_-1281623",
+            "smallImageUrls": [
+                "http://lh3.googleusercontent.com/UShwrqU3RYMHg5fneqDNsAxWaPbrvcawK6Ko_aDND-Qi_p2KhCr_1nAIY256qAveIKQ3TKSkgUb3y-GM5y2eHA=s90"
+            ],
+            "recipeName": "Caramelized Kimchi Fries {Lightened-up, Gluten Free, Vegan}",
+            "totalTimeInSeconds": 900,
+            "attributes": {},
+            "flavors": null,
+            "rating": 4
+        },
+        {
+            "imageUrlsBySize": {
+                "90": "http://lh3.googleusercontent.com/vZTwg6_4Yt_cGF6yauHEmnK6wWAwCGat8VyvpUHG7inDZUPkaB1QMwrQ0K_iWJCYUyM92moogtQMv4JZRGtV1BY=s90-c"
+            },
+            "sourceDisplayName": "Nori's Ingenious Cooking",
+            "ingredients": [
+                "quinoa",
+                "eggplant",
+                "sun-dried tomatoes",
+                "red bell pepper",
+                "red onion",
+                "lime juice",
+                "chopped parsley",
+                "spices",
+                "olive oil",
+                "salt"
+            ],
+            "id": "Quick-fried-veggies-quinoa-bowl-_GF_-V_-1122484",
+            "smallImageUrls": [
+                "http://lh3.googleusercontent.com/yraCzaOGsmqwmPYuOlawOlFpeUB9ua3lBh4-LLk5g-j0GTwzCka70cBh43LmoN1PyKuRMBLXczWeARXt2wDyaA=s90"
+            ],
+            "recipeName": "Quick fried veggies quinoa bowl (GF, V)",
+            "totalTimeInSeconds": 3000,
+            "attributes": {
+                "course": [
+                    "Side Dishes"
+                ]
+            },
+            "flavors": {
+                "piquant": 0.16666666666666666,
+                "meaty": 0.16666666666666666,
+                "bitter": 0.3333333333333333,
+                "sweet": 0.16666666666666666,
+                "sour": 0.8333333333333334,
+                "salty": 0.16666666666666666
+            },
+            "rating": 4
+        },
+        {
+            "imageUrlsBySize": {
+                "90": "https://lh3.googleusercontent.com/dROF_f9xoN65wCDyzrvjgzBQFL_1v01LCg5nTVOMUjvKvYyVxTuEBpSXml8CesRI_sfA0wTHudwRB9W2yA3MtQ=s90-c"
+            },
+            "sourceDisplayName": "A Veggie Venture",
+            "ingredients": [
+                "fresh brussels sprouts",
+                "unsalted butter",
+                "kosher salt",
+                "freshly ground pepper",
+                "heavy cream",
+                "panko",
+                "parmesan cheese"
+            ],
+            "id": "CREAMY-BRUSSELS-SPROUTS-GRATIN-1369758",
+            "smallImageUrls": [
+                "https://lh3.googleusercontent.com/Wa2SWveA4jIF2qHAi0jsJKMT4vVT5q0VjHg-IhD4LzUbo44C0U9Vw6nRijeAuI3kji_AkoIgrnkbr9BQiivS=s90"
+            ],
+            "recipeName": "CREAMY BRUSSELS SPROUTS GRATIN",
+            "totalTimeInSeconds": 1800,
+            "attributes": {
+                "course": [
+                    "Side Dishes"
+                ],
+                "holiday": [
+                    "Sunday Lunch",
+                    "Fall"
+                ]
+            },
+            "flavors": {
+                "piquant": 0.6666666666666666,
+                "meaty": 0.8333333333333334,
+                "bitter": 0.16666666666666666,
+                "sweet": 0.0,
+                "sour": 0.16666666666666666,
+                "salty": 0.8333333333333334
+            },
+            "rating": 4
+        },
+        {
+            "imageUrlsBySize": {
+                "90": "http://lh3.googleusercontent.com/M55MdPbnF4hlahyL-0JxYnek5Dz4Fff2QY3Hcl0xZIQhP0WzdDMyymZkM0Z3VJ3DO5ByTyfNt3GxbAbvdu8RlQ=s90-c"
+            },
+            "sourceDisplayName": "Nori's Ingenious Cooking",
+            "ingredients": [
+                "rice flour",
+                "almond flour",
+                "ground espresso",
+                "bicarbonate of soda",
+                "salt",
+                "chia seeds",
+                "dark chocolate",
+                "coconut oil",
+                "milk",
+                "stevia powder",
+                "apple cider vinegar",
+                "vanilla extract",
+                "zucchini",
+                "jelly"
+            ],
+            "id": "chocolate-zucchini-brownies_-reinvented-_GF_-DF_-V_-lowcarb_-1124433",
+            "smallImageUrls": [
+                "http://lh3.googleusercontent.com/XNGXgbNK_DE-h--aKQAVU5DZBsnbKMslULq8Wdj4UJyPPxiIn9mqmMLFYwNDjrMIwpo6Ygqhx7-DSwky0XX2NA=s90"
+            ],
+            "recipeName": "chocolate zucchini brownies, reinvented (GF, DF, V, lowcarb)",
+            "totalTimeInSeconds": 4200,
+            "attributes": {
+                "course": [
+                    "Desserts"
+                ]
+            },
+            "flavors": null,
+            "rating": 4
+        },
+        {
+            "imageUrlsBySize": {
+                "90": "https://lh3.googleusercontent.com/EWZPcOYjUlm15hBAiJGLjXLLh32t_0mOfaldAL3-f9dsnvm4IxYVlh0w7vfY2LPj1pNgJdxwUZ1V-e87dkQ12g=s90-c"
+            },
+            "sourceDisplayName": "Smitten Kitchen",
+            "ingredients": [
+                "all-purpose flour",
+                "salt",
+                "granulated sugar",
+                "unsalted butter",
+                "sliced almonds",
+                "sea salt",
+                "large eggs",
+                "almond extract",
+                "brandy",
+                "rhubarb",
+                "jam"
+            ],
+            "id": "Almond-Rhubarb-Picnic-Bars-1905272",
+            "smallImageUrls": [
+                "https://lh3.googleusercontent.com/5WVJDFpDzjdj5XJr4G9bG2eK8b5GP3IdbGcvsIRSvfl1cXN1TIECyCG1Ka50HSzlP2YiSIirIv57K7KxmbyI=s90"
+            ],
+            "recipeName": "Almond Rhubarb Picnic Bars",
+            "totalTimeInSeconds": 4200,
+            "attributes": {
+                "course": [
+                    "Desserts"
+                ]
+            },
+            "flavors": {
+                "sweet": 0.8333333333333334,
+                "piquant": 0.0,
+                "sour": 0.16666666666666666,
+                "salty": 0.3333333333333333,
+                "meaty": 0.8333333333333334,
+                "bitter": 0.16666666666666666
+            },
+            "rating": 4
+        },
+        {
+            "imageUrlsBySize": {
+                "90": "http://lh3.ggpht.com/Ug2-T3Jv02A5JSULNJdOiGKUi73QgIEnH_ibPmrpcjX3JXBJLT0U2RXs_lt6Fm9can0VFPjZ3Z7kHSJaknUhGw=s90-c"
+            },
+            "sourceDisplayName": "101 Cooking for Two",
+            "ingredients": [
+                "ground beef",
+                "onions",
+                "celery",
+                "carrots",
+                "garlic",
+                "diced tomatoes",
+                "tomato sauce",
+                "v8 vegetable juice",
+                "vinegar",
+                "salt",
+                "oregano",
+                "basil",
+                "red kidney beans",
+                "Great Northern Beans",
+                "beef broth",
+                "pasta"
+            ],
+            "id": "Copycat-Olive-Garden-Pasta-E-Fagioli-Soup-1009987",
+            "smallImageUrls": [
+                "http://lh5.ggpht.com/td3u2Ftw-cTlJE150fLBXZ3yt7yMVm4Bo3h6hmk_Ia6pZ5koGPjD7MZn3BdibS7wE3Ry4ipzgHImAgIMRfovlDc=s90"
+            ],
+            "recipeName": "Copycat Olive Garden Pasta E Fagioli Soup",
+            "totalTimeInSeconds": 5400,
+            "attributes": {
+                "course": [
+                    "Soups"
+                ]
+            },
+            "flavors": {
+                "piquant": 0.0,
+                "meaty": 0.16666666666666666,
+                "bitter": 0.3333333333333333,
+                "sweet": 0.16666666666666666,
+                "sour": 0.5,
+                "salty": 0.5
+            },
+            "rating": 4
+        },
+        {
+            "imageUrlsBySize": {
+                "90": "https://lh3.googleusercontent.com/0pShKDkYXCBiNHDors11zfqP_jr7Jv6p9-CgVHVQN0CN3X_FiozSqkv5hvIdVBCHA9KpkGavAYahJuD_yrz5SQ=s90-c"
+            },
+            "sourceDisplayName": "Barbara Bakes",
+            "ingredients": [
+                "unsalted butter",
+                "powdered sugar",
+                "egg whites",
+                "cake flour",
+                "almond flour",
+                "cocoa powder",
+                "large eggs",
+                "large egg whites",
+                "granulated sugar",
+                "lemon",
+                "fresh lemon juice",
+                "unflavored gelatin",
+                "cream cheese",
+                "sugar",
+                "salt",
+                "whipping cream",
+                "cold water",
+                "strawberry pur\u00e9e"
+            ],
+            "id": "Strawberry-Cheesecake-Entremet-1641285",
+            "smallImageUrls": [
+                "https://lh3.googleusercontent.com/b_8N7LpreH6TaUNrwKFd--cUuL2hafdfvSlzQF7iLBUvVZZZj2y0U1GGsmxLXUZT4igDZar-AjOdmJtnhU7uIg=s90"
+            ],
+            "recipeName": "Strawberry Cheesecake Entremet",
+            "totalTimeInSeconds": 4500,
+            "attributes": {
+                "course": [
+                    "Desserts"
+                ]
+            },
+            "flavors": null,
+            "rating": 4
+        },
+        {
+            "imageUrlsBySize": {
+                "90": "https://lh3.googleusercontent.com/MdjcWltk0FjDHEh9NNEpY9Ek3Zi146Gg9UXhgU-X4SLSo9wuH-Qd83haofnlp6_GFq9dLd4V0Eh7D5_SFDaNLg=s90-c"
+            },
+            "sourceDisplayName": "Barbara Bakes",
+            "ingredients": [
+                "unsalted butter",
+                "powdered sugar",
+                "egg whites",
+                "cake flour",
+                "almond flour",
+                "cocoa powder",
+                "large eggs",
+                "large egg whites",
+                "granulated sugar",
+                "lemon",
+                "fresh lemon juice",
+                "unflavored gelatin",
+                "cream cheese",
+                "sugar",
+                "salt",
+                "whipping cream",
+                "cold water",
+                "strawberry pur\u00e9e"
+            ],
+            "id": "Strawberry-Cheesecake-Entremet-1787466",
+            "smallImageUrls": [
+                "https://lh3.googleusercontent.com/eDoggD-Y50xB2P0B9LTHP42OZfq55olxo9Di8cmoMMtopS3QlgydUFp4Vg3MkAl076LvufEo0mkytOE_kw8d=s90"
+            ],
+            "recipeName": "Strawberry Cheesecake Entremet",
+            "totalTimeInSeconds": 4500,
+            "attributes": {
+                "course": [
+                    "Desserts"
+                ]
+            },
+            "flavors": null,
+            "rating": 4
+        }
+    ],
+    "facetCounts": {},
+    "totalMatchCount": 18,
+    "attribution": {
+        "html": "Recipe search powered by <a href='http://www.yummly.co/recipes'><img alt='Yummly' src='https://static.yummly.co/api-logo.png'/></a>",
+        "url": "http://www.yummly.co/recipes/",
+        "text": "Recipe search powered by Yummly",
+        "logo": "https://static.yummly.co/api-logo.png"
+    }
+}

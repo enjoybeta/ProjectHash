@@ -1,0 +1,359 @@
+{
+    "criteria": {
+        "q": "c+u+m+i+n",
+        "allowedIngredient": null,
+        "excludedIngredient": null
+    },
+    "matches": [
+        {
+            "imageUrlsBySize": {
+                "90": "https://lh3.googleusercontent.com/NYiqbItU_wPggBTXQ5Z1k9Xo-JDKfjVrCyqGoBrDWFyTJ6OE-gR95eVDHKxe2T2e3dPcxIHvbRB7g7gMMZ_g5Q=s90-c"
+            },
+            "sourceDisplayName": "Southern Bite",
+            "ingredients": [
+                "cooked chicken",
+                "instant rice",
+                "cream of chicken soup",
+                "sour cream",
+                "diced onions",
+                "diced tomatoes and green chilies",
+                "chicken broth",
+                "fajita seasoning mix",
+                "Mexican cheese blend"
+            ],
+            "id": "Fajita-Chicken-Casserole---Advantium-240-Wall-Oven-Version-2223892",
+            "smallImageUrls": [
+                "https://lh3.googleusercontent.com/YzmEtbtjEmATC_WIWe37Did14KJWg6xVL17gLCL8bSuNhQATGQjpRmK0f6SoR3Ew1VIrDwQI6SGGm2ikhQPe=s90"
+            ],
+            "recipeName": "Fajita Chicken Casserole - Advantium 240 Wall Oven Version",
+            "totalTimeInSeconds": 1500,
+            "attributes": {
+                "course": [
+                    "Main Dishes"
+                ]
+            },
+            "flavors": {
+                "piquant": 0.16666666666666666,
+                "meaty": 0.3333333333333333,
+                "bitter": 0.5,
+                "sweet": 0.16666666666666666,
+                "sour": 0.16666666666666666,
+                "salty": 0.6666666666666666
+            },
+            "rating": 4
+        },
+        {
+            "imageUrlsBySize": {
+                "90": "https://lh3.googleusercontent.com/qZgXRi2M6ZFE7cg12TCftEni5z9vYVmZhPecTSxexgnVbXs05kVA2qH6h362GgF22G7vZC7c7OFXxjITs320Yg=s90-c"
+            },
+            "sourceDisplayName": "Southern Bite",
+            "ingredients": [
+                "self rising flour",
+                "firmly packed brown sugar",
+                "cinnamon",
+                "melted butter",
+                "milk",
+                "eggs",
+                "vanilla",
+                "apples",
+                "chopped pecans",
+                "flour"
+            ],
+            "id": "Apple-Cinnamon-Crunch-Muffins-_Advantium-Recipe_-1820616",
+            "smallImageUrls": [
+                "https://lh3.googleusercontent.com/lpI-67Sp4sZISZDaUKBgsqeailaXNTNzzdvB9snfAEQfwnLXSeqinJ0lhzRLZo4JkHH4rm7BHlpNuHO6z8Xf=s90"
+            ],
+            "recipeName": "Apple Cinnamon Crunch Muffins (Advantium Recipe)",
+            "totalTimeInSeconds": 1440,
+            "attributes": {
+                "course": [
+                    "Breakfast and Brunch",
+                    "Breads"
+                ]
+            },
+            "flavors": {
+                "piquant": 0.0,
+                "meaty": 0.16666666666666666,
+                "bitter": 0.16666666666666666,
+                "sweet": 0.6666666666666666,
+                "sour": 0.16666666666666666,
+                "salty": 0.3333333333333333
+            },
+            "rating": 4
+        },
+        {
+            "imageUrlsBySize": {
+                "90": "https://lh3.googleusercontent.com/9e1QG3AnA-Jtf54eSIo37Vn6EOxpW1iMPM55eSoORLXsfv5TZnqpXY7hc8wTbHeuKpMNrb93Vue7SuXDHTaa=s90-c"
+            },
+            "sourceDisplayName": "Food Network Canada",
+            "ingredients": [
+                "warm water",
+                "milk",
+                "melted butter",
+                "instant yeast",
+                "granulated sugar",
+                "all-purpose flour",
+                "fine salt",
+                "baking soda",
+                "egg yolks",
+                "coarse salt"
+            ],
+            "id": "Soft-Pretzels-1477701",
+            "smallImageUrls": [
+                "https://lh3.googleusercontent.com/lrhAOtkuq2-qYXUWDAO-Zn_5U7NJvYuajWtGKUNl5V_UNcnY-FkNKCQPZEAOF8U5dxFhuplx6AahkA4TP0WpHQ=s90"
+            ],
+            "recipeName": "Soft Pretzels",
+            "totalTimeInSeconds": 4200,
+            "attributes": {
+                "course": [
+                    "Breads",
+                    "Lunch"
+                ]
+            },
+            "flavors": {
+                "piquant": 0.0,
+                "meaty": 0.16666666666666666,
+                "bitter": 0.8333333333333334,
+                "sweet": 0.16666666666666666,
+                "sour": 0.16666666666666666,
+                "salty": 0.8333333333333334
+            },
+            "rating": 3
+        },
+        {
+            "imageUrlsBySize": {
+                "90": "http://lh3.ggpht.com/0m-LZofejk56DBgPx2XVbxvdrYdi8svNQO0KVn_sPOm4vYG-rWpHwqc6FAdW_zQUsmmOlKwYP0mPYgax5FQSoA=s90-c"
+            },
+            "sourceDisplayName": "Veg with an Edge",
+            "ingredients": [
+                "water",
+                "sugar",
+                "salt",
+                "rapid rise yeast",
+                "all-purpose flour",
+                "wheat flour",
+                "butter",
+                "vegetable oil",
+                "baking soda",
+                "eggs",
+                "sea salt"
+            ],
+            "id": "The-Best-Soft-Pretzels-Youll-Ever-Eat-752111",
+            "smallImageUrls": [
+                "http://lh3.ggpht.com/m_-dLeO5RadJ6aBQu83fww3E0bQcFV1RgSQvuOxplx1IvXX3PTNETBfYFfTdvz9qiSUDoWSC1QmUSJp5iY3V5A=s90"
+            ],
+            "recipeName": "The Best Soft Pretzels You\u2019ll Ever Eat",
+            "totalTimeInSeconds": 4200,
+            "attributes": {
+                "course": [
+                    "Breads"
+                ]
+            },
+            "flavors": null,
+            "rating": 4
+        },
+        {
+            "imageUrlsBySize": {
+                "90": "http://lh3.googleusercontent.com/spLEK24HqOJSiRCZsRpwPS-POj4ozbB_4EsTgW2kx8vVaG_Y7-LuOAIbSUoO-ZD5cyHaB7z3H60afRy93TMHqLM=s90-c"
+            },
+            "sourceDisplayName": "Lecker",
+            "ingredients": [
+                "Milch",
+                "Butter",
+                "vanillearoma",
+                "Mehl",
+                "Zucker",
+                "Ei",
+                "Rum",
+                "Erdbeere",
+                "Rahm",
+                "Bourbon-Vanillezucker"
+            ],
+            "id": "Canneles-de-Bordeaux-847903",
+            "smallImageUrls": [
+                "http://lh3.googleusercontent.com/okKxwm4KJauSZ5YHy1Jr4Jnp88o9gvGcLWXsoJfN6bWjIrkhXAX50g2HA9vbcxAFW3IOWeQuTKc7egQewPhMmg=s90"
+            ],
+            "recipeName": "Cannele\u0301s de Bordeaux",
+            "totalTimeInSeconds": 4500,
+            "attributes": {},
+            "flavors": {
+                "sweet": 0.5,
+                "piquant": 0.0,
+                "sour": 0.8333333333333334,
+                "salty": 0.16666666666666666,
+                "meaty": 0.16666666666666666,
+                "bitter": 0.16666666666666666
+            },
+            "rating": 3
+        },
+        {
+            "imageUrlsBySize": {
+                "90": "https://lh3.googleusercontent.com/_wSV6Maml35rEHyQjnBAUIbdAEe6FWrjCNVSMbcs_bQEr4jD_HR9OyfiggMhPXLLRVpCOZmgp2uR_RNtjSH6iY8=s90-c"
+            },
+            "sourceDisplayName": "The Saffron Girl",
+            "ingredients": [
+                "water",
+                "butter",
+                "Himalayan salt",
+                "coconut flour",
+                "arrowroot powder",
+                "eggs"
+            ],
+            "id": "Paleo-Churros_-the-Real-Deal-1450700",
+            "smallImageUrls": [
+                "https://lh3.googleusercontent.com/6OuWMIyjswHpaebgYNmjkA4A_8-fqqQdd6o1VRDSziBgwX4ocndY4iuVpTQOuXf0OGk4rQlgbkAbNf3vmOsY=s90"
+            ],
+            "recipeName": "Paleo Churros, the Real Deal",
+            "totalTimeInSeconds": 3600,
+            "attributes": {
+                "course": [
+                    "Desserts"
+                ]
+            },
+            "flavors": null,
+            "rating": 4
+        },
+        {
+            "imageUrlsBySize": {
+                "90": "https://lh3.googleusercontent.com/QJNEdbyMPFBdO-g4lSfLGRGrXfJ_s5DqPcyNyzYJeQ2pejOkI5LRH5_86O9-e6UovMaY46crLiCXhFQFL-r0wQ=s90-c"
+            },
+            "sourceDisplayName": "Food to Glow",
+            "ingredients": [
+                "plain tortilla chips",
+                "kimchi",
+                "cheddar cheese",
+                "sprouts",
+                "pepper flakes"
+            ],
+            "id": "Easy-Kimchi-Nachos-For-The-Weekend-_an-Instagram-Recipe_-1554889",
+            "smallImageUrls": [
+                "https://lh3.googleusercontent.com/lg1H0xppVv6KnCoA8y1GCAcBID3RnCsR09P6gtZvnxUxScdkBwhA4uqFHTlGD0JJM7X1t-uzZsjrpNGZ9h-yxQ=s90"
+            ],
+            "recipeName": "Easy Kimchi Nachos For The Weekend (an Instagram Recipe)",
+            "totalTimeInSeconds": 1200,
+            "attributes": {
+                "course": [
+                    "Appetizers",
+                    "Lunch"
+                ]
+            },
+            "flavors": null,
+            "rating": 4
+        },
+        {
+            "imageUrlsBySize": {
+                "90": "http://lh3.googleusercontent.com/rapUKFj9J3L3fRKa8fp2bkUzMwt5eMsH2q2vuTDJS1B0sAEMI8uL_7b8quUKpYd-d5WGBsUneHLuPnJycoBh=s90-c"
+            },
+            "sourceDisplayName": "Lecker",
+            "ingredients": [
+                "gouda",
+                "B\u00f6hnchen",
+                "M\u00f6hre",
+                "Champignon",
+                "Butterschmalz",
+                "B\u00e4rlauch",
+                "Butter",
+                "Mehl",
+                "Gem\u00fcsebr\u00fche",
+                "Schlabgobers",
+                "Eigelb",
+                "Lasagnebl\u00e4ter"
+            ],
+            "id": "Bunte-Gemuse-Lasagne-826424",
+            "smallImageUrls": [
+                "http://lh3.googleusercontent.com/kmPL2g0SeDGe9Qf_CpKrsYCXA9AY8DARIEn-6zmG2OyJSipfO5d7LIl5Hmll-Oj1MYfZxWoplromNgyI5_JK=s90"
+            ],
+            "recipeName": "Bunte Gemu\u0308se-Lasagne",
+            "totalTimeInSeconds": 4800,
+            "attributes": {},
+            "flavors": {
+                "sweet": 0.16666666666666666,
+                "piquant": 0.0,
+                "sour": 0.16666666666666666,
+                "salty": 0.5,
+                "meaty": 0.16666666666666666,
+                "bitter": 0.16666666666666666
+            },
+            "rating": 3
+        },
+        {
+            "imageUrlsBySize": {
+                "90": "http://lh3.googleusercontent.com/FPQ0LAevih2KgKcTN3UGi5_Sx7dhDWufXv0lcMPhOJZ0Fc6gH7oQq8Zjlk6jXwHMV62NAxOOQyw-MH2HywGE=s90-c"
+            },
+            "sourceDisplayName": "Lecker",
+            "ingredients": [
+                "Zucker",
+                "Haselnuss",
+                "Walnuss",
+                "Semmelbr\u00f6sel",
+                "Butter",
+                "Mehl",
+                "Backpulver",
+                "Salz",
+                "\u00c4pfel",
+                "Saft",
+                "Zitrone"
+            ],
+            "id": "Apfelkuchen-mit-Krokant-Streuseln-834434",
+            "smallImageUrls": [
+                "http://lh3.googleusercontent.com/nW0MrLGGF8XV2j50fEpWy4IkGgzkSvA18Wmgldwc2n6h6qaRmuvVrNpKmnLIOJhtkDifuME37vAfuWHWjvqKGIw=s90"
+            ],
+            "recipeName": "Apfelkuchen mit Krokant-Streuseln",
+            "totalTimeInSeconds": 7200,
+            "attributes": {
+                "course": [
+                    "Desserts"
+                ]
+            },
+            "flavors": {
+                "sweet": 0.8333333333333334,
+                "piquant": 0.0,
+                "sour": 0.16666666666666666,
+                "salty": 0.16666666666666666,
+                "meaty": 0.16666666666666666,
+                "bitter": 0.16666666666666666
+            },
+            "rating": 3
+        },
+        {
+            "imageUrlsBySize": {
+                "90": "https://lh3.googleusercontent.com/OfNfQ7bJh241vIg2Aj7hHlVP6xssrXtapzeixyG8ZLojQ9VSJUfLh44_9yt9JEZOGscJHNJI-Xpee08fjQoucg=s90-c"
+            },
+            "sourceDisplayName": "One Handed Cooks Australia",
+            "ingredients": [
+                "cauliflower",
+                "eggs",
+                "bread crumbs",
+                "dried parsley",
+                "celery salt",
+                "grating cheese",
+                "feta cheese crumbles"
+            ],
+            "id": "Cauliflower-Nuggets-For-Kids-1519112",
+            "smallImageUrls": [
+                "https://lh3.googleusercontent.com/vnQFtusd9UX6Kd1Rq3fpYW8CjbvQhmxWE4BR1yVAS_CnXpBx8oxRHqrt_XejsWdfR82VS7ruHw5rfPm-rFm6dg=s90"
+            ],
+            "recipeName": "Cauliflower Nuggets For Kids",
+            "totalTimeInSeconds": 2100,
+            "attributes": {
+                "course": [
+                    "Lunch",
+                    "Main Dishes"
+                ],
+                "cuisine": [
+                    "Kid-Friendly"
+                ]
+            },
+            "flavors": null,
+            "rating": 4
+        }
+    ],
+    "facetCounts": {},
+    "totalMatchCount": 16,
+    "attribution": {
+        "html": "Recipe search powered by <a href='http://www.yummly.co/recipes'><img alt='Yummly' src='https://static.yummly.co/api-logo.png'/></a>",
+        "url": "http://www.yummly.co/recipes/",
+        "text": "Recipe search powered by Yummly",
+        "logo": "https://static.yummly.co/api-logo.png"
+    }
+}

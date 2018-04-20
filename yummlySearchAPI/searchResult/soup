@@ -1,0 +1,282 @@
+{
+    "criteria": {
+        "q": "s+o+u+p",
+        "allowedIngredient": null,
+        "excludedIngredient": null
+    },
+    "matches": [
+        {
+            "imageUrlsBySize": {
+                "90": "https://lh3.googleusercontent.com/DczZtLnmHvPWFI5mvgQ0LjqKV1SVa0zo3qj5gF_oCzBVAYRLVTCQHUbSglPdmdoNM0s3xOooKN7Z-aMYP0SRvw=s90-c"
+            },
+            "sourceDisplayName": "Food Republic",
+            "ingredients": [
+                "warm water",
+                "granulated sugar",
+                "fine sea salt",
+                "active dry yeast",
+                "all-purpose flour",
+                "unsalted butter",
+                "vegetable shortening",
+                "baking soda",
+                "large egg yolks",
+                "Swedish pearl sugar",
+                "salt",
+                "wildflower honey",
+                "molasses"
+            ],
+            "id": "Soft-Pretzels-With-Whipped-Honey-Molasses-Butter-1826639",
+            "smallImageUrls": [
+                "https://lh3.googleusercontent.com/5MD_Y3PSXCff-Jo5rwjGBICxOqgfTNeQTe24nWSdQmt2zUEn2mnXuO8BfV2wib7_-_RwufIXxNY4Iw7pj_qzed4=s90"
+            ],
+            "recipeName": "Soft Pretzels With Whipped Honey Molasses Butter",
+            "totalTimeInSeconds": 3600,
+            "attributes": {
+                "course": [
+                    "Breads"
+                ]
+            },
+            "flavors": null,
+            "rating": 4
+        },
+        {
+            "imageUrlsBySize": {
+                "90": "https://lh3.googleusercontent.com/k0gU0AXIwCJEeMiRA5tLeNANAUVXFjtIBK5MSAEG2wWFUJSf9iL9cCddv_0mEjytkIzo0U_thGqpt8DVjJ1SegI=s90-c"
+            },
+            "sourceDisplayName": "In The Know Mom",
+            "ingredients": [
+                "pretzels",
+                "cereal",
+                "peanuts",
+                "chocolate candy",
+                "dried cherry",
+                "water",
+                "sugar",
+                "kosher salt",
+                "active dry yeast",
+                "all-purpose flour",
+                "unsalted butter",
+                "baking soda",
+                "large egg yolks",
+                "pretzel salt"
+            ],
+            "id": "FLIPZ-Christmas-Snack-Mix-1431471",
+            "smallImageUrls": [
+                "https://lh3.googleusercontent.com/1lRb9wTHCC1nVD50zUaa5ngU7ZhqPGBUVu-p5VZ-uCIBVi7UfDTCwkVua7BqzE-6Vy1u2OTPzWRFZfW8FBLN=s90"
+            ],
+            "recipeName": "FLIPZ\u00ae Christmas Snack Mix",
+            "totalTimeInSeconds": 5100,
+            "attributes": {
+                "course": [
+                    "Lunch",
+                    "Breads"
+                ],
+                "holiday": [
+                    "Christmas"
+                ]
+            },
+            "flavors": null,
+            "rating": 4
+        },
+        {
+            "imageUrlsBySize": {
+                "90": "http://lh3.googleusercontent.com/MoaKNU2Oq_y8exn4VEtWR-czHzM9P2sGYa7W2uRBVYMwzhnZ4-QYdoDGJ9z7-XNocuHipH031NoRYjRdnd6LHg=s90-c"
+            },
+            "sourceDisplayName": "Lecker",
+            "ingredients": [
+                "Semmelbr\u00f6sel",
+                "Nu\u00dfnougat",
+                "weiche Butter",
+                "Mascarpone",
+                "Zucker",
+                "aroma",
+                "Salz",
+                "Mehl",
+                "Mandel",
+                "Milch",
+                "Kakao",
+                "Puderzucker"
+            ],
+            "id": "Mascarpone-Marmorkuchen-834243",
+            "smallImageUrls": [
+                "http://lh3.googleusercontent.com/bQOD3IhwcC1CZ_6ChO4LhVxsQR1Av6QhxV7b4b-g3XwhoanTA0bze-X3h3UUbun2IdYhoZUkL_ZNIL9x-m7OnA=s90"
+            ],
+            "recipeName": "Mascarpone-Marmorkuchen",
+            "totalTimeInSeconds": 4500,
+            "attributes": {
+                "course": [
+                    "Desserts"
+                ]
+            },
+            "flavors": null,
+            "rating": 3
+        },
+        {
+            "imageUrlsBySize": {
+                "90": "http://lh3.googleusercontent.com/IEVa56x1vVP1Zo_NsLbREdgJkY0WxFmu6xc7VGFXxowMyJnJZW7Pz_WBJDQzTb9kDPLkafkkc9JbB8Su9Bry=s90-c"
+            },
+            "sourceDisplayName": "Lecker",
+            "ingredients": [
+                "Fett",
+                "Schokolade",
+                "Schlabgobers",
+                "Ei",
+                "Zucker",
+                "Salz",
+                "Mehl",
+                "Backpulver",
+                "Sahnefestiger",
+                "Bourbon-Vanillezucker",
+                "Kakao",
+                "Moccabohnen"
+            ],
+            "id": "Latte-Macchiato-Torte-927283",
+            "smallImageUrls": [
+                "http://lh3.googleusercontent.com/mox7YlW0Zg6obwMtwfATLII3CVfaQMdqFJPpNkCvzeEpbj82QiWcqm_k84v4_HsCuPJ5BkmjS8PfkePljSPJexU=s90"
+            ],
+            "recipeName": "Latte-Macchiato-Torte",
+            "totalTimeInSeconds": 1800,
+            "attributes": {
+                "course": [
+                    "Desserts"
+                ]
+            },
+            "flavors": null,
+            "rating": 3
+        },
+        {
+            "imageUrlsBySize": {
+                "90": "http://lh3.googleusercontent.com/jgAbsceaqrFUxyj-PdGHl2E0mxahN_F7vbdH9nPLH5XK4PTsrD8KRomfFGRVGaEnJoNysrCtqmRN5GpDO88J=s90-c"
+            },
+            "sourceDisplayName": "Lecker",
+            "ingredients": [
+                "Kirsche",
+                "Fett",
+                "weiche Butter",
+                "Zucker",
+                "Ei",
+                "Backpulver",
+                "Haselnuss",
+                "Schokotropfen",
+                "Schlabgobers",
+                "Sahnefestiger",
+                "Kuvert\u00fcre",
+                "Plattenfett",
+                "Konfit\u00fcre"
+            ],
+            "id": "Haselnuss-Donauwellen-mit-Kirschen-926751",
+            "smallImageUrls": [
+                "http://lh3.googleusercontent.com/Sxd7UiKON8Nduj5S2EOJyejijY0OjRkqIvlTdz6-0MwL3Ad31vOdxRz9OoRAIjrz11YSboBndMTeuM06mS0yDQ=s90"
+            ],
+            "recipeName": "Haselnuss-Donauwellen mit Kirschen",
+            "totalTimeInSeconds": 4500,
+            "attributes": {
+                "course": [
+                    "Desserts"
+                ]
+            },
+            "flavors": null,
+            "rating": 3
+        },
+        {
+            "imageUrlsBySize": {
+                "90": "http://lh3.googleusercontent.com/KJEsNFuO8WckAMgord-wlbYISdOyaFJuV9G14moLwKeGN_iRI_iDmorlKAUHewL5ZzABlyTq4rku1KZDTtWJ=s90-c"
+            },
+            "sourceDisplayName": "Chefkoch",
+            "ingredients": [
+                "Milch",
+                "Mehl",
+                "S\u00fc\u00dfstoff",
+                "Vanillezucker",
+                "Zimt",
+                "Zucker",
+                "Kakaopulver"
+            ],
+            "id": "Falsche-Schlagsahne-793940",
+            "smallImageUrls": [
+                "http://lh3.googleusercontent.com/pSX92WxTNTHI_aZeuLEVf5_yc8k4KvS5NnfB9waeO8rxUFk_v0-j0k9h3dXyG5tGkcWyifauKwF5e4ZXzSKTQg=s90"
+            ],
+            "recipeName": "Falsche Schlagsahne",
+            "totalTimeInSeconds": 600,
+            "attributes": {
+                "course": [
+                    "Desserts"
+                ]
+            },
+            "flavors": null,
+            "rating": 3
+        },
+        {
+            "imageUrlsBySize": {
+                "90": "http://lh3.googleusercontent.com/Jr8ogVmf6KfL6NjxlcoXIeanuhUiz3QO_scnGhz5slMNeVZlkjV6o1xoOsM0Ju2_z76YVG3VKqGLd99hOBZJ00I=s90-c"
+            },
+            "sourceDisplayName": "Lecker",
+            "ingredients": [
+                "Fett",
+                "Ei",
+                "Zucker",
+                "Speisest\u00e4rke",
+                "Backpulver",
+                "Mohn",
+                "\u00c4pfel",
+                "Apelsaft",
+                "Zitronensaft",
+                "Puddingpulver",
+                "Mascarpone",
+                "magerquark",
+                "Schlabgobers",
+                "Sahnefestiger",
+                "Zitronenmelisse"
+            ],
+            "id": "Apfel-Mohn-Torte-927297",
+            "smallImageUrls": [
+                "http://lh3.googleusercontent.com/dKEIJMM7uylINVytF5cdadiLzJZjti8LOXJQ8ECiLcZSyhTTb4iDr-Qby1xoX8QYINWDUz8hkX1zMPAhzUhnsA=s90"
+            ],
+            "recipeName": "Apfel-Mohn-Torte",
+            "totalTimeInSeconds": 7200,
+            "attributes": {
+                "course": [
+                    "Desserts"
+                ]
+            },
+            "flavors": null,
+            "rating": 3
+        },
+        {
+            "recipeName": "Amaretto-Kuppeltorte",
+            "ingredients": [
+                "Ei",
+                "Zucker",
+                "Backpulver",
+                "Mandel",
+                "Gelatine",
+                "Schokolade",
+                "Pistazienkern",
+                "Mascarpone",
+                "Rahm",
+                "Haselnuss",
+                "Lik\u00f6r",
+                "Schlabgobers",
+                "Schokoriegel"
+            ],
+            "totalTimeInSeconds": 5400,
+            "sourceDisplayName": "Lecker",
+            "id": "Amaretto-Kuppeltorte-835612",
+            "rating": 3,
+            "flavors": null,
+            "attributes": {
+                "course": [
+                    "Desserts"
+                ]
+            }
+        }
+    ],
+    "facetCounts": {},
+    "totalMatchCount": 8,
+    "attribution": {
+        "html": "Recipe search powered by <a href='http://www.yummly.co/recipes'><img alt='Yummly' src='https://static.yummly.co/api-logo.png'/></a>",
+        "url": "http://www.yummly.co/recipes/",
+        "text": "Recipe search powered by Yummly",
+        "logo": "https://static.yummly.co/api-logo.png"
+    }
+}

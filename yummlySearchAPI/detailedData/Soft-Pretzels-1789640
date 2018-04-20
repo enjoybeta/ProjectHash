@@ -1,0 +1,54 @@
+{
+    "nutritionEstimates": [],
+    "totalTime": "35 min",
+    "images": [
+        {
+            "hostedSmallUrl": "https://lh3.googleusercontent.com/iPokceQ0W0_CwDOfFA-3PdMLJBNjyJ3GzK__3wGLhgyUQ7ixrjYlZ_G3G5cEeS3lrxHA8lc5vopzkpGGJy6r=s90",
+            "hostedMediumUrl": "https://lh3.googleusercontent.com/iPokceQ0W0_CwDOfFA-3PdMLJBNjyJ3GzK__3wGLhgyUQ7ixrjYlZ_G3G5cEeS3lrxHA8lc5vopzkpGGJy6r=s180",
+            "hostedLargeUrl": "https://lh3.googleusercontent.com/iPokceQ0W0_CwDOfFA-3PdMLJBNjyJ3GzK__3wGLhgyUQ7ixrjYlZ_G3G5cEeS3lrxHA8lc5vopzkpGGJy6r=s360",
+            "imageUrlsBySize": {
+                "90": "https://lh3.googleusercontent.com/hI2jOLH6VsfItTRyksAsptXKSo0OLxpGol9OnE82WUJiigO9o0Sk-wXqKin9yzE21RLiuLZO-41spT6LfXTI=s90-c",
+                "360": "https://lh3.googleusercontent.com/hI2jOLH6VsfItTRyksAsptXKSo0OLxpGol9OnE82WUJiigO9o0Sk-wXqKin9yzE21RLiuLZO-41spT6LfXTI=s360-c"
+            }
+        }
+    ],
+    "name": "Soft Pretzels",
+    "source": {
+        "sourceDisplayName": "Bread et Butter",
+        "sourceSiteUrl": "breadetbutter.wordpress.com",
+        "sourceRecipeUrl": "http://breadetbutter.wordpress.com/2009/10/25/pretzels/"
+    },
+    "id": "Soft-Pretzels-1789640",
+    "ingredientLines": [
+        "2 cups warm water (~40\u00b0C)",
+        "1 tablespoon + 2 tablespoons sugar",
+        "2 1/4 teaspoons active dry yeast",
+        "5 to 6 cups bread flour, plus more for dusting",
+        "1 tablespoon salt",
+        "2 teaspoons corn oil, or other neutral oil",
+        "1/4 cup baking soda",
+        "1 large egg",
+        "coarse sea salt",
+        "poppy seeds/sesame seeds",
+        "demerara sugar",
+        "cinnamon",
+        "garlic butter"
+    ],
+    "attribution": {
+        "html": "<a href='http://www.yummly.co/recipe/Soft-Pretzels-1789640'>Soft Pretzels recipe</a> information powered by <img alt='Yummly' src='https://static.yummly.co/api-logo.png'/>",
+        "url": "http://www.yummly.co/recipe/Soft-Pretzels-1789640",
+        "text": "Soft Pretzels recipes: information powered by Yummly",
+        "logo": "https://static.yummly.co/api-logo.png"
+    },
+    "numberOfServings": 4,
+    "totalTimeInSeconds": 2100,
+    "attributes": {
+        "course": [
+            "Lunch",
+            "Breads",
+            "Snacks"
+        ]
+    },
+    "flavors": {},
+    "rating": 4
+}

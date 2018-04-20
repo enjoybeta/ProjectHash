@@ -1,0 +1,231 @@
+{
+    "criteria": {
+        "q": "s+e+a+ +s+a+l+t+ +f+l+a+k+e+s",
+        "allowedIngredient": null,
+        "excludedIngredient": null
+    },
+    "matches": [
+        {
+            "imageUrlsBySize": {
+                "90": "http://lh3.googleusercontent.com/JFqu5Hx5mXG7r51kCD_Oj-9AtH-KVGTXUiNgM-wxzkIh1LmltYh-FPTYTTUi8nvYlfv990bM9Xn2o8cR-LyECw=s90-c"
+            },
+            "sourceDisplayName": "Lecker",
+            "ingredients": [
+                "Fr\u00fchlingszwiebelgr\u00fcn",
+                "\u00d6l",
+                "Rindergehacktes",
+                "Tomatenkonzentrat",
+                "Sauerkraut",
+                "Salz",
+                "Pfeffer wei\u00df",
+                "Chillipulver",
+                "Edels\u00fcsspaprika",
+                "Cayennepfeffer",
+                "Gem\u00fcsebr\u00fche",
+                "Petersile",
+                "Chilischote",
+                "Rahm",
+                "gouda"
+            ],
+            "id": "Chili-con-Sauerkraut-815882",
+            "smallImageUrls": [
+                "http://lh3.googleusercontent.com/FkvdGsXR3maaXBB3Yteh92km8Q4C89OCRwF10rOMedVRskCjy1M0d77VmVIdnJH9L87HBJFNUtzmokt4lU4x6w=s90"
+            ],
+            "recipeName": "Chili con Sauerkraut",
+            "totalTimeInSeconds": 2700,
+            "attributes": {},
+            "flavors": {
+                "sweet": 0.16666666666666666,
+                "piquant": 0.8333333333333334,
+                "sour": 0.3333333333333333,
+                "salty": 0.6666666666666666,
+                "meaty": 0.16666666666666666,
+                "bitter": 0.3333333333333333
+            },
+            "rating": 3
+        },
+        {
+            "imageUrlsBySize": {
+                "90": "http://lh3.googleusercontent.com/FVlPN6HAmQyE7sG3xZSmyVL66HnxhsBouAE-y20P7G00nsWZ081ojcAxrfkWKrXYtOVTsTXAzlKMMdEb5V0j7g=s90-c"
+            },
+            "sourceDisplayName": "Lecker",
+            "ingredients": [
+                "Beeren",
+                "Buttermilch",
+                "Zucker",
+                "Zitrone",
+                "Schlabgobers"
+            ],
+            "id": "Buttermilchkaltschale-mit-frischen-Beeren-820457",
+            "smallImageUrls": [
+                "http://lh3.googleusercontent.com/RGamt5QuQhFoNA7dYsdJ7wndh0E2DQ68pddiIHGgsNc5rIQxLVItKY-CIYpOU0136guVbTzuPYYxvEkGnkHvLpU=s90"
+            ],
+            "recipeName": "Buttermilchkaltschale mit frischen Beeren",
+            "totalTimeInSeconds": 900,
+            "attributes": {
+                "course": [
+                    "Desserts"
+                ]
+            },
+            "flavors": null,
+            "rating": 3
+        },
+        {
+            "imageUrlsBySize": {
+                "90": "http://lh3.googleusercontent.com/rF5t2qjK1gZY-ib5UDIQ2tOC1BHq7eyLv9a09fLyEZrilNdmPwu8HxHegTcvbGXq_9v1WxSFs0jzBqKOYCnIqg=s90-c"
+            },
+            "sourceDisplayName": "Lecker",
+            "ingredients": [
+                "Hendl",
+                "Salz",
+                "Zwiebel",
+                "\u00d6l",
+                "Gem\u00fcsebr\u00fche",
+                "Chilischote",
+                "Konfit\u00fcre",
+                "sambal",
+                "Maiskolben",
+                "Tomate",
+                "Zuckermais",
+                "B\u00f6hnchen",
+                "Knoblaucknolle",
+                "So\u00dfe",
+                "Butter",
+                "Fr\u00fchlingszwiebelgr\u00fcn",
+                "Petersile"
+            ],
+            "id": "Chili-Hahnchen-auf-feurigem-Mexico-Gemuse-817089",
+            "smallImageUrls": [
+                "http://lh3.googleusercontent.com/7QUaoR7RI1K-gs64D4fL_n_JJn1vp-yHcm9IgzHdt9-qsODbho02EiY5sWaglJVMzBobl6UQdgG4oU-uDP4SXA=s90"
+            ],
+            "recipeName": "Chili-Ha\u0308hnchen auf feurigem Mexico-Gemu\u0308se",
+            "totalTimeInSeconds": 5400,
+            "attributes": {},
+            "flavors": null,
+            "rating": 3
+        },
+        {
+            "imageUrlsBySize": {
+                "90": "http://lh3.googleusercontent.com/1pWYW3L3IBO0nhlJHYinXiId1lcxqlH6lU6_Okzgy_K6pYHE2olNkKzkbnsRVLtoDwDHUOQL4fwWfCotb9j2HA=s90-c"
+            },
+            "sourceDisplayName": "Lecker",
+            "ingredients": [
+                "Zwiebel",
+                "Tomate",
+                "Zucchini",
+                "Oliven\u00f6l",
+                "Salz",
+                "Pfeffer",
+                "Gem\u00fcsebr\u00fche",
+                "Putenschnitzel",
+                "\u00d6l",
+                "Majoran",
+                "Basilikum",
+                "Rahm",
+                "Zitronensaft",
+                "Zitrone"
+            ],
+            "id": "Putenschnitzel-819050",
+            "smallImageUrls": [
+                "http://lh3.googleusercontent.com/_eCakH5MqNfNkzFwRy0faF6ogjT1OqM4lqXx1TURSsJaPyuWrwbq7LkHLkuJ1odsk7xdoo_yoldsdRvnUXhI9Q=s90"
+            ],
+            "recipeName": "Putenschnitzel",
+            "totalTimeInSeconds": 1800,
+            "attributes": {},
+            "flavors": null,
+            "rating": 3
+        },
+        {
+            "imageUrlsBySize": {
+                "90": "http://lh3.googleusercontent.com/Xywq1dAoxW0KnTl7hNWQofWcF-fjcryh8mE_2g6mIVhKfbIgtq_FYCixzJ5yEw5VHH3hvjvoza-FXJ02jJ4QHos=s90-c"
+            },
+            "sourceDisplayName": "Lecker",
+            "ingredients": [
+                "Knoblaucknolle",
+                "bier",
+                "Schwarzpfeffer",
+                "Zitrone",
+                "Austernsosse",
+                "Steakfleisch",
+                "Wei\u00dfkohl",
+                "M\u00f6hre",
+                "Zwiebel",
+                "Salz",
+                "Zucker",
+                "Sour Cream",
+                "Mayonnaise",
+                "Essig",
+                "PeBechern\u00fcsse",
+                "Kartoffel",
+                "\u00d6l"
+            ],
+            "id": "Knoblauch-Bier-Steak-mit-Kartoffelstabchen-und-Cole-Slaw-839288",
+            "smallImageUrls": [
+                "http://lh3.googleusercontent.com/iEorwnZ-xrcR5swbR4nwIdwDyOI6s8jxxugsiu2x8zaL5yyUgplvRqS1Nwp6ZOnBJn4mvtemlavBJhrsymKw07k=s90"
+            ],
+            "recipeName": "Knoblauch-Bier-Steak mit Kartoffelsta\u0308bchen und Cole Slaw",
+            "totalTimeInSeconds": 3600,
+            "attributes": {},
+            "flavors": null,
+            "rating": 3
+        },
+        {
+            "imageUrlsBySize": {
+                "90": "http://lh3.googleusercontent.com/vLIzmcAeeWaI6jHbUOy_WZbMMQJNLfQo-DnOxNiNwSOJFOiYZeXZgTx8PV5eQFsm8-03FSNHfZq1Zg71qZwR=s90-c"
+            },
+            "sourceDisplayName": "Lecker",
+            "ingredients": [
+                "Fr\u00fchlingszwiebelgr\u00fcn",
+                "Knoblaucknolle",
+                "Limone",
+                "Minze",
+                "Joghurt",
+                "Salz",
+                "Pfeffer",
+                "Zwiebel",
+                "\u00d6l",
+                "curry",
+                "Ketschup",
+                "chutney",
+                "Zucker",
+                "Erdnuss",
+                "Erdnussmus",
+                "Kokosmilch",
+                "Koriander",
+                "sambal",
+                "Zitronensaft",
+                "Sojasauce",
+                "Chilischote",
+                "N\u00fcsslisalat",
+                "Catalogna",
+                "Kopfsalat",
+                "Truthahnbrust",
+                "Entenbrust",
+                "H\u00fchnerfilet",
+                "Schlangengurke",
+                "Tomate",
+                "Petersile",
+                "Essig",
+                "Oliven\u00f6l",
+                "Mango"
+            ],
+            "id": "Geflugel-Fondue-mit-Dips-823574",
+            "smallImageUrls": [
+                "http://lh3.googleusercontent.com/NHsiQnXs7QXdcHxjQHXB_nYgBmTxU6L2ojBpWVbvgjuRvTOSrctm6voMAJ0BNKUiUag84lQDlizaHdyU5L0Azg=s90"
+            ],
+            "recipeName": "Geflu\u0308gel-Fondue mit Dips",
+            "totalTimeInSeconds": 5400,
+            "attributes": {},
+            "flavors": null,
+            "rating": 3
+        }
+    ],
+    "facetCounts": {},
+    "totalMatchCount": 6,
+    "attribution": {
+        "html": "Recipe search powered by <a href='http://www.yummly.co/recipes'><img alt='Yummly' src='https://static.yummly.co/api-logo.png'/></a>",
+        "url": "http://www.yummly.co/recipes/",
+        "text": "Recipe search powered by Yummly",
+        "logo": "https://static.yummly.co/api-logo.png"
+    }
+}

@@ -1,0 +1,373 @@
+{
+    "criteria": {
+        "q": "W+a+l+n+u+s+s",
+        "allowedIngredient": null,
+        "excludedIngredient": null
+    },
+    "matches": [
+        {
+            "imageUrlsBySize": {
+                "90": "https://lh3.googleusercontent.com/NYiqbItU_wPggBTXQ5Z1k9Xo-JDKfjVrCyqGoBrDWFyTJ6OE-gR95eVDHKxe2T2e3dPcxIHvbRB7g7gMMZ_g5Q=s90-c"
+            },
+            "sourceDisplayName": "Southern Bite",
+            "ingredients": [
+                "cooked chicken",
+                "instant rice",
+                "cream of chicken soup",
+                "sour cream",
+                "diced onions",
+                "diced tomatoes and green chilies",
+                "chicken broth",
+                "fajita seasoning mix",
+                "Mexican cheese blend"
+            ],
+            "id": "Fajita-Chicken-Casserole---Advantium-240-Wall-Oven-Version-2223892",
+            "smallImageUrls": [
+                "https://lh3.googleusercontent.com/YzmEtbtjEmATC_WIWe37Did14KJWg6xVL17gLCL8bSuNhQATGQjpRmK0f6SoR3Ew1VIrDwQI6SGGm2ikhQPe=s90"
+            ],
+            "recipeName": "Fajita Chicken Casserole - Advantium 240 Wall Oven Version",
+            "totalTimeInSeconds": 1500,
+            "attributes": {
+                "course": [
+                    "Main Dishes"
+                ]
+            },
+            "flavors": {
+                "piquant": 0.16666666666666666,
+                "meaty": 0.3333333333333333,
+                "bitter": 0.5,
+                "sweet": 0.16666666666666666,
+                "sour": 0.16666666666666666,
+                "salty": 0.6666666666666666
+            },
+            "rating": 4
+        },
+        {
+            "imageUrlsBySize": {
+                "90": "https://lh3.googleusercontent.com/WOgxtEoGnRyfojEVbM2Fi0z83WJhxwVGBgzxuF9VHR7OEm5PupRTRRJq7VIuF-AJhpck0Cl7IwJIwVDlJTAC=s90-c"
+            },
+            "sourceDisplayName": "Spatulas On Parade",
+            "ingredients": [
+                "yellow cake mix",
+                "fruit cocktail",
+                "coconut",
+                "eggs",
+                "firmly packed brown sugar",
+                "butter",
+                "sugar",
+                "evaporated milk"
+            ],
+            "id": "U-G-L-Y-duckling-cake-1714075",
+            "smallImageUrls": [
+                "https://lh3.googleusercontent.com/BsbGuHLKVGqsWM0uZ-bBuRPlCKOPkjYIOqASq47vOWQyF2k785wrCNw2koXUtH77wObOBQfocON0XlhO-M3M7vA=s90"
+            ],
+            "recipeName": "U-G-L-Y duckling cake",
+            "totalTimeInSeconds": 3900,
+            "attributes": {
+                "course": [
+                    "Desserts"
+                ]
+            },
+            "flavors": null,
+            "rating": 4
+        },
+        {
+            "imageUrlsBySize": {
+                "90": "https://lh3.googleusercontent.com/lYKqFHJfb6OmlaLKKqSX3JYmfnp4e8kXG99KwAeW0aWKCdxTERzyD9bZc1zQWdauhuOXLn4Q0_X8FJrwKzAmpA=s90-c"
+            },
+            "sourceDisplayName": "Grand Diamond Seasoning",
+            "ingredients": [
+                "roasted pecans",
+                "all-purpose flour",
+                "light brown sugar",
+                "granulated sugar",
+                "ground cinnamon",
+                "kosher salt",
+                "unsalted butter",
+                "cake flour",
+                "baking powder",
+                "baking soda",
+                "ground nutmeg",
+                "buttermilk",
+                "large eggs",
+                "vegetable oil",
+                "baking spray"
+            ],
+            "id": "Old-Fashioned-Coffee-Cake--Carolyns-Twist-on-L_A_U_S_D_-Original-1849320",
+            "smallImageUrls": [
+                "https://lh3.googleusercontent.com/YpkbhowG7pEVQLgW1VuACi9RU8zDWohShlF2Hcn3k__Ic2aQjA7lII3Q_OPmAnDXQVyIZV-kud3O8CQ8GEoM5Q=s90"
+            ],
+            "recipeName": "Old Fashioned Coffee Cake- Carolyn\u2019s Twist on L.A.U.S.D. Original",
+            "totalTimeInSeconds": 5100,
+            "attributes": {
+                "course": [
+                    "Breads"
+                ],
+                "cuisine": [
+                    "Kid-Friendly"
+                ]
+            },
+            "flavors": {
+                "piquant": 0.0,
+                "meaty": 0.6666666666666666,
+                "bitter": 0.16666666666666666,
+                "sweet": 0.8333333333333334,
+                "sour": 0.16666666666666666,
+                "salty": 0.8333333333333334
+            },
+            "rating": 4
+        },
+        {
+            "imageUrlsBySize": {
+                "90": "https://lh3.googleusercontent.com/PUFVo2wQ_9g2FYHS7Vp-xOan4mL8NFuMUr-tnbQ76TW469qGDN7Wz9qFcRFyTCNPbTdQj3UMDBICia2pK3FAKlU=s90-c"
+            },
+            "sourceDisplayName": "Grand Diamond Seasoning",
+            "ingredients": [
+                "roasted pecans",
+                "all-purpose flour",
+                "light brown sugar",
+                "granulated sugar",
+                "ground cinnamon",
+                "kosher salt",
+                "unsalted butter",
+                "cake flour",
+                "baking powder",
+                "baking soda",
+                "ground nutmeg",
+                "buttermilk",
+                "large eggs",
+                "vegetable oil",
+                "baking spray"
+            ],
+            "id": "Old-Fashioned-Coffee-Cake--Carolyns-Twist-on-L_A_U_S_D_-Original-2252533",
+            "smallImageUrls": [
+                "https://lh3.googleusercontent.com/6dyW0unHXLd0Jpg1MZCRCwC8M1uzC0P-Gox0JeyLZVo9g-JheamkkyUrS0RjXfwIVj0ohlM0DFT5GKeIBnGXIw=s90"
+            ],
+            "recipeName": "Old Fashioned Coffee Cake- Carolyn\u2019s Twist on L.A.U.S.D. Original",
+            "totalTimeInSeconds": 5100,
+            "attributes": {
+                "course": [
+                    "Breads"
+                ],
+                "cuisine": [
+                    "Kid-Friendly"
+                ]
+            },
+            "flavors": {
+                "piquant": 0.0,
+                "meaty": 0.6666666666666666,
+                "bitter": 0.16666666666666666,
+                "sweet": 0.8333333333333334,
+                "sour": 0.16666666666666666,
+                "salty": 0.8333333333333334
+            },
+            "rating": 4
+        },
+        {
+            "imageUrlsBySize": {
+                "90": "https://lh3.googleusercontent.com/qZgXRi2M6ZFE7cg12TCftEni5z9vYVmZhPecTSxexgnVbXs05kVA2qH6h362GgF22G7vZC7c7OFXxjITs320Yg=s90-c"
+            },
+            "sourceDisplayName": "Southern Bite",
+            "ingredients": [
+                "self rising flour",
+                "firmly packed brown sugar",
+                "cinnamon",
+                "melted butter",
+                "milk",
+                "eggs",
+                "vanilla",
+                "apples",
+                "chopped pecans",
+                "flour"
+            ],
+            "id": "Apple-Cinnamon-Crunch-Muffins-_Advantium-Recipe_-1820616",
+            "smallImageUrls": [
+                "https://lh3.googleusercontent.com/lpI-67Sp4sZISZDaUKBgsqeailaXNTNzzdvB9snfAEQfwnLXSeqinJ0lhzRLZo4JkHH4rm7BHlpNuHO6z8Xf=s90"
+            ],
+            "recipeName": "Apple Cinnamon Crunch Muffins (Advantium Recipe)",
+            "totalTimeInSeconds": 1440,
+            "attributes": {
+                "course": [
+                    "Breakfast and Brunch",
+                    "Breads"
+                ]
+            },
+            "flavors": {
+                "piquant": 0.0,
+                "meaty": 0.16666666666666666,
+                "bitter": 0.16666666666666666,
+                "sweet": 0.6666666666666666,
+                "sour": 0.16666666666666666,
+                "salty": 0.3333333333333333
+            },
+            "rating": 4
+        },
+        {
+            "imageUrlsBySize": {
+                "90": "https://lh3.googleusercontent.com/MSNgN7s8kgVameNlbVabe0e5BDf7x-9HNBFOWKxHLk4Hhl5130KN4an7iRzor0oc2aVA0mVn5v3aG5e3wge_Xg=s90-c"
+            },
+            "sourceDisplayName": "I Should Be Mopping the Floor",
+            "ingredients": [
+                "sandwiches",
+                "cool whip",
+                "caramel ice cream topping",
+                "ice cream"
+            ],
+            "id": "10-Minute-Layered-Ice-Cream-Cake-_easydessert-1914028",
+            "smallImageUrls": [
+                "https://lh3.googleusercontent.com/t9uQksw-8vAc7i8sB2RiuybQLR-JYEt-LA3HgZHHsVITAFLuQplS9aJpBCa39DNiyLt7xsgn9JF4cnfNifgWMg=s90"
+            ],
+            "recipeName": "10-Minute Layered Ice Cream Cake #easydessert",
+            "totalTimeInSeconds": 1500,
+            "attributes": {
+                "course": [
+                    "Desserts"
+                ]
+            },
+            "flavors": null,
+            "rating": 4
+        },
+        {
+            "imageUrlsBySize": {
+                "90": "https://lh3.googleusercontent.com/0lZh_FS8sakJk90jSBphzcLNG2PMspRUFfe9_WHTES-5dP-5TaO3OPpbvgHrT0FVVArGOxreZDtEKGFhDWO8rw=s90-c"
+            },
+            "sourceDisplayName": "So Let's Hang Out",
+            "ingredients": [
+                "bacon",
+                "leeks",
+                "crimini mushrooms",
+                "garlic",
+                "fresh thyme leaves",
+                "bone broth",
+                "full fat coconut milk",
+                "salt",
+                "pepper",
+                "cassava root flour"
+            ],
+            "id": "Creamy-Mushroom_-Bacon-_-Leek-Soup-2325754",
+            "smallImageUrls": [
+                "https://lh3.googleusercontent.com/ZDDjm1h8JDr0Lz93bWj1T-RAG-f0oIX3CD7xgBF-3UFcLE7PMQgxlBfGBRQiiKW2UjykGkOtZVCsrZzs_eXD=s90"
+            ],
+            "recipeName": "Creamy Mushroom, Bacon & Leek Soup",
+            "totalTimeInSeconds": 3600,
+            "attributes": {
+                "course": [
+                    "Soups"
+                ]
+            },
+            "flavors": null,
+            "rating": 4
+        },
+        {
+            "imageUrlsBySize": {
+                "90": "https://lh3.googleusercontent.com/Z6bdHfs4ljDODV3QXihh_7_et3-od3P8eajKFVgwe97OjQ0N0ifakHpa0w-a_YUodbkSoOXZlZWMJlaTJlSz6w=s90-c"
+            },
+            "sourceDisplayName": "That's Low Carb",
+            "ingredients": [
+                "coconut milk",
+                "ground cinnamon",
+                "pure vanilla extract",
+                "egg yolks",
+                "erythritol",
+                "blackberries",
+                "almond extract"
+            ],
+            "id": "Low-Carb-Blackberry-Ice-Cream-2270048",
+            "smallImageUrls": [
+                "https://lh3.googleusercontent.com/XebTMkKWtwQPM8qoSRG8E6e-2S82_O47YsIIQBF1TQGcjm465yfkTDPuV7GA1-7Pi1gKUaOk-H1nZhFNkmzUIQ=s90"
+            ],
+            "recipeName": "Low Carb Blackberry Ice Cream",
+            "totalTimeInSeconds": 1200,
+            "attributes": {
+                "course": [
+                    "Desserts"
+                ]
+            },
+            "flavors": null,
+            "rating": 4
+        },
+        {
+            "imageUrlsBySize": {
+                "90": "http://lh3.googleusercontent.com/3bOp1IasNzOQwfVXgXn6eSekDOV8eCfZYVb9BiJ94B6PT5RsJun8bawa39uK2C45s-8-IJRklrLioLb1fnJwK1Q=s90-c"
+            },
+            "sourceDisplayName": "Pioneer Settler",
+            "ingredients": [
+                "warm water",
+                "sugar",
+                "yeast",
+                "butter",
+                "eggs",
+                "salt",
+                "flour",
+                "cooking oil"
+            ],
+            "id": "How-To-Make-Homemade-Rolls-From-Scratch-1241358",
+            "smallImageUrls": [
+                "http://lh3.googleusercontent.com/lcTB6fpQUweQMev0meFjJmpuKwzbOr4xczPJVxdsleOuKDmPhaB6VaqkcHmBk81W9lCCyK5PHpC_rpEF5xkN0g=s90"
+            ],
+            "recipeName": "How To Make Homemade Rolls From Scratch",
+            "totalTimeInSeconds": 2400,
+            "attributes": {
+                "course": [
+                    "Breads"
+                ]
+            },
+            "flavors": {
+                "sweet": 0.5,
+                "piquant": 0.0,
+                "sour": 0.16666666666666666,
+                "salty": 0.16666666666666666,
+                "meaty": 0.16666666666666666,
+                "bitter": 0.16666666666666666
+            },
+            "rating": 4
+        },
+        {
+            "imageUrlsBySize": {
+                "90": "https://lh3.googleusercontent.com/9e1QG3AnA-Jtf54eSIo37Vn6EOxpW1iMPM55eSoORLXsfv5TZnqpXY7hc8wTbHeuKpMNrb93Vue7SuXDHTaa=s90-c"
+            },
+            "sourceDisplayName": "Food Network Canada",
+            "ingredients": [
+                "warm water",
+                "milk",
+                "melted butter",
+                "instant yeast",
+                "granulated sugar",
+                "all-purpose flour",
+                "fine salt",
+                "baking soda",
+                "egg yolks",
+                "coarse salt"
+            ],
+            "id": "Soft-Pretzels-1477701",
+            "smallImageUrls": [
+                "https://lh3.googleusercontent.com/lrhAOtkuq2-qYXUWDAO-Zn_5U7NJvYuajWtGKUNl5V_UNcnY-FkNKCQPZEAOF8U5dxFhuplx6AahkA4TP0WpHQ=s90"
+            ],
+            "recipeName": "Soft Pretzels",
+            "totalTimeInSeconds": 4200,
+            "attributes": {
+                "course": [
+                    "Breads",
+                    "Lunch"
+                ]
+            },
+            "flavors": {
+                "piquant": 0.0,
+                "meaty": 0.16666666666666666,
+                "bitter": 0.8333333333333334,
+                "sweet": 0.16666666666666666,
+                "sour": 0.16666666666666666,
+                "salty": 0.8333333333333334
+            },
+            "rating": 3
+        }
+    ],
+    "facetCounts": {},
+    "totalMatchCount": 145,
+    "attribution": {
+        "html": "Recipe search powered by <a href='http://www.yummly.co/recipes'><img alt='Yummly' src='https://static.yummly.co/api-logo.png'/></a>",
+        "url": "http://www.yummly.co/recipes/",
+        "text": "Recipe search powered by Yummly",
+        "logo": "https://static.yummly.co/api-logo.png"
+    }
+}

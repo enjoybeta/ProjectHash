@@ -1,0 +1,259 @@
+{
+    "criteria": {
+        "q": "b+e+e+f+ +r+i+b+s",
+        "allowedIngredient": null,
+        "excludedIngredient": null
+    },
+    "matches": [
+        {
+            "recipeName": "Chicago-Style Steak With Bleu Cheese Butter",
+            "ingredients": [
+                "sirloin steak",
+                "worcestershire sauce",
+                "soy sauce",
+                "cooking sherry",
+                "red wine vinegar",
+                "butter",
+                "blue cheese",
+                "green onions"
+            ],
+            "totalTimeInSeconds": 1200,
+            "sourceDisplayName": "Food.com",
+            "id": "Chicago-Style-Steak-With-Bleu-Cheese-Butter-Food_com-125744",
+            "rating": 4,
+            "flavors": null,
+            "attributes": {
+                "course": [
+                    "Main Dishes"
+                ]
+            }
+        },
+        {
+            "imageUrlsBySize": {
+                "90": "http://lh3.googleusercontent.com/84e6F1JA5mCqIRRau2lHpSOw8Lvv30vMR9Li1iO8vUcEAlO8hQzwMUWZ_n5kUXkaZ7A7UXwH5nYur5OF3C7Y6Q=s90-c"
+            },
+            "sourceDisplayName": "Lecker",
+            "ingredients": [
+                "Pistazienkern",
+                "grapefruit",
+                "Eigelb",
+                "Zucker",
+                "trockener Wei\u00dfwein",
+                "Rum"
+            ],
+            "id": "Rote-Grapefruit-Filets-mit-Pistazienzabaione-813367",
+            "smallImageUrls": [
+                "http://lh3.googleusercontent.com/vh3cSZTuwqLdfTr0dnDBqN_eJ9NB3h8CDxqKFOE6w1Zuhu0pK8jbeA9PGJGVP5okosX7cWCpZKJxeM3oyHwedtc=s90"
+            ],
+            "recipeName": "Rote Grapefruit-Filets mit Pistazienzabaione",
+            "totalTimeInSeconds": 1500,
+            "attributes": {
+                "course": [
+                    "Desserts"
+                ]
+            },
+            "flavors": {
+                "sweet": 0.6666666666666666,
+                "piquant": 0.0,
+                "sour": 0.8333333333333334,
+                "salty": 0.0,
+                "meaty": 0.16666666666666666,
+                "bitter": 0.16666666666666666
+            },
+            "rating": 3
+        },
+        {
+            "imageUrlsBySize": {
+                "90": "http://lh3.googleusercontent.com/tQYogKzFhZRdB4BNYz-m9agEF6SKc2F_bjflNhRWRwpm0tj8izGLcynXUXDozHwxK1nZNVxhDsw3qOiucXoeAQ=s90-c"
+            },
+            "sourceDisplayName": "Lecker",
+            "ingredients": [
+                "Vanilleschote",
+                "Milch",
+                "Speisest\u00e4rke",
+                "Eigelb",
+                "Zucker",
+                "\u00c4pfel",
+                "Weintraube",
+                "Pflaume",
+                "Zitrone",
+                "Joghurt",
+                "Zitronenmelisse"
+            ],
+            "id": "Obstsalat-mit-Joghurt-Vanille-Soe-825335",
+            "smallImageUrls": [
+                "http://lh3.googleusercontent.com/TO4fZfI-IqV-OFhwwrGUyMfmc2RHpR5c6bE8QLotmHdfq6Uah0T3uqB3Fw1-sw2RhwMjlYaFwPRjP9nWRLUqsA=s90"
+            ],
+            "recipeName": "Obstsalat mit Joghurt-Vanille-So\u00dfe",
+            "totalTimeInSeconds": 1500,
+            "attributes": {
+                "course": [
+                    "Desserts"
+                ]
+            },
+            "flavors": null,
+            "rating": 3
+        },
+        {
+            "imageUrlsBySize": {
+                "90": "http://lh3.googleusercontent.com/eDVHwgGgYxwmAYwpX1FVG88nTQdkvqyooIgTvPkTuXdByKRLs6wxa6e1dfXZGaof5IRYVm3mLsVpF9KBAjvP=s90-c"
+            },
+            "sourceDisplayName": "Lecker",
+            "ingredients": [
+                "Butter",
+                "Ei",
+                "Milch",
+                "Mehl",
+                "Zucker",
+                "Salz",
+                "Weichsel",
+                "Speisest\u00e4rke",
+                "Zitronenschale",
+                "\u00d6l",
+                "magerquark",
+                "Zitrone",
+                "Schmand",
+                "Eigelb",
+                "Mandelbl\u00e4tter",
+                "Puderzucker"
+            ],
+            "id": "Uberbackener-Palatschinken-823834",
+            "smallImageUrls": [
+                "http://lh3.googleusercontent.com/B_-fYqme2lj9-S9CzthtgIie-yKBK1lX-L01d1pjWUbb5wPpgQ7hmXQADAr3EOHZcR64axeLE-GNPJS3RLB7=s90"
+            ],
+            "recipeName": "U\u0308berbackener Palatschinken",
+            "totalTimeInSeconds": 4500,
+            "attributes": {},
+            "flavors": null,
+            "rating": 3
+        },
+        {
+            "imageUrlsBySize": {
+                "90": "http://lh3.googleusercontent.com/WbUCmr49_rSbim01v-sQr_9APd7b9bsHPqp_OyUROgQlRz0CJyTaq-O2FV3oDGwy7CVDSooHclN7i52tE8K9TVo=s90-c"
+            },
+            "sourceDisplayName": "Lecker",
+            "ingredients": [
+                "Teig",
+                "Marzipan",
+                "Mehl",
+                "Backpulver",
+                "weiche Butter",
+                "Zucker",
+                "Salz",
+                "Ei",
+                "Zitronenschale",
+                "\u00c4pfel",
+                "Zitronensaft",
+                "Haselnuss",
+                "Sultaninen",
+                "Eigelb",
+                "Schlabgobers",
+                "Puderzucker"
+            ],
+            "id": "Apfelkuchen-923159",
+            "smallImageUrls": [
+                "http://lh3.googleusercontent.com/7JZGzfJoShCey0QXEzAtAq6pOkCLGRWSyrsET_H3iYzGRCbnJJZ12ivmL0wTVh_CfK5kLR2W5FzKZZBfrOoQHA=s90"
+            ],
+            "recipeName": "Apfelkuchen",
+            "totalTimeInSeconds": 3600,
+            "attributes": {
+                "course": [
+                    "Desserts"
+                ]
+            },
+            "flavors": {
+                "sweet": 0.5,
+                "piquant": 0.0,
+                "sour": 0.16666666666666666,
+                "salty": 0.16666666666666666,
+                "meaty": 0.16666666666666666,
+                "bitter": 0.16666666666666666
+            },
+            "rating": 3
+        },
+        {
+            "imageUrlsBySize": {
+                "90": "http://lh3.googleusercontent.com/Grvqd2vFgzGmyjqTYpeh5WFFjh_vypCN6GlL2v9j7fKsp_oyt23ENhX_xO8o2gB6g2CpjR37NZaiN3mD5FCfEA=s90-c"
+            },
+            "sourceDisplayName": "Lecker",
+            "ingredients": [
+                "M\u00fcrbteig",
+                "Mehl",
+                "Zucker",
+                "Butter",
+                "Eigelb",
+                "\u00d6l",
+                "F\u00fcllung",
+                "Schattenmorellen",
+                "Speisest\u00e4rke",
+                "Zitrone",
+                "Gelatine",
+                "Kekse",
+                "Joghurt",
+                "Mascarpone",
+                "Schlabgobers",
+                "So\u00dfe",
+                "Zitronenmelisse"
+            ],
+            "id": "Joghurt-Amaretti-Torte-926075",
+            "smallImageUrls": [
+                "http://lh3.googleusercontent.com/uzWpAISdYpGh-0c8vX629TUvOhCMJ6AwXiS4LamJNikSX6RebzQLEiximklhndxB_-AlOUm2BjCfl671uDSpGHc=s90"
+            ],
+            "recipeName": "Joghurt-Amaretti-Torte",
+            "totalTimeInSeconds": 3600,
+            "attributes": {
+                "course": [
+                    "Desserts"
+                ]
+            },
+            "flavors": null,
+            "rating": 3
+        },
+        {
+            "imageUrlsBySize": {
+                "90": "http://lh3.googleusercontent.com/RD3rxc7dCEMQtoQsRIFP2zBID6uJPL0VUMOYqamaIQmQD_6_A2MA0cNQ01acHPNZvQOpVc0nhprize61qH1Y=s90-c"
+            },
+            "sourceDisplayName": "Lecker",
+            "ingredients": [
+                "Ei",
+                "Kr\u00e4uteressig",
+                "Salz",
+                "Pfeffer wei\u00df",
+                "Zucker",
+                "\u00d6l",
+                "Eigelb",
+                "Salbei",
+                "Dill",
+                "Petersile",
+                "Kerbel",
+                "Estragon",
+                "Lustock",
+                "Schnittlauch",
+                "Kressebl\u00e4tter",
+                "Brunnenkresse",
+                "Sauerampfer",
+                "Borretsch",
+                "Pimpinelle",
+                "Zitronenmelisse",
+                "Kr\u00e4uter"
+            ],
+            "id": "Frankfurter-Grune-Soe-922540",
+            "smallImageUrls": [
+                "http://lh3.googleusercontent.com/Np9suFUrO0lyQXRFrY8Hb_NSG1rJwVaE3073OIoe2BUMJMDhzwFyV75oV6PbP_SnD0yjVN-SoUSVBrG8Oxm_uQ=s90"
+            ],
+            "recipeName": "Frankfurter Gru\u0308ne So\u00dfe",
+            "totalTimeInSeconds": 1800,
+            "attributes": {},
+            "flavors": null,
+            "rating": 3
+        }
+    ],
+    "facetCounts": {},
+    "totalMatchCount": 7,
+    "attribution": {
+        "html": "Recipe search powered by <a href='http://www.yummly.co/recipes'><img alt='Yummly' src='https://static.yummly.co/api-logo.png'/></a>",
+        "url": "http://www.yummly.co/recipes/",
+        "text": "Recipe search powered by Yummly",
+        "logo": "https://static.yummly.co/api-logo.png"
+    }
+}

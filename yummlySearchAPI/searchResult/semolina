@@ -1,0 +1,375 @@
+{
+    "criteria": {
+        "q": "s+e+m+o+l+i+n+a",
+        "allowedIngredient": null,
+        "excludedIngredient": null
+    },
+    "matches": [
+        {
+            "recipeName": "Mary's Zucchini Bread (There's Non Better)",
+            "ingredients": [
+                "zucchini",
+                "all-purpose flour",
+                "sugar",
+                "canola oil",
+                "pure vanilla extract",
+                "cinnamon",
+                "salt",
+                "baking soda",
+                "ground cloves",
+                "baking powder",
+                "chopped walnuts"
+            ],
+            "totalTimeInSeconds": 4800,
+            "sourceDisplayName": "Food.com",
+            "id": "Mary_s-Zucchini-Bread-_there_s-Non-Better_-Recipezaar",
+            "rating": 4,
+            "flavors": {
+                "piquant": 0.0,
+                "meaty": 0.6666666666666666,
+                "bitter": 0.16666666666666666,
+                "sweet": 0.8333333333333334,
+                "sour": 0.3333333333333333,
+                "salty": 0.6666666666666666
+            },
+            "attributes": {
+                "course": [
+                    "Breads"
+                ]
+            }
+        },
+        {
+            "imageUrlsBySize": {
+                "90": "http://lh3.googleusercontent.com/2PIvbaraQsS2_KMpp0VVz1wGBLb80LqSNTjgthI-KqVt0RHpx2TixGxreTH-bomZsyIXpTdDSEqyXWvOy_hKX6k=s90-c"
+            },
+            "sourceDisplayName": "Lecker",
+            "ingredients": [
+                "Butter",
+                "Zucker",
+                "Mehl",
+                "Eigelb",
+                "Ei",
+                "Salz",
+                "Zitrone",
+                "magerquark",
+                "Milch",
+                "semolina",
+                "Erdbeere",
+                "Tortenguss",
+                "Fett",
+                "H\u00fclsenfr\u00fcchte"
+            ],
+            "id": "Erdbeer-Kasekuchen-921074",
+            "smallImageUrls": [
+                "http://lh3.googleusercontent.com/GdptLpj8dgCibi9LsdeI92EMegP3MasA9HsUJr3I24u5u3kwPmNfw7Q_wOValw66j8q2l-0lj6h0SwBFAFfg3A=s90"
+            ],
+            "recipeName": "Erdbeer-Ka\u0308sekuchen",
+            "totalTimeInSeconds": 7200,
+            "attributes": {
+                "course": [
+                    "Desserts"
+                ]
+            },
+            "flavors": null,
+            "rating": 3
+        },
+        {
+            "imageUrlsBySize": {
+                "90": "http://lh3.googleusercontent.com/VXAPRY9jWyHZf1s5mKf2CS3Hy5Fk9AykQJb0XH034mPNOss1Axvqrj4bPIiJoR54fEqcwJPZLo1Tm07K3E6Ecw=s90-c"
+            },
+            "sourceDisplayName": "Lecker",
+            "ingredients": [
+                "Ei",
+                "Salz",
+                "Puderzucker",
+                "Mehl",
+                "Backpulver",
+                "Milch",
+                "Zucker",
+                "Bourbon-Vanillezucker",
+                "Rum",
+                "Alchermes",
+                "Obst"
+            ],
+            "id": "Zuppa-Inglese-Alla-Romana-928990",
+            "smallImageUrls": [
+                "http://lh3.googleusercontent.com/GsaNiq-M3TwVnS7PH3zu7zGGA-lECTCgjuiOmvrAG04z_tnc1rdqLO2YHRos6NFGH9ZXOCH-s_y96k3xTTrsMQ=s90"
+            ],
+            "recipeName": "Zuppa Inglese Alla Romana",
+            "totalTimeInSeconds": 3600,
+            "attributes": {
+                "course": [
+                    "Desserts"
+                ]
+            },
+            "flavors": null,
+            "rating": 3
+        },
+        {
+            "imageUrlsBySize": {
+                "90": "http://lh3.googleusercontent.com/cv4sK3zrBBcqyqRR-c5IuWmnENx2dwGwFUKp_40n8Llt2LtfbzGUSAx963Y9iKdhJhOzYo6Ktdt9f9VL07gGUDA=s90-c"
+            },
+            "sourceDisplayName": "Lecker",
+            "ingredients": [
+                "weiche Butter",
+                "Vanillezucker",
+                "Puderzucker",
+                "Ei",
+                "Mehl",
+                "Backpulver",
+                "Espresso",
+                "Milch",
+                "Speisest\u00e4rke",
+                "Zucker",
+                "Eigelb"
+            ],
+            "id": "Creme-brulee-Squares-843769",
+            "smallImageUrls": [
+                "http://lh3.googleusercontent.com/ph9bQLhrWgB3IWSCB1C0UgknQKZ0I2gaYz7D_06yGr-bccqHLBgFfH1AYaZgaI6HUlHLOmb40oyFSqFXY8UradE=s90"
+            ],
+            "recipeName": "Cre\u0300me-bru\u0302le\u0301e Squares",
+            "totalTimeInSeconds": 3600,
+            "attributes": {},
+            "flavors": {
+                "sweet": 0.6666666666666666,
+                "piquant": 0.0,
+                "sour": 0.16666666666666666,
+                "salty": 0.16666666666666666,
+                "meaty": 0.16666666666666666,
+                "bitter": 0.16666666666666666
+            },
+            "rating": 3
+        },
+        {
+            "imageUrlsBySize": {
+                "90": "http://lh3.googleusercontent.com/NyvxgIBrbwuofoJ3X3Wj0cjvmbe1waIw3Wcj9DochgiGQKiUULbWFYTmV3XVL3_YywZRkbJoiXLLJHyqhlKS=s90-c"
+            },
+            "sourceDisplayName": "Lecker",
+            "ingredients": [
+                "Mehl",
+                "Zucker",
+                "Salz",
+                "weiche Butter",
+                "Speisequark",
+                "Ei",
+                "aroma",
+                "Zitrone",
+                "Weizen",
+                "Kirsche",
+                "Kirschnektar",
+                "Tortenguss",
+                "Himbeergelee",
+                "Zitronenmelisse",
+                "Fett"
+            ],
+            "id": "Kirschkasekuchen-923425",
+            "smallImageUrls": [
+                "http://lh3.googleusercontent.com/Z_gHPiKUxcXLFA1auz4aJFp4aqdKeYpYhCvSzP5LyWmyJPkuBZtOzJTHFXsEi9CxxQFOzEadjHd3AwGQXa-RwAU=s90"
+            ],
+            "recipeName": "Kirschka\u0308sekuchen",
+            "totalTimeInSeconds": 5400,
+            "attributes": {
+                "course": [
+                    "Desserts"
+                ]
+            },
+            "flavors": null,
+            "rating": 3
+        },
+        {
+            "imageUrlsBySize": {
+                "90": "http://lh3.googleusercontent.com/ythkyxTEEaE9dpi9tG0WRA8Y3LQDB02_73QrmNR6GvJRS1pv6PZ_t2JE_phsAsZwLEboVTeTQUHV_Jies_6NIA=s90-c"
+            },
+            "sourceDisplayName": "Lecker",
+            "ingredients": [
+                "Blaubeere",
+                "Waffelr\u00f6llchen",
+                "Eigelb",
+                "Zucker",
+                "Buttermilch",
+                "Zitrone",
+                "Schlabgobers"
+            ],
+            "id": "Heidelbeer-Buttermilch-Eistorte-925422",
+            "smallImageUrls": [
+                "http://lh3.googleusercontent.com/xm-5lrV5shz4CpR4kPT6P7w_GumBRsCfg3mWG-VAhfa3YFUuqgI5R0c0cA1WKHA0LTkJ1DsVoZ5j62Ewyb-5j_Y=s90"
+            ],
+            "recipeName": "Heidelbeer-Buttermilch-Eistorte",
+            "totalTimeInSeconds": 2400,
+            "attributes": {
+                "course": [
+                    "Desserts"
+                ]
+            },
+            "flavors": {
+                "sweet": 0.8333333333333334,
+                "piquant": 0.0,
+                "sour": 0.16666666666666666,
+                "salty": 0.16666666666666666,
+                "meaty": 0.16666666666666666,
+                "bitter": 0.16666666666666666
+            },
+            "rating": 3
+        },
+        {
+            "imageUrlsBySize": {
+                "90": "http://lh3.googleusercontent.com/6b79MGYibsC5Xm_ts6rnLC4CNVheMtCv8mTAxOVvy7jnhnkVH9sqlpVVKvoW8CqEFKGV3eGxDWdbzcTyxyEovaQ=s90-c"
+            },
+            "sourceDisplayName": "Lecker",
+            "ingredients": [
+                "Ei",
+                "Zucker",
+                "Mehl",
+                "Speisest\u00e4rke",
+                "Kakaopulver",
+                "Backpulver",
+                "Gelatine",
+                "Rhabarber",
+                "Grenadinesirup",
+                "Zitronensaft",
+                "Zimt",
+                "Rosewein",
+                "Eigelb",
+                "Mandel",
+                "Milch",
+                "Mandellk\u00f6r",
+                "Schlabgobers",
+                "Schokoraspel"
+            ],
+            "id": "Rhabarber-Amaretto-Torte-835983",
+            "smallImageUrls": [
+                "http://lh3.googleusercontent.com/5XSHuGgel5FpdeH8GcWs9JQefLd4aXBmYaLokNElmJKZlBx-683dxdhO_QfuobT7sqG3ViGce483N_QKMBBw=s90"
+            ],
+            "recipeName": "Rhabarber-Amaretto-Torte",
+            "totalTimeInSeconds": 7200,
+            "attributes": {
+                "course": [
+                    "Desserts"
+                ]
+            },
+            "flavors": {
+                "sweet": 0.8333333333333334,
+                "piquant": 0.0,
+                "sour": 0.16666666666666666,
+                "salty": 0.16666666666666666,
+                "meaty": 0.3333333333333333,
+                "bitter": 0.3333333333333333
+            },
+            "rating": 3
+        },
+        {
+            "imageUrlsBySize": {
+                "90": "http://lh3.googleusercontent.com/j0_VyBaMX_I4FcLFd1Tl5zksSgcmRnmAiVRWKa3h2_kx6v-fAJGKtxg1-AkX1r7ibUKIQEdTgf516VeFA5LObgo=s90-c"
+            },
+            "sourceDisplayName": "Lecker",
+            "ingredients": [
+                "Ei",
+                "Fruchtzucker",
+                "Vanilleschote",
+                "Mehl",
+                "Speisest\u00e4rke",
+                "Backpulver",
+                "Gelatine",
+                "Milch",
+                "Salz",
+                "Zitrone",
+                "Schlabgobers",
+                "Eigelb",
+                "magerquark",
+                "Streus\u00fc\u00dfe"
+            ],
+            "id": "Quark-Sahnetorte-_Diabetiker_-818655",
+            "smallImageUrls": [
+                "http://lh3.googleusercontent.com/hiYzJ49d7CWxJbzg_L8fdzaNM80Jbr0ZV_4PzmDJ9FM5K-ZcUlPVVfEYzz6geT4hdPCAmsyO-o6ROF-LSWB_=s90"
+            ],
+            "recipeName": "Quark-Sahnetorte (Diabetiker)",
+            "totalTimeInSeconds": 4500,
+            "attributes": {
+                "course": [
+                    "Desserts"
+                ]
+            },
+            "flavors": {
+                "sweet": 0.5,
+                "piquant": 0.0,
+                "sour": 0.6666666666666666,
+                "salty": 0.5,
+                "meaty": 0.8333333333333334,
+                "bitter": 0.8333333333333334
+            },
+            "rating": 3
+        },
+        {
+            "imageUrlsBySize": {
+                "90": "http://lh3.googleusercontent.com/26irdxmHPr3KD_zmJOylSr32_-ItzEA9Za1dIXu5mBg5etEOsC-ldMOB-TmZrLTQZJ5mu6YlW7tbxjfAvzay=s90-c"
+            },
+            "sourceDisplayName": "Lecker",
+            "ingredients": [
+                "Butter",
+                "Mehl",
+                "Eigelb",
+                "Salz",
+                "Zucker",
+                "Kuvert\u00fcre",
+                "Obersk\u00e4se",
+                "Rahm",
+                "Ei",
+                "Puddingpulver",
+                "Schlabgobers",
+                "PeBechern\u00fcsse",
+                "Kakaopulver"
+            ],
+            "id": "Schokoladen-Kase-Tarte-823433",
+            "smallImageUrls": [
+                "http://lh3.googleusercontent.com/OMCRJdew5fcK4j2Ofted69AoIWX30ZBEnhoHidJHjsSU4zXZdl4R1IyLZrCnbhs1hnTZJ1Rci6cGlZzjXPnTxyc=s90"
+            ],
+            "recipeName": "Schokoladen-Ka\u0308se-Tarte",
+            "totalTimeInSeconds": 6300,
+            "attributes": {
+                "course": [
+                    "Desserts"
+                ]
+            },
+            "flavors": null,
+            "rating": 3
+        },
+        {
+            "imageUrlsBySize": {
+                "90": "http://lh3.googleusercontent.com/NjkLDpAnQASljpYMRYyaQo9zzIMRvBrPt2ifE4zVwnvVLsZwl0yEcoVZSy54eZo9wSZAQhxRmVNkHaxRjtkz=s90-c"
+            },
+            "sourceDisplayName": "Lecker",
+            "ingredients": [
+                "Speisequark",
+                "Zucker",
+                "Zitronensaft",
+                "Ei",
+                "Puddingpulver",
+                "Saucenpulver",
+                "Apfelmus",
+                "Schlabgobers",
+                "Minzblatt"
+            ],
+            "id": "Schneller-Apfel-Kase-Kuchen-922722",
+            "smallImageUrls": [
+                "http://lh3.googleusercontent.com/rRNBo0GGOF4j5pB2WjzKq5UJMGBzMaqJQ9BjUYzS1-Xge8Li28EcFKuHg4acs03-MHTIQyUmQLWg7AcvDINy=s90"
+            ],
+            "recipeName": "Schneller Apfel-Ka\u0308se-Kuchen",
+            "totalTimeInSeconds": 4500,
+            "attributes": {
+                "course": [
+                    "Desserts"
+                ]
+            },
+            "flavors": null,
+            "rating": 3
+        }
+    ],
+    "facetCounts": {},
+    "totalMatchCount": 128,
+    "attribution": {
+        "html": "Recipe search powered by <a href='http://www.yummly.co/recipes'><img alt='Yummly' src='https://static.yummly.co/api-logo.png'/></a>",
+        "url": "http://www.yummly.co/recipes/",
+        "text": "Recipe search powered by Yummly",
+        "logo": "https://static.yummly.co/api-logo.png"
+    }
+}

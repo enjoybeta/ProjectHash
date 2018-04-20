@@ -1,0 +1,323 @@
+{
+    "criteria": {
+        "q": "N+u+s+s",
+        "allowedIngredient": null,
+        "excludedIngredient": null
+    },
+    "matches": [
+        {
+            "imageUrlsBySize": {
+                "90": "http://lh5.ggpht.com/Ux7HroXqnoUoZaeooK55fNTYB4h44_3gMFG3jNQX1MUGUxFhuEjiiVU5E79BdmQVfmIOIk2E-c9QSl0XOPScqg=s90-c"
+            },
+            "sourceDisplayName": "Once Upon A Chef",
+            "ingredients": [
+                "milk",
+                "active dry yeast",
+                "light brown sugar",
+                "all-purpose flour",
+                "unsalted butter",
+                "fine salt",
+                "baking soda",
+                "coarse salt"
+            ],
+            "id": "Soft-Pretzels-Once-Upon-A-Chef-199961",
+            "smallImageUrls": [
+                "http://lh3.ggpht.com/X7gzSRymjprcOu4AVHg0A5oKHNDuU5ZVB3BR-Sp75tbmzLC9f21U42vBdS3tr9tNmBao-95A9SuoP80Tu3FaOA=s90"
+            ],
+            "recipeName": "Soft Pretzels",
+            "totalTimeInSeconds": 5400,
+            "attributes": {
+                "course": [
+                    "Breads",
+                    "Lunch",
+                    "Snacks"
+                ],
+                "cuisine": [
+                    "German"
+                ]
+            },
+            "flavors": {
+                "piquant": 0.0,
+                "meaty": 0.16666666666666666,
+                "bitter": 0.8333333333333334,
+                "sweet": 0.5,
+                "sour": 0.16666666666666666,
+                "salty": 0.8333333333333334
+            },
+            "rating": 5
+        },
+        {
+            "imageUrlsBySize": {
+                "90": "https://lh3.googleusercontent.com/NYiqbItU_wPggBTXQ5Z1k9Xo-JDKfjVrCyqGoBrDWFyTJ6OE-gR95eVDHKxe2T2e3dPcxIHvbRB7g7gMMZ_g5Q=s90-c"
+            },
+            "sourceDisplayName": "Southern Bite",
+            "ingredients": [
+                "cooked chicken",
+                "instant rice",
+                "cream of chicken soup",
+                "sour cream",
+                "diced onions",
+                "diced tomatoes and green chilies",
+                "chicken broth",
+                "fajita seasoning mix",
+                "Mexican cheese blend"
+            ],
+            "id": "Fajita-Chicken-Casserole---Advantium-240-Wall-Oven-Version-2223892",
+            "smallImageUrls": [
+                "https://lh3.googleusercontent.com/YzmEtbtjEmATC_WIWe37Did14KJWg6xVL17gLCL8bSuNhQATGQjpRmK0f6SoR3Ew1VIrDwQI6SGGm2ikhQPe=s90"
+            ],
+            "recipeName": "Fajita Chicken Casserole - Advantium 240 Wall Oven Version",
+            "totalTimeInSeconds": 1500,
+            "attributes": {
+                "course": [
+                    "Main Dishes"
+                ]
+            },
+            "flavors": {
+                "piquant": 0.16666666666666666,
+                "meaty": 0.3333333333333333,
+                "bitter": 0.5,
+                "sweet": 0.16666666666666666,
+                "sour": 0.16666666666666666,
+                "salty": 0.6666666666666666
+            },
+            "rating": 4
+        },
+        {
+            "imageUrlsBySize": {
+                "90": "https://lh3.googleusercontent.com/Be7X6zd2-XrpF9xBFHP80zOKXWYhjHTWauUKNGPmBFeCH_pPf7cFoJ-6KjQzaGYBeZTy8gFbZqVy69vBMzN9jFE=s90-c"
+            },
+            "sourceDisplayName": "Watch what u eat",
+            "ingredients": [
+                "pineapple",
+                "strawberries",
+                "lemon",
+                "grape juice",
+                "carbonated water",
+                "agave nectar",
+                "mint leaves",
+                "ice cubes"
+            ],
+            "id": "Pineapple-_-Strawberry-Sangria-1572040",
+            "smallImageUrls": [
+                "https://lh3.googleusercontent.com/hZhw54XQl1z823ueRYfMII9iwOSMs6PU2bJvvSjDOGMna-8u_29gbERli4Gni_iqT8UO6nntzUvA4LrMcOA1=s90"
+            ],
+            "recipeName": "Pineapple & Strawberry Sangria",
+            "totalTimeInSeconds": 900,
+            "attributes": {
+                "course": [
+                    "Beverages"
+                ]
+            },
+            "flavors": null,
+            "rating": 3
+        },
+        {
+            "imageUrlsBySize": {
+                "90": "https://lh3.googleusercontent.com/JMCfw_7KqQfOkE6Q3-OlE-hbQRgPUGjVSaByS1_plBErWJCi2gcmEkBgoZOU7MoDA5965H-6H77meexWJ-D1=s90-c"
+            },
+            "sourceDisplayName": "Mary's Busy Kitchen",
+            "ingredients": [
+                "pie crust",
+                "margarine",
+                "sugar",
+                "vanilla",
+                "eggs",
+                "unsweetened chocolate"
+            ],
+            "id": "Aunt-Pollys-U-NO-Pie-2167819",
+            "smallImageUrls": [
+                "https://lh3.googleusercontent.com/MTdkuQPErY-CUWV6fMb8fKwYXTwWQZpBYu9WSA1jYhCVPwYa53q9eDNyyyKYkZ9TTwajCKK3uNgpYDDG1gRJ-w=s90"
+            ],
+            "recipeName": "Aunt Polly\u2019s U-NO Pie",
+            "totalTimeInSeconds": 2100,
+            "attributes": {
+                "course": [
+                    "Desserts"
+                ]
+            },
+            "flavors": null,
+            "rating": 4
+        },
+        {
+            "imageUrlsBySize": {
+                "90": "http://lh5.ggpht.com/PE-29jh71ZaL_sZSZxFIhSOD_YNCwdif2GlFdU9KlADeYVrSij0ZJOfZ6ns4gVdTXkLwepI9nZ0x4qlSBvVFDQ=s90-c"
+            },
+            "sourceDisplayName": "Whole Foods Market",
+            "ingredients": [
+                "extra-virgin olive oil",
+                "ground black pepper",
+                "unsalted butter",
+                "sea scallops",
+                "fine sea salt"
+            ],
+            "id": "Seared-Scallops-974220",
+            "smallImageUrls": [
+                "http://lh6.ggpht.com/9qo_IPPcRLTY3-QL_xIwQN6zJtT6DuCgPRT3nV-rgdb8fRPeKbklvBjg6PU8ZQXmd6Wx3xIIcuz-_v79V1VyPg=s90"
+            ],
+            "recipeName": "Seared Scallops",
+            "totalTimeInSeconds": 2700,
+            "attributes": {},
+            "flavors": {
+                "sweet": 0.0,
+                "piquant": 0.0,
+                "sour": 0.16666666666666666,
+                "salty": 0.8333333333333334,
+                "meaty": 0.6666666666666666,
+                "bitter": 0.8333333333333334
+            },
+            "rating": 3
+        },
+        {
+            "imageUrlsBySize": {
+                "90": "https://lh3.googleusercontent.com/QsUxdeYTc9H2grsng_9WbfDCr5mYIj_6uFVik6MTgKU89zETJi0GG4iPjRoRBq38-Y9aY1WPVw6y19CNT1iYqQ=s90-c"
+            },
+            "sourceDisplayName": "Saveur",
+            "ingredients": [
+                "amontillado sherry",
+                "pineapple juice",
+                "italian vermouth",
+                "Sabra Chocolate Orange Liqueur",
+                "Angostura Aromatic Bitters",
+                "pineapple"
+            ],
+            "id": "The-U_S_S_-Wondrich-1495299",
+            "smallImageUrls": [
+                "https://lh3.googleusercontent.com/g8M6M7dmXmiViPYXV3HmTsn8OADcxUr8tONNzY6OUQwmdh4Dn9PMUG4l38W8ZtudCktf1MfwnpLm2pjuwZcpQl8=s90"
+            ],
+            "recipeName": "The U.S.S. Wondrich",
+            "totalTimeInSeconds": null,
+            "attributes": {},
+            "flavors": null,
+            "rating": 3
+        },
+        {
+            "imageUrlsBySize": {
+                "90": "https://lh3.googleusercontent.com/46f_cxHoBgKaxmFnqbSOjbrg_Kl-vg7TbXWws2C8Rj-tp_XG702k318ROrmkXE8I_cz5Ycc6y_jhlCBpdf_1=s90-c"
+            },
+            "sourceDisplayName": "Watch what u eat",
+            "ingredients": [
+                "lemon juice",
+                "mango",
+                "honey",
+                "cold water",
+                "fresh mint",
+                "ice",
+                "lemon"
+            ],
+            "id": "Refreshing-Homemade-Mango-Lemonade-2127926",
+            "smallImageUrls": [
+                "https://lh3.googleusercontent.com/xAN9bv30eo_GG8Rgf3VXM5QSvyVkdzlXPjKBxYZobLdBvNnGGJCqpMWM3lSQvctDzdH_VlpyVfs7V2peiLXXvQ=s90"
+            ],
+            "recipeName": "Refreshing Homemade Mango Lemonade",
+            "totalTimeInSeconds": 600,
+            "attributes": {
+                "course": [
+                    "Beverages"
+                ]
+            },
+            "flavors": null,
+            "rating": 3
+        },
+        {
+            "imageUrlsBySize": {
+                "90": "http://lh3.ggpht.com/yL4lEC7JaYvrX_EyApbvtj1wXfmKtsCdq4mTXwNW735VYjWTfO1Zv_ea94JWyrg_tFBSh1-I8Qf0URbJ5Bq3ZQQ=s90-c"
+            },
+            "sourceDisplayName": "Serious Eats",
+            "ingredients": [
+                "ground black pepper",
+                "kosher salt",
+                "chicken",
+                "sausage meat",
+                "duck",
+                "vegetable oil",
+                "turkey"
+            ],
+            "id": "The-ultimate-turducken-304845",
+            "smallImageUrls": [
+                "http://lh5.ggpht.com/C-Yud-lRE7Rc11QNGQJ3UJikemdFvgfEIBMKojK315sQZqvE_lUW4ZP8j4_AxjuJxIFg-60TzHVvjD6puMcevQ=s90"
+            ],
+            "recipeName": "The Ultimate Turducken",
+            "totalTimeInSeconds": 21600,
+            "attributes": {},
+            "flavors": null,
+            "rating": 5
+        },
+        {
+            "imageUrlsBySize": {
+                "90": "https://lh3.googleusercontent.com/xWfbGg2VWYgtyzSf7Q2mdDB3ipYEjiz9gYA1a2UoJ-C5L7cIJ0pAtJm_vpbeTpYjg977amgkdKf9iaP2C8bP1S8=s90-c"
+            },
+            "sourceDisplayName": "4u1s",
+            "ingredients": [
+                "chicken fingers",
+                "bacon",
+                "firmly packed brown sugar",
+                "chili powder"
+            ],
+            "id": "Best-Ever-Bacon-Wrapped-Chicken-Tenders-2236272",
+            "smallImageUrls": [
+                "https://lh3.googleusercontent.com/1fJnActWWHZpoua-mY3bV3h691eEYEaK5W0_54jWfTFizyNE99L_2hYpI60jYul5qGOd_mcMBA7qlYmoZePNTq0=s90"
+            ],
+            "recipeName": "Best Ever Bacon Wrapped Chicken Tenders",
+            "totalTimeInSeconds": 1800,
+            "attributes": {
+                "cuisine": [
+                    "Kid-Friendly"
+                ]
+            },
+            "flavors": {
+                "piquant": 0.5,
+                "meaty": 0.8333333333333334,
+                "bitter": 0.3333333333333333,
+                "sweet": 0.6666666666666666,
+                "sour": 0.16666666666666666,
+                "salty": 0.6666666666666666
+            },
+            "rating": 4
+        },
+        {
+            "imageUrlsBySize": {
+                "90": "https://lh3.googleusercontent.com/x-sT0HBHbpnRSPBDE4d_X6oJZCLDDUI2yVhAsJN8fJOhm4iLshed8uYiAdZ-Tqflx51J3BGcarP_sMRz8ea_GQ=s90-c"
+            },
+            "sourceDisplayName": "Love and Lemons",
+            "ingredients": [
+                "maple syrup",
+                "active dry yeast",
+                "water",
+                "oil",
+                "white flour",
+                "salt",
+                "baking soda"
+            ],
+            "id": "Vegan-Soft-Baked-Pretzels-2118700",
+            "smallImageUrls": [
+                "https://lh3.googleusercontent.com/SZXhaj89SXDJug2qzRCuSkzSsLfpDiR8jl_cj-ISgEtczEd0ucWxbivI6sGGwO0fJaN8fauqlBW-iuCkIB8yMrU=s90"
+            ],
+            "recipeName": "Vegan Soft Baked Pretzels",
+            "totalTimeInSeconds": 4200,
+            "attributes": {
+                "course": [
+                    "Breads",
+                    "Lunch"
+                ]
+            },
+            "flavors": {
+                "piquant": 0.0,
+                "meaty": 0.16666666666666666,
+                "bitter": 0.16666666666666666,
+                "sweet": 0.16666666666666666,
+                "sour": 0.0,
+                "salty": 0.8333333333333334
+            },
+            "rating": 4
+        }
+    ],
+    "facetCounts": {},
+    "totalMatchCount": 2417,
+    "attribution": {
+        "html": "Recipe search powered by <a href='http://www.yummly.co/recipes'><img alt='Yummly' src='https://static.yummly.co/api-logo.png'/></a>",
+        "url": "http://www.yummly.co/recipes/",
+        "text": "Recipe search powered by Yummly",
+        "logo": "https://static.yummly.co/api-logo.png"
+    }
+}

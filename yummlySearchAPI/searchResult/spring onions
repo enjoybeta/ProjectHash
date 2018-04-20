@@ -27,7 +27,11 @@
             ],
             "recipeName": "Rainbow Cube Bread",
             "totalTimeInSeconds": 4800,
-            "attributes": {},
+            "attributes": {
+                "course": [
+                    "Breads"
+                ]
+            },
             "flavors": null,
             "rating": 4
         }

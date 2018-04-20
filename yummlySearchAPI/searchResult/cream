@@ -1,0 +1,355 @@
+{
+    "criteria": {
+        "q": "c+r+e+a+m",
+        "allowedIngredient": null,
+        "excludedIngredient": null
+    },
+    "matches": [
+        {
+            "imageUrlsBySize": {
+                "90": "http://lh3.googleusercontent.com/yM_wrkHRrO2nfsf0-Baoxyk22zOX1hyRTjaG4o54DZbzhmLiPRsvaQWdb0k2lRW9cau0BYwXwGQRjDvpI3Dmdg=s90-c"
+            },
+            "sourceDisplayName": "Lecker",
+            "ingredients": [
+                "Mehl",
+                "Backpulver",
+                "Butter",
+                "Ei",
+                "Schlabgobers",
+                "Konfit\u00fcre",
+                "Puderzucker"
+            ],
+            "id": "Marmeladenplatzchen-822176",
+            "smallImageUrls": [
+                "http://lh3.googleusercontent.com/jHUQxgY2xRy1m3e2wlvU8r1hb2d_AG9x1AwzfLOCXl2W3Eiq731FjYxpqAR-pZsIEwu9mhPtrzZK7AQyXfzqQw=s90"
+            ],
+            "recipeName": "Marmeladenpla\u0308tzchen",
+            "totalTimeInSeconds": 2100,
+            "attributes": {
+                "course": [
+                    "Desserts"
+                ]
+            },
+            "flavors": {
+                "sweet": 0.6666666666666666,
+                "piquant": 0.0,
+                "sour": 0.16666666666666666,
+                "salty": 0.3333333333333333,
+                "meaty": 0.6666666666666666,
+                "bitter": 0.16666666666666666
+            },
+            "rating": 3
+        },
+        {
+            "imageUrlsBySize": {
+                "90": "http://lh3.googleusercontent.com/bcIsEyg90uav9jAFTk8KzPfLhw_0B7SdYv_mEzf-Hkqjuie8KRMqHn4G_AYRELRedwGsIFCTqD_sLA1QrjpZ=s90-c"
+            },
+            "sourceDisplayName": "Lecker",
+            "ingredients": [
+                "Schattenmorellen",
+                "Butter",
+                "Mehl",
+                "Zucker",
+                "Ei",
+                "magerquark",
+                "Zitrone",
+                "semolina",
+                "Fett",
+                "Puderzucker"
+            ],
+            "id": "Kirsch-Streuselkuchen-921197",
+            "smallImageUrls": [
+                "http://lh3.googleusercontent.com/aHA_kpzcHP7oI1K7tfehNoZunYZ6jfa1V24rLOqmJ7vapZNLoEls0Qbvdbe6-iKYekvBmWIdahf0K5nGN-13Ew=s90"
+            ],
+            "recipeName": "Kirsch-Streuselkuchen",
+            "totalTimeInSeconds": 5400,
+            "attributes": {
+                "course": [
+                    "Desserts"
+                ]
+            },
+            "flavors": null,
+            "rating": 3
+        },
+        {
+            "imageUrlsBySize": {
+                "90": "http://lh3.googleusercontent.com/t6Y8Fl6JjLXWssQyF1N30Kcp2i8iJ60CrnporjxsBXCKzwziLDMBfzgvy90VEPOHocVSPNO5XC_t0puQlf0dJg=s90-c"
+            },
+            "sourceDisplayName": "Lecker",
+            "ingredients": [
+                "Kuvert\u00fcre",
+                "wiener",
+                "Ei",
+                "weiche Butter",
+                "Zucker",
+                "Mandel",
+                "Kokosfett",
+                "Mandelbl\u00e4tter",
+                "Mehl"
+            ],
+            "id": "Klassischer-Rehrucken-817257",
+            "smallImageUrls": [
+                "http://lh3.googleusercontent.com/bA5FvG8eb0xovIWR0joULwwoEDA-vV137MydVQJZuP7KWXam0hCcVSaaj3fJ6zWGjv5x6Pks4KHJcozr4w16DQ=s90"
+            ],
+            "recipeName": "Klassischer Rehru\u0308cken",
+            "totalTimeInSeconds": 5400,
+            "attributes": {
+                "course": [
+                    "Desserts"
+                ]
+            },
+            "flavors": {
+                "sweet": 0.8333333333333334,
+                "piquant": 0.0,
+                "sour": 0.0,
+                "salty": 0.5,
+                "meaty": 0.8333333333333334,
+                "bitter": 0.8333333333333334
+            },
+            "rating": 3
+        },
+        {
+            "imageUrlsBySize": {
+                "90": "http://lh3.googleusercontent.com/A3mYXfoadgnBPxpTErwiwX_GSgxjfd4HCp3Udq3vBSbZeeqlsbmiLlvXu100maVSmSqGI7ulcKWwYmcJJBm28xc=s90-c"
+            },
+            "sourceDisplayName": "Lecker",
+            "ingredients": [
+                "Weichsel",
+                "Ei",
+                "Marzipan",
+                "Filoteig",
+                "Schlabgobers",
+                "Mandelbl\u00e4tter",
+                "Puderzucker",
+                "Zitronenmelisse"
+            ],
+            "id": "Kirsch-Marzipan-Strudel-925256",
+            "smallImageUrls": [
+                "http://lh3.googleusercontent.com/vXqcjTOXyW2yIkhDdkZCH1uEcosXwQhMtmGPdJltd94-zWoJTn8rzfIzbig8MdxOD4erGp03cl3yNUxlalGAV8I=s90"
+            ],
+            "recipeName": "Kirsch-Marzipan-Strudel",
+            "totalTimeInSeconds": 4500,
+            "attributes": {
+                "course": [
+                    "Desserts"
+                ]
+            },
+            "flavors": null,
+            "rating": 3
+        },
+        {
+            "imageUrlsBySize": {
+                "90": "http://lh3.googleusercontent.com/5fZ0O8qRyBXXP16kIm1qN_a9Dy92LZ-XqAOpyZp5AAkSbqf4t98agr1_0tn8veuc7AsQj44XfaOyNnxx0nZArw=s90-c"
+            },
+            "sourceDisplayName": "Lecker",
+            "ingredients": [
+                "Mehl",
+                "Salz",
+                "Trockenhefe",
+                "Zucker",
+                "Milch",
+                "Butter",
+                "Walnuss",
+                "\u00c4pfel",
+                "Zitronensaft",
+                "Schmand",
+                "Ei",
+                "Fett"
+            ],
+            "id": "Apfelkuchen-mit-Schmand-825062",
+            "smallImageUrls": [
+                "http://lh3.googleusercontent.com/g9d9sBItY2ZvZCqY7PhdvSm_rqnQ35SD_pE9POrXEWRCdXTHJq7c3ZJdQyco-nTpGdUsDe_aobO6I029_TyB=s90"
+            ],
+            "recipeName": "Apfelkuchen mit Schmand",
+            "totalTimeInSeconds": 4500,
+            "attributes": {
+                "course": [
+                    "Desserts"
+                ]
+            },
+            "flavors": null,
+            "rating": 3
+        },
+        {
+            "imageUrlsBySize": {
+                "90": "http://lh3.googleusercontent.com/YHxOvqSGsXDxThuSB3fey1YnPqGKdrrrzi0PSTJ1PL0n5nYgDfZagolR3i53FmDH5GD7ImxntJagc1yosdyOiQ=s90-c"
+            },
+            "sourceDisplayName": "Lecker",
+            "ingredients": [
+                "Butter",
+                "Nuss-Nougat-Creme",
+                "Zucker",
+                "Ei",
+                "Mehl",
+                "Backpulver",
+                "Milch",
+                "Puderzucker",
+                "Haselnuss"
+            ],
+            "id": "Nuss-Nougat-Amerikaner-830235",
+            "smallImageUrls": [
+                "http://lh3.googleusercontent.com/JsOrNs2gpmk5lSJxjZ3vZ6flsdpmm8xJb3ST5dk7VdDIDtJhGFCJ4MI4jvpYl0Xt2oyH0HuP7JVkAVpgx9US=s90"
+            ],
+            "recipeName": "Nuss-Nougat-Amerikaner",
+            "totalTimeInSeconds": 2700,
+            "attributes": {
+                "course": [
+                    "Desserts"
+                ]
+            },
+            "flavors": null,
+            "rating": 3
+        },
+        {
+            "imageUrlsBySize": {
+                "90": "http://lh3.googleusercontent.com/Y5Qs66LDClWLajVNTpmVdH4U_Osw5pP8DyOHSu9d7-up0jKzZEc3FuB5WvAub3KfM-91R2sBd6PuYtyy1R05Pw=s90-c"
+            },
+            "sourceDisplayName": "Lecker",
+            "ingredients": [
+                "Semmelbrot",
+                "Milch",
+                "Ei",
+                "Salz",
+                "Pfeffer",
+                "Musskatnuss",
+                "Mehl",
+                "Gans",
+                "Zwiebel",
+                "K\u00fcmmel",
+                "Wei\u00dfkohl",
+                "Kartoffel",
+                "\u00c4pfel",
+                "Weissweinessig",
+                "Petersile"
+            ],
+            "id": "Gans-auf-Weikohl-mit-Semmelknodel-824599",
+            "smallImageUrls": [
+                "http://lh3.googleusercontent.com/EIwayUI1ZKRJIclQMbVOM06tMNRk22f9QnIvRXOj8Jk7jAWrwgwc0mSK5Wq9CBE0bIcI1uQIxCmQPOD2C-ypzhM=s90"
+            ],
+            "recipeName": "Gans auf Wei\u00dfkohl mit Semmelkno\u0308del",
+            "totalTimeInSeconds": 5400,
+            "attributes": {},
+            "flavors": null,
+            "rating": 3
+        },
+        {
+            "imageUrlsBySize": {
+                "90": "http://lh3.googleusercontent.com/eY5PUaQrMPr_IH3O6T-i-zQ79qhrtUMOHXBOp5KofuQ5bTjqGrxS3wAvhEAoyKLlHcMbOP84Bm2HmE9tYu9Oew=s90-c"
+            },
+            "sourceDisplayName": "Lecker",
+            "ingredients": [
+                "Butter",
+                "Zucker",
+                "Ei",
+                "Mehl",
+                "Backpulver",
+                "Milch",
+                "Erdbeere",
+                "Gelatine",
+                "Buttermilch",
+                "Schlabgobers",
+                "Konfit\u00fcre",
+                "Pistazienkern",
+                "Zitronenmelisse"
+            ],
+            "id": "Erdbeertorte-mit-Zitronenbuttermilch-828462",
+            "smallImageUrls": [
+                "http://lh3.googleusercontent.com/rlnwu2IDHr5wtVkA9uflLIED-CZ92PqwTnb_VMOsuEGweZ2-zTEWz4UrIFlnzZMHqi_aFdd8BNtWLM2Lbu8L=s90"
+            ],
+            "recipeName": "Erdbeertorte mit Zitronenbuttermilch",
+            "totalTimeInSeconds": 4500,
+            "attributes": {
+                "course": [
+                    "Desserts"
+                ]
+            },
+            "flavors": null,
+            "rating": 3
+        },
+        {
+            "imageUrlsBySize": {
+                "90": "http://lh3.googleusercontent.com/rR_6K4mXJ_12kpjYBXDTrl8TOPPuJCYjrCbCbKK69OGXM0Atxgpoq32HheHWqhKJmc6efHzoX4VV9uaN5P5nlDU=s90-c"
+            },
+            "sourceDisplayName": "Lecker",
+            "ingredients": [
+                "Butter",
+                "Zucker",
+                "Ei",
+                "Zimt",
+                "Rum",
+                "Salz",
+                "Haselnuss",
+                "Mehl",
+                "Speisest\u00e4rke",
+                "Backpulver",
+                "Puderzucker",
+                "Zitronensaft"
+            ],
+            "id": "Finnischer-Nusskuchen-824318",
+            "smallImageUrls": [
+                "http://lh3.googleusercontent.com/lMeCBb6VU4u2sKgoOZq8vGtb41qjnEPIu-1iVLD-o8EzTJHP9Ysaarwl9c2AoKNaJZalHcpqwyXdT-bJf4ZsOoo=s90"
+            ],
+            "recipeName": "Finnischer Nusskuchen",
+            "totalTimeInSeconds": 4500,
+            "attributes": {
+                "course": [
+                    "Desserts"
+                ]
+            },
+            "flavors": {
+                "sweet": 0.8333333333333334,
+                "piquant": 0.0,
+                "sour": 0.16666666666666666,
+                "salty": 0.16666666666666666,
+                "meaty": 0.8333333333333334,
+                "bitter": 0.16666666666666666
+            },
+            "rating": 3
+        },
+        {
+            "imageUrlsBySize": {
+                "90": "http://lh3.googleusercontent.com/WjIozvFut1QGqlmVCW1vtZ9wPW0mrI4W89oT9QiBOopPy2cYzL5LRQXVU5LAs3usQq_fqfzd8Dr-sRvFzBlWPg=s90-c"
+            },
+            "sourceDisplayName": "Lecker",
+            "ingredients": [
+                "Weizenmehl",
+                "Milch",
+                "Ei",
+                "Salz",
+                "Zwiebel",
+                "Mettende",
+                "Butterschmalz",
+                "Sauerkraut",
+                "K\u00fcmmel",
+                "Wei\u00dfwein",
+                "Pfeffer wei\u00df",
+                "Edels\u00fcsspaprika",
+                "Schmand"
+            ],
+            "id": "Sauerkraut-Pfannkuchen-822364",
+            "smallImageUrls": [
+                "http://lh3.googleusercontent.com/8sxznD-pNefUIN9rJdhAZK6ie5zllkU2IoJbmrkZrPVYqfaNhxPBxOwa9BpdECIPxMTWUhP1fat-KIypnfwIWD4=s90"
+            ],
+            "recipeName": "Sauerkraut-Pfannkuchen",
+            "totalTimeInSeconds": 4500,
+            "attributes": {},
+            "flavors": {
+                "sweet": 0.16666666666666666,
+                "piquant": 0.16666666666666666,
+                "sour": 0.3333333333333333,
+                "salty": 0.5,
+                "meaty": 0.3333333333333333,
+                "bitter": 0.5
+            },
+            "rating": 3
+        }
+    ],
+    "facetCounts": {},
+    "totalMatchCount": 14,
+    "attribution": {
+        "html": "Recipe search powered by <a href='http://www.yummly.co/recipes'><img alt='Yummly' src='https://static.yummly.co/api-logo.png'/></a>",
+        "url": "http://www.yummly.co/recipes/",
+        "text": "Recipe search powered by Yummly",
+        "logo": "https://static.yummly.co/api-logo.png"
+    }
+}

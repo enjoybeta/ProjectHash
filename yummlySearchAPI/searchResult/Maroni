@@ -1,0 +1,357 @@
+{
+    "criteria": {
+        "q": "M+a+r+o+n+i",
+        "allowedIngredient": null,
+        "excludedIngredient": null
+    },
+    "matches": [
+        {
+            "recipeName": "Pancakes (mmm-mmm) From Canadian version Five Roses Cook Book",
+            "ingredients": [
+                "flour",
+                "sugar",
+                "baking powder",
+                "salt",
+                "milk",
+                "eggs",
+                "butter",
+                "vanilla"
+            ],
+            "totalTimeInSeconds": 2100,
+            "sourceDisplayName": "MyRecipes",
+            "id": "Pancakes-_mmm-mmm_-From-Canadian-version-Five-Roses-Cook-Book-1310228",
+            "rating": 3,
+            "flavors": {
+                "piquant": 0.0,
+                "meaty": 0.16666666666666666,
+                "bitter": 0.8333333333333334,
+                "sweet": 0.5,
+                "sour": 0.16666666666666666,
+                "salty": 0.8333333333333334
+            },
+            "attributes": {
+                "course": [
+                    "Breakfast and Brunch"
+                ]
+            }
+        },
+        {
+            "imageUrlsBySize": {
+                "90": "http://lh3.googleusercontent.com/Mdc4rdHeWr7ZL6SuZt9C3G_MfiD3hEQXHyRGihFdZlMA6C608FD4vi3bRsnK-altQrSn4zqA-x6h1yycWk8trg=s90-c"
+            },
+            "sourceDisplayName": "Chefkoch",
+            "ingredients": [
+                "Putenschnitzel",
+                "Kartoffel",
+                "Spitzpaprika",
+                "Parikaschote",
+                "M\u00f6hre",
+                "Petersiliewurzel",
+                "Knollensellerie",
+                "Lorbeerbl\u00e4tter",
+                "Jamaicapfeffer",
+                "Wasser",
+                "Zwiebel",
+                "Pfeffer",
+                "Oliven\u00f6l",
+                "Salz"
+            ],
+            "id": "R_o_N_--Rezept-ohne-Namen-916866",
+            "smallImageUrls": [
+                "http://lh3.googleusercontent.com/KADqRqpBfc-JJdyJV_9PhMS9yvmdFC9GGTzffLonNxrKQIwYaL3WJYM07oS6Q_JrwcAivMEQ6wlC_GflAn8__w=s90"
+            ],
+            "recipeName": "R.o.N.- Rezept ohne Namen",
+            "totalTimeInSeconds": 3000,
+            "attributes": {},
+            "flavors": null,
+            "rating": 3
+        },
+        {
+            "imageUrlsBySize": {
+                "90": "http://lh3.googleusercontent.com/bcIsEyg90uav9jAFTk8KzPfLhw_0B7SdYv_mEzf-Hkqjuie8KRMqHn4G_AYRELRedwGsIFCTqD_sLA1QrjpZ=s90-c"
+            },
+            "sourceDisplayName": "Lecker",
+            "ingredients": [
+                "Schattenmorellen",
+                "Butter",
+                "Mehl",
+                "Zucker",
+                "Ei",
+                "magerquark",
+                "Zitrone",
+                "semolina",
+                "Fett",
+                "Puderzucker"
+            ],
+            "id": "Kirsch-Streuselkuchen-921197",
+            "smallImageUrls": [
+                "http://lh3.googleusercontent.com/aHA_kpzcHP7oI1K7tfehNoZunYZ6jfa1V24rLOqmJ7vapZNLoEls0Qbvdbe6-iKYekvBmWIdahf0K5nGN-13Ew=s90"
+            ],
+            "recipeName": "Kirsch-Streuselkuchen",
+            "totalTimeInSeconds": 5400,
+            "attributes": {
+                "course": [
+                    "Desserts"
+                ]
+            },
+            "flavors": null,
+            "rating": 3
+        },
+        {
+            "imageUrlsBySize": {
+                "90": "http://lh3.googleusercontent.com/A3mYXfoadgnBPxpTErwiwX_GSgxjfd4HCp3Udq3vBSbZeeqlsbmiLlvXu100maVSmSqGI7ulcKWwYmcJJBm28xc=s90-c"
+            },
+            "sourceDisplayName": "Lecker",
+            "ingredients": [
+                "Weichsel",
+                "Ei",
+                "Marzipan",
+                "Filoteig",
+                "Schlabgobers",
+                "Mandelbl\u00e4tter",
+                "Puderzucker",
+                "Zitronenmelisse"
+            ],
+            "id": "Kirsch-Marzipan-Strudel-925256",
+            "smallImageUrls": [
+                "http://lh3.googleusercontent.com/vXqcjTOXyW2yIkhDdkZCH1uEcosXwQhMtmGPdJltd94-zWoJTn8rzfIzbig8MdxOD4erGp03cl3yNUxlalGAV8I=s90"
+            ],
+            "recipeName": "Kirsch-Marzipan-Strudel",
+            "totalTimeInSeconds": 4500,
+            "attributes": {
+                "course": [
+                    "Desserts"
+                ]
+            },
+            "flavors": null,
+            "rating": 3
+        },
+        {
+            "imageUrlsBySize": {
+                "90": "http://lh3.googleusercontent.com/eY5PUaQrMPr_IH3O6T-i-zQ79qhrtUMOHXBOp5KofuQ5bTjqGrxS3wAvhEAoyKLlHcMbOP84Bm2HmE9tYu9Oew=s90-c"
+            },
+            "sourceDisplayName": "Lecker",
+            "ingredients": [
+                "Butter",
+                "Zucker",
+                "Ei",
+                "Mehl",
+                "Backpulver",
+                "Milch",
+                "Erdbeere",
+                "Gelatine",
+                "Buttermilch",
+                "Schlabgobers",
+                "Konfit\u00fcre",
+                "Pistazienkern",
+                "Zitronenmelisse"
+            ],
+            "id": "Erdbeertorte-mit-Zitronenbuttermilch-828462",
+            "smallImageUrls": [
+                "http://lh3.googleusercontent.com/rlnwu2IDHr5wtVkA9uflLIED-CZ92PqwTnb_VMOsuEGweZ2-zTEWz4UrIFlnzZMHqi_aFdd8BNtWLM2Lbu8L=s90"
+            ],
+            "recipeName": "Erdbeertorte mit Zitronenbuttermilch",
+            "totalTimeInSeconds": 4500,
+            "attributes": {
+                "course": [
+                    "Desserts"
+                ]
+            },
+            "flavors": null,
+            "rating": 3
+        },
+        {
+            "imageUrlsBySize": {
+                "90": "http://lh3.googleusercontent.com/WjIozvFut1QGqlmVCW1vtZ9wPW0mrI4W89oT9QiBOopPy2cYzL5LRQXVU5LAs3usQq_fqfzd8Dr-sRvFzBlWPg=s90-c"
+            },
+            "sourceDisplayName": "Lecker",
+            "ingredients": [
+                "Weizenmehl",
+                "Milch",
+                "Ei",
+                "Salz",
+                "Zwiebel",
+                "Mettende",
+                "Butterschmalz",
+                "Sauerkraut",
+                "K\u00fcmmel",
+                "Wei\u00dfwein",
+                "Pfeffer wei\u00df",
+                "Edels\u00fcsspaprika",
+                "Schmand"
+            ],
+            "id": "Sauerkraut-Pfannkuchen-822364",
+            "smallImageUrls": [
+                "http://lh3.googleusercontent.com/8sxznD-pNefUIN9rJdhAZK6ie5zllkU2IoJbmrkZrPVYqfaNhxPBxOwa9BpdECIPxMTWUhP1fat-KIypnfwIWD4=s90"
+            ],
+            "recipeName": "Sauerkraut-Pfannkuchen",
+            "totalTimeInSeconds": 4500,
+            "attributes": {},
+            "flavors": {
+                "sweet": 0.16666666666666666,
+                "piquant": 0.16666666666666666,
+                "sour": 0.3333333333333333,
+                "salty": 0.5,
+                "meaty": 0.3333333333333333,
+                "bitter": 0.5
+            },
+            "rating": 3
+        },
+        {
+            "imageUrlsBySize": {
+                "90": "http://lh3.googleusercontent.com/CmfTMm4ibAo9NFpHYsjmVp9CzbzDkQSg5XfBiwZOfgKPumiueik0-OF7LGMaPzWPAO1U9bGs2_pBvClXj9zvWw=s90-c"
+            },
+            "sourceDisplayName": "Lecker",
+            "ingredients": [
+                "Biskuit",
+                "Ei",
+                "Zucker",
+                "Zitrone",
+                "Mehl",
+                "Speisest\u00e4rke",
+                "Backpulver",
+                "F\u00fcllung",
+                "Erdbeere",
+                "Joghurt",
+                "Schlabgobers",
+                "Mandelbl\u00e4tter",
+                "Konfit\u00fcre",
+                "Puderzucker"
+            ],
+            "id": "Erdbeer-Sahne-Creme-Torte-814763",
+            "smallImageUrls": [
+                "http://lh3.googleusercontent.com/0PvVa-8Gduc1X0RQiqIPUsDbBruy_jatc_zk7bJnTqyAQMCx-RWbDx8mnq8NT-6uRGABoafs8q9eUPZLDA-eo5s=s90"
+            ],
+            "recipeName": "Erdbeer-Sahne-Creme-Torte",
+            "totalTimeInSeconds": 4500,
+            "attributes": {
+                "course": [
+                    "Desserts"
+                ]
+            },
+            "flavors": null,
+            "rating": 3
+        },
+        {
+            "imageUrlsBySize": {
+                "90": "http://lh3.googleusercontent.com/eDVHwgGgYxwmAYwpX1FVG88nTQdkvqyooIgTvPkTuXdByKRLs6wxa6e1dfXZGaof5IRYVm3mLsVpF9KBAjvP=s90-c"
+            },
+            "sourceDisplayName": "Lecker",
+            "ingredients": [
+                "Butter",
+                "Ei",
+                "Milch",
+                "Mehl",
+                "Zucker",
+                "Salz",
+                "Weichsel",
+                "Speisest\u00e4rke",
+                "Zitronenschale",
+                "\u00d6l",
+                "magerquark",
+                "Zitrone",
+                "Schmand",
+                "Eigelb",
+                "Mandelbl\u00e4tter",
+                "Puderzucker"
+            ],
+            "id": "Uberbackener-Palatschinken-823834",
+            "smallImageUrls": [
+                "http://lh3.googleusercontent.com/B_-fYqme2lj9-S9CzthtgIie-yKBK1lX-L01d1pjWUbb5wPpgQ7hmXQADAr3EOHZcR64axeLE-GNPJS3RLB7=s90"
+            ],
+            "recipeName": "U\u0308berbackener Palatschinken",
+            "totalTimeInSeconds": 4500,
+            "attributes": {},
+            "flavors": null,
+            "rating": 3
+        },
+        {
+            "imageUrlsBySize": {
+                "90": "http://lh3.googleusercontent.com/H3UM6ulmQUfgwHAWtMUJp7EJjM5_Ma6gU_ejlfovJuTFZ_YBz5xqBoXkIlTGIFkJrEE3XnhJubMEsIGbMzMqDA=s90-c"
+            },
+            "sourceDisplayName": "Lecker",
+            "ingredients": [
+                "Butter",
+                "Zucker",
+                "Ei",
+                "Mehl",
+                "Mandel",
+                "Backpulver",
+                "Milch",
+                "Gelatine",
+                "Limone",
+                "magerquark",
+                "Schlabgobers",
+                "Erdbeere",
+                "Pfirsich",
+                "Konfit\u00fcre",
+                "Fett"
+            ],
+            "id": "Erdbeertorte-mit-Limettencreme-815109",
+            "smallImageUrls": [
+                "http://lh3.googleusercontent.com/PcbUjAusN9UFCt6Nsdza2eZltD0ocezex9rip_aTpC47PtgZnCdHgjA52u5oGM2upKJk_09JXcb0JQx8mVTd=s90"
+            ],
+            "recipeName": "Erdbeertorte mit Limettencreme",
+            "totalTimeInSeconds": 3600,
+            "attributes": {
+                "course": [
+                    "Desserts"
+                ]
+            },
+            "flavors": null,
+            "rating": 3
+        },
+        {
+            "imageUrlsBySize": {
+                "90": "http://lh3.googleusercontent.com/WbUCmr49_rSbim01v-sQr_9APd7b9bsHPqp_OyUROgQlRz0CJyTaq-O2FV3oDGwy7CVDSooHclN7i52tE8K9TVo=s90-c"
+            },
+            "sourceDisplayName": "Lecker",
+            "ingredients": [
+                "Teig",
+                "Marzipan",
+                "Mehl",
+                "Backpulver",
+                "weiche Butter",
+                "Zucker",
+                "Salz",
+                "Ei",
+                "Zitronenschale",
+                "\u00c4pfel",
+                "Zitronensaft",
+                "Haselnuss",
+                "Sultaninen",
+                "Eigelb",
+                "Schlabgobers",
+                "Puderzucker"
+            ],
+            "id": "Apfelkuchen-923159",
+            "smallImageUrls": [
+                "http://lh3.googleusercontent.com/7JZGzfJoShCey0QXEzAtAq6pOkCLGRWSyrsET_H3iYzGRCbnJJZ12ivmL0wTVh_CfK5kLR2W5FzKZZBfrOoQHA=s90"
+            ],
+            "recipeName": "Apfelkuchen",
+            "totalTimeInSeconds": 3600,
+            "attributes": {
+                "course": [
+                    "Desserts"
+                ]
+            },
+            "flavors": {
+                "sweet": 0.5,
+                "piquant": 0.0,
+                "sour": 0.16666666666666666,
+                "salty": 0.16666666666666666,
+                "meaty": 0.16666666666666666,
+                "bitter": 0.16666666666666666
+            },
+            "rating": 3
+        }
+    ],
+    "facetCounts": {},
+    "totalMatchCount": 12,
+    "attribution": {
+        "html": "Recipe search powered by <a href='http://www.yummly.co/recipes'><img alt='Yummly' src='https://static.yummly.co/api-logo.png'/></a>",
+        "url": "http://www.yummly.co/recipes/",
+        "text": "Recipe search powered by Yummly",
+        "logo": "https://static.yummly.co/api-logo.png"
+    }
+}

@@ -1,0 +1,66 @@
+{
+    "yield": "serves 3",
+    "nutritionEstimates": [],
+    "prepTimeInSeconds": 1800,
+    "totalTime": "1 hr",
+    "images": [
+        {
+            "hostedSmallUrl": "https://lh3.googleusercontent.com/fh6i_eQxlPNIGVhIJ0pvnfkNeCjzgto7v5VWMD_K631RcS6KgiLlSmkH5kdX7kMbTYxtlAs3xfusA3pXCQ7f=s90",
+            "hostedMediumUrl": "https://lh3.googleusercontent.com/fh6i_eQxlPNIGVhIJ0pvnfkNeCjzgto7v5VWMD_K631RcS6KgiLlSmkH5kdX7kMbTYxtlAs3xfusA3pXCQ7f=s180",
+            "hostedLargeUrl": "https://lh3.googleusercontent.com/fh6i_eQxlPNIGVhIJ0pvnfkNeCjzgto7v5VWMD_K631RcS6KgiLlSmkH5kdX7kMbTYxtlAs3xfusA3pXCQ7f=s360",
+            "imageUrlsBySize": {
+                "90": "https://lh3.googleusercontent.com/oOj4bYLmycXornsHJHtg9LuCc3XD8D7bHLsG3rGSSTW26QUWonn-R5SHZg-OJm7cp-BzSpAZ4VU09yIfa7gg2Q=s90-c",
+                "360": "https://lh3.googleusercontent.com/oOj4bYLmycXornsHJHtg9LuCc3XD8D7bHLsG3rGSSTW26QUWonn-R5SHZg-OJm7cp-BzSpAZ4VU09yIfa7gg2Q=s360-c"
+            }
+        }
+    ],
+    "name": "Delicata Squash, Quinoa and Kale Salad",
+    "source": {
+        "sourceDisplayName": "Pickles & Honey",
+        "sourceSiteUrl": "picklesnhoney.com",
+        "sourceRecipeUrl": "http://www.picklesnhoney.com/2015/11/16/delicata-squash-quinoa-kale-salad-recipe/"
+    },
+    "prepTime": "30 Min",
+    "id": "Delicata-Squash_-Quinoa-and-Kale-Salad-1962246",
+    "ingredientLines": [
+        "1 large clove garlic",
+        "1\u20444 cup (60 mL) tahini",
+        "1\u20444 cup (60 mL) fresh lemon juice",
+        "3 tablespoons (45 mL) nutritional yeast",
+        "1 to 2 tablespoons (15 to 30 mL) sesame oil or extra-virgin olive oil, to taste",
+        "1 to 2 tablespoons (15 to 30 mL) water",
+        "1\u20444 teaspoon (1 mL) fine-grain sea salt, or to taste",
+        "2 delicata squash (1\u00be to 2 pounds/790 to 900 g total), halved lengthwise and seeded",
+        "1 tablespoon (15 mL) sesame or coconut oil",
+        "Fine-grain sea salt and freshly ground black pepper",
+        "Fine-grain sea salt and freshly ground black pepper",
+        "\u00bd to 1 bunch kale, stems removed, leaves torn into 1-inch (2.5-cm) pieces",
+        "1 cup (250 mL) quinoa or millet",
+        "\u00bd cup (125 mL) diced red onions",
+        "\u00bd cup (125 mL) chopped celery (about 1 large stalk)",
+        "\u00bd cup (125 mL) fresh parsley leaves",
+        "2 tablespoons (30 mL) dried cranberries",
+        "2 tablespoons (30 mL) raw or toasted pumpkin seeds",
+        "1 recipe Lemon-Tahini Dressing"
+    ],
+    "cookTime": "30 Min",
+    "attribution": {
+        "html": "<a href='http://www.yummly.co/recipe/Delicata-Squash_-Quinoa-and-Kale-Salad-1962246'>Delicata Squash, Quinoa and Kale Salad recipe</a> information powered by <img alt='Yummly' src='https://static.yummly.co/api-logo.png'/>",
+        "url": "http://www.yummly.co/recipe/Delicata-Squash_-Quinoa-and-Kale-Salad-1962246",
+        "text": "Delicata Squash, Quinoa and Kale Salad recipes: information powered by Yummly",
+        "logo": "https://static.yummly.co/api-logo.png"
+    },
+    "numberOfServings": 3,
+    "totalTimeInSeconds": 3600,
+    "attributes": {
+        "course": [
+            "Salads"
+        ],
+        "holiday": [
+            "Fall"
+        ]
+    },
+    "cookTimeInSeconds": 1800,
+    "flavors": {},
+    "rating": 4
+}

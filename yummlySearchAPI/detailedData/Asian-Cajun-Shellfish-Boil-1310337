@@ -1,0 +1,47 @@
+{
+    "yield": "4 servings",
+    "nutritionEstimates": [],
+    "totalTime": "45 min",
+    "images": [
+        {
+            "imageUrlsBySize": {
+                "90": "null=s90-c",
+                "360": "null=s360-c"
+            }
+        }
+    ],
+    "name": "Asian Cajun Shellfish Boil",
+    "source": {
+        "sourceDisplayName": "MyRecipes",
+        "sourceSiteUrl": "http://www.myrecipes.com",
+        "sourceRecipeUrl": "http://www.myrecipes.com/recipe/asian-cajun-shellfish-boil"
+    },
+    "id": "Asian-Cajun-Shellfish-Boil-1310337",
+    "ingredientLines": [
+        "1-2 pounds Shellfish",
+        "1 package crab boil",
+        "2 cups margarine",
+        "3 heads garlic chopped",
+        "2 tablespoons Old Bay Seasoning",
+        "2 tablespoons paprika",
+        "2 tablespoons cayenne pepper",
+        "2 tablespoons lemon Pepper",
+        "2 tablespoons dry chicken powder",
+        "1 garlic powder"
+    ],
+    "attribution": {
+        "html": "<a href='http://www.yummly.co/recipe/Asian-Cajun-Shellfish-Boil-1310337'>Asian Cajun Shellfish Boil recipe</a> information powered by <img alt='Yummly' src='https://static.yummly.co/api-logo.png'/>",
+        "url": "http://www.yummly.co/recipe/Asian-Cajun-Shellfish-Boil-1310337",
+        "text": "Asian Cajun Shellfish Boil recipes: information powered by Yummly",
+        "logo": "https://static.yummly.co/api-logo.png"
+    },
+    "numberOfServings": 4,
+    "totalTimeInSeconds": 2700,
+    "attributes": {
+        "course": [
+            "Main Dishes"
+        ]
+    },
+    "flavors": {},
+    "rating": 3
+}

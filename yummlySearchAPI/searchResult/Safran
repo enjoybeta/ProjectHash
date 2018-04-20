@@ -1,0 +1,404 @@
+{
+    "criteria": {
+        "q": "S+a+f+r+a+n",
+        "allowedIngredient": null,
+        "excludedIngredient": null
+    },
+    "matches": [
+        {
+            "imageUrlsBySize": {
+                "90": "https://lh3.googleusercontent.com/vyRPve6L5crzD1fZEzwRJQQihUbqmwSt3NXnpF38DtDy3QuY3zhuFi0GyhEHDgDRxSgKDLxkpB_ilJ4oG0CotuU=s90-c"
+            },
+            "sourceDisplayName": "UC Davis Integrative Medicine Program",
+            "ingredients": [
+                "oats",
+                "applesauce",
+                "chocolate chips",
+                "peanut butter",
+                "cherries",
+                "vanilla extract",
+                "cinnamon"
+            ],
+            "id": "R-_-R-Bakerys-Magical-Cookies-2400035",
+            "smallImageUrls": [
+                "https://lh3.googleusercontent.com/73p4puJgOQ4EVOYXP_YdVl6h2y3NPaTlepZXLgMYYnHGgFxqeOA56S8sKWYzfaUFBvVfnXbnqD8PFIj_Ayn3Ww=s90"
+            ],
+            "recipeName": "R & R Bakery\u2019s Magical Cookies",
+            "totalTimeInSeconds": 2700,
+            "attributes": {
+                "course": [
+                    "Desserts"
+                ],
+                "cuisine": [
+                    "Kid-Friendly"
+                ]
+            },
+            "flavors": {
+                "piquant": 0.0,
+                "meaty": 0.8333333333333334,
+                "bitter": 0.5,
+                "sweet": 0.6666666666666666,
+                "sour": 0.16666666666666666,
+                "salty": 0.16666666666666666
+            },
+            "rating": 4
+        },
+        {
+            "imageUrlsBySize": {
+                "90": "http://lh5.ggpht.com/vvZWhjK4OWLqRNbV3bRYA0ABTe1DzEEGO6jYjKNsyLXgoKFSTuvdbchVT6Q7TlDHcT9SrnvxGdkreWEEUPj47A=s90-c"
+            },
+            "sourceDisplayName": "Framed Cooks",
+            "ingredients": [
+                "eggs",
+                "butter",
+                "gruyere cheese",
+                "ground pepper",
+                "chopped parsley"
+            ],
+            "id": "French-omelets-368530",
+            "smallImageUrls": [
+                "http://lh3.ggpht.com/c3nDqOMiMkcmJgIHmkqEbZuspcms0OG_NWb2K75UPBedCM9GDRGJeCCAZdyAsYJLW5CD8QiLbok87Vvwpfhw=s90"
+            ],
+            "recipeName": "French Omelets",
+            "totalTimeInSeconds": 1200,
+            "attributes": {
+                "course": [
+                    "Breakfast and Brunch"
+                ],
+                "cuisine": [
+                    "French"
+                ]
+            },
+            "flavors": {
+                "piquant": 0.3333333333333333,
+                "meaty": 0.8333333333333334,
+                "bitter": 0.6666666666666666,
+                "sweet": 0.16666666666666666,
+                "sour": 0.5,
+                "salty": 0.3333333333333333
+            },
+            "rating": 4
+        },
+        {
+            "imageUrlsBySize": {
+                "90": "https://lh3.googleusercontent.com/9S2DJpoW1j1tRkH1-6nK8oCOIsWQEh7DgPLeLAEfmGleMkP94R8oySG2YLX0rG-Z15xAdtjVTMSdCw-puFvzdg=s90-c"
+            },
+            "sourceDisplayName": "Cooking at Home",
+            "ingredients": [
+                "crushed pretzels",
+                "white sugar",
+                "butter",
+                "cream cheese",
+                "frozen whipped topping",
+                "Jell-O Gelatin",
+                "boiling water",
+                "frozen strawberries"
+            ],
+            "id": "Judy_s-Strawberry-Pretzel-Salad-2397018",
+            "smallImageUrls": [
+                "https://lh3.googleusercontent.com/Rk3uK0Q_CnzqC1CCd0P5utaL8ePYaLNNGy0shNuOFYIbmm2Vnms3DLumfy_hy_qzdPxURR1I_SAhFFwd7BWzVA=s90"
+            ],
+            "recipeName": "Judy's Strawberry Pretzel Salad",
+            "totalTimeInSeconds": 4800,
+            "attributes": {
+                "course": [
+                    "Desserts"
+                ],
+                "cuisine": [
+                    "Kid-Friendly"
+                ]
+            },
+            "flavors": {
+                "piquant": 0.0,
+                "meaty": 0.16666666666666666,
+                "bitter": 0.16666666666666666,
+                "sweet": 0.6666666666666666,
+                "sour": 0.5,
+                "salty": 0.3333333333333333
+            },
+            "rating": 4
+        },
+        {
+            "imageUrlsBySize": {
+                "90": "http://lh6.ggpht.com/_nDrTsfdbY6nWDJxnUf3RznGFGIlolays8_lBQJAzPRZmjPRTekj8fU6khSpdmKNlmdkrB0Eg4yHdL6PzjOF=s90-c"
+            },
+            "sourceDisplayName": "EatMunchLove",
+            "ingredients": [
+                "bananas",
+                "applesauce",
+                "ground flaxseed",
+                "chia seeds",
+                "protein powder",
+                "cocoa powder",
+                "vanilla"
+            ],
+            "id": "Protein-Brownies-_vegan-Friendly_-749952",
+            "smallImageUrls": [
+                "http://lh6.ggpht.com/49v71YT8FC_a4tIDP9yZsLkP649Rg_OqiWhf8AG88b9Sruajac_hDw3I3EnRsZZZfKGM5HnOQAa0HQLaPWjPeys=s90"
+            ],
+            "recipeName": "Protein Brownies (vegan Friendly)",
+            "totalTimeInSeconds": 2400,
+            "attributes": {
+                "course": [
+                    "Desserts"
+                ]
+            },
+            "flavors": {
+                "piquant": 0.0,
+                "meaty": 0.8333333333333334,
+                "bitter": 0.8333333333333334,
+                "sweet": 0.5,
+                "sour": 0.6666666666666666,
+                "salty": 0.16666666666666666
+            },
+            "rating": 4
+        },
+        {
+            "imageUrlsBySize": {
+                "90": "http://lh6.ggpht.com/TcMmKzFPdaKCO-m84lyKXqMYGNT03pZ7mitp2XZRjEq0zcQtKLd-wI37_C2JiBjvkMvPZ9Ej3iTYzF6zID3aFA=s90-c"
+            },
+            "sourceDisplayName": "101 Cookbooks",
+            "ingredients": [
+                "active dry yeast",
+                "warm water",
+                "cane sugar",
+                "cocoa powder",
+                "espresso beans",
+                "molasses",
+                "caraway seeds",
+                "unsalted butter",
+                "fine sea salt",
+                "grated carrot",
+                "rye flour",
+                "bread flour",
+                "olive oil",
+                "buttermilk"
+            ],
+            "id": "Black-bread-308654",
+            "smallImageUrls": [
+                "http://lh5.ggpht.com/GFeK7VfcEV6zBMSsSq3QJVgbhWWFhLNFlsuELMEl-id1D6Wh9_PVFNoEhhTcgEm3G3c5O1N_ZczWo5Uv4nc0Sw=s90"
+            ],
+            "recipeName": "Black Bread",
+            "totalTimeInSeconds": 17400,
+            "attributes": {
+                "course": [
+                    "Breads"
+                ]
+            },
+            "flavors": {
+                "sweet": 0.3333333333333333,
+                "piquant": 0.0,
+                "sour": 0.16666666666666666,
+                "salty": 0.8333333333333334,
+                "meaty": 0.16666666666666666,
+                "bitter": 0.5
+            },
+            "rating": 5
+        },
+        {
+            "imageUrlsBySize": {
+                "90": "https://lh3.googleusercontent.com/B0fDeYJgY6iNDmOoiNfp5GIb2RlwVkoTbQ4cWzJqVqERZexFV_AAbCH0bdNoOVp9nWzlTyiAK0ydNy5CpNayYOk=s90-c"
+            },
+            "sourceDisplayName": "AllRecipes",
+            "ingredients": [
+                "biscuit dough",
+                "white sugar",
+                "ground cinnamon",
+                "margarine",
+                "brown sugar",
+                "chopped walnuts",
+                "raisins"
+            ],
+            "id": "Monkey-Bread-I-1633933",
+            "smallImageUrls": [
+                "https://lh3.googleusercontent.com/-bE3zX9urda8Ik3CNCz3TnB4ENU1nxpghGo77i0I55zG596_c5Z7iuczbRFuiNNq_WNhE_2M30SlzSdTBsz-jg=s90"
+            ],
+            "recipeName": "Monkey Bread I",
+            "totalTimeInSeconds": 3600,
+            "attributes": {
+                "course": [
+                    "Breads"
+                ]
+            },
+            "flavors": {
+                "piquant": 0.0,
+                "meaty": 0.16666666666666666,
+                "bitter": 0.16666666666666666,
+                "sweet": 0.8333333333333334,
+                "sour": 0.16666666666666666,
+                "salty": 0.16666666666666666
+            },
+            "rating": 4
+        },
+        {
+            "imageUrlsBySize": {
+                "90": "https://lh3.googleusercontent.com/0HlW1x2VH2MAFznQGvaEDMcY_eArasidUsE0DeswXQ2trDy_o6R3Jww690aOCdqU-DIuN8LJ93wRXrDVblYi=s90-c"
+            },
+            "sourceDisplayName": "AllRecipes",
+            "ingredients": [
+                "flour",
+                "unsweetened cocoa powder",
+                "baking soda",
+                "salt",
+                "butter",
+                "sugar",
+                "eggs",
+                "sour cream",
+                "milk",
+                "red food coloring",
+                "McCormick\u00ae Pure Vanilla Extract",
+                "cream cheese frosting",
+                "cream cheese",
+                "confectioners sugar"
+            ],
+            "id": "Red-Velvet-Cupcakes-1608535",
+            "smallImageUrls": [
+                "https://lh3.googleusercontent.com/_MKJORwW2Nnsco_8UWQacuX8C0feSTH4Q0E8mUgFv8Sl9U7_ZO6rpGyow1T49TpFLy5ks-DWHUetjQBTbvMY=s90"
+            ],
+            "recipeName": "Red Velvet Cupcakes",
+            "totalTimeInSeconds": 2400,
+            "attributes": {
+                "course": [
+                    "Desserts"
+                ]
+            },
+            "flavors": {
+                "piquant": 0.0,
+                "meaty": 0.5,
+                "bitter": 0.16666666666666666,
+                "sweet": 0.8333333333333334,
+                "sour": 0.16666666666666666,
+                "salty": 0.5
+            },
+            "rating": 4
+        },
+        {
+            "imageUrlsBySize": {
+                "90": "https://lh3.googleusercontent.com/of7u6FY8a2JtaG15KYTXUnWDmG4ZW_afUwhc6skWWCT_slMfrdoOafJdxz_Ac5pmYHyibZYjR0N-Nh9XSc0Kttk=s90-c"
+            },
+            "sourceDisplayName": "Life in the Lofthouse",
+            "ingredients": [
+                "butter",
+                "brown sugar",
+                "granulated sugar",
+                "eggs",
+                "vanilla",
+                "all-purpose flour",
+                "baking soda",
+                "ground cinnamon",
+                "salt",
+                "Quaker Oats",
+                "cream cheese",
+                "heavy cream",
+                "milk",
+                "powdered sugar"
+            ],
+            "id": "Oatmeal-Cream-Pies-1591723",
+            "smallImageUrls": [
+                "https://lh3.googleusercontent.com/LqgVRqL5KS-kyxSHrYaDE99gV2Q59q8UrjZO-L5_aFmMYi6UociMf6pjeqUGbbIegTvOUGiHGh5ZyNCU5haD=s90"
+            ],
+            "recipeName": "Oatmeal Cream Pies",
+            "totalTimeInSeconds": 2700,
+            "attributes": {
+                "course": [
+                    "Afternoon Tea",
+                    "Desserts"
+                ]
+            },
+            "flavors": {
+                "sweet": 0.8333333333333334,
+                "piquant": 0.0,
+                "sour": 0.16666666666666666,
+                "salty": 0.8333333333333334,
+                "meaty": 0.6666666666666666,
+                "bitter": 0.16666666666666666
+            },
+            "rating": 4
+        },
+        {
+            "imageUrlsBySize": {
+                "90": "http://lh5.ggpht.com/lzsPJATUxmadTiES38xQy18Q-S3-uY3bTIIBfeeBifAPTaTRrvtEnp-xgM2BTKTMswThwTBwkumU7qUqeRZT=s90-c"
+            },
+            "sourceDisplayName": "D.M.R. Fine Foods",
+            "ingredients": [
+                "unsalted butter",
+                "sugar",
+                "flour",
+                "fresh thyme",
+                "salt",
+                "large eggs",
+                "grated lemon zest",
+                "lemon juice",
+                "thyme sprigs",
+                "confectioners sugar"
+            ],
+            "id": "Lemon-Thyme-Bars-568009",
+            "smallImageUrls": [
+                "http://lh6.ggpht.com/O2L0O6R6P3uDJG9Z03LKAz6KYP_h3FfJp8fgg1JzeD3pg1ml5EPLA0fkbNyET_uIQtmnKQ_DulidhOQx0zJZ6Ko=s90"
+            ],
+            "recipeName": "Lemon Thyme Bars",
+            "totalTimeInSeconds": 4200,
+            "attributes": {
+                "course": [
+                    "Desserts"
+                ]
+            },
+            "flavors": null,
+            "rating": 4
+        },
+        {
+            "imageUrlsBySize": {
+                "90": "https://lh3.googleusercontent.com/e3UXiJ_VNcwB85o-TSIROlkX_nC1OJclSBLD92y4qrWXP4wqDPiRtfJ-pJ2PHEJ9LOF5_i9gGxJXpyLkKvUOZQ=s90-c"
+            },
+            "sourceDisplayName": "Life in the Lofthouse",
+            "ingredients": [
+                "butter",
+                "brown sugar",
+                "granulated sugar",
+                "eggs",
+                "vanilla",
+                "all-purpose flour",
+                "baking soda",
+                "ground cinnamon",
+                "salt",
+                "Quaker Oats",
+                "cream cheese",
+                "heavy cream",
+                "milk",
+                "powdered sugar"
+            ],
+            "id": "Oatmeal-Cream-Pies-2239227",
+            "smallImageUrls": [
+                "https://lh3.googleusercontent.com/-j_GSo_KFlzsbzC-lT2yvG-NJJA36yaHcFdlHroF2D0gQDFGu8b8UiFaRDAdw4dUgmsxPHqOHfF4tlsk2TQN3A=s90"
+            ],
+            "recipeName": "Oatmeal Cream Pies",
+            "totalTimeInSeconds": 2700,
+            "attributes": {
+                "course": [
+                    "Desserts",
+                    "Afternoon Tea"
+                ],
+                "cuisine": [
+                    "Kid-Friendly"
+                ]
+            },
+            "flavors": {
+                "piquant": 0.0,
+                "meaty": 0.6666666666666666,
+                "bitter": 0.16666666666666666,
+                "sweet": 0.8333333333333334,
+                "sour": 0.16666666666666666,
+                "salty": 0.8333333333333334
+            },
+            "rating": 4
+        }
+    ],
+    "facetCounts": {},
+    "totalMatchCount": 360,
+    "attribution": {
+        "html": "Recipe search powered by <a href='http://www.yummly.co/recipes'><img alt='Yummly' src='https://static.yummly.co/api-logo.png'/></a>",
+        "url": "http://www.yummly.co/recipes/",
+        "text": "Recipe search powered by Yummly",
+        "logo": "https://static.yummly.co/api-logo.png"
+    }
+}

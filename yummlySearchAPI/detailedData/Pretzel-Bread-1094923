@@ -1,0 +1,48 @@
+{
+    "nutritionEstimates": [],
+    "totalTime": "1 hr 5 min",
+    "images": [
+        {
+            "hostedSmallUrl": "http://lh3.googleusercontent.com/8YRw7ITWAu3KjJfI065gLOPXTiESKG0Ul3TXX_O8uOPLq7gnXKryBQ_sqBDUyX-Dq39iPY4UaKEREc1WVkBKsA=s90",
+            "hostedMediumUrl": "http://lh3.googleusercontent.com/8YRw7ITWAu3KjJfI065gLOPXTiESKG0Ul3TXX_O8uOPLq7gnXKryBQ_sqBDUyX-Dq39iPY4UaKEREc1WVkBKsA=s180",
+            "hostedLargeUrl": "http://lh3.googleusercontent.com/8YRw7ITWAu3KjJfI065gLOPXTiESKG0Ul3TXX_O8uOPLq7gnXKryBQ_sqBDUyX-Dq39iPY4UaKEREc1WVkBKsA=s360",
+            "imageUrlsBySize": {
+                "90": "http://lh3.googleusercontent.com/Zaz91AuBAiPm5PicNzRo5g-9dZoD338Pe4-P7BX4Ywz8kLa7UOah_ISx7PMMdUOhOGC-Wtv5KC_CMVK36lkj4WE=s90-c",
+                "360": "http://lh3.googleusercontent.com/Zaz91AuBAiPm5PicNzRo5g-9dZoD338Pe4-P7BX4Ywz8kLa7UOah_ISx7PMMdUOhOGC-Wtv5KC_CMVK36lkj4WE=s360-c"
+            }
+        }
+    ],
+    "name": "Pretzel Bread",
+    "source": {
+        "sourceDisplayName": "Erica's Recipes",
+        "sourceSiteUrl": "http://ericasrecipes.com",
+        "sourceRecipeUrl": "http://ericasrecipes.com/2013/10/pretzel-bread/"
+    },
+    "id": "Pretzel-Bread-1094923",
+    "ingredientLines": [
+        "1 c lowfat milk",
+        "2 T unsalted butter",
+        "2 T light brown sugar",
+        "1 envelope rapid rise yeast",
+        "2 t kosher salt",
+        "3 cups all-purpose flour",
+        "1 cup baking soda",
+        "1 egg, lightly beaten",
+        "coarse sea salt"
+    ],
+    "attribution": {
+        "html": "<a href='http://www.yummly.co/recipe/Pretzel-Bread-1094923'>Pretzel Bread recipe</a> information powered by <img alt='Yummly' src='https://static.yummly.co/api-logo.png'/>",
+        "url": "http://www.yummly.co/recipe/Pretzel-Bread-1094923",
+        "text": "Pretzel Bread recipes: information powered by Yummly",
+        "logo": "https://static.yummly.co/api-logo.png"
+    },
+    "numberOfServings": 4,
+    "totalTimeInSeconds": 3900,
+    "attributes": {
+        "course": [
+            "Breads"
+        ]
+    },
+    "flavors": {},
+    "rating": 4
+}

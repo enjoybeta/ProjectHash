@@ -1,0 +1,58 @@
+{
+    "yield": "2 servings",
+    "nutritionEstimates": [],
+    "prepTimeInSeconds": 600,
+    "totalTime": "35 min",
+    "images": [
+        {
+            "hostedSmallUrl": "https://lh3.googleusercontent.com/g7juqQxYREEqKGRW0cDh7mZdrDCuntiN0XU2Wv-ajJrx63z0Np6NjD37OeXaaFJPiLiixkDWpqgbkgSnUWIuPg=s90",
+            "hostedMediumUrl": "https://lh3.googleusercontent.com/g7juqQxYREEqKGRW0cDh7mZdrDCuntiN0XU2Wv-ajJrx63z0Np6NjD37OeXaaFJPiLiixkDWpqgbkgSnUWIuPg=s180",
+            "hostedLargeUrl": "https://lh3.googleusercontent.com/g7juqQxYREEqKGRW0cDh7mZdrDCuntiN0XU2Wv-ajJrx63z0Np6NjD37OeXaaFJPiLiixkDWpqgbkgSnUWIuPg=s360",
+            "imageUrlsBySize": {
+                "90": "https://lh3.googleusercontent.com/0kiIRQaDsIJy95hchQiQv-iNImOEYX25D03j3AerzPu2DnHDt1VtjATu8mRKoQYFK1sRRyq0asWUrL2kKG3dKs8=s90-c",
+                "360": "https://lh3.googleusercontent.com/0kiIRQaDsIJy95hchQiQv-iNImOEYX25D03j3AerzPu2DnHDt1VtjATu8mRKoQYFK1sRRyq0asWUrL2kKG3dKs8=s360-c"
+            }
+        }
+    ],
+    "name": "Oreo Cheesecake Protein Donuts with a Regular Glazed Option",
+    "source": {
+        "sourceDisplayName": "Mason Woodruff",
+        "sourceSiteUrl": "masonfit.com",
+        "sourceRecipeUrl": "https://masonfit.com/oreo-cheesecake-protein-donuts/"
+    },
+    "prepTime": "10 minutes",
+    "id": "Oreo-Cheesecake-Protein-Donuts-with-a-Regular-Glazed-Option-2352361",
+    "ingredientLines": [
+        "1/2 scoop (16g) vanilla protein powder",
+        "1/2 Tbsp (4g) corn starch",
+        "1 Tbsp stevia or 0-cal sweetener",
+        "2 Tbsp (30mL) unsweetened almond milk or low-cal liquid",
+        "4 C (120g) Oreo O's Cereal blended finely",
+        "2 Tbsp (14g) Coconut Flour",
+        "1 scoop (32g) Protein Powder vanilla",
+        "1/4 C (57g) Fat-Free Greek Yogurt vanilla",
+        "3/8 C (92g) Liquid Egg Whites or whites from two whole eggs",
+        "1/2 C (122g) Unsweetened Apple Sauce",
+        "2 Tbsp (30mL) Walden Farms Pancake Syrup or low-calorie sticky sweetener of your choice",
+        "3/4 C (170g) Fat-Free Greek Yogurt vanilla",
+        "2 servings (16g) Sugar-Free Fat-Free Cheesecake Pudding Mix",
+        "1/2 C (15g) Oreo O's Cereal crushed"
+    ],
+    "cookTime": "25 minutes",
+    "attribution": {
+        "html": "<a href='http://www.yummly.co/recipe/Oreo-Cheesecake-Protein-Donuts-with-a-Regular-Glazed-Option-2352361'>Oreo Cheesecake Protein Donuts with a Regular Glazed Option recipe</a> information powered by <img alt='Yummly' src='https://static.yummly.co/api-logo.png'/>",
+        "url": "http://www.yummly.co/recipe/Oreo-Cheesecake-Protein-Donuts-with-a-Regular-Glazed-Option-2352361",
+        "text": "Oreo Cheesecake Protein Donuts with a Regular Glazed Option recipes: information powered by Yummly",
+        "logo": "https://static.yummly.co/api-logo.png"
+    },
+    "numberOfServings": 2,
+    "totalTimeInSeconds": 2100,
+    "attributes": {
+        "course": [
+            "Desserts"
+        ]
+    },
+    "cookTimeInSeconds": 1500,
+    "flavors": {},
+    "rating": 4
+}
