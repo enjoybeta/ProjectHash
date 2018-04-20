@@ -11,6 +11,7 @@ import static junit.framework.Assert.*;
 
 public class FavoriteManagerTest {
     FavoriteManager manager = FavoriteManager.INSTANCE;
+    // TODO Cannot be done by local environment
     @Test
     public void addRecipeTest() {
 //        ArrayList<String> ingredients = new ArrayList<String>();
