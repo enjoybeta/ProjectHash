@@ -1,0 +1,51 @@
+{
+    "yield": "4-6",
+    "nutritionEstimates": [],
+    "prepTimeInSeconds": 900,
+    "totalTime": "35 min",
+    "images": [
+        {
+            "imageUrlsBySize": {
+                "90": "null=s90-c",
+                "360": "null=s360-c"
+            }
+        }
+    ],
+    "name": "E-Z Pizza Pockets!!",
+    "source": {
+        "sourceDisplayName": "Food.com",
+        "sourceSiteUrl": "http://www.food.com",
+        "sourceRecipeUrl": "http://www.food.com/recipe/e-z-pizza-pockets-64683"
+    },
+    "prepTime": "15 Min",
+    "id": "E_z-Pizza-Pockets_-Recipezaar",
+    "ingredientLines": [
+        "1 package of pillsbury prepared pizza crust",
+        "1/2 cup pizza sauce (as much or little as you like I use Contadina brand that comes in a Squeeze bottle!)",
+        "1 1/2 cups shredded mozzarella cheese",
+        "1 cup shredded cheddar cheese",
+        "1 package pre-sliced pepperoni (60 to 70 slices depending on your taste)",
+        "1 cup zucchini or 1 cup mushrooms or 1 cup olives or 1 cup tomato (WHATEVER YOU LIKE! Or add them ALL!)"
+    ],
+    "cookTime": "20 Min",
+    "attribution": {
+        "html": "<a href='http://www.yummly.co/recipe/E_z-Pizza-Pockets_-Recipezaar'>E-Z Pizza Pockets!! recipe</a> information powered by <img alt='Yummly' src='https://static.yummly.co/api-logo.png'/>",
+        "url": "http://www.yummly.co/recipe/E_z-Pizza-Pockets_-Recipezaar",
+        "text": "E-Z Pizza Pockets!! recipes: information powered by Yummly",
+        "logo": "https://static.yummly.co/api-logo.png"
+    },
+    "numberOfServings": 5,
+    "totalTimeInSeconds": 2100,
+    "attributes": {
+        "cuisine": [
+            "Kid-Friendly"
+        ],
+        "course": [
+            "Main Dishes",
+            "Lunch"
+        ]
+    },
+    "cookTimeInSeconds": 1200,
+    "flavors": {},
+    "rating": 3
+}

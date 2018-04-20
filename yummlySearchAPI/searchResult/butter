@@ -1,6 +1,6 @@
 {
     "criteria": {
-        "q": "b+u+t+t+e+r",
+        "q": "B+u+t+t+e+r",
         "allowedIngredient": null,
         "excludedIngredient": null
     },
@@ -50,8 +50,19 @@
             "sourceDisplayName": "Lecker",
             "id": "H-I-M-B-E-E-R-T-O-R-T-E-839122",
             "rating": 3,
-            "flavors": null,
-            "attributes": {}
+            "flavors": {
+                "sweet": 0.8333333333333334,
+                "piquant": 0.0,
+                "sour": 0.6666666666666666,
+                "salty": 0.16666666666666666,
+                "meaty": 0.16666666666666666,
+                "bitter": 0.16666666666666666
+            },
+            "attributes": {
+                "course": [
+                    "Desserts"
+                ]
+            }
         }
     ],
     "facetCounts": {},

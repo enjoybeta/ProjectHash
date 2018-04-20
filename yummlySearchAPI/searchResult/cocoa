@@ -1,0 +1,359 @@
+{
+    "criteria": {
+        "q": "c+o+c+o+a",
+        "allowedIngredient": null,
+        "excludedIngredient": null
+    },
+    "matches": [
+        {
+            "imageUrlsBySize": {
+                "90": "https://lh3.googleusercontent.com/7IRbfPVQ3L8jAODr4YqPh32sMkiSGLrIYeFBXODEVOQefuRk5C74Ty0ZzhawD8hhXkZOTyhZ3J_PqcIadX6N=s90-c"
+            },
+            "sourceDisplayName": "Lovers Recipes",
+            "ingredients": [
+                "broccoli",
+                "carrots",
+                "smoked sausage",
+                "macaroni & cheese",
+                "monterey jack",
+                "milk",
+                "garlic powder",
+                "ground black pepper"
+            ],
+            "id": "C_O_M_F_Y_-_-Casserole-2070987",
+            "smallImageUrls": [
+                "https://lh3.googleusercontent.com/xDNF6ojawYOVfGnVsqgrnlf4hJifcK2Fy3kfMB3AOQ9pzfyK7PLfE6I9wMXwlv6PkIuMdLRErRivQyAQ4IQs=s90"
+            ],
+            "recipeName": "C.O.M.F.Y. ! Casserole",
+            "totalTimeInSeconds": 3000,
+            "attributes": {
+                "course": [
+                    "Main Dishes"
+                ],
+                "cuisine": [
+                    "Kid-Friendly"
+                ]
+            },
+            "flavors": null,
+            "rating": 4
+        },
+        {
+            "imageUrlsBySize": {
+                "90": "https://lh3.googleusercontent.com/dqbqW84EXmHEHsKL4ovQzeDiXmD5rIVstK_vVsby9f3GUAa3gx9t1Owejr8GKjHbLp1Nzl8HTSsG2ovSyTkHIQ=s90-c"
+            },
+            "sourceDisplayName": "Julia's Simply Southern",
+            "ingredients": [
+                "butter",
+                "flour",
+                "whole milk",
+                "cracked black pepper",
+                "dried beef",
+                "sliced bread"
+            ],
+            "id": "Creamed-Chipped-Beef-_-Toast---S_O_S_-2014159",
+            "smallImageUrls": [
+                "https://lh3.googleusercontent.com/kpU2QwAaemhEJfb1QKsLRHrY5cRHltgbApVyynnxORptbpvuK0xD7DdpWDwF8VRXsqGCXg4GYIBeeE73xA929A=s90"
+            ],
+            "recipeName": "Creamed Chipped Beef & Toast - S.O.S.",
+            "totalTimeInSeconds": 1200,
+            "attributes": {
+                "course": [
+                    "Breakfast and Brunch",
+                    "Main Dishes"
+                ]
+            },
+            "flavors": null,
+            "rating": 4
+        },
+        {
+            "imageUrlsBySize": {
+                "90": "http://lh4.ggpht.com/w_mp_5PHg3eLAtzapqApQxA8oqvHTUDRL7q2sfXOd0F6zvJZyfA3mAhpP3rk-Av2SLZHAxYhqIUM_Giz3qC0Oik=s90-c"
+            },
+            "sourceDisplayName": "Easybaked",
+            "ingredients": [
+                "egg whites",
+                "salt",
+                "Jell-O Gelatin",
+                "sugar",
+                "vinegar",
+                "confetti sprinkles"
+            ],
+            "id": "Raspberry-Confetti-Kisses-1037562",
+            "smallImageUrls": [
+                "http://lh4.ggpht.com/zGlwonPyVMQQzEoaC156aN2765Ju6DqeLUxgeJEFeG-fnLL79rU9K-QLxzl0WDj60LioMiiRDdVMcHpvNULHQS0=s90"
+            ],
+            "recipeName": "Raspberry Confetti Kisses",
+            "totalTimeInSeconds": 3900,
+            "attributes": {
+                "course": [
+                    "Desserts"
+                ]
+            },
+            "flavors": null,
+            "rating": 4
+        },
+        {
+            "imageUrlsBySize": {
+                "90": "https://lh3.googleusercontent.com/GObA0Z5d6b2v_MYZi6kcEFQY7xJa5Oz_uhiF-V-OpLP67TiDTnnGL7gnEcAy1bsKInndUBujRy6vZuTtbzjxuls=s90-c"
+            },
+            "sourceDisplayName": "Mommy Savers",
+            "ingredients": [
+                "popped popcorn",
+                "butter",
+                "corn syrup",
+                "brown sugar",
+                "Jell-O Gelatin"
+            ],
+            "id": "Jell-O-Popcorn-1529534",
+            "smallImageUrls": [
+                "https://lh3.googleusercontent.com/GMCcnoEY54Gd7U7KxZN4ScTmcVjkNlDoIC6K0E9GxRlJSVz7vnbtrMVLQ-g2-RZsrv7HPTpWY1g1u2BcbG4S6A=s90"
+            ],
+            "recipeName": "Jell-O Popcorn",
+            "totalTimeInSeconds": 1500,
+            "attributes": {
+                "course": [
+                    "Desserts",
+                    "Lunch",
+                    "Snacks"
+                ]
+            },
+            "flavors": null,
+            "rating": 3
+        },
+        {
+            "imageUrlsBySize": {
+                "90": "https://lh3.googleusercontent.com/CzZc4H0XZhoIvKW3jMDJeDcimdFinrbP6muKlIgOeIel1TihH4twWR1IVvtUSNhiOnTUwWgON1TpAL9ynK5Y-A=s90-c"
+            },
+            "sourceDisplayName": "Cake Whiz",
+            "ingredients": [
+                "orange",
+                "water",
+                "marshmallows",
+                "sugar"
+            ],
+            "id": "JELL-O-Marshmallow-Candy-2286152",
+            "smallImageUrls": [
+                "https://lh3.googleusercontent.com/mDzHHHR-4NmQCb382wmZ3B1ZZe4aEqRbjeLg9ZrJqgh6ep_VMbkZ64VRen2wxPEWOFMRICXU4L_4QkLYHlYAZeE=s90"
+            ],
+            "recipeName": "JELL-O Marshmallow Candy",
+            "totalTimeInSeconds": 3600,
+            "attributes": {
+                "course": [
+                    "Desserts"
+                ]
+            },
+            "flavors": {
+                "piquant": 0.0,
+                "meaty": 0.16666666666666666,
+                "bitter": 0.16666666666666666,
+                "sweet": 0.8333333333333334,
+                "sour": 0.6666666666666666,
+                "salty": 0.16666666666666666
+            },
+            "rating": 4
+        },
+        {
+            "imageUrlsBySize": {
+                "90": "http://lh3.googleusercontent.com/xz60Pr-0Kk71gVU8hkZh-U-Mknd0f-t_OPjXe8q7Br9DOVl_HCRytansgrJn5gMaeHT0yyYlaRT6_YA_fSG_uA=s90-c"
+            },
+            "sourceDisplayName": "I'm Bored, Let's Go",
+            "ingredients": [
+                "skirt steak",
+                "corn tortillas",
+                "lime",
+                "orange",
+                "oil",
+                "garlic",
+                "jalapeno chilies",
+                "cumin",
+                "chile powder",
+                "oregano",
+                "salt",
+                "black pepper",
+                "chopped fresh cilantro",
+                "chopped cilantro",
+                "white onion",
+                "lime wedges",
+                "avocado",
+                "pico de gallo"
+            ],
+            "id": "Carne-Asada-Street-Tacos-1068485",
+            "smallImageUrls": [
+                "http://lh3.googleusercontent.com/p5g0iaFeKGfnfFq6SLnW9rpheCoR0zpFfauV1Xz3lNXuT2OJv5fpebrcnEcGT2_UnFOHCDkZsP6vMchyTB7Ruw=s90"
+            ],
+            "recipeName": "Carne Asada Street Tacos",
+            "totalTimeInSeconds": 1800,
+            "attributes": {
+                "course": [
+                    "Main Dishes"
+                ],
+                "cuisine": [
+                    "Barbecue",
+                    "Southwestern",
+                    "Mexican"
+                ]
+            },
+            "flavors": null,
+            "rating": 4
+        },
+        {
+            "imageUrlsBySize": {
+                "90": "https://lh3.googleusercontent.com/xR9HHqsH2NRz16HHvH1JhmfhJ1jjnH-E_DYkqevNIPxvLDJ0yHO48f1ZQKnyvPbYcUQiXkzh93i6r3gifu8M=s90-c"
+            },
+            "sourceDisplayName": "Favorite Family Recipes",
+            "ingredients": [
+                "sugar",
+                "karo syrup",
+                "chunky peanut butter",
+                "Rice Krispies Cereal",
+                "butterscotch chips",
+                "chocolate chips"
+            ],
+            "id": "O-Henry-Bars-2069214",
+            "smallImageUrls": [
+                "https://lh3.googleusercontent.com/5bXSTLgNlpDRpEBuk6uuE6e9spHBLGPof5pRwUT5dwVQKNk8pQUlpzmn1kSmC5ub2smBJ5VYk7a72YOm9fii=s90"
+            ],
+            "recipeName": "O\u2019 Henry Bars",
+            "totalTimeInSeconds": 1500,
+            "attributes": {
+                "course": [
+                    "Desserts",
+                    "Lunch"
+                ],
+                "cuisine": [
+                    "Kid-Friendly"
+                ]
+            },
+            "flavors": {
+                "piquant": 0.0,
+                "meaty": 0.6666666666666666,
+                "bitter": 0.3333333333333333,
+                "sweet": 0.8333333333333334,
+                "sour": 0.16666666666666666,
+                "salty": 0.3333333333333333
+            },
+            "rating": 4
+        },
+        {
+            "imageUrlsBySize": {
+                "90": "http://lh5.ggpht.com/IyW112G-Jse3yTOEYT26NAQ5psvOnsPmcYQwl-oMI1kF7X__8iDp_iAbIdmXJHMH0b7Cms9wTEwgqwmHNu0zCks=s90-c"
+            },
+            "sourceDisplayName": "Home Cooking Adventure",
+            "ingredients": [
+                "flour",
+                "ground almonds",
+                "unsweetened cocoa powder",
+                "sugar",
+                "salt",
+                "unsalted butter",
+                "vanilla extract",
+                "eggs",
+                "ice water",
+                "water",
+                "heavy cream",
+                "bittersweet chocolate",
+                "sea salt crystals"
+            ],
+            "id": "Chocolate-Salted-Caramel-Tart-996719",
+            "smallImageUrls": [
+                "http://lh5.ggpht.com/3a-bOrfwWD4patBid7gb4G8F65kxVBwKLZOx84gpdwLXDji7eID5CBbQsgr1ob2wrxvMbjxJpSH5qc9Qo7MIlg=s90"
+            ],
+            "recipeName": "Chocolate Salted Caramel Tart",
+            "totalTimeInSeconds": 5400,
+            "attributes": {
+                "course": [
+                    "Desserts"
+                ]
+            },
+            "flavors": {
+                "piquant": 0.0,
+                "meaty": 0.6666666666666666,
+                "bitter": 0.16666666666666666,
+                "sweet": 0.8333333333333334,
+                "sour": 0.16666666666666666,
+                "salty": 0.6666666666666666
+            },
+            "rating": 4
+        },
+        {
+            "imageUrlsBySize": {
+                "90": "https://lh3.googleusercontent.com/D9WXDtaj2uuYPgtr9b25HDwKubrCOjLUsU3vkB9UZ-4xAOM2dV4XxkYpaZcSRhIAacKx2PLUIi_Rby-J0kOaXA=s90-c"
+            },
+            "sourceDisplayName": "Divalicious Recipes",
+            "ingredients": [
+                "cauliflower",
+                "sour cream",
+                "cheddar cheese",
+                "spring onions",
+                "salt",
+                "black pepper"
+            ],
+            "id": "Cheesy-Cauliflower-Bake-2179859",
+            "smallImageUrls": [
+                "https://lh3.googleusercontent.com/s9qkdDlzkyvc-fPahzRHlzIAfvd3vBudrqwT3YWWx3egNAEVp2vkzZl_1E1HLNGUzIBov9uFdjzpAcZp_-J_Wf8=s90"
+            ],
+            "recipeName": "Cheesy Cauliflower Bake",
+            "totalTimeInSeconds": 2700,
+            "attributes": {
+                "course": [
+                    "Side Dishes"
+                ]
+            },
+            "flavors": {
+                "piquant": 0.0,
+                "meaty": 0.3333333333333333,
+                "bitter": 0.8333333333333334,
+                "sweet": 0.16666666666666666,
+                "sour": 0.8333333333333334,
+                "salty": 0.8333333333333334
+            },
+            "rating": 4
+        },
+        {
+            "imageUrlsBySize": {
+                "90": "https://lh3.googleusercontent.com/kw-PTNGtOgI8Ieo-UgR9dFJhbexSNLkEyz3xonfevLktm35df9jJpfDn9kl9wUrMinqUbrINt9hFhiSS1V1xIQ=s90-c"
+            },
+            "sourceDisplayName": "Favorite Family Recipes",
+            "ingredients": [
+                "sugar",
+                "karo syrup",
+                "chunky peanut butter",
+                "Rice Krispies Cereal",
+                "butterscotch chips",
+                "chocolate chips"
+            ],
+            "id": "O-Henry-Bars-1927297",
+            "smallImageUrls": [
+                "https://lh3.googleusercontent.com/CBa7vIMONfh0geFPdQwmfqrdTY-EPFaws6yp1HUo6zjo6dpsH_a85ydVXIgJssaukNXmPfmka1uQG1THRK2dCkc=s90"
+            ],
+            "recipeName": "O\u2019 Henry Bars",
+            "totalTimeInSeconds": 1500,
+            "attributes": {
+                "course": [
+                    "Desserts",
+                    "Lunch"
+                ],
+                "cuisine": [
+                    "Kid-Friendly"
+                ]
+            },
+            "flavors": {
+                "piquant": 0.0,
+                "meaty": 0.6666666666666666,
+                "bitter": 0.3333333333333333,
+                "sweet": 0.8333333333333334,
+                "sour": 0.16666666666666666,
+                "salty": 0.3333333333333333
+            },
+            "rating": 4
+        }
+    ],
+    "facetCounts": {},
+    "totalMatchCount": 7450,
+    "attribution": {
+        "html": "Recipe search powered by <a href='http://www.yummly.co/recipes'><img alt='Yummly' src='https://static.yummly.co/api-logo.png'/></a>",
+        "url": "http://www.yummly.co/recipes/",
+        "text": "Recipe search powered by Yummly",
+        "logo": "https://static.yummly.co/api-logo.png"
+    }
+}

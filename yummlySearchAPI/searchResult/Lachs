@@ -1,0 +1,325 @@
+{
+    "criteria": {
+        "q": "L+a+c+h+s",
+        "allowedIngredient": null,
+        "excludedIngredient": null
+    },
+    "matches": [
+        {
+            "imageUrlsBySize": {
+                "90": "https://lh3.googleusercontent.com/zCIBqMhOqZMBHrmIwrPuWu1gfV0bA3nYP7vhLRIr0nVnB5eGDQ7GA0qFzF4py9551ZBCj2249NFCWEHcbyOGeg=s90-c"
+            },
+            "sourceDisplayName": "C&H Sugar brand",
+            "ingredients": [
+                "orange juice",
+                "lemon juice",
+                "C&H\u00ae Granulated Sugar",
+                "cranberry raspberry juice cocktail",
+                "champagne",
+                "lemon slices"
+            ],
+            "id": "Gala-Champagne-Punch-2129772",
+            "smallImageUrls": [
+                "https://lh3.googleusercontent.com/dPcLVZYg6g6Zfd9spEzAT3pAw7hB_tiqbmUx3QxO1f7ou6VWq0V4dDjjC4-Oupl0XnFonz7vQeFqDGMPB855Xg=s90"
+            ],
+            "recipeName": "Gala Champagne Punch",
+            "totalTimeInSeconds": 1800,
+            "attributes": {
+                "course": [
+                    "Beverages",
+                    "Cocktails"
+                ],
+                "holiday": [
+                    "Christmas",
+                    "New Year"
+                ]
+            },
+            "flavors": null,
+            "rating": 3
+        },
+        {
+            "imageUrlsBySize": {
+                "90": "http://lh3.googleusercontent.com/q-BD2P2cb5oFXGhkh9Ywpdcx5YGn0QCgaIB1BcvB4lvDc-6PYHwzm1tQ2Sl9hLQpFb3d1iVd-5ezqj3beVbSaA=s90-c"
+            },
+            "sourceDisplayName": "HungryShots",
+            "ingredients": [
+                "raw milk",
+                "natural yogurt",
+                "lemon",
+                "cane sugar",
+                "lemon extract"
+            ],
+            "id": "Lemon-Yogurt-1311295",
+            "smallImageUrls": [
+                "http://lh3.googleusercontent.com/S7AbM7xxxbbEW7J_l_M-Ufm0n_-DYGSBCg8XuZwK-Z_ww6Q683jrNISTyfDAzgWYKHLQXod4WK3uYvhM98Tp=s90"
+            ],
+            "recipeName": "Lemon Yogurt",
+            "totalTimeInSeconds": 2700,
+            "attributes": {
+                "course": [
+                    "Desserts"
+                ]
+            },
+            "flavors": null,
+            "rating": 4
+        },
+        {
+            "imageUrlsBySize": {
+                "90": "https://lh3.googleusercontent.com/0k1e-FOgaXchdiaDdqGaIvdeFYTf3cbkBiJujjxN-9qvZxuetsv9i5CoQzG6EdjMFsebcRUt3G9sHUcB1y7XEQ=s90-c"
+            },
+            "sourceDisplayName": "BBQ Bastard",
+            "ingredients": [
+                "chicken",
+                "brine",
+                "lemon",
+                "rosemary"
+            ],
+            "id": "Apple-Cider-Brined-Spit-Roast-Chicken-2131029",
+            "smallImageUrls": [
+                "https://lh3.googleusercontent.com/WhWNqTDx00SFmMOrasql47l66TfChnjmU5aAb1qa88JriXj5S5d3GRYcj8JMnJm39swtkJXnBurxfD8Pt4cCVT0=s90"
+            ],
+            "recipeName": "Apple Cider Brined Spit Roast Chicken",
+            "totalTimeInSeconds": 6600,
+            "attributes": {
+                "course": [
+                    "Main Dishes"
+                ],
+                "cuisine": [
+                    "Barbecue",
+                    "Kid-Friendly"
+                ],
+                "holiday": [
+                    "Sunday Lunch"
+                ]
+            },
+            "flavors": null,
+            "rating": 4
+        },
+        {
+            "imageUrlsBySize": {
+                "90": "https://lh3.googleusercontent.com/rkinXmuXWNbGYut1LE0avrK6fujJMxs_7bXrmsPxXVMxdYGqN_csPASHvSTavdFSObgAx2u3-egRXSwuPMSRsQ=s90-c"
+            },
+            "sourceDisplayName": "HungryShots",
+            "ingredients": [
+                "milk",
+                "yogurt",
+                "maple syrup",
+                "jam",
+                "yellow food coloring"
+            ],
+            "id": "Quince-Yogurt-1595330",
+            "smallImageUrls": [
+                "https://lh3.googleusercontent.com/jTsPDJ5X3zb3aysF16eOax0nvVXtI73ijinOdopcHGFMeIwSVjrH4cJMsGI57mvvPV3kFavyKJWtdufxM3hX=s90"
+            ],
+            "recipeName": "Quince Yogurt",
+            "totalTimeInSeconds": 1800,
+            "attributes": {
+                "course": [
+                    "Breakfast and Brunch"
+                ]
+            },
+            "flavors": null,
+            "rating": 4
+        },
+        {
+            "imageUrlsBySize": {
+                "90": "https://lh3.googleusercontent.com/ScBkldHzy3dj2u3Xbr1zI_iWrQ6hurv5Kmue7FSfHXbBgGz19L8PvTygJdFXeFO3eX3E6W7tlaWgobICqa2LYQ=s90-c"
+            },
+            "sourceDisplayName": "Hey Little Sweet Thing",
+            "ingredients": [
+                "butter",
+                "sugar",
+                "egg whites",
+                "golden syrup",
+                "flour",
+                "baking powder",
+                "cocoa",
+                "egg yolks",
+                "sweetened condensed milk",
+                "powdered sugar",
+                "cocoa powder",
+                "boiling water"
+            ],
+            "id": "Fudgey-Choc-_-Gooey-Caramel-Slice-1611485",
+            "smallImageUrls": [
+                "https://lh3.googleusercontent.com/jkKe2aojvXyNSg2LdDTH3e5-bRYjl5hK5kvG1FSclmmgodXmcW_MpzA-XisvcmqM6_MbQdKe0i3nM5gPGLoy=s90"
+            ],
+            "recipeName": "Fudgey Choc & Gooey Caramel Slice",
+            "totalTimeInSeconds": 3000,
+            "attributes": {
+                "course": [
+                    "Desserts"
+                ]
+            },
+            "flavors": {
+                "piquant": 0.0,
+                "meaty": 0.5,
+                "bitter": 0.16666666666666666,
+                "sweet": 0.8333333333333334,
+                "sour": 0.0,
+                "salty": 0.3333333333333333
+            },
+            "rating": 4
+        },
+        {
+            "imageUrlsBySize": {
+                "90": "https://lh3.googleusercontent.com/a8RcdtI9ZfxGY-JwTJul3dkjq2grshyJFtSZFYeRiWqJlrJY2ag1p2AHODD0Rw6dD-1imW9q77EHjwOvZ4LyxrU=s90-c"
+            },
+            "sourceDisplayName": "HungryShots",
+            "ingredients": [
+                "milk",
+                "yogurt",
+                "vanilla essence",
+                "dates"
+            ],
+            "id": "Date-Yogurt-1441585",
+            "smallImageUrls": [
+                "https://lh3.googleusercontent.com/6-YKEJ22gRKdcYF9Y2MomkztoPtNz8-Bqgwn2ra3HECGW56N7mLnbtJKLShXmz5wjvM1q4YDoz8ukP-dC2OpiI8=s90"
+            ],
+            "recipeName": "Date Yogurt",
+            "totalTimeInSeconds": 2100,
+            "attributes": {},
+            "flavors": null,
+            "rating": 4
+        },
+        {
+            "imageUrlsBySize": {
+                "90": "https://lh3.googleusercontent.com/2DnuJHwf7yqVWUWghDMcgSP4lMv3ZAnXHOGUTv68pmEbLfj510z7p2GcjaK6GLSIuwkWxF6kKL28CuAUZ1Bo=s90-c"
+            },
+            "sourceDisplayName": "Kitchen Runway",
+            "ingredients": [
+                "eggs",
+                "sugar",
+                "oil",
+                "pumpkin pur\u00e9e",
+                "vanilla",
+                "all-purpose flour",
+                "baking powder",
+                "baking soda",
+                "ground cinnamon",
+                "nutmeg",
+                "salt",
+                "cream cheese",
+                "butter",
+                "powdered sugar"
+            ],
+            "id": "Pumpkin-Bars-1753343",
+            "smallImageUrls": [
+                "https://lh3.googleusercontent.com/4rYahXwP3ohQzKxSk7n8iQ4L9L0PfP-t3aQoVVVN6uI1d3q5X-W2903QcZyRK817Me51MnKdfKcJU-59PZamUw=s90"
+            ],
+            "recipeName": "Pumpkin Bars",
+            "totalTimeInSeconds": 1200,
+            "attributes": {
+                "course": [
+                    "Desserts"
+                ],
+                "holiday": [
+                    "Halloween"
+                ]
+            },
+            "flavors": {
+                "piquant": 0.0,
+                "meaty": 0.5,
+                "bitter": 0.16666666666666666,
+                "sweet": 0.8333333333333334,
+                "sour": 0.16666666666666666,
+                "salty": 0.8333333333333334
+            },
+            "rating": 4
+        },
+        {
+            "imageUrlsBySize": {
+                "90": "https://lh3.googleusercontent.com/Zu2RPmG3xt6kXdiM9alRwxYkyjcDblhxYhG9zKqtBe-1iJsP63PLHWDiASCoLSlK9LiDaczGvtIQS_U67QKm_Q=s90-c"
+            },
+            "sourceDisplayName": "HungryShots",
+            "ingredients": [
+                "milk",
+                "yogurt",
+                "honey",
+                "dried cranberries",
+                "red food coloring"
+            ],
+            "id": "Cranberry-Yogurt-1496343",
+            "smallImageUrls": [
+                "https://lh3.googleusercontent.com/IH5yMYw3QVGjqe1vMFShcl_vGGkVsNG65KdGFhmuJn5MX0HnCPrJSYur4gHqc-K0INoBveGs54ufBFnHcbzvrG0=s90"
+            ],
+            "recipeName": "Cranberry Yogurt",
+            "totalTimeInSeconds": 2100,
+            "attributes": {
+                "course": [
+                    "Breakfast and Brunch"
+                ]
+            },
+            "flavors": null,
+            "rating": 4
+        },
+        {
+            "imageUrlsBySize": {
+                "90": "https://lh3.googleusercontent.com/zV0ilw1BX4qwWdYXU4cfJ5z5yjP7J-_uR4izrdtIWSPLjPUeEGA49S2hDP3yuw-Y2MfKMnkCiSQBPZ5XIo8hhQ=s90-c"
+            },
+            "sourceDisplayName": "HungryShots",
+            "ingredients": [
+                "milk",
+                "yogurt",
+                "maple syrup",
+                "raisins"
+            ],
+            "id": "Dried-Raisins-Yogurt-1509216",
+            "smallImageUrls": [
+                "https://lh3.googleusercontent.com/YOpD-VzG0zXc-RRa-Z-oOiAStk_NaBBbefTu18qLB-M3AsuUS1dAGMHyQZfUiSrISi4A8_OApn9LGL1CititTw=s90"
+            ],
+            "recipeName": "Dried Raisins Yogurt",
+            "totalTimeInSeconds": 1800,
+            "attributes": {
+                "course": [
+                    "Breakfast and Brunch"
+                ]
+            },
+            "flavors": null,
+            "rating": 4
+        },
+        {
+            "imageUrlsBySize": {
+                "90": "http://lh3.googleusercontent.com/_LI_3jlK9ClmU1dVY_YTw3rKItHQfl38H6zCrr1OJsVIBtHplupHFbs8lYTqdS39gf_ZYFmTYySvZvk6fN3vMA=s90-c"
+            },
+            "sourceDisplayName": "Metro.ca",
+            "ingredients": [
+                "ham",
+                "maple syrup",
+                "garlic cloves",
+                "star anise",
+                "cinnamon sticks",
+                "bay leaves",
+                "hot pepper",
+                "coriander seeds",
+                "fennel seeds",
+                "olive oil",
+                "water"
+            ],
+            "id": "Ham-with-Maple-Syrup-1203319",
+            "smallImageUrls": [
+                "http://lh3.googleusercontent.com/ukfHum19z8bCJ-q76dAP0TQXe-ObCE9meXnYwGdU7DoI2mH9EIaWB9DiKZYEu3nu6ystefX3a0OTGW13vk8ZYg=s90"
+            ],
+            "recipeName": "Ham with Maple Syrup",
+            "totalTimeInSeconds": 7200,
+            "attributes": {
+                "course": [
+                    "Main Dishes"
+                ],
+                "holiday": [
+                    "Christmas"
+                ]
+            },
+            "flavors": null,
+            "rating": 3
+        }
+    ],
+    "facetCounts": {},
+    "totalMatchCount": 38,
+    "attribution": {
+        "html": "Recipe search powered by <a href='http://www.yummly.co/recipes'><img alt='Yummly' src='https://static.yummly.co/api-logo.png'/></a>",
+        "url": "http://www.yummly.co/recipes/",
+        "text": "Recipe search powered by Yummly",
+        "logo": "https://static.yummly.co/api-logo.png"
+    }
+}

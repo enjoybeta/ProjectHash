@@ -1,0 +1,58 @@
+{
+    "nutritionEstimates": [],
+    "totalTime": "1 hr 25 min",
+    "images": [
+        {
+            "hostedSmallUrl": "https://lh3.googleusercontent.com/1lRb9wTHCC1nVD50zUaa5ngU7ZhqPGBUVu-p5VZ-uCIBVi7UfDTCwkVua7BqzE-6Vy1u2OTPzWRFZfW8FBLN=s90",
+            "hostedMediumUrl": "https://lh3.googleusercontent.com/1lRb9wTHCC1nVD50zUaa5ngU7ZhqPGBUVu-p5VZ-uCIBVi7UfDTCwkVua7BqzE-6Vy1u2OTPzWRFZfW8FBLN=s180",
+            "hostedLargeUrl": "https://lh3.googleusercontent.com/1lRb9wTHCC1nVD50zUaa5ngU7ZhqPGBUVu-p5VZ-uCIBVi7UfDTCwkVua7BqzE-6Vy1u2OTPzWRFZfW8FBLN=s360",
+            "imageUrlsBySize": {
+                "90": "https://lh3.googleusercontent.com/k0gU0AXIwCJEeMiRA5tLeNANAUVXFjtIBK5MSAEG2wWFUJSf9iL9cCddv_0mEjytkIzo0U_thGqpt8DVjJ1SegI=s90-c",
+                "360": "https://lh3.googleusercontent.com/k0gU0AXIwCJEeMiRA5tLeNANAUVXFjtIBK5MSAEG2wWFUJSf9iL9cCddv_0mEjytkIzo0U_thGqpt8DVjJ1SegI=s360-c"
+            }
+        }
+    ],
+    "name": "FLIPZ\u00ae Christmas Snack Mix",
+    "source": {
+        "sourceDisplayName": "In The Know Mom",
+        "sourceSiteUrl": "intheknowmom.net",
+        "sourceRecipeUrl": "http://intheknowmom.net/flipz-holiday-movie-night-snack-mix/"
+    },
+    "id": "FLIPZ-Christmas-Snack-Mix-1431471",
+    "ingredientLines": [
+        "1/2 bag FLIPZ\u00ae White Fudge Pretzels",
+        "1/2 cup frosted O\u2019s cereal",
+        "1/2 cup peanuts",
+        "1/2 cup red and green chocolate candies",
+        "1/2 cup dried cherries (or cranberries)",
+        "1 1/2 cups warm (110 to 115 degrees F) water",
+        "1 tablespoon sugar",
+        "2 teaspoons kosher salt",
+        "1 package active dry yeast",
+        "22 ounces all-purpose flour, approximately 4 1/2 cups",
+        "2 ounces unsalted butter, melted",
+        "10 cups water",
+        "2/3 cup baking soda",
+        "1 large egg yolk beaten with 1 tablespoon water",
+        "Pretzel salt"
+    ],
+    "attribution": {
+        "html": "<a href='http://www.yummly.co/recipe/FLIPZ-Christmas-Snack-Mix-1431471'>FLIPZ&reg; Christmas Snack Mix recipe</a> information powered by <img alt='Yummly' src='https://static.yummly.co/api-logo.png'/>",
+        "url": "http://www.yummly.co/recipe/FLIPZ-Christmas-Snack-Mix-1431471",
+        "text": "FLIPZ&reg; Christmas Snack Mix recipes: information powered by Yummly",
+        "logo": "https://static.yummly.co/api-logo.png"
+    },
+    "numberOfServings": 4,
+    "totalTimeInSeconds": 5100,
+    "attributes": {
+        "holiday": [
+            "Christmas"
+        ],
+        "course": [
+            "Breads",
+            "Lunch"
+        ]
+    },
+    "flavors": {},
+    "rating": 4
+}

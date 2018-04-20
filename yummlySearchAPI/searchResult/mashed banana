@@ -1,0 +1,93 @@
+{
+    "criteria": {
+        "q": "m+a+s+h+e+d+ +b+a+n+a+n+a",
+        "allowedIngredient": null,
+        "excludedIngredient": null
+    },
+    "matches": [
+        {
+            "imageUrlsBySize": {
+                "90": "http://lh3.googleusercontent.com/UupmWu_fPo9ZvTjWPb2qNxknCdRPhx7CYiJHXtzo_YHPC7kxGTGBUF8m5f6xJtjlyZ5QmBdwzHO8yQ44H0cWTA=s90-c"
+            },
+            "sourceDisplayName": "Chefkoch",
+            "ingredients": [
+                "Filoteig",
+                "\u00c4pfel",
+                "Limone",
+                "Zitronensaft",
+                "Zucker",
+                "Wei\u00dfwein",
+                "Wasser",
+                "Schmand",
+                "Honig",
+                "Puderzucker",
+                "Minze",
+                "camembert",
+                "Mandel",
+                "Mehl",
+                "Milch",
+                "Vanille"
+            ],
+            "id": "Apfelstrudel-Einmal-Anders-808453",
+            "smallImageUrls": [
+                "http://lh3.googleusercontent.com/XVrwhflc6GXDlkCd76L6YsRM5LElAU1jyIp95MwZhX6qYWHbrA9KCk7Jopl4QcuwI6x3ZnmWh06BUrPo0_aCmA=s90"
+            ],
+            "recipeName": "Apfelstrudel Einmal Anders",
+            "totalTimeInSeconds": 2400,
+            "attributes": {
+                "course": [
+                    "Desserts"
+                ]
+            },
+            "flavors": null,
+            "rating": 3
+        },
+        {
+            "imageUrlsBySize": {
+                "90": "http://lh3.googleusercontent.com/ppi_srCaMy-yxnHucY4y8POI00uuLyzmFkVMyfT0lYGPJ27B-q_gTtKDZAt1vZMqeHDecw_zu-WV3VaCClso2Q=s90-c"
+            },
+            "sourceDisplayName": "Chefkoch",
+            "ingredients": [
+                "Teig",
+                "Heidenbrein",
+                "Ei",
+                "Salz",
+                "Chiliflocke",
+                "Petersile",
+                "Schnittlauch",
+                "Kuttelkraut",
+                "Kr\u00e4uter",
+                "Champignon",
+                "Tomate",
+                "Butterschmalz",
+                "F\u00fcllung",
+                "Obersk\u00e4se",
+                "R\u00e4ucherlachs",
+                "Fr\u00fchlingszwiebelgr\u00fcn",
+                "Knoblaucknolle",
+                "Schwarzpfeffer",
+                "Zitronenschale",
+                "Honig",
+                "Zitronensaft",
+                "Dill"
+            ],
+            "id": "Buchweizen-Krauter-Pfannkuchen-Rollchen-918657",
+            "smallImageUrls": [
+                "http://lh3.googleusercontent.com/0whhzu6Pljsm1sH_54WOlppfF76kEicip0VaL9O_rdYaSDr1G-cYxtw2YP57mKhMYZLNRIxFbY0unEAygdFPrUA=s90"
+            ],
+            "recipeName": "Buchweizen-Kra\u0308uter-Pfannkuchen-Ro\u0308llchen",
+            "totalTimeInSeconds": 2700,
+            "attributes": {},
+            "flavors": null,
+            "rating": 3
+        }
+    ],
+    "facetCounts": {},
+    "totalMatchCount": 2,
+    "attribution": {
+        "html": "Recipe search powered by <a href='http://www.yummly.co/recipes'><img alt='Yummly' src='https://static.yummly.co/api-logo.png'/></a>",
+        "url": "http://www.yummly.co/recipes/",
+        "text": "Recipe search powered by Yummly",
+        "logo": "https://static.yummly.co/api-logo.png"
+    }
+}

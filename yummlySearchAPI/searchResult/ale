@@ -1,0 +1,332 @@
+{
+    "criteria": {
+        "q": "a+l+e",
+        "allowedIngredient": null,
+        "excludedIngredient": null
+    },
+    "matches": [
+        {
+            "imageUrlsBySize": {
+                "90": "http://lh4.ggpht.com/Gnvyi240tC31lL1feBTqa97g55af2a_Sg263PgZ99VGi8N9T7xSdz4OQGBj4_R5j4LrEZeO5_6_fk_7tQclgog=s90-c"
+            },
+            "sourceDisplayName": "Liquor.com",
+            "ingredients": [
+                "twists",
+                "teas",
+                "Martini",
+                "gin",
+                "beefeater"
+            ],
+            "id": "E-sencha-l-354619",
+            "smallImageUrls": [
+                "http://lh3.ggpht.com/guy_5QS1kAQIMyAuxD0CvggVCFpN4LJm83NJDSzOO-enPRTRfnil0aHQ4gOcHEBO2-BwQQ-SzMAjxzWFsyiGKaU=s90"
+            ],
+            "recipeName": "E-Sencha-L",
+            "totalTimeInSeconds": 600,
+            "attributes": {
+                "course": [
+                    "Beverages",
+                    "Cocktails"
+                ]
+            },
+            "flavors": null,
+            "rating": 4
+        },
+        {
+            "imageUrlsBySize": {
+                "90": "https://lh3.googleusercontent.com/EmlYEqqkvNql0yrruP6u2v2cA_0gBL0EBdWRwuSxFgZc-j_c7ONg5JqlHj2Dl9GHZ6uacTF8_lJceRNQn-8R=s90-c"
+            },
+            "sourceDisplayName": "Ahead of Thyme",
+            "ingredients": [
+                "bagels",
+                "vegetable oil",
+                "eggs",
+                "tomatoes",
+                "lettuce",
+                "salt",
+                "pepper"
+            ],
+            "id": "E_L_T_-_Egg-Lettuce-Tomato_-Breakfast-Bagel-1543288",
+            "smallImageUrls": [
+                "https://lh3.googleusercontent.com/1LpgzUQU-Mh1-JiI0ayTyWlE2bwbKYzF7qSQZyEIbAQ3773RghukQwjEuziQi8j_Kb8ODoJwBqWevrNNRw1ejoo=s90"
+            ],
+            "recipeName": "E.L.T. (Egg Lettuce Tomato) Breakfast Bagel",
+            "totalTimeInSeconds": 480,
+            "attributes": {
+                "course": [
+                    "Breakfast and Brunch",
+                    "Lunch"
+                ]
+            },
+            "flavors": {
+                "piquant": 0.0,
+                "meaty": 0.3333333333333333,
+                "bitter": 0.8333333333333334,
+                "sweet": 0.16666666666666666,
+                "sour": 0.3333333333333333,
+                "salty": 0.8333333333333334
+            },
+            "rating": 4
+        },
+        {
+            "imageUrlsBySize": {
+                "90": "https://lh3.googleusercontent.com/aJNXmKd6srwdm5lsWDScCRnwNa8RJF2w6WN8gsfVXj6cmQyHs0T5Dfi9-q82S7C5cAiiH5qrmKaguQKTD3cVao8=s90-c"
+            },
+            "sourceDisplayName": "Lou Lou Girls.Blogspot.Com",
+            "ingredients": [
+                "butter",
+                "granulated sugar",
+                "eggs",
+                "pure vanilla extract",
+                "all-purpose flour",
+                "baking powder",
+                "salt",
+                "milk",
+                "vegetable shortening",
+                "salted butter",
+                "cocoa",
+                "vanilla extract",
+                "sea salt",
+                "confectioners sugar"
+            ],
+            "id": "E_L_-Fudge-Cupcakes-2398438",
+            "smallImageUrls": [
+                "https://lh3.googleusercontent.com/gsREzZuyPjT-8HMPPP3RBnHv1X7QheOz-BeaZl6UawkRDna0ExmsfBhjmqJLjNtdFnzxygEUxgsLwlz_9Lup=s90"
+            ],
+            "recipeName": "E.L. Fudge Cupcakes",
+            "totalTimeInSeconds": 2700,
+            "attributes": {
+                "course": [
+                    "Desserts"
+                ]
+            },
+            "flavors": null,
+            "rating": 4
+        },
+        {
+            "imageUrlsBySize": {
+                "90": "https://lh3.googleusercontent.com/iL7LiSAYxpOqfjohO5V07PglOesRttBq-1VrbIsfn1mVLNpp1VSNiXL3URP5-cbq8UYxioXl-qOv8ItQ85DV=s90-c"
+            },
+            "sourceDisplayName": "Tasting Table",
+            "ingredients": [
+                "unsalted butter",
+                "white onion",
+                "kosher salt",
+                "large eggs",
+                "lox",
+                "chives",
+                "aleppo pepper",
+                "salt"
+            ],
+            "id": "L_E_O_-_Lox_-Eggs-and-Onions_-1396488",
+            "smallImageUrls": [
+                "https://lh3.googleusercontent.com/b93GfsugkYWWt2W1gDO6cfBdqF6xmI6YCY6pj8Yia4AtUlkzxGRPv5Svp5manupo_gSNvlMlhF7usnJAd7BH3Q=s90"
+            ],
+            "recipeName": "L.E.O. (Lox, Eggs and Onions)",
+            "totalTimeInSeconds": 1200,
+            "attributes": {
+                "course": [
+                    "Breakfast and Brunch"
+                ]
+            },
+            "flavors": null,
+            "rating": 3
+        },
+        {
+            "imageUrlsBySize": {
+                "90": "https://lh3.googleusercontent.com/WK3ovmUAzoUAHcGLld5cLTjQ55hE_7PKqIcxQqNjdQm8NoPv1S12WRF8_Hzf2hH1VDCu-gmBRerFXGj7KNFJrQ=s90-c"
+            },
+            "sourceDisplayName": "RDP MAG",
+            "ingredients": [
+                "parmigiano reggiano cheese",
+                "broth",
+                "cream",
+                "unsalted butter",
+                "shallots",
+                "garlic cloves",
+                "arborio rice",
+                "freshly ground black pepper",
+                "leaves"
+            ],
+            "id": "Massimo-Bottura-Cacio-E-Pepe-Risotto-2386815",
+            "smallImageUrls": [
+                "https://lh3.googleusercontent.com/rRiBHUYpadrrkdqQhYMKWOnNmJE4LNHG6nl8JZeUpiJDZnvGmFf1YkWtvYMWJMwU4zk--Jhi5EW3qoDdT0yHrg=s90"
+            ],
+            "recipeName": "Massimo Bottura Cacio E Pepe Risotto",
+            "totalTimeInSeconds": 3600,
+            "attributes": {
+                "cuisine": [
+                    "Italian"
+                ]
+            },
+            "flavors": null,
+            "rating": 3
+        },
+        {
+            "imageUrlsBySize": {
+                "90": "http://lh3.googleusercontent.com/RFif7uUkjcIZPINRUnKaVfVPTJkS2NsD7aMw78K5VPKhHK2q0jJbULpXQHDwgw4_R0tuhjzHAxZI-UmmhiOG8w=s90-c"
+            },
+            "sourceDisplayName": "A Pretty Life in the Suburbs",
+            "ingredients": [
+                "white cake mix",
+                "jello",
+                "boiling water",
+                "whipping cream"
+            ],
+            "id": "Rainbow-J-E-L-L-O-Cake_-1097534",
+            "smallImageUrls": [
+                "http://lh3.googleusercontent.com/jh2Fi7sGyL1mefx6DcYuJEhNhO6oDZSWjbNnIXga9BE_6W6qhcM8fvH9QW0e8yti6AbYWASElA1fZyk6aonxEcA=s90"
+            ],
+            "recipeName": "Rainbow J-E-L-L-O Cake!",
+            "totalTimeInSeconds": 2700,
+            "attributes": {
+                "course": [
+                    "Desserts"
+                ]
+            },
+            "flavors": null,
+            "rating": 4
+        },
+        {
+            "imageUrlsBySize": {
+                "90": "https://lh3.googleusercontent.com/AyQZOwfYVUki5wINDypDrVsF-uf7CQ6L5wHGMGuoL3lVpUtgNH7DQwPsgH6oJrZkWHJEGS1rjdf3Gw7A6-GNRA=s90-c"
+            },
+            "sourceDisplayName": "Cookie Dough and Oven Mitt",
+            "ingredients": [
+                "granulated sugar",
+                "unsweetened cocoa powder",
+                "soy milk",
+                "silken tofu",
+                "caramels",
+                "salt"
+            ],
+            "id": "Chocolate-Ice-Cream-with-Salted-Caramel-2146874",
+            "smallImageUrls": [
+                "https://lh3.googleusercontent.com/26Go4sr67zaRncKsp40yiROl4PchBShI3FObUoD6CqlDXN2FQZfJNPvSNLo59CcJ2DgfhfOCKvoAs-Qd_jcgumY=s90"
+            ],
+            "recipeName": "Chocolate Ice Cream with Salted Caramel",
+            "totalTimeInSeconds": 9900,
+            "attributes": {
+                "course": [
+                    "Desserts"
+                ]
+            },
+            "flavors": {
+                "piquant": 0.0,
+                "meaty": 0.16666666666666666,
+                "bitter": 0.5,
+                "sweet": 0.8333333333333334,
+                "sour": 0.16666666666666666,
+                "salty": 0.3333333333333333
+            },
+            "rating": 4
+        },
+        {
+            "imageUrlsBySize": {
+                "90": "https://lh3.googleusercontent.com/VCT0UBPUDCDq7cpVAYNyowQ-IEydGQLUfTCFBEH1N3aOBectSvRXnlYuHaR_X2PzDFivFNdRerI-Ws7BJ9KXiA=s90-c"
+            },
+            "sourceDisplayName": "MyRecipes",
+            "ingredients": [
+                "large eggs",
+                "large egg whites",
+                "canola oil",
+                "sliced green onions",
+                "smoked salmon",
+                "reduced fat cream cheese",
+                "freshly ground black pepper",
+                "pumpernickel bread"
+            ],
+            "id": "L_E_O_-Scramble-1469388",
+            "smallImageUrls": [
+                "https://lh3.googleusercontent.com/U7VegREZzuxl7x4acfZwEIYX7BUiTWvsYhjLfqveIKqbsLsovXeAmWLOtd2_6KflMUby9IksrvBdqFZXlBb-=s90"
+            ],
+            "recipeName": "L.E.O. Scramble",
+            "totalTimeInSeconds": 660,
+            "attributes": {
+                "course": [
+                    "Breakfast and Brunch"
+                ]
+            },
+            "flavors": {
+                "piquant": 0.0,
+                "meaty": 0.5,
+                "bitter": 0.6666666666666666,
+                "sweet": 0.16666666666666666,
+                "sour": 0.16666666666666666,
+                "salty": 0.8333333333333334
+            },
+            "rating": 3
+        },
+        {
+            "imageUrlsBySize": {
+                "90": "http://lh6.ggpht.com/8D7RxcJio3BSQV5RniG6FFyNapY9i-yHvOtGkKgm-EWUm0sRR0B9y2QexZRnUohvkIFQMdLgBPtvkJP2ETOd6g=s90-c"
+            },
+            "sourceDisplayName": "ZWilling J.A. Henckels",
+            "ingredients": [
+                "white onion",
+                "garlic",
+                "lime",
+                "olive oil",
+                "white wine",
+                "black pepper",
+                "coarse salt",
+                "fresh parsley"
+            ],
+            "id": "Oven-Braised-Salmon-with-Lime-and-Garlic-970009",
+            "smallImageUrls": [
+                "http://lh6.ggpht.com/YaYX1wdr47WVSrtGK48UkC9bK36W6sZ-W9zr72crMCXlvMsa9wDLBab_HZwgcBRe-R0bozszIrKSjZIg-VsZVA=s90"
+            ],
+            "recipeName": "Oven Braised Salmon with Lime and Garlic",
+            "totalTimeInSeconds": 3000,
+            "attributes": {
+                "course": [
+                    "Main Dishes"
+                ]
+            },
+            "flavors": null,
+            "rating": 3
+        },
+        {
+            "imageUrlsBySize": {
+                "90": "https://lh3.googleusercontent.com/LZOaQ_6iR__PJ6og4aOWjqhX4vDwJMYE2hnBGawGgI48XJbDBbxo1dQy12vNxhst2fksS2MF5cT2wFwibRlDKvk=s90-c"
+            },
+            "sourceDisplayName": "Diethood",
+            "ingredients": [
+                "Pillsbury\u00ae Moist Supreme\u00ae Funfetti\u00ae Cake Mix",
+                "baking powder",
+                "eggs",
+                "canola oil",
+                "vanilla",
+                "sprinkles"
+            ],
+            "id": "Cake-Batter-Funfetti-Cookies-2364954",
+            "smallImageUrls": [
+                "https://lh3.googleusercontent.com/b-rz2fYoK9chszeG2sc1W1a0JUj_FDyJKywB319-wfp3btWqkowwV0OCbwXoE4H-dL1UpHl0ihjNF0REu-3I=s90"
+            ],
+            "recipeName": "Cake Batter Funfetti Cookies",
+            "totalTimeInSeconds": 1140,
+            "attributes": {
+                "course": [
+                    "Desserts"
+                ]
+            },
+            "flavors": {
+                "piquant": 0.0,
+                "meaty": 0.8333333333333334,
+                "bitter": 0.8333333333333334,
+                "sweet": 0.3333333333333333,
+                "sour": 0.16666666666666666,
+                "salty": 0.8333333333333334
+            },
+            "rating": 4
+        }
+    ],
+    "facetCounts": {},
+    "totalMatchCount": 7512,
+    "attribution": {
+        "html": "Recipe search powered by <a href='http://www.yummly.co/recipes'><img alt='Yummly' src='https://static.yummly.co/api-logo.png'/></a>",
+        "url": "http://www.yummly.co/recipes/",
+        "text": "Recipe search powered by Yummly",
+        "logo": "https://static.yummly.co/api-logo.png"
+    }
+}

@@ -1,0 +1,128 @@
+{
+    "criteria": {
+        "q": "R+o+t+w+e+i+n",
+        "allowedIngredient": null,
+        "excludedIngredient": null
+    },
+    "matches": [
+        {
+            "imageUrlsBySize": {
+                "90": "https://lh3.googleusercontent.com/MSNgN7s8kgVameNlbVabe0e5BDf7x-9HNBFOWKxHLk4Hhl5130KN4an7iRzor0oc2aVA0mVn5v3aG5e3wge_Xg=s90-c"
+            },
+            "sourceDisplayName": "I Should Be Mopping the Floor",
+            "ingredients": [
+                "sandwiches",
+                "cool whip",
+                "caramel ice cream topping",
+                "ice cream"
+            ],
+            "id": "10-Minute-Layered-Ice-Cream-Cake-_easydessert-1914028",
+            "smallImageUrls": [
+                "https://lh3.googleusercontent.com/t9uQksw-8vAc7i8sB2RiuybQLR-JYEt-LA3HgZHHsVITAFLuQplS9aJpBCa39DNiyLt7xsgn9JF4cnfNifgWMg=s90"
+            ],
+            "recipeName": "10-Minute Layered Ice Cream Cake #easydessert",
+            "totalTimeInSeconds": 1500,
+            "attributes": {
+                "course": [
+                    "Desserts"
+                ]
+            },
+            "flavors": null,
+            "rating": 4
+        },
+        {
+            "imageUrlsBySize": {
+                "90": "http://lh3.googleusercontent.com/gMGtOvMfHktHwLQBi3zL1O783wClsaqnvZWt8PD5m5BdRQCNvvEzbawzkQBuaaB6mNy4gsNNFZi3hja9GLaYgg=s90-c"
+            },
+            "sourceDisplayName": "My Utensil Crock",
+            "ingredients": [
+                "boneless skinless chicken breasts",
+                "lemon",
+                "extra-virgin olive oil",
+                "minced garlic",
+                "cumin",
+                "pepper",
+                "paprika",
+                "chile powder"
+            ],
+            "id": "Shish-Taouk-Chicken-Kabobs-1165922",
+            "smallImageUrls": [
+                "http://lh3.googleusercontent.com/TiMPwSwcLX6lMMb0CmQUsBVMeEUCJYvZnpAkCbNO4lQnRvtQZyCSr-BYp_1NXLl9gL3Fzw1uTh1LQR_YNWjKeA=s90"
+            ],
+            "recipeName": "Shish Taouk \u2013 Chicken Kabobs",
+            "totalTimeInSeconds": 1200,
+            "attributes": {
+                "course": [
+                    "Main Dishes"
+                ]
+            },
+            "flavors": null,
+            "rating": 4
+        },
+        {
+            "recipeName": "Chicago-Style Steak With Bleu Cheese Butter",
+            "ingredients": [
+                "sirloin steak",
+                "worcestershire sauce",
+                "soy sauce",
+                "cooking sherry",
+                "red wine vinegar",
+                "butter",
+                "blue cheese",
+                "green onions"
+            ],
+            "totalTimeInSeconds": 1200,
+            "sourceDisplayName": "Food.com",
+            "id": "Chicago-Style-Steak-With-Bleu-Cheese-Butter-Food_com-125744",
+            "rating": 4,
+            "flavors": null,
+            "attributes": {
+                "course": [
+                    "Main Dishes"
+                ]
+            }
+        },
+        {
+            "recipeName": "H I M B E E R T O R T E",
+            "ingredients": [
+                "Ei",
+                "Puderzucker",
+                "Vanillezucker",
+                "Mehl",
+                "St\u00e4rke",
+                "Backpulver",
+                "F\u00fcllung",
+                "G\u00f6tterspeise",
+                "Zucker",
+                "K\u00e4se",
+                "Rahm",
+                "Himbeere"
+            ],
+            "totalTimeInSeconds": 7200,
+            "sourceDisplayName": "Lecker",
+            "id": "H-I-M-B-E-E-R-T-O-R-T-E-839122",
+            "rating": 3,
+            "flavors": {
+                "sweet": 0.8333333333333334,
+                "piquant": 0.0,
+                "sour": 0.6666666666666666,
+                "salty": 0.16666666666666666,
+                "meaty": 0.16666666666666666,
+                "bitter": 0.16666666666666666
+            },
+            "attributes": {
+                "course": [
+                    "Desserts"
+                ]
+            }
+        }
+    ],
+    "facetCounts": {},
+    "totalMatchCount": 4,
+    "attribution": {
+        "html": "Recipe search powered by <a href='http://www.yummly.co/recipes'><img alt='Yummly' src='https://static.yummly.co/api-logo.png'/></a>",
+        "url": "http://www.yummly.co/recipes/",
+        "text": "Recipe search powered by Yummly",
+        "logo": "https://static.yummly.co/api-logo.png"
+    }
+}

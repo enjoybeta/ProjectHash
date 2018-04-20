@@ -1,0 +1,374 @@
+{
+    "criteria": {
+        "q": "e+g+g+p+l+a+n+t",
+        "allowedIngredient": null,
+        "excludedIngredient": null
+    },
+    "matches": [
+        {
+            "imageUrlsBySize": {
+                "90": "https://lh3.googleusercontent.com/AhJ3yQOH0MvPw0RHKJmeJl-Tt7Y8_iwEMu5hGsX-WQGZdDrUhR1kUTdJYMpq4cyqdonGWpnAy9z2Un9s32gj3w=s90-c"
+            },
+            "sourceDisplayName": "Reader's Digest.ca",
+            "ingredients": [
+                "sweet potatoes",
+                "olive oil",
+                "salt",
+                "lasagna noodles",
+                "vegetable oil",
+                "all-purpose flour",
+                "milk",
+                "pepper",
+                "nutmeg",
+                "cayenne",
+                "cheese",
+                "parmigiano reggiano cheese"
+            ],
+            "id": "Sweet-Potato-Lasagna-2060559",
+            "smallImageUrls": [
+                "https://lh3.googleusercontent.com/numcJmyejJVZUJfhPzYKqHxQxcvxzAL8CaB6iP0huymGqadIbOujHTpSssFDmQo5hTuW716NiyYllIDRYEtusg=s90"
+            ],
+            "recipeName": "Sweet Potato Lasagna",
+            "totalTimeInSeconds": 3600,
+            "attributes": {
+                "course": [
+                    "Main Dishes"
+                ]
+            },
+            "flavors": null,
+            "rating": 3
+        },
+        {
+            "imageUrlsBySize": {
+                "90": "https://lh3.googleusercontent.com/8V0ZkaknjOK8khXc9AHIqusLExDC9U3LDxs3uS_vxHU-qNFNQ1o3T9qCkxfL0v-G7bzA6DxBkvNBHV93LcLQ2tM=s90-c"
+            },
+            "sourceDisplayName": "Serious Eats",
+            "ingredients": [
+                "sugar",
+                "Diamond Crystal\u00ae Kosher Salt",
+                "baking powder",
+                "unsalted butter",
+                "milk",
+                "vanilla extract",
+                "all-purpose flour",
+                "powdered sugar",
+                "cocoa powder"
+            ],
+            "id": "E_L_-Fudge-Style-Chocolate-and-Vanilla-Sandwich-Cookies-2059393",
+            "smallImageUrls": [
+                "https://lh3.googleusercontent.com/NB4W9W622JcehlCd6hxFHfSYKJH8Mgp8UN5g8xiOKc_l-k_h7iONVPccz7MpqRRd_RedITT6-ljzvSVplaVvp9U=s90"
+            ],
+            "recipeName": "E.L. Fudge-Style Chocolate and Vanilla Sandwich Cookies",
+            "totalTimeInSeconds": 3000,
+            "attributes": {
+                "course": [
+                    "Desserts"
+                ]
+            },
+            "flavors": {
+                "piquant": 0.0,
+                "meaty": 0.6666666666666666,
+                "bitter": 0.16666666666666666,
+                "sweet": 0.8333333333333334,
+                "sour": 0.16666666666666666,
+                "salty": 0.3333333333333333
+            },
+            "rating": 3
+        },
+        {
+            "imageUrlsBySize": {
+                "90": "https://lh3.googleusercontent.com/QE1oPGl-tG4_1Et0FT3Ugfjfsz2l_EdDzUA4Q4GAQIY4-jH8kJipYvMUtRenPY0f-Y7wv1qGppVtqIYMv5PHkG8=s90-c"
+            },
+            "sourceDisplayName": "Serious Eats",
+            "ingredients": [
+                "sugar",
+                "Diamond Crystal\u00ae Kosher Salt",
+                "baking powder",
+                "unsalted butter",
+                "milk",
+                "vanilla extract",
+                "all-purpose flour",
+                "powdered sugar",
+                "Dutch-processed cocoa powder"
+            ],
+            "id": "E_L_-Fudge-Style-Chocolate-and-Vanilla-Sandwich-Cookies-2387974",
+            "smallImageUrls": [
+                "https://lh3.googleusercontent.com/n1MIumyML7MrIgZ56igNto2j11UYNQgSeFF9RfXoOF5KgVOvvFDHsgvIsKp1Lu2hd0a0185refHuNex8Mu1AsQk=s90"
+            ],
+            "recipeName": "E.L. Fudge-Style Chocolate and Vanilla Sandwich Cookies",
+            "totalTimeInSeconds": 3000,
+            "attributes": {
+                "course": [
+                    "Desserts"
+                ]
+            },
+            "flavors": {
+                "piquant": 0.0,
+                "meaty": 0.6666666666666666,
+                "bitter": 0.16666666666666666,
+                "sweet": 0.8333333333333334,
+                "sour": 0.16666666666666666,
+                "salty": 0.3333333333333333
+            },
+            "rating": 3
+        },
+        {
+            "imageUrlsBySize": {
+                "90": "http://lh3.ggpht.com/e5cNuExQD_kwwI3ommnwUKr0aWsgQQcPtMVVOZtfFwBFkVbRwM9b0DViZpsOJnyFaqtfMoXLhr9C1vhByvuUmQ=s90-c"
+            },
+            "sourceDisplayName": "Bake to the Roots",
+            "ingredients": [
+                "dried fruit",
+                "raisins",
+                "walnuts",
+                "hazelnuts",
+                "rum",
+                "milk",
+                "fresh yeast",
+                "honey",
+                "vanilla beans",
+                "lemon",
+                "all-purpose flour",
+                "curd cheese",
+                "butter",
+                "sugar",
+                "salt",
+                "confectioners sugar"
+            ],
+            "id": "Christstollen-with-Nuts-940177",
+            "smallImageUrls": [
+                "http://lh4.ggpht.com/8YOsCFolR2GOXGc3x_EPSibI3I6ytXxMBcGZxbpEQgjpW9amzVmTmu2qxWDWLKZP_6b85FLiNhP3nDSKJd2z35o=s90"
+            ],
+            "recipeName": "Christstollen with Nuts",
+            "totalTimeInSeconds": 27000,
+            "attributes": {
+                "course": [
+                    "Breads"
+                ],
+                "cuisine": [
+                    "German"
+                ]
+            },
+            "flavors": {
+                "sweet": 0.8333333333333334,
+                "piquant": 0.0,
+                "sour": 0.3333333333333333,
+                "salty": 0.16666666666666666,
+                "meaty": 0.6666666666666666,
+                "bitter": 0.16666666666666666
+            },
+            "rating": 3
+        },
+        {
+            "imageUrlsBySize": {
+                "90": "http://lh3.googleusercontent.com/lm5KVDCCoVew1sxTz0Ya6PWPcKXtm2nGdaSEJyXderP9MfwdCTUWdej5IWWf1GSfe0FD2EUThv35IDVnnDmR_Q=s90-c"
+            },
+            "sourceDisplayName": "Lecker",
+            "ingredients": [
+                "Mehl",
+                "Zucker",
+                "Salz",
+                "Backpulver",
+                "Ei",
+                "Butter",
+                "Fett",
+                "magerquark",
+                "Puddingpulver",
+                "Zitronensaft",
+                "Milch"
+            ],
+            "id": "Goldtropfchentorte-846820",
+            "smallImageUrls": [
+                "http://lh3.googleusercontent.com/p2jqFTRq-nE3J9A4lvdY-557e3R23pdXnGc_OZ2NhClwbIYGtEWLdQKfVuXvSgwHBruaXkVWylVJJQhQw6_jQsU=s90"
+            ],
+            "recipeName": "Goldtro\u0308pfchentorte",
+            "totalTimeInSeconds": 2400,
+            "attributes": {},
+            "flavors": {
+                "sweet": 0.8333333333333334,
+                "piquant": 0.0,
+                "sour": 0.16666666666666666,
+                "salty": 0.5,
+                "meaty": 0.16666666666666666,
+                "bitter": 0.16666666666666666
+            },
+            "rating": 3
+        },
+        {
+            "imageUrlsBySize": {
+                "90": "http://lh3.googleusercontent.com/hed6B6nUqo06fmxA-v7L_ukEdsiSfK6BcWdL1kuoeJW7XNHHJ2_kLMH4CrMH69HbfxsxFpsucVOGA8DczOthVw0=s90-c"
+            },
+            "sourceDisplayName": "Lecker",
+            "ingredients": [
+                "Butter",
+                "Ei",
+                "Zucker",
+                "Mehl",
+                "Backpulver",
+                "Kokoschips",
+                "Kokoslik\u00f6r",
+                "Konfit\u00fcre",
+                "Schlabgobers",
+                "Saucenpulver"
+            ],
+            "id": "Vanillecreme-Petit-Fours-835087",
+            "smallImageUrls": [
+                "http://lh3.googleusercontent.com/FxuZWPA2WX5pv9vxu6aPeq3dFB18kPkZNR6fXio9nfkbM3WWKgfuB2YgqpgpSKLjNmIugAkA4vaxnu1-bXjX_zE=s90"
+            ],
+            "recipeName": "Vanillecreme-Petit-Fours",
+            "totalTimeInSeconds": 3600,
+            "attributes": {
+                "course": [
+                    "Desserts"
+                ]
+            },
+            "flavors": null,
+            "rating": 3
+        },
+        {
+            "imageUrlsBySize": {
+                "90": "http://lh3.googleusercontent.com/UacsjHz_3qub0ILc_nozymlkfgEVlEN6COUUTfpaXh-NRxBoRTj_T2ClqyWNTrgOTKu2lUe0e1wQ0WCFBcvrxng=s90-c"
+            },
+            "sourceDisplayName": "Lecker",
+            "ingredients": [
+                "Vanillepuddingpulver",
+                "Zucker",
+                "Milch",
+                "Salz",
+                "Butter",
+                "Mehl",
+                "Ei",
+                "dunkle Schokolade",
+                "Schlabgobers",
+                "Plattenfett",
+                "Sahnefestiger",
+                "Erdbeere"
+            ],
+            "id": "Eclairs-mit-Erdbeeren-und-Sahnepudding-929351",
+            "smallImageUrls": [
+                "http://lh3.googleusercontent.com/uR5iZdbdA8clvfeBqOI4hoKQiTMdQbJx9QVwHcpM8YKAfRhigmRzyHh4j8anfb7T7TEbAhlywxv0psKejz-alRU=s90"
+            ],
+            "recipeName": "Eclairs mit Erdbeeren und Sahnepudding",
+            "totalTimeInSeconds": 3600,
+            "attributes": {},
+            "flavors": {
+                "sweet": 0.6666666666666666,
+                "piquant": 0.0,
+                "sour": 0.8333333333333334,
+                "salty": 0.5,
+                "meaty": 0.6666666666666666,
+                "bitter": 0.16666666666666666
+            },
+            "rating": 3
+        },
+        {
+            "imageUrlsBySize": {
+                "90": "http://lh3.googleusercontent.com/-8Co1hyDN9R_YVN_5HWBqV-xrZxOYgzX1S2Ef5cZnR5feBfO2JkJb_c_WMtfhrpvIYvpu2BlZ9R44fWY4tyt=s90-c"
+            },
+            "sourceDisplayName": "Lecker",
+            "ingredients": [
+                "Mehl",
+                "Rosine",
+                "whisky",
+                "Zitronat",
+                "Mandel",
+                "weiche Butter",
+                "Demerarazucker",
+                "Bourbon-Vanillezucker",
+                "Lebkuchengew\u00fcrz",
+                "Salz",
+                "Ei",
+                "Backpulver",
+                "Orangenkonfit\u00fcre"
+            ],
+            "id": "Schottischer-Fruchtekuchen-844999",
+            "smallImageUrls": [
+                "http://lh3.googleusercontent.com/jQOhXsXz6UZy9_0eJXfRjHacab0h5-knz0HaaoBW6metHZCz3fI1m0cyVfQP4QSSdEmP_29lgb59Cd9no4-AgQ=s90"
+            ],
+            "recipeName": "Schottischer Fru\u0308chtekuchen",
+            "totalTimeInSeconds": 106200,
+            "attributes": {},
+            "flavors": {
+                "sweet": 0.8333333333333334,
+                "piquant": 0.0,
+                "sour": 0.16666666666666666,
+                "salty": 0.3333333333333333,
+                "meaty": 0.8333333333333334,
+                "bitter": 0.8333333333333334
+            },
+            "rating": 3
+        },
+        {
+            "imageUrlsBySize": {
+                "90": "http://lh3.googleusercontent.com/-SlXzFpiKFDD7Q2G6EiXVBUYUB5fkKrVcMiS3rta0akav6juB7n200xaJ93WItPDVwYK9QWzSDRdslygPz8SfA=s90-c"
+            },
+            "sourceDisplayName": "Lecker",
+            "ingredients": [
+                "Zitrone",
+                "Butter",
+                "Apelsaft",
+                "Bourbon-Vanillezucker",
+                "Sternanis",
+                "Joghurt"
+            ],
+            "id": "Bratapfelmus-mit-Joghurt-Haube-834402",
+            "smallImageUrls": [
+                "http://lh3.googleusercontent.com/KdMWf9GCiKWSJPexuzyC4YiC_ZeHRPS-tvmSnLXU9xQ4TB26jD2IoUeGNBsA4ra61JAwKlkSz97IBvPMqD8N=s90"
+            ],
+            "recipeName": "Bratapfelmus mit Joghurt-Haube",
+            "totalTimeInSeconds": 2700,
+            "attributes": {},
+            "flavors": {
+                "sweet": 0.6666666666666666,
+                "piquant": 0.0,
+                "sour": 0.5,
+                "salty": 0.16666666666666666,
+                "meaty": 0.16666666666666666,
+                "bitter": 0.16666666666666666
+            },
+            "rating": 3
+        },
+        {
+            "imageUrlsBySize": {
+                "90": "http://lh3.googleusercontent.com/D-jrApfGAhvYtTO6SzeRCHsmWIg1OSNrY90qJUz3QbkHeT4g068uTooBw5Ol42oFOditYQ6EokHe7QHyXq05=s90-c"
+            },
+            "sourceDisplayName": "Lecker",
+            "ingredients": [
+                "Mehl",
+                "Milch",
+                "Hefe",
+                "weiche Butter",
+                "Fett",
+                "Tomate",
+                "Mozzarella",
+                "Oliven",
+                "Peperoni",
+                "Salami"
+            ],
+            "id": "Pizza-Salami-mit-Peperoni-834441",
+            "smallImageUrls": [
+                "http://lh3.googleusercontent.com/2PSNpEEfJpRmDhewrN8RdGVUf1vuD6mtEwISMmASRc1PEcJiSpM-HrKyOOnaGZUGb1apkAgpC1IzA4fdCBJY=s90"
+            ],
+            "recipeName": "Pizza Salami mit Peperoni",
+            "totalTimeInSeconds": 4500,
+            "attributes": {},
+            "flavors": {
+                "sweet": 0.16666666666666666,
+                "piquant": 0.0,
+                "sour": 0.16666666666666666,
+                "salty": 0.5,
+                "meaty": 0.3333333333333333,
+                "bitter": 0.3333333333333333
+            },
+            "rating": 3
+        }
+    ],
+    "facetCounts": {},
+    "totalMatchCount": 85,
+    "attribution": {
+        "html": "Recipe search powered by <a href='http://www.yummly.co/recipes'><img alt='Yummly' src='https://static.yummly.co/api-logo.png'/></a>",
+        "url": "http://www.yummly.co/recipes/",
+        "text": "Recipe search powered by Yummly",
+        "logo": "https://static.yummly.co/api-logo.png"
+    }
+}

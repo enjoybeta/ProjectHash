@@ -1,0 +1,88 @@
+{
+    "criteria": {
+        "q": "y+o+l+k",
+        "allowedIngredient": null,
+        "excludedIngredient": null
+    },
+    "matches": [
+        {
+            "imageUrlsBySize": {
+                "90": "https://lh3.googleusercontent.com/Z6bdHfs4ljDODV3QXihh_7_et3-od3P8eajKFVgwe97OjQ0N0ifakHpa0w-a_YUodbkSoOXZlZWMJlaTJlSz6w=s90-c"
+            },
+            "sourceDisplayName": "That's Low Carb",
+            "ingredients": [
+                "coconut milk",
+                "ground cinnamon",
+                "pure vanilla extract",
+                "egg yolks",
+                "erythritol",
+                "blackberries",
+                "almond extract"
+            ],
+            "id": "Low-Carb-Blackberry-Ice-Cream-2270048",
+            "smallImageUrls": [
+                "https://lh3.googleusercontent.com/XebTMkKWtwQPM8qoSRG8E6e-2S82_O47YsIIQBF1TQGcjm465yfkTDPuV7GA1-7Pi1gKUaOk-H1nZhFNkmzUIQ=s90"
+            ],
+            "recipeName": "Low Carb Blackberry Ice Cream",
+            "totalTimeInSeconds": 1200,
+            "attributes": {
+                "course": [
+                    "Desserts"
+                ]
+            },
+            "flavors": null,
+            "rating": 4
+        },
+        {
+            "imageUrlsBySize": {
+                "90": "http://lh3.googleusercontent.com/FL1i_7sznRqAMvmkdYtpn_7Fz1z6U8eZmtaErGtn87At1NZsZcY66jyqmcZG1V9SkIOylE0qcIThYoh6oMOrLg=s90-c"
+            },
+            "sourceDisplayName": "Lecker",
+            "ingredients": [
+                "Mehl",
+                "Backpulver",
+                "Zucker",
+                "Butter",
+                "Ei",
+                "Milch",
+                "Puddingpulver",
+                "Sour Cream",
+                "Rhabarber",
+                "Zitronensaft",
+                "Himbeersosse",
+                "Speisest\u00e4rke",
+                "Schlabgobers",
+                "Puderzucker",
+                "Minze"
+            ],
+            "id": "Vanille-Rhabarbertorte-923808",
+            "smallImageUrls": [
+                "http://lh3.googleusercontent.com/soGp63bq7RjpDjwCx1T-8ghKP3Mf_gxPzy7UxZfO1OvgRsvuqhU751EkBca1W3BIxKfbeoKIVTKnrUnMAAdqx94=s90"
+            ],
+            "recipeName": "Vanille-Rhabarbertorte",
+            "totalTimeInSeconds": 3600,
+            "attributes": {
+                "course": [
+                    "Desserts"
+                ]
+            },
+            "flavors": {
+                "sweet": 0.8333333333333334,
+                "piquant": 0.0,
+                "sour": 0.16666666666666666,
+                "salty": 0.16666666666666666,
+                "meaty": 0.16666666666666666,
+                "bitter": 0.3333333333333333
+            },
+            "rating": 3
+        }
+    ],
+    "facetCounts": {},
+    "totalMatchCount": 2,
+    "attribution": {
+        "html": "Recipe search powered by <a href='http://www.yummly.co/recipes'><img alt='Yummly' src='https://static.yummly.co/api-logo.png'/></a>",
+        "url": "http://www.yummly.co/recipes/",
+        "text": "Recipe search powered by Yummly",
+        "logo": "https://static.yummly.co/api-logo.png"
+    }
+}

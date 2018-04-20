@@ -1,0 +1,50 @@
+{
+    "yield": "Zutaten f\u00fcr 1 Person:",
+    "nutritionEstimates": [],
+    "totalTime": "30 min",
+    "images": [
+        {
+            "hostedSmallUrl": "http://lh3.googleusercontent.com/_eCakH5MqNfNkzFwRy0faF6ogjT1OqM4lqXx1TURSsJaPyuWrwbq7LkHLkuJ1odsk7xdoo_yoldsdRvnUXhI9Q=s90",
+            "hostedMediumUrl": "http://lh3.googleusercontent.com/_eCakH5MqNfNkzFwRy0faF6ogjT1OqM4lqXx1TURSsJaPyuWrwbq7LkHLkuJ1odsk7xdoo_yoldsdRvnUXhI9Q=s180",
+            "hostedLargeUrl": "http://lh3.googleusercontent.com/_eCakH5MqNfNkzFwRy0faF6ogjT1OqM4lqXx1TURSsJaPyuWrwbq7LkHLkuJ1odsk7xdoo_yoldsdRvnUXhI9Q=s360",
+            "imageUrlsBySize": {
+                "90": "http://lh3.googleusercontent.com/1pWYW3L3IBO0nhlJHYinXiId1lcxqlH6lU6_Okzgy_K6pYHE2olNkKzkbnsRVLtoDwDHUOQL4fwWfCotb9j2HA=s90-c",
+                "360": "http://lh3.googleusercontent.com/1pWYW3L3IBO0nhlJHYinXiId1lcxqlH6lU6_Okzgy_K6pYHE2olNkKzkbnsRVLtoDwDHUOQL4fwWfCotb9j2HA=s360-c"
+            }
+        }
+    ],
+    "name": "Putenschnitzel",
+    "source": {
+        "sourceDisplayName": "Lecker",
+        "sourceSiteUrl": "lecker.de",
+        "sourceRecipeUrl": "http://www.lecker.de/rezept/608604/Putenschnitzel.html"
+    },
+    "id": "Putenschnitzel-819050",
+    "ingredientLines": [
+        "1 Zwiebel",
+        "2 Tomaten",
+        "1 kleine Zucchini",
+        "1 EL Oliven\u00f6l",
+        "Salz",
+        "grober Pfeffer",
+        "1/4 l Gem\u00fcsebr\u00fche (Instant)",
+        "1 Putenschnitzel (ca. 150 g)",
+        "1-2 TL \u00d6l",
+        "je 1 Stiel Majoran und Thymian",
+        "2 Stiele Basilikum",
+        "1 EL Cr\u00e8me fra\u00eeche",
+        "einige Spritzer Zitronensaft",
+        "Zitrone und frische Kr\u00e4uter zum Garnieren"
+    ],
+    "attribution": {
+        "html": "<a href='http://www.yummly.co/recipe/Putenschnitzel-819050'>Putenschnitzel recipe</a> information powered by <img alt='Yummly' src='https://static.yummly.co/api-logo.png'/>",
+        "url": "http://www.yummly.co/recipe/Putenschnitzel-819050",
+        "text": "Putenschnitzel recipes: information powered by Yummly",
+        "logo": "https://static.yummly.co/api-logo.png"
+    },
+    "numberOfServings": 1,
+    "totalTimeInSeconds": 1800,
+    "attributes": {},
+    "flavors": {},
+    "rating": 3
+}

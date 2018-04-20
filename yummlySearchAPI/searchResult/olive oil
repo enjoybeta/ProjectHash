@@ -53,8 +53,19 @@
             ],
             "recipeName": "Basil and Red Onion Potato Salad",
             "totalTimeInSeconds": 2400,
-            "attributes": {},
-            "flavors": null,
+            "attributes": {
+                "course": [
+                    "Salads"
+                ]
+            },
+            "flavors": {
+                "piquant": 0.0,
+                "meaty": 0.16666666666666666,
+                "bitter": 0.16666666666666666,
+                "sweet": 0.16666666666666666,
+                "sour": 0.8333333333333334,
+                "salty": 0.16666666666666666
+            },
             "rating": 4
         },
         {
@@ -77,8 +88,23 @@
             ],
             "recipeName": "CREAMY BRUSSELS SPROUTS GRATIN",
             "totalTimeInSeconds": 1800,
-            "attributes": {},
-            "flavors": null,
+            "attributes": {
+                "course": [
+                    "Side Dishes"
+                ],
+                "holiday": [
+                    "Sunday Lunch",
+                    "Fall"
+                ]
+            },
+            "flavors": {
+                "piquant": 0.6666666666666666,
+                "meaty": 0.8333333333333334,
+                "bitter": 0.16666666666666666,
+                "sweet": 0.0,
+                "sour": 0.16666666666666666,
+                "salty": 0.8333333333333334
+            },
             "rating": 4
         },
         {
@@ -93,8 +119,20 @@
             "sourceDisplayName": "Food.com",
             "id": "Cinnamon-Toast-Love-Letters-Recipezaar",
             "rating": 4,
-            "flavors": null,
-            "attributes": {}
+            "flavors": {
+                "piquant": 0.0,
+                "meaty": 0.3333333333333333,
+                "bitter": 0.6666666666666666,
+                "sweet": 0.8333333333333334,
+                "sour": 0.16666666666666666,
+                "salty": 0.8333333333333334
+            },
+            "attributes": {
+                "course": [
+                    "Breakfast and Brunch",
+                    "Lunch"
+                ]
+            }
         }
     ],
     "facetCounts": {},

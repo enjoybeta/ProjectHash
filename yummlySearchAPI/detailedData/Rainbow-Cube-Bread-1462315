@@ -1054,7 +1054,11 @@
     },
     "numberOfServings": 20,
     "totalTimeInSeconds": 4800,
-    "attributes": {},
+    "attributes": {
+        "course": [
+            "Breads"
+        ]
+    },
     "flavors": {},
     "rating": 4
 }

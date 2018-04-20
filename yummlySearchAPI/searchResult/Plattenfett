@@ -1,0 +1,67 @@
+{
+    "criteria": {
+        "q": "P+l+a+t+t+e+n+f+e+t+t",
+        "allowedIngredient": null,
+        "excludedIngredient": null
+    },
+    "matches": [
+        {
+            "imageUrlsBySize": {
+                "90": "https://lh3.googleusercontent.com/PH7W7KNGOE3cCFZMcICWBwdmofLQ-UOCqb0YK0V2uu_ZMDg2V2DkisakgjgvSmNslJYlK82fqCL0XZiq5oYN=s90-c"
+            },
+            "sourceDisplayName": "Life Made Sweeter",
+            "ingredients": [
+                "brownie mix",
+                "graham cracker crust",
+                "unsalted butter",
+                "graham cracker crumbs",
+                "ground cinnamon",
+                "sugar",
+                "salt",
+                "brownies",
+                "granulated sugar",
+                "large eggs",
+                "olive oil",
+                "pure vanilla extract",
+                "all-purpose flour",
+                "unsweetened cocoa powder",
+                "baking powder",
+                "semi-sweet chocolate morsels",
+                "large marshmallows",
+                "graham crackers",
+                "caramel sauce"
+            ],
+            "id": "Salted-Caramel-Smores-Brownies-1810348",
+            "smallImageUrls": [
+                "https://lh3.googleusercontent.com/o0GATo3qHSqLxhA-lVOT5ALLUyO-wChkJLlihjQX4calocDTcS085iWh2xNqmkq16Kq0-b2XVjOCnlQc0Qf3=s90"
+            ],
+            "recipeName": "Salted Caramel S\u2019mores Brownies",
+            "totalTimeInSeconds": 3300,
+            "attributes": {
+                "course": [
+                    "Desserts"
+                ],
+                "cuisine": [
+                    "Kid-Friendly"
+                ]
+            },
+            "flavors": {
+                "piquant": 0.0,
+                "meaty": 0.5,
+                "bitter": 0.3333333333333333,
+                "sweet": 0.8333333333333334,
+                "sour": 0.0,
+                "salty": 0.6666666666666666
+            },
+            "rating": 4
+        }
+    ],
+    "facetCounts": {},
+    "totalMatchCount": 1,
+    "attribution": {
+        "html": "Recipe search powered by <a href='http://www.yummly.co/recipes'><img alt='Yummly' src='https://static.yummly.co/api-logo.png'/></a>",
+        "url": "http://www.yummly.co/recipes/",
+        "text": "Recipe search powered by Yummly",
+        "logo": "https://static.yummly.co/api-logo.png"
+    }
+}

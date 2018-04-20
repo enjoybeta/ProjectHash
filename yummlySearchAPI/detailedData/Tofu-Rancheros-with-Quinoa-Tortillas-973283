@@ -1,0 +1,67 @@
+{
+    "nutritionEstimates": [],
+    "totalTime": "45 min",
+    "images": [
+        {
+            "hostedSmallUrl": "http://lh3.ggpht.com/30PHz1hBRapwgkdiRoYJZxgOBdNtnJsh7n3JI-_PGKYbX46_iXu1nY4XEDsaOYRFazUMh7rALThtRs90XSU8ZQU=s90",
+            "hostedMediumUrl": "http://lh3.ggpht.com/30PHz1hBRapwgkdiRoYJZxgOBdNtnJsh7n3JI-_PGKYbX46_iXu1nY4XEDsaOYRFazUMh7rALThtRs90XSU8ZQU=s180",
+            "hostedLargeUrl": "http://lh3.ggpht.com/30PHz1hBRapwgkdiRoYJZxgOBdNtnJsh7n3JI-_PGKYbX46_iXu1nY4XEDsaOYRFazUMh7rALThtRs90XSU8ZQU=s360",
+            "imageUrlsBySize": {
+                "90": "http://lh4.ggpht.com/6v6_MZHiLuSYi5pdiuHZxdcTFUhDZ0yHwza2TfVVZNy61waZv_kpGd2GiQ2fy_TmQNiW8N_uTvYGlPyR1BPPUQ=s90-c",
+                "360": "http://lh4.ggpht.com/6v6_MZHiLuSYi5pdiuHZxdcTFUhDZ0yHwza2TfVVZNy61waZv_kpGd2GiQ2fy_TmQNiW8N_uTvYGlPyR1BPPUQ=s360-c"
+            }
+        }
+    ],
+    "name": "Tofu Rancheros with Quinoa Tortillas",
+    "source": {
+        "sourceDisplayName": "Paleoveganista",
+        "sourceSiteUrl": "paleoveganista.com",
+        "sourceRecipeUrl": "http://paleoveganista.com/2014/09/06/tofu-rancheros-with-quinoa-tortillas/"
+    },
+    "id": "Tofu-Rancheros-with-Quinoa-Tortillas-973283",
+    "ingredientLines": [
+        "2 cups toasted quinoa flour",
+        "2 Tbsp nutritional yeast (because it\u2019s rich in B vitamins and otherwise good for vegans, and it gives the tortillas the appearance of yellow corn)",
+        "3/4 cup water + a bit more if the dough is too dry",
+        "1 teaspoon coconut oil or your cooking oil of choice (I used coconut because it\u2019s paleo and the flavor complements the quinoa)",
+        "Salt to taste. Optional",
+        "1 package extra firm tofu, drained",
+        "1 cup onion, minced",
+        "1 can fire roasted tomatoes. You will find these in tiendas (\u2018Mexican markets\u2019) in the states, or in the \u2018Hispanic foods\u2019 section of corporate grocery stores i.e. Safeway, Lucky, Fred Meyer, H.E.B but if you can\u2019t find them use \u2018Mexican-style\u2019 stewed tomatoes instead",
+        "1 can fire roasted tomatoes. You will find these in tiendas (\u2018Mexican markets\u2019) in the states, or in the \u2018Hispanic foods\u2019 section of corporate grocery stores i.e. Safeway, Lucky, Fred Meyer, H.E.B but if you can\u2019t find them use \u2018Mexican-style\u2019 stewed tomatoes instead",
+        "1 1/2 cups cooked black beans or 1 can black beans",
+        "1 cup fresh corn (or frozen. You can use a can, but it tends not to work well with recipes like this).",
+        "1 4oz can fired roasted green chiles \u2013 FYI the Hatch brand and the Trader Joe\u2019s brand (which is probably Hatch anyway, since TJ\u2019s tends to rebrand things according to the relationships it forms with independent brands) sell these diced/chopped. If you can\u2019t find them diced or chopped in a can, buy them whole and chop/dice post-purchase. Or, if you have the skills to do so, fire-roast raw green chiles on your own and then slice/dice them like a pro.",
+        "1 4oz can fired roasted green chiles \u2013 FYI the Hatch brand and the Trader Joe\u2019s brand (which is probably Hatch anyway, since TJ\u2019s tends to rebrand things according to the relationships it forms with independent brands) sell these diced/chopped. If you can\u2019t find them diced or chopped in a can, buy them whole and chop/dice post-purchase. Or, if you have the skills to do so, fire-roast raw green chiles on your own and then slice/dice them like a pro.",
+        "1 cup cherry tomatoes, halved or quartered",
+        "1 clove garlic, minced",
+        "1 tsp smoked paprika",
+        "1 tsp oregano",
+        "2 Tbsp red wine vinegar",
+        "chopped cilantro, according to taste or number of people you are serving",
+        "fresh sliced lime",
+        "1 Tbsp agave nectar",
+        "omit the agave nectar if using Mexican-style stewed tomatoes instead of fire roasted tomatoes, as stewed tomatoes contain sugar so with the agave the result would be too sweet and overseasoned",
+        "omit the agave nectar if using Mexican-style stewed tomatoes instead of fire roasted tomatoes, as stewed tomatoes contain sugar so with the agave the result would be too sweet and overseasoned",
+        "omit the agave nectar if using Mexican-style stewed tomatoes instead of fire roasted tomatoes, as stewed tomatoes contain sugar so with the agave the result would be too sweet and overseasoned",
+        "omit the agave nectar if using Mexican-style stewed tomatoes instead of fire roasted tomatoes, as stewed tomatoes contain sugar so with the agave the result would be too sweet and overseasoned"
+    ],
+    "attribution": {
+        "html": "<a href='http://www.yummly.co/recipe/Tofu-Rancheros-with-Quinoa-Tortillas-973283'>Tofu Rancheros with Quinoa Tortillas recipe</a> information powered by <img alt='Yummly' src='https://static.yummly.co/api-logo.png'/>",
+        "url": "http://www.yummly.co/recipe/Tofu-Rancheros-with-Quinoa-Tortillas-973283",
+        "text": "Tofu Rancheros with Quinoa Tortillas recipes: information powered by Yummly",
+        "logo": "https://static.yummly.co/api-logo.png"
+    },
+    "numberOfServings": 4,
+    "totalTimeInSeconds": 2700,
+    "attributes": {
+        "course": [
+            "Main Dishes"
+        ],
+        "cuisine": [
+            "Mexican"
+        ]
+    },
+    "flavors": {},
+    "rating": 4
+}

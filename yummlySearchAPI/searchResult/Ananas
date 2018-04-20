@@ -1,0 +1,367 @@
+{
+    "criteria": {
+        "q": "A+n+a+n+a+s",
+        "allowedIngredient": null,
+        "excludedIngredient": null
+    },
+    "matches": [
+        {
+            "imageUrlsBySize": {
+                "90": "https://lh3.googleusercontent.com/uog8TJdQLKyAfsukG940jFsQv3X6HzSxbAC1CvS3RHXRexO3-QjwHCk9wymBQY6CNdg_AZipmur9esOD-106Dw=s90-c"
+            },
+            "sourceDisplayName": "The Kitchen is My Playground",
+            "ingredients": [
+                "confectioners sugar",
+                "water",
+                "sweetened coconut flakes",
+                "cranberry juice",
+                "coconut rum",
+                "grenadine",
+                "peppermint stick"
+            ],
+            "id": "Santas-Hat-Christmas-Cocktail-2274351",
+            "smallImageUrls": [
+                "https://lh3.googleusercontent.com/m4eoDtEcRSh-taDyJ59iC71nr6PMI6-j0NyHhNTAnz8CQ_-TDvw8ja2K6LlnCeDHL2RxmrCHzMq_UyXZyWGk9g=s90"
+            ],
+            "recipeName": "Santa\u2019s Hat Christmas Cocktail",
+            "totalTimeInSeconds": 900,
+            "attributes": {
+                "course": [
+                    "Beverages",
+                    "Cocktails"
+                ],
+                "holiday": [
+                    "Christmas"
+                ]
+            },
+            "flavors": null,
+            "rating": 4
+        },
+        {
+            "imageUrlsBySize": {
+                "90": "https://lh3.googleusercontent.com/oiQR3Fo7vLWPJlNTvsJbGzeFSHyMrxeZI_mY9c8s6wngaXbc7Hwlbpw8Pggb9jqyEmg_6fVpvjNpOEI-UbQGlw=s90-c"
+            },
+            "sourceDisplayName": "Kalyn's Kitchen",
+            "ingredients": [
+                "globe eggplant",
+                "salt",
+                "olive oil",
+                "italian seasoning",
+                "basil leaves",
+                "freshly grated parmesan",
+                "mozzarella cheese",
+                "hot red pepper flakes",
+                "virgin olive oil",
+                "large garlic cloves",
+                "petite diced tomatoes",
+                "dried oregano"
+            ],
+            "id": "Julia-Childs-Eggplant-Pizzas-2211869",
+            "smallImageUrls": [
+                "https://lh3.googleusercontent.com/6LYPkoWZBy-1TGl9k4NyVpj_mijJCOEKEXq7zIlMrxuqvzNeyBjWXrPuULd3SR3hdVweJVJQsUbdhlV_S6AoXQ=s90"
+            ],
+            "recipeName": "Julia Child\u2019s Eggplant Pizzas",
+            "totalTimeInSeconds": 3000,
+            "attributes": {
+                "course": [
+                    "Main Dishes",
+                    "Lunch"
+                ],
+                "cuisine": [
+                    "Italian"
+                ]
+            },
+            "flavors": {
+                "piquant": 0.8333333333333334,
+                "meaty": 0.8333333333333334,
+                "bitter": 0.8333333333333334,
+                "sweet": 0.16666666666666666,
+                "sour": 0.8333333333333334,
+                "salty": 0.8333333333333334
+            },
+            "rating": 4
+        },
+        {
+            "imageUrlsBySize": {
+                "90": "https://lh3.googleusercontent.com/1UaqgvAZrw346jUpat4-at6mkz6-Jhjymn8AkVY2Kwu48E0TXbuH9OnhsR_k5OF-5UV_MSxx6qbnFPnawzTtqQ=s90-c"
+            },
+            "sourceDisplayName": "Once Upon A Chef",
+            "ingredients": [
+                "butter",
+                "heavy cream",
+                "salt",
+                "ground black pepper",
+                "russet potatoes",
+                "parmigiano"
+            ],
+            "id": "Potatoes-Au-Gratin-2244864",
+            "smallImageUrls": [
+                "https://lh3.googleusercontent.com/aELRiKyxXARNQdOMtrJH13QoejrQyM2uRcuDcbTdvP4ah8oQZb1rWV0kf3P3q4zoL1oTRzGbBGkknCJtAPaLyQ=s90"
+            ],
+            "recipeName": "Potatoes Au Gratin",
+            "totalTimeInSeconds": 4500,
+            "attributes": {
+                "course": [
+                    "Side Dishes"
+                ]
+            },
+            "flavors": {
+                "piquant": 0.0,
+                "meaty": 0.6666666666666666,
+                "bitter": 0.5,
+                "sweet": 0.16666666666666666,
+                "sour": 0.16666666666666666,
+                "salty": 0.8333333333333334
+            },
+            "rating": 4
+        },
+        {
+            "imageUrlsBySize": {
+                "90": "http://lh3.googleusercontent.com/O_6X4sXtiiMYOae9v2lWATg3eJQEki1X2Ul2lHRTcpJ_sw9JDINMdB-KeR-k5u4r4lmrBQ6jUsy3tqZy3KbA=s90-c"
+            },
+            "sourceDisplayName": "Just about baked",
+            "ingredients": [
+                "butter",
+                "cocoa",
+                "sugar",
+                "eggs",
+                "vanilla",
+                "salt",
+                "flour",
+                "Reese's Peanut Butter Cups"
+            ],
+            "id": "Reeses-Brownies-1111900",
+            "smallImageUrls": [
+                "http://lh3.googleusercontent.com/jjrjSInnEfVL-F2QoLy2CQ1eQh_aGvijhNEtGgs2UMPX112ewklvunU0ixHN_b95KQh_OVZXJx0J2Uwqstl3G-Y=s90"
+            ],
+            "recipeName": "Reese\u2019s Brownies",
+            "totalTimeInSeconds": 2400,
+            "attributes": {
+                "course": [
+                    "Desserts"
+                ]
+            },
+            "flavors": null,
+            "rating": 4
+        },
+        {
+            "imageUrlsBySize": {
+                "90": "https://lh3.googleusercontent.com/Udz3197HvbRLu1rNUAuJrHDPbPgTO7JJjwVuD1y3tT2muNiP2SqDKfORdaC_IoWOI7H3Iws7INrysUHgANrgSQ=s90-c"
+            },
+            "sourceDisplayName": "The Pioneer Woman",
+            "ingredients": [
+                "russet potatoes",
+                "salt",
+                "pepper",
+                "large eggs",
+                "nonstick spray"
+            ],
+            "id": "Eggs-in-hash-brown-nests-352693",
+            "smallImageUrls": [
+                "https://lh3.googleusercontent.com/WilYoHldNYB9LyXALuhggpNkH77SfIBxlxGqgV-ojDLFSplIJx219iLjngdUVT1Dz24iCxr2TmJ8pN9FKmP--g=s90"
+            ],
+            "recipeName": "Eggs in Hash Brown Nests",
+            "totalTimeInSeconds": 4800,
+            "attributes": {
+                "course": [
+                    "Breakfast and Brunch"
+                ]
+            },
+            "flavors": null,
+            "rating": 5
+        },
+        {
+            "imageUrlsBySize": {
+                "90": "http://lh3.googleusercontent.com/6csLxs6R-y72xJL1PiYlYQNvRVRcO5P_gMNmnWoW80m972TTHcJmrrEbAsuwsa1YOGfzJu8YAMGoGULKkvEExhs=s90-c"
+            },
+            "sourceDisplayName": "The Lazy Mom's Cooking Blog",
+            "ingredients": [
+                "large marshmallows",
+                "Hershey''s Chocolate Bar",
+                "graham crackers",
+                "melted butter"
+            ],
+            "id": "Skillet-S_mores-1185598",
+            "smallImageUrls": [
+                "http://lh3.googleusercontent.com/tiwdWbd6RBH0pERXQXhWmu44iVY-fANFCkaa2xsKNnLX7ob9nMHTFNZl_NljUr0W4JSq1EcG4Srg9Avke3fE8A=s90"
+            ],
+            "recipeName": "Skillet S'mores",
+            "totalTimeInSeconds": 900,
+            "attributes": {
+                "course": [
+                    "Desserts"
+                ],
+                "cuisine": [
+                    "Barbecue"
+                ]
+            },
+            "flavors": null,
+            "rating": 4
+        },
+        {
+            "imageUrlsBySize": {
+                "90": "http://lh6.ggpht.com/O6XdyBmJzRNRtvkdTvqyIkNhn-NVCYFM3n2PZQ7j2ZprUZ57J6omrdhUeHqAElhNivHGmfcKEbvz6yEDe76CnzY=s90-c"
+            },
+            "sourceDisplayName": "How Sweet It Is",
+            "ingredients": [
+                "unsalted butter",
+                "baking chocolate",
+                "sugar",
+                "eggs",
+                "flour",
+                "vanilla",
+                "Baileys Irish Cream Liqueur"
+            ],
+            "id": "Bailey_s-brownies-333866",
+            "smallImageUrls": [
+                "http://lh5.ggpht.com/Qr3lR8SmGH_xVYvcdGru2pWU5S6zHCCjNUUrAttPLMeScoWoQJKrqZ3BsHBeEo9T0RukJAm9XT596eukkBr84uk=s90"
+            ],
+            "recipeName": "Bailey\u2019s Brownies",
+            "totalTimeInSeconds": 3900,
+            "attributes": {
+                "course": [
+                    "Desserts"
+                ],
+                "cuisine": [
+                    "Irish"
+                ],
+                "holiday": [
+                    "St. Patrick's Day"
+                ]
+            },
+            "flavors": {
+                "piquant": 0.0,
+                "meaty": 0.5,
+                "bitter": 0.16666666666666666,
+                "sweet": 0.8333333333333334,
+                "sour": 0.0,
+                "salty": 0.16666666666666666
+            },
+            "rating": 5
+        },
+        {
+            "imageUrlsBySize": {
+                "90": "https://lh3.googleusercontent.com/YWqe16ozmQ-7TMMsZYRJsquAiMG-rwZPOXtIIW8-7kA1FV-LcIVulq3US2G07_3XOIvhz3j9W1HZD-bBmy5X=s90-c"
+            },
+            "sourceDisplayName": "Flavor The Moments",
+            "ingredients": [
+                "rolled oats",
+                "natural peanut butter",
+                "pure maple syrup",
+                "coconut oil",
+                "ground cinnamon",
+                "kosher salt"
+            ],
+            "id": "Perfect-Peanut-Butter-Granola-2398410",
+            "smallImageUrls": [
+                "https://lh3.googleusercontent.com/xvDzo9HoBo8q3YepYcw5z6-gQH5DmKKlwFVPNI2_no5NBtvCT_y4fqv_70cKCFrvVE6vZSHefm41410qdtjtOw=s90"
+            ],
+            "recipeName": "Perfect Peanut Butter Granola",
+            "totalTimeInSeconds": 1800,
+            "attributes": {
+                "course": [
+                    "Breakfast and Brunch",
+                    "Lunch",
+                    "Snacks"
+                ],
+                "cuisine": [
+                    "Kid-Friendly"
+                ]
+            },
+            "flavors": {
+                "piquant": 0.0,
+                "meaty": 0.8333333333333334,
+                "bitter": 0.8333333333333334,
+                "sweet": 0.6666666666666666,
+                "sour": 0.0,
+                "salty": 0.16666666666666666
+            },
+            "rating": 4
+        },
+        {
+            "imageUrlsBySize": {
+                "90": "https://lh3.googleusercontent.com/HrC5wlIoRPbmp1FyZr0GgoA_8onn5scyx1YscaNSNUxqcLWo-BzkfzJam8ASCE8ZY0MwRfrhie4cXAbg-6o-Ow=s90-c"
+            },
+            "sourceDisplayName": "Southern Bite",
+            "ingredients": [
+                "lean ground beef",
+                "marinara sauce",
+                "water",
+                "oven-ready lasagna noodles",
+                "ricotta cheese",
+                "cheese"
+            ],
+            "id": "Easiest-Lasagna-2399738",
+            "smallImageUrls": [
+                "https://lh3.googleusercontent.com/uSm3lxkfJXr6gOwS56D4FfoSFc9PGaJsf547X5-lKTeS7OGG182kA5bz6Y3g_UkS4OnRdLcEt_MUyoDN1ysPW8o=s90"
+            ],
+            "recipeName": "Easiest Lasagna",
+            "totalTimeInSeconds": 4800,
+            "attributes": {
+                "course": [
+                    "Main Dishes"
+                ],
+                "cuisine": [
+                    "Kid-Friendly"
+                ]
+            },
+            "flavors": {
+                "piquant": 0.0,
+                "meaty": 0.16666666666666666,
+                "bitter": 0.3333333333333333,
+                "sweet": 0.16666666666666666,
+                "sour": 0.16666666666666666,
+                "salty": 0.3333333333333333
+            },
+            "rating": 4
+        },
+        {
+            "imageUrlsBySize": {
+                "90": "http://lh3.ggpht.com/eakLM7LHxaXu9gBYwf1KuqnYmIgHeqOG4nH2xoQCKG2C0aZTHVNn-e3bcnd4SQx5EMpJO-XFtOkaG-BO3YPOyRo=s90-c"
+            },
+            "sourceDisplayName": "Oh, Sweet Basil",
+            "ingredients": [
+                "unsalted butter",
+                "white sugar",
+                "brown sugar",
+                "salt",
+                "all-purpose flour",
+                "quick oats",
+                "baking soda",
+                "milk chocolate chips",
+                "Reese's Peanut Butter Cups"
+            ],
+            "id": "Reeses-Crumble-995388",
+            "smallImageUrls": [
+                "http://lh3.ggpht.com/hte-ZPd9tq1ZH_1fHTzFIResZOcymQHOVTcHRrL6Lfk0M9KQuDkZdsyo1e6eMGXQFNLYDLJ93Xpv_UfE0pCNmDE=s90"
+            ],
+            "recipeName": "Reese\u2019s Crumble",
+            "totalTimeInSeconds": 900,
+            "attributes": {
+                "course": [
+                    "Desserts"
+                ],
+                "cuisine": [
+                    "Kid-Friendly"
+                ]
+            },
+            "flavors": {
+                "piquant": 0.0,
+                "meaty": 0.8333333333333334,
+                "bitter": 0.3333333333333333,
+                "sweet": 0.8333333333333334,
+                "sour": 0.0,
+                "salty": 0.6666666666666666
+            },
+            "rating": 4
+        }
+    ],
+    "facetCounts": {},
+    "totalMatchCount": 1802624,
+    "attribution": {
+        "html": "Recipe search powered by <a href='http://www.yummly.co/recipes'><img alt='Yummly' src='https://static.yummly.co/api-logo.png'/></a>",
+        "url": "http://www.yummly.co/recipes/",
+        "text": "Recipe search powered by Yummly",
+        "logo": "https://static.yummly.co/api-logo.png"
+    }
+}

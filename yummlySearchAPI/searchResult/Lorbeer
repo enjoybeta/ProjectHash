@@ -1,0 +1,109 @@
+{
+    "criteria": {
+        "q": "L+o+r+b+e+e+r",
+        "allowedIngredient": null,
+        "excludedIngredient": null
+    },
+    "matches": [
+        {
+            "imageUrlsBySize": {
+                "90": "https://lh3.googleusercontent.com/LZOaQ_6iR__PJ6og4aOWjqhX4vDwJMYE2hnBGawGgI48XJbDBbxo1dQy12vNxhst2fksS2MF5cT2wFwibRlDKvk=s90-c"
+            },
+            "sourceDisplayName": "Diethood",
+            "ingredients": [
+                "Pillsbury\u00ae Moist Supreme\u00ae Funfetti\u00ae Cake Mix",
+                "baking powder",
+                "eggs",
+                "canola oil",
+                "vanilla",
+                "sprinkles"
+            ],
+            "id": "Cake-Batter-Funfetti-Cookies-2364954",
+            "smallImageUrls": [
+                "https://lh3.googleusercontent.com/b-rz2fYoK9chszeG2sc1W1a0JUj_FDyJKywB319-wfp3btWqkowwV0OCbwXoE4H-dL1UpHl0ihjNF0REu-3I=s90"
+            ],
+            "recipeName": "Cake Batter Funfetti Cookies",
+            "totalTimeInSeconds": 1140,
+            "attributes": {
+                "course": [
+                    "Desserts"
+                ]
+            },
+            "flavors": {
+                "piquant": 0.0,
+                "meaty": 0.8333333333333334,
+                "bitter": 0.8333333333333334,
+                "sweet": 0.3333333333333333,
+                "sour": 0.16666666666666666,
+                "salty": 0.8333333333333334
+            },
+            "rating": 4
+        },
+        {
+            "imageUrlsBySize": {
+                "90": "https://lh3.googleusercontent.com/MSNgN7s8kgVameNlbVabe0e5BDf7x-9HNBFOWKxHLk4Hhl5130KN4an7iRzor0oc2aVA0mVn5v3aG5e3wge_Xg=s90-c"
+            },
+            "sourceDisplayName": "I Should Be Mopping the Floor",
+            "ingredients": [
+                "sandwiches",
+                "cool whip",
+                "caramel ice cream topping",
+                "ice cream"
+            ],
+            "id": "10-Minute-Layered-Ice-Cream-Cake-_easydessert-1914028",
+            "smallImageUrls": [
+                "https://lh3.googleusercontent.com/t9uQksw-8vAc7i8sB2RiuybQLR-JYEt-LA3HgZHHsVITAFLuQplS9aJpBCa39DNiyLt7xsgn9JF4cnfNifgWMg=s90"
+            ],
+            "recipeName": "10-Minute Layered Ice Cream Cake #easydessert",
+            "totalTimeInSeconds": 1500,
+            "attributes": {
+                "course": [
+                    "Desserts"
+                ]
+            },
+            "flavors": null,
+            "rating": 4
+        },
+        {
+            "imageUrlsBySize": {
+                "90": "http://lh3.googleusercontent.com/eDVHwgGgYxwmAYwpX1FVG88nTQdkvqyooIgTvPkTuXdByKRLs6wxa6e1dfXZGaof5IRYVm3mLsVpF9KBAjvP=s90-c"
+            },
+            "sourceDisplayName": "Lecker",
+            "ingredients": [
+                "Butter",
+                "Ei",
+                "Milch",
+                "Mehl",
+                "Zucker",
+                "Salz",
+                "Weichsel",
+                "Speisest\u00e4rke",
+                "Zitronenschale",
+                "\u00d6l",
+                "magerquark",
+                "Zitrone",
+                "Schmand",
+                "Eigelb",
+                "Mandelbl\u00e4tter",
+                "Puderzucker"
+            ],
+            "id": "Uberbackener-Palatschinken-823834",
+            "smallImageUrls": [
+                "http://lh3.googleusercontent.com/B_-fYqme2lj9-S9CzthtgIie-yKBK1lX-L01d1pjWUbb5wPpgQ7hmXQADAr3EOHZcR64axeLE-GNPJS3RLB7=s90"
+            ],
+            "recipeName": "U\u0308berbackener Palatschinken",
+            "totalTimeInSeconds": 4500,
+            "attributes": {},
+            "flavors": null,
+            "rating": 3
+        }
+    ],
+    "facetCounts": {},
+    "totalMatchCount": 3,
+    "attribution": {
+        "html": "Recipe search powered by <a href='http://www.yummly.co/recipes'><img alt='Yummly' src='https://static.yummly.co/api-logo.png'/></a>",
+        "url": "http://www.yummly.co/recipes/",
+        "text": "Recipe search powered by Yummly",
+        "logo": "https://static.yummly.co/api-logo.png"
+    }
+}

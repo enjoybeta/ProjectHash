@@ -1,0 +1,50 @@
+{
+    "nutritionEstimates": [],
+    "totalTime": "5 min",
+    "images": [
+        {
+            "hostedSmallUrl": "https://lh3.googleusercontent.com/cl7bJwQbI-v1PNSLaM52AGZZbOpphnP6O5xKdO4venddoBfyLUQedff0aoM-9awjDbjn7Fs6PDORXuD1yworvg=s90",
+            "hostedMediumUrl": "https://lh3.googleusercontent.com/cl7bJwQbI-v1PNSLaM52AGZZbOpphnP6O5xKdO4venddoBfyLUQedff0aoM-9awjDbjn7Fs6PDORXuD1yworvg=s180",
+            "hostedLargeUrl": "https://lh3.googleusercontent.com/cl7bJwQbI-v1PNSLaM52AGZZbOpphnP6O5xKdO4venddoBfyLUQedff0aoM-9awjDbjn7Fs6PDORXuD1yworvg=s360",
+            "imageUrlsBySize": {
+                "90": "https://lh3.googleusercontent.com/Ja4UrMgq6PmwLhXjrLSNDiXsvoj5CNWTRgHBEZYDuy8Ro8np8VoXI_nsAh7vkacn7XnES5Fx4--qPBOt3bPVEg=s90-c",
+                "360": "https://lh3.googleusercontent.com/Ja4UrMgq6PmwLhXjrLSNDiXsvoj5CNWTRgHBEZYDuy8Ro8np8VoXI_nsAh7vkacn7XnES5Fx4--qPBOt3bPVEg=s360-c"
+            }
+        }
+    ],
+    "name": "APEROL SPRITZ",
+    "source": {
+        "sourceDisplayName": "Aperol",
+        "sourceSiteUrl": "aperol.com",
+        "sourceRecipeUrl": "http://www.aperol.com/it/it/mondo-aperol/il-prodotto/product"
+    },
+    "id": "APEROL-SPRITZ-1559797",
+    "ingredientLines": [
+        "3\u00a0PARTI DI PROSECCO D.O.C.2\u00a0PARTI DI APEROL\u00a01 PARTE DI SODA\u00a0 GHIACCIO E MEZZA FETTINA D'ARANCIA",
+        "3\u00a0PARTI DI PROSECCO D.O.C.2\u00a0PARTI DI APEROL\u00a01 PARTE DI SODA\u00a0 GHIACCIO E MEZZA FETTINA D'ARANCIA",
+        "3\u00a0PARTI DI PROSECCO D.O.C.2\u00a0PARTI DI APEROL\u00a01 PARTE DI SODA\u00a0 GHIACCIO E MEZZA FETTINA D'ARANCIA",
+        "3\u00a0PARTI DI PROSECCO D.O.C.2\u00a0PARTI DI APEROL\u00a01 PARTE DI SODA\u00a0 GHIACCIO E MEZZA FETTINA D'ARANCIA",
+        "3\u00a0PARTI DI PROSECCO D.O.C.2\u00a0PARTI DI APEROL\u00a01 PARTE DI SODA\u00a0 GHIACCIO E MEZZA FETTINA D'ARANCIA",
+        "3\u00a0PARTI DI PROSECCO D.O.C.2\u00a0PARTI DI APEROL\u00a01 PARTE DI SODA\u00a0 GHIACCIO E MEZZA FETTINA D'ARANCIA",
+        "4\u00a0CL DI APEROLSODA O ACQUA MINERALE MOLTO FRIZZANTE",
+        "4\u00a0CL DI APEROLSODA O ACQUA MINERALE MOLTO FRIZZANTE",
+        "1 PARTE DI APEROL 3-4 CUBETTI DI GHIACCIO UNA FETTINA D'ARANCIA",
+        "1 PARTE DI APEROL 3-4 CUBETTI DI GHIACCIO UNA FETTINA D'ARANCIA"
+    ],
+    "attribution": {
+        "html": "<a href='http://www.yummly.co/recipe/APEROL-SPRITZ-1559797'>APEROL SPRITZ recipe</a> information powered by <img alt='Yummly' src='https://static.yummly.co/api-logo.png'/>",
+        "url": "http://www.yummly.co/recipe/APEROL-SPRITZ-1559797",
+        "text": "APEROL SPRITZ recipes: information powered by Yummly",
+        "logo": "https://static.yummly.co/api-logo.png"
+    },
+    "numberOfServings": 4,
+    "totalTimeInSeconds": 300,
+    "attributes": {
+        "course": [
+            "Cocktails",
+            "Beverages"
+        ]
+    },
+    "flavors": {},
+    "rating": 3
+}

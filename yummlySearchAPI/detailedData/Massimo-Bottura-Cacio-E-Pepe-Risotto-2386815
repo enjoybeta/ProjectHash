@@ -1,0 +1,48 @@
+{
+    "nutritionEstimates": [],
+    "totalTime": "1 hr",
+    "images": [
+        {
+            "hostedSmallUrl": "https://lh3.googleusercontent.com/rRiBHUYpadrrkdqQhYMKWOnNmJE4LNHG6nl8JZeUpiJDZnvGmFf1YkWtvYMWJMwU4zk--Jhi5EW3qoDdT0yHrg=s90",
+            "hostedMediumUrl": "https://lh3.googleusercontent.com/rRiBHUYpadrrkdqQhYMKWOnNmJE4LNHG6nl8JZeUpiJDZnvGmFf1YkWtvYMWJMwU4zk--Jhi5EW3qoDdT0yHrg=s180",
+            "hostedLargeUrl": "https://lh3.googleusercontent.com/rRiBHUYpadrrkdqQhYMKWOnNmJE4LNHG6nl8JZeUpiJDZnvGmFf1YkWtvYMWJMwU4zk--Jhi5EW3qoDdT0yHrg=s360",
+            "imageUrlsBySize": {
+                "90": "https://lh3.googleusercontent.com/WK3ovmUAzoUAHcGLld5cLTjQ55hE_7PKqIcxQqNjdQm8NoPv1S12WRF8_Hzf2hH1VDCu-gmBRerFXGj7KNFJrQ=s90-c",
+                "360": "https://lh3.googleusercontent.com/WK3ovmUAzoUAHcGLld5cLTjQ55hE_7PKqIcxQqNjdQm8NoPv1S12WRF8_Hzf2hH1VDCu-gmBRerFXGj7KNFJrQ=s360-c"
+            }
+        }
+    ],
+    "name": "Massimo Bottura Cacio E Pepe Risotto",
+    "source": {
+        "sourceDisplayName": "RDP MAG",
+        "sourceSiteUrl": "rdpmag.co",
+        "sourceRecipeUrl": "https://rdpmag.co/en/2016/05/massimo-bottura-cacio-e-pepe-risotto/"
+    },
+    "id": "Massimo-Bottura-Cacio-E-Pepe-Risotto-2386815",
+    "ingredientLines": [
+        "2 lb Parmigiano Reggiano, coarsely grated",
+        "6 cups Parmesan broth",
+        "\u2153 cream of Parmesan cheese",
+        "2 tablespoons unsalted butter",
+        "3 medium shallots, chopped",
+        "2 garlic cloves, chopped",
+        "2 cups Arborio rice",
+        "Freshly ground black pepper to taste",
+        "Leaves of parsley or other, to garnish"
+    ],
+    "attribution": {
+        "html": "<a href='http://www.yummly.co/recipe/Massimo-Bottura-Cacio-E-Pepe-Risotto-2386815'>Massimo Bottura Cacio E Pepe Risotto recipe</a> information powered by <img alt='Yummly' src='https://static.yummly.co/api-logo.png'/>",
+        "url": "http://www.yummly.co/recipe/Massimo-Bottura-Cacio-E-Pepe-Risotto-2386815",
+        "text": "Massimo Bottura Cacio E Pepe Risotto recipes: information powered by Yummly",
+        "logo": "https://static.yummly.co/api-logo.png"
+    },
+    "numberOfServings": 4,
+    "totalTimeInSeconds": 3600,
+    "attributes": {
+        "cuisine": [
+            "Italian"
+        ]
+    },
+    "flavors": {},
+    "rating": 3
+}

@@ -1,0 +1,52 @@
+{
+    "yield": "Zutaten f\u00fcr 4 Personen:",
+    "nutritionEstimates": [],
+    "totalTime": "45 min",
+    "images": [
+        {
+            "hostedSmallUrl": "http://lh3.googleusercontent.com/7agYYvhwGCWqPRHS1RDv-9I8OsPsg74hDHUxuBRJO5j8jsj2fkHfN02XygCvGUpYwibUmGVrmr7vy-XbPuYQ=s90",
+            "hostedMediumUrl": "http://lh3.googleusercontent.com/7agYYvhwGCWqPRHS1RDv-9I8OsPsg74hDHUxuBRJO5j8jsj2fkHfN02XygCvGUpYwibUmGVrmr7vy-XbPuYQ=s180",
+            "hostedLargeUrl": "http://lh3.googleusercontent.com/7agYYvhwGCWqPRHS1RDv-9I8OsPsg74hDHUxuBRJO5j8jsj2fkHfN02XygCvGUpYwibUmGVrmr7vy-XbPuYQ=s360",
+            "imageUrlsBySize": {
+                "90": "http://lh3.googleusercontent.com/hDj5EIJPbVmDoAmwHOnTu6PSzqtDqVkySbGE1jKHXhQoamu6Lysx75HkfqjJHKl4cY2xQucjitv-gNGzm68n=s90-c",
+                "360": "http://lh3.googleusercontent.com/hDj5EIJPbVmDoAmwHOnTu6PSzqtDqVkySbGE1jKHXhQoamu6Lysx75HkfqjJHKl4cY2xQucjitv-gNGzm68n=s360-c"
+            }
+        }
+    ],
+    "name": "Panierter Camembert mit Apfel-Chutney",
+    "source": {
+        "sourceDisplayName": "Lecker",
+        "sourceSiteUrl": "lecker.de",
+        "sourceRecipeUrl": "http://www.lecker.de/rezept/604321/Panierter-Camembert-mit-Apfel-Chutney.html"
+    },
+    "id": "Panierter-Camembert-mit-Apfel-Chutney-923178",
+    "ingredientLines": [
+        "125 g Zwiebeln",
+        "500 g \u00c4pfel",
+        "4 Stiele frischer Thymian",
+        "50 g Rosinen",
+        "125 brauner Kandiszucker",
+        "1/8 l Wei\u00dfwein-Essig",
+        "1 TL Senfk\u00f6rner",
+        "Salz",
+        "Cayennepfeffer",
+        "1/2 kleiner Kopfsalat",
+        "500 g Camembert K\u00e4se (30% Fett i. Tr.)",
+        "30-40 g Mehl",
+        "1 Ei (Gr\u00f6\u00dfe M)",
+        "100 g Mandelbl\u00e4ttchen",
+        "5-6 EL \u00d6l",
+        "evtl. Petersilie, Salbei und ged\u00fcnsteten Apfel zum Garnieren"
+    ],
+    "attribution": {
+        "html": "<a href='http://www.yummly.co/recipe/Panierter-Camembert-mit-Apfel-Chutney-923178'>Panierter Camembert mit Apfel-Chutney recipe</a> information powered by <img alt='Yummly' src='https://static.yummly.co/api-logo.png'/>",
+        "url": "http://www.yummly.co/recipe/Panierter-Camembert-mit-Apfel-Chutney-923178",
+        "text": "Panierter Camembert mit Apfel-Chutney recipes: information powered by Yummly",
+        "logo": "https://static.yummly.co/api-logo.png"
+    },
+    "numberOfServings": 4,
+    "totalTimeInSeconds": 2700,
+    "attributes": {},
+    "flavors": {},
+    "rating": 3
+}

@@ -1,0 +1,258 @@
+{
+    "criteria": {
+        "q": "g+a+r+a+m+ +m+a+s+a+l+a",
+        "allowedIngredient": null,
+        "excludedIngredient": null
+    },
+    "matches": [
+        {
+            "imageUrlsBySize": {
+                "90": "http://lh3.googleusercontent.com/_pO6cRtszfDoIu8dGxK65ycb2AA9H7jLsrdQtMpxKXP4mlfQ1b3gJFwDvmf5DQTysTEgs5hTQ0jlFhlVNs3SYw=s90-c"
+            },
+            "sourceDisplayName": "Plain Chicken",
+            "ingredients": [
+                "cornbread",
+                "chili",
+                "bacon",
+                "gratin",
+                "cake",
+                "posole",
+                "tomatoes",
+                "milk",
+                "eggs",
+                "shredded cheddar cheese",
+                "lean ground beef",
+                "taco seasoning",
+                "salsa",
+                "sour cream",
+                "sliced green onions"
+            ],
+            "id": "Taco-Cornbread-Muffins-1070007",
+            "smallImageUrls": [
+                "http://lh3.googleusercontent.com/mx0nfPZ00IFLIkC1Rln7Zxkze2ZMYic5nvN9tPR3AjpzBGsGThlA2pRVo6uXNzhQJM9vMflUvVljC5Rv9KSv=s90"
+            ],
+            "recipeName": "Taco Cornbread Muffins",
+            "totalTimeInSeconds": 2400,
+            "attributes": {
+                "course": [
+                    "Main Dishes",
+                    "Breads"
+                ],
+                "cuisine": [
+                    "Kid-Friendly",
+                    "Mexican"
+                ]
+            },
+            "flavors": null,
+            "rating": 4
+        },
+        {
+            "imageUrlsBySize": {
+                "90": "https://lh3.googleusercontent.com/L3AwgSV5VT-ZQCWeAjas0rcMQQIRKTKGp8X7S45pAPGPhiJNSXy_7Pk09vCHU_cpgao9ReZCHgIM8A-yRAmBsi4=s90-c"
+            },
+            "sourceDisplayName": "Plain Chicken",
+            "ingredients": [
+                "cornbread",
+                "chili",
+                "bacon",
+                "gratin",
+                "cake",
+                "posole",
+                "tomatoes",
+                "milk",
+                "eggs",
+                "shredded cheddar cheese",
+                "lean ground beef",
+                "taco seasoning",
+                "salsa",
+                "sour cream",
+                "sliced green onions"
+            ],
+            "id": "Taco-Cornbread-Muffins-2208091",
+            "smallImageUrls": [
+                "https://lh3.googleusercontent.com/YSjULv2vc7GV3qu4jmKowdFKSzD3nXdiKrEKn8qGuVeV4oTmPIYUBIV69N6bPieU9ztxZRm5IRHjHxb5PvEwfg=s90"
+            ],
+            "recipeName": "Taco Cornbread Muffins",
+            "totalTimeInSeconds": 2400,
+            "attributes": {
+                "course": [
+                    "Breads",
+                    "Main Dishes"
+                ],
+                "cuisine": [
+                    "Kid-Friendly",
+                    "Mexican"
+                ]
+            },
+            "flavors": null,
+            "rating": 4
+        },
+        {
+            "recipeName": "Pancakes (mmm-mmm) From Canadian version Five Roses Cook Book",
+            "ingredients": [
+                "flour",
+                "sugar",
+                "baking powder",
+                "salt",
+                "milk",
+                "eggs",
+                "butter",
+                "vanilla"
+            ],
+            "totalTimeInSeconds": 2100,
+            "sourceDisplayName": "MyRecipes",
+            "id": "Pancakes-_mmm-mmm_-From-Canadian-version-Five-Roses-Cook-Book-1310228",
+            "rating": 3,
+            "flavors": {
+                "piquant": 0.0,
+                "meaty": 0.16666666666666666,
+                "bitter": 0.8333333333333334,
+                "sweet": 0.5,
+                "sour": 0.16666666666666666,
+                "salty": 0.8333333333333334
+            },
+            "attributes": {
+                "course": [
+                    "Breakfast and Brunch"
+                ]
+            }
+        },
+        {
+            "imageUrlsBySize": {
+                "90": "http://lh3.googleusercontent.com/Y5Qs66LDClWLajVNTpmVdH4U_Osw5pP8DyOHSu9d7-up0jKzZEc3FuB5WvAub3KfM-91R2sBd6PuYtyy1R05Pw=s90-c"
+            },
+            "sourceDisplayName": "Lecker",
+            "ingredients": [
+                "Semmelbrot",
+                "Milch",
+                "Ei",
+                "Salz",
+                "Pfeffer",
+                "Musskatnuss",
+                "Mehl",
+                "Gans",
+                "Zwiebel",
+                "K\u00fcmmel",
+                "Wei\u00dfkohl",
+                "Kartoffel",
+                "\u00c4pfel",
+                "Weissweinessig",
+                "Petersile"
+            ],
+            "id": "Gans-auf-Weikohl-mit-Semmelknodel-824599",
+            "smallImageUrls": [
+                "http://lh3.googleusercontent.com/EIwayUI1ZKRJIclQMbVOM06tMNRk22f9QnIvRXOj8Jk7jAWrwgwc0mSK5Wq9CBE0bIcI1uQIxCmQPOD2C-ypzhM=s90"
+            ],
+            "recipeName": "Gans auf Wei\u00dfkohl mit Semmelkno\u0308del",
+            "totalTimeInSeconds": 5400,
+            "attributes": {},
+            "flavors": null,
+            "rating": 3
+        },
+        {
+            "imageUrlsBySize": {
+                "90": "http://lh3.googleusercontent.com/ZoMx5LjUdld1BjGsVHJimP6H6rxvjtdGI-RYJW62B2HwUZqoKdzQ7pu0e_kBt-rdISL9qum09E17okjg_vQHLdk=s90-c"
+            },
+            "sourceDisplayName": "Lecker",
+            "ingredients": [
+                "M\u00f6hre",
+                "Lauch",
+                "Zwiebel",
+                "\u00d6l",
+                "Schweinsgulasch",
+                "Tomatenkonzentrat",
+                "Mehl",
+                "Salz",
+                "Pfeffer",
+                "Kuttelkraut",
+                "Rotwein",
+                "boullion",
+                "Lorbeer",
+                "Ei",
+                "Petersile"
+            ],
+            "id": "Fleckerln-mit-Schweinepfeffer-816473",
+            "smallImageUrls": [
+                "http://lh3.googleusercontent.com/1or95QbGITHuPboqqUCJs6ISAdvFgefAWPzuT-qdbEyeEJDrXcaQY7iqO2ui6WkpsjdT1qgpDPblehXIrufTcg=s90"
+            ],
+            "recipeName": "Fleckerln mit Schweinepfeffer",
+            "totalTimeInSeconds": 12600,
+            "attributes": {},
+            "flavors": null,
+            "rating": 3
+        },
+        {
+            "imageUrlsBySize": {
+                "90": "http://lh3.googleusercontent.com/REAB3Tzo9iW9tyHeB0AwsBEqojYXxfZxn8nEH4itVxC6Z7ZEff46uBeDfKB2OHNzyQ80ICrhy5nZlXQCKWnr=s90-c"
+            },
+            "sourceDisplayName": "Lecker",
+            "ingredients": [
+                "Milch",
+                "Ei",
+                "Salz",
+                "Mehl",
+                "Zucchini",
+                "M\u00f6hre",
+                "Schweinefilet",
+                "\u00d6l",
+                "Pfeffer",
+                "boullion",
+                "Schlabgobers",
+                "Cognac",
+                "Sossenpulver",
+                "Rosmarinzweig",
+                "Butter"
+            ],
+            "id": "Zucchinicrepes-mit-Rosmaringemuse-und-Schweinefilet-815486",
+            "smallImageUrls": [
+                "http://lh3.googleusercontent.com/5FHIvkzhwn25tEKf0yku51evgJ47zU0YAMHvuUMaQzsxcutZDg0ioqt2ZHHYjz8S_HOF54Oz7CHHLgyO9fRygA=s90"
+            ],
+            "recipeName": "Zucchinicre\u0302pes mit Rosmaringemu\u0308se und Schweinefilet",
+            "totalTimeInSeconds": 4500,
+            "attributes": {},
+            "flavors": null,
+            "rating": 3
+        },
+        {
+            "imageUrlsBySize": {
+                "90": "http://lh3.googleusercontent.com/eDVHwgGgYxwmAYwpX1FVG88nTQdkvqyooIgTvPkTuXdByKRLs6wxa6e1dfXZGaof5IRYVm3mLsVpF9KBAjvP=s90-c"
+            },
+            "sourceDisplayName": "Lecker",
+            "ingredients": [
+                "Butter",
+                "Ei",
+                "Milch",
+                "Mehl",
+                "Zucker",
+                "Salz",
+                "Weichsel",
+                "Speisest\u00e4rke",
+                "Zitronenschale",
+                "\u00d6l",
+                "magerquark",
+                "Zitrone",
+                "Schmand",
+                "Eigelb",
+                "Mandelbl\u00e4tter",
+                "Puderzucker"
+            ],
+            "id": "Uberbackener-Palatschinken-823834",
+            "smallImageUrls": [
+                "http://lh3.googleusercontent.com/B_-fYqme2lj9-S9CzthtgIie-yKBK1lX-L01d1pjWUbb5wPpgQ7hmXQADAr3EOHZcR64axeLE-GNPJS3RLB7=s90"
+            ],
+            "recipeName": "U\u0308berbackener Palatschinken",
+            "totalTimeInSeconds": 4500,
+            "attributes": {},
+            "flavors": null,
+            "rating": 3
+        }
+    ],
+    "facetCounts": {},
+    "totalMatchCount": 7,
+    "attribution": {
+        "html": "Recipe search powered by <a href='http://www.yummly.co/recipes'><img alt='Yummly' src='https://static.yummly.co/api-logo.png'/></a>",
+        "url": "http://www.yummly.co/recipes/",
+        "text": "Recipe search powered by Yummly",
+        "logo": "https://static.yummly.co/api-logo.png"
+    }
+}

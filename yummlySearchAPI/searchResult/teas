@@ -1,0 +1,335 @@
+{
+    "criteria": {
+        "q": "t+e+a+s",
+        "allowedIngredient": null,
+        "excludedIngredient": null
+    },
+    "matches": [
+        {
+            "imageUrlsBySize": {
+                "90": "https://lh3.googleusercontent.com/7scilqiPm6S3K9QvvUB9-tYnELAH9CgkjhtGMeowvfAJ1I6FE6IL_TCvdQ3jkT-aMcdPcXLGZy1Jr-wv2tdAGw=s90-c"
+            },
+            "sourceDisplayName": "Cooking Classy",
+            "ingredients": [
+                "lean ground beef",
+                "olive oil",
+                "yellow onion",
+                "carrots",
+                "diced celery",
+                "garlic",
+                "tomato sauce",
+                "low sodium chicken broth",
+                "water",
+                "diced tomatoes",
+                "granulated sugar",
+                "dried basil",
+                "dried oregano",
+                "dried thyme",
+                "marjoram",
+                "salt",
+                "freshly ground black pepper",
+                "ditalini pasta",
+                "red kidney beans",
+                "Great Northern Beans",
+                "romano cheese"
+            ],
+            "id": "Copycat-Olive-Garden-Pasta-e-Fagioli-Soup-2195765",
+            "smallImageUrls": [
+                "https://lh3.googleusercontent.com/dvLtbYOrZHM9Fhe7Gjw274AnIKrI8CSGELlRYuM0caKeDMWKtCs2doNC5M-tvwLLFhkOp6Yt5Zl9VKXlOlVDbQ=s90"
+            ],
+            "recipeName": "Copycat Olive Garden Pasta e Fagioli Soup",
+            "totalTimeInSeconds": 3900,
+            "attributes": {
+                "course": [
+                    "Soups"
+                ],
+                "cuisine": [
+                    "Italian"
+                ]
+            },
+            "flavors": null,
+            "rating": 4
+        },
+        {
+            "imageUrlsBySize": {
+                "90": "https://lh3.googleusercontent.com/JRun7CHys55BZXsDS7Cblvxs3CxBv7CaL_0G5OM88qux3bjHa0aU5utHaz5MslZ4pNuUHrMrnGqW2yJ52qv0Hg=s90-c"
+            },
+            "sourceDisplayName": "Love Foodies",
+            "ingredients": [
+                "softened butter",
+                "milk",
+                "regular sugar",
+                "eggs",
+                "strawberries",
+                "all-purpose flour",
+                "baking powder",
+                "salt",
+                "vanilla extract"
+            ],
+            "id": "Strawberry-Pound-Cake-2161706",
+            "smallImageUrls": [
+                "https://lh3.googleusercontent.com/Z-FK3Emwk1tPG_pZXi-SVmhp_2UxnkeoTQIy9_hPTucsUGP_5VkZf_iFcnfmLfw52PCS1s9uPMTIxctcg7x9=s90"
+            ],
+            "recipeName": "Strawberry Pound Cake",
+            "totalTimeInSeconds": 5400,
+            "attributes": {
+                "course": [
+                    "Desserts",
+                    "Afternoon Tea"
+                ]
+            },
+            "flavors": {
+                "piquant": 0.0,
+                "meaty": 0.3333333333333333,
+                "bitter": 0.16666666666666666,
+                "sweet": 0.6666666666666666,
+                "sour": 0.8333333333333334,
+                "salty": 0.6666666666666666
+            },
+            "rating": 4
+        },
+        {
+            "imageUrlsBySize": {
+                "90": "https://lh3.googleusercontent.com/HgdP9aqvIvNXVDM6M0-2F4X2gFIM0Nc1YRcy016eQumZtyO0ZMMqeNX12lzn8N8vZr56pn62stXpdUxevVh7VeY=s90-c"
+            },
+            "sourceDisplayName": "Gigi Eats Celebrities",
+            "ingredients": [
+                "sweet potatoes",
+                "sugar",
+                "hickory smoke",
+                "beef brisket",
+                "bbq sauce",
+                "spinach"
+            ],
+            "id": "Nacho-Average-B_R_I_S_K_E_T_-1952403",
+            "smallImageUrls": [
+                "https://lh3.googleusercontent.com/MrXnL83XjSwGVTFf2xMbAMU45DSUoC6Ti5Aws3HW0k_1DXt5ZpEhn-QiyyHKafCLKQOJxwr6PvUjDjrpNJEhWw=s90"
+            ],
+            "recipeName": "Nacho Average B.R.I.S.K.E.T.",
+            "totalTimeInSeconds": 1800,
+            "attributes": {
+                "course": [
+                    "Main Dishes"
+                ]
+            },
+            "flavors": null,
+            "rating": 4
+        },
+        {
+            "imageUrlsBySize": {
+                "90": "https://lh3.googleusercontent.com/ZsqrJKkbcDZrw_x7IlJL2HBD86_n5KdccKUTgLH4D2p1LEBRxkbMxOq1DCaY8hX0DQBzUAt83WLfSkj2JQ0BHqo=s90-c"
+            },
+            "sourceDisplayName": "Whitney E. RD",
+            "ingredients": [
+                "frozen banana",
+                "peanut butter",
+                "cocoa powder",
+                "natural peanut butter",
+                "unsweetened vanilla almond milk",
+                "ice",
+                "cacao nibs"
+            ],
+            "id": "Pre-Bedtime-Peanut-Butter-Chocolate-Protein-Shake-2400413",
+            "smallImageUrls": [
+                "https://lh3.googleusercontent.com/A8ea-5Z50k8s_OsqKMFeMI9Te212DP7E-j0lo-ZtGWFvmQkHqxAoA6sPzCQ7uTetFsolRSapSWGOshR7DJCV=s90"
+            ],
+            "recipeName": "Pre-Bedtime Peanut Butter Chocolate Protein Shake",
+            "totalTimeInSeconds": 180,
+            "attributes": {
+                "course": [
+                    "Beverages"
+                ],
+                "cuisine": [
+                    "Kid-Friendly"
+                ]
+            },
+            "flavors": null,
+            "rating": 4
+        },
+        {
+            "imageUrlsBySize": {
+                "90": "https://lh3.googleusercontent.com/BAxo-cdsXyB6p7OWh5npzKDpwmVpBxcmwc-uEVuGeF71_Gs2tvPrcOGWANAY73DloCiHrlLtaQZnXlgOEHaU1Q=s90-c"
+            },
+            "sourceDisplayName": "Darcie's Dish",
+            "ingredients": [
+                "chicken broth",
+                "liquid aminos",
+                "olive oil",
+                "sugar",
+                "garlic",
+                "red pepper flakes"
+            ],
+            "id": "Basic-Stir-fry-Sauce-_S_-E-or-FP_-2292728",
+            "smallImageUrls": [
+                "https://lh3.googleusercontent.com/1a4bmQXlTDzgLKJetS-SCTEujnJkjXSUmMlDWk_2bgEShNKrJjZPzjt3ArHyVOAhBnpKmWtWYsM-xkvD2nkW5w=s90"
+            ],
+            "recipeName": "Basic Stir-fry Sauce (S, E or FP)",
+            "totalTimeInSeconds": 1200,
+            "attributes": {
+                "course": [
+                    "Condiments and Sauces"
+                ]
+            },
+            "flavors": null,
+            "rating": 4
+        },
+        {
+            "imageUrlsBySize": {
+                "90": "https://lh3.googleusercontent.com/NyieysgSzA-roDnFeH6J7NshN99L-c8Zccsa-r49fzqSAAmSWO3nZj7tgF4-omyjUAIA9kAlk4MyOo0P3tRcmcY=s90-c"
+            },
+            "sourceDisplayName": "Natasha's Kitchen",
+            "ingredients": [
+                "unsalted butter",
+                "milk",
+                "all-purpose flour",
+                "active dry yeast",
+                "preserves"
+            ],
+            "id": "Russian-Rugelach-i_e_-Mom_s-famous-Rogaliki-2285342",
+            "smallImageUrls": [
+                "https://lh3.googleusercontent.com/kbbVQIu3JOGKfnrUQo8OiwYeFhof6c0FQ4S7nHMp6LGWjyNEBhBJh9oKdgKn2rlg0NrxrVjd68-f8BzMVLue5Ls=s90"
+            ],
+            "recipeName": "Russian Rugelach i.e. Mom's famous Rogaliki",
+            "totalTimeInSeconds": 4800,
+            "attributes": {},
+            "flavors": null,
+            "rating": 4
+        },
+        {
+            "imageUrlsBySize": {
+                "90": "https://lh3.googleusercontent.com/YfUJTYdh-KY9vB8t3olC0hvPlfTysD5yg9QdPYHnW3KIt0-yUYQBTeg8CFU6-Zqyv3dy_lmSdWaag6VtDbtjYb4=s90-c"
+            },
+            "sourceDisplayName": "The Spruce",
+            "ingredients": [
+                "stock",
+                "onions",
+                "carrots",
+                "celery ribs",
+                "salt",
+                "black pepper"
+            ],
+            "id": "Au-Jus-Recipe-for-Prime-Rib-2214303",
+            "smallImageUrls": [
+                "https://lh3.googleusercontent.com/VlKtpo-ckEXhBpHmAaWAfvB1qgSSMsUUnV4_xAatBCBRPPfk_EY_bOLA20YinDxFGy2HfaOMbLOt8dRxD22XNQ=s90"
+            ],
+            "recipeName": "Au Jus Recipe for Prime Rib",
+            "totalTimeInSeconds": 3600,
+            "attributes": {
+                "course": [
+                    "Main Dishes"
+                ]
+            },
+            "flavors": {
+                "piquant": 0.0,
+                "meaty": 0.16666666666666666,
+                "bitter": 0.16666666666666666,
+                "sweet": 0.16666666666666666,
+                "sour": 0.16666666666666666,
+                "salty": 0.3333333333333333
+            },
+            "rating": 4
+        },
+        {
+            "imageUrlsBySize": {
+                "90": "https://lh3.googleusercontent.com/AyQZOwfYVUki5wINDypDrVsF-uf7CQ6L5wHGMGuoL3lVpUtgNH7DQwPsgH6oJrZkWHJEGS1rjdf3Gw7A6-GNRA=s90-c"
+            },
+            "sourceDisplayName": "Cookie Dough and Oven Mitt",
+            "ingredients": [
+                "granulated sugar",
+                "unsweetened cocoa powder",
+                "soy milk",
+                "silken tofu",
+                "caramels",
+                "salt"
+            ],
+            "id": "Chocolate-Ice-Cream-with-Salted-Caramel-2146874",
+            "smallImageUrls": [
+                "https://lh3.googleusercontent.com/26Go4sr67zaRncKsp40yiROl4PchBShI3FObUoD6CqlDXN2FQZfJNPvSNLo59CcJ2DgfhfOCKvoAs-Qd_jcgumY=s90"
+            ],
+            "recipeName": "Chocolate Ice Cream with Salted Caramel",
+            "totalTimeInSeconds": 9900,
+            "attributes": {
+                "course": [
+                    "Desserts"
+                ]
+            },
+            "flavors": {
+                "piquant": 0.0,
+                "meaty": 0.16666666666666666,
+                "bitter": 0.5,
+                "sweet": 0.8333333333333334,
+                "sour": 0.16666666666666666,
+                "salty": 0.3333333333333333
+            },
+            "rating": 4
+        },
+        {
+            "imageUrlsBySize": {
+                "90": "https://lh3.googleusercontent.com/aqltjRo_8KQIJqclmf5uAHp4N3qrvcFvunMPsfbzJtazfDM9eozmmSgcqB0x-EltW5OZhyPo8SrJGwM5vZ0gI0A=s90-c"
+            },
+            "sourceDisplayName": "Just a Taste",
+            "ingredients": [
+                "spaghetti",
+                "grated parmesan cheese",
+                "unsalted butter",
+                "black pepper"
+            ],
+            "id": "Cacio-e-Pepe-Pasta-493842",
+            "smallImageUrls": [
+                "https://lh3.googleusercontent.com/a6mUj_O6U_SdqAkwQfwyRhVgcqrlWaL74dHXwXQgR1nLAyCddBGhv-IzB18PZXCjbk5lu-frtJyy3BZ616aN6A=s90"
+            ],
+            "recipeName": "Cacio e Pepe Pasta",
+            "totalTimeInSeconds": 1320,
+            "attributes": {
+                "course": [
+                    "Main Dishes"
+                ]
+            },
+            "flavors": {
+                "piquant": 0.0,
+                "meaty": 0.8333333333333334,
+                "bitter": 0.8333333333333334,
+                "sweet": 0.16666666666666666,
+                "sour": 0.16666666666666666,
+                "salty": 0.8333333333333334
+            },
+            "rating": 4
+        },
+        {
+            "imageUrlsBySize": {
+                "90": "http://lh4.ggpht.com/zwpcZj6YKN8OgC3FuM5Zts1fbBxLpY-dxz5OzIWaP0QEK08a6uZmVni0itIZbqx-weeaXwbyufCi_jqW4f_BcA=s90-c"
+            },
+            "sourceDisplayName": "Gwen's Nest",
+            "ingredients": [
+                "warm water",
+                "coarse salt",
+                "whole wheat flour",
+                "yeast",
+                "dough",
+                "crust",
+                "wheat"
+            ],
+            "id": "Easy-E-Bread-984635",
+            "smallImageUrls": [
+                "http://lh6.ggpht.com/B__4o0sk8XAghFLArX3_fti__qcP9j8MI2ie992n6J-5t1-Op2EmeRID8NviOyX-e140aY2aUEKlMG5O53J6CA=s90"
+            ],
+            "recipeName": "Easy E Bread",
+            "totalTimeInSeconds": 10800,
+            "attributes": {
+                "course": [
+                    "Breads"
+                ]
+            },
+            "flavors": null,
+            "rating": 4
+        }
+    ],
+    "facetCounts": {},
+    "totalMatchCount": 1706,
+    "attribution": {
+        "html": "Recipe search powered by <a href='http://www.yummly.co/recipes'><img alt='Yummly' src='https://static.yummly.co/api-logo.png'/></a>",
+        "url": "http://www.yummly.co/recipes/",
+        "text": "Recipe search powered by Yummly",
+        "logo": "https://static.yummly.co/api-logo.png"
+    }
+}

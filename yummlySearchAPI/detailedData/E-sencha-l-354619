@@ -1,0 +1,46 @@
+{
+    "nutritionEstimates": [],
+    "totalTime": "10 min",
+    "images": [
+        {
+            "hostedSmallUrl": "http://lh3.ggpht.com/guy_5QS1kAQIMyAuxD0CvggVCFpN4LJm83NJDSzOO-enPRTRfnil0aHQ4gOcHEBO2-BwQQ-SzMAjxzWFsyiGKaU=s90",
+            "hostedMediumUrl": "http://lh3.ggpht.com/guy_5QS1kAQIMyAuxD0CvggVCFpN4LJm83NJDSzOO-enPRTRfnil0aHQ4gOcHEBO2-BwQQ-SzMAjxzWFsyiGKaU=s180",
+            "hostedLargeUrl": "http://lh3.ggpht.com/guy_5QS1kAQIMyAuxD0CvggVCFpN4LJm83NJDSzOO-enPRTRfnil0aHQ4gOcHEBO2-BwQQ-SzMAjxzWFsyiGKaU=s360",
+            "imageUrlsBySize": {
+                "90": "http://lh4.ggpht.com/Gnvyi240tC31lL1feBTqa97g55af2a_Sg263PgZ99VGi8N9T7xSdz4OQGBj4_R5j4LrEZeO5_6_fk_7tQclgog=s90-c",
+                "360": "http://lh4.ggpht.com/Gnvyi240tC31lL1feBTqa97g55af2a_Sg263PgZ99VGi8N9T7xSdz4OQGBj4_R5j4LrEZeO5_6_fk_7tQclgog=s360-c"
+            }
+        }
+    ],
+    "name": "E-Sencha-L",
+    "source": {
+        "sourceDisplayName": "Liquor.com",
+        "sourceSiteUrl": "http://www.liquor.com",
+        "sourceRecipeUrl": "http://liquor.com/recipes/e-sencha-l/"
+    },
+    "id": "E-sencha-l-354619",
+    "ingredientLines": [
+        "garnish: Grapefruit twist",
+        "glass: Martini or small tea cup",
+        "glass: Martini or small tea cup",
+        "1.5 oz Frozen\u00a0Beefeater 24 Gin",
+        "1.5 oz Frozen\u00a0Beefeater 24 Gin",
+        "1.5 oz Strong brewed Sencha tea (chilled)"
+    ],
+    "attribution": {
+        "html": "<a href='http://www.yummly.co/recipe/E-sencha-l-354619'>E-Sencha-L recipe</a> information powered by <img alt='Yummly' src='https://static.yummly.co/api-logo.png'/>",
+        "url": "http://www.yummly.co/recipe/E-sencha-l-354619",
+        "text": "E-Sencha-L recipes: information powered by Yummly",
+        "logo": "https://static.yummly.co/api-logo.png"
+    },
+    "numberOfServings": 4,
+    "totalTimeInSeconds": 600,
+    "attributes": {
+        "course": [
+            "Cocktails",
+            "Beverages"
+        ]
+    },
+    "flavors": {},
+    "rating": 4
+}

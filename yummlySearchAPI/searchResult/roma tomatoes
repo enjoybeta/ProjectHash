@@ -1,0 +1,51 @@
+{
+    "criteria": {
+        "q": "r+o+m+a+ +t+o+m+a+t+o+e+s",
+        "allowedIngredient": null,
+        "excludedIngredient": null
+    },
+    "matches": [
+        {
+            "recipeName": "H I M B E E R T O R T E",
+            "ingredients": [
+                "Ei",
+                "Puderzucker",
+                "Vanillezucker",
+                "Mehl",
+                "St\u00e4rke",
+                "Backpulver",
+                "F\u00fcllung",
+                "G\u00f6tterspeise",
+                "Zucker",
+                "K\u00e4se",
+                "Rahm",
+                "Himbeere"
+            ],
+            "totalTimeInSeconds": 7200,
+            "sourceDisplayName": "Lecker",
+            "id": "H-I-M-B-E-E-R-T-O-R-T-E-839122",
+            "rating": 3,
+            "flavors": {
+                "sweet": 0.8333333333333334,
+                "piquant": 0.0,
+                "sour": 0.6666666666666666,
+                "salty": 0.16666666666666666,
+                "meaty": 0.16666666666666666,
+                "bitter": 0.16666666666666666
+            },
+            "attributes": {
+                "course": [
+                    "Desserts"
+                ]
+            }
+        }
+    ],
+    "facetCounts": {},
+    "totalMatchCount": 1,
+    "attribution": {
+        "html": "Recipe search powered by <a href='http://www.yummly.co/recipes'><img alt='Yummly' src='https://static.yummly.co/api-logo.png'/></a>",
+        "url": "http://www.yummly.co/recipes/",
+        "text": "Recipe search powered by Yummly",
+        "logo": "https://static.yummly.co/api-logo.png"
+    }
+}

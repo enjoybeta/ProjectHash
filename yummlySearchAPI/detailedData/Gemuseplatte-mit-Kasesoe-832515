@@ -1,0 +1,46 @@
+{
+    "yield": "Zutaten f\u00fcr 4 Personen:",
+    "nutritionEstimates": [],
+    "totalTime": "30 min",
+    "images": [
+        {
+            "hostedSmallUrl": "http://lh3.googleusercontent.com/y5D76YrOdHp9ud1y3RvEBpV-CQAk_g44zRLvJAwG95BKOAZL_brB8ZkQkZkWUTerOmZRNxdrrH6i9La8Vi1XkQ=s90",
+            "hostedMediumUrl": "http://lh3.googleusercontent.com/y5D76YrOdHp9ud1y3RvEBpV-CQAk_g44zRLvJAwG95BKOAZL_brB8ZkQkZkWUTerOmZRNxdrrH6i9La8Vi1XkQ=s180",
+            "hostedLargeUrl": "http://lh3.googleusercontent.com/y5D76YrOdHp9ud1y3RvEBpV-CQAk_g44zRLvJAwG95BKOAZL_brB8ZkQkZkWUTerOmZRNxdrrH6i9La8Vi1XkQ=s360",
+            "imageUrlsBySize": {
+                "90": "http://lh3.googleusercontent.com/CBBsWPg9AQjeeE5ghCsPRG3tQXcElniqaTgpRIslizU9rmHBcmKB2kSi3Yj6XEr7BDGgieM9htIjWxsYPv-i=s90-c",
+                "360": "http://lh3.googleusercontent.com/CBBsWPg9AQjeeE5ghCsPRG3tQXcElniqaTgpRIslizU9rmHBcmKB2kSi3Yj6XEr7BDGgieM9htIjWxsYPv-i=s360-c"
+            }
+        }
+    ],
+    "name": "Gemu\u0308seplatte mit Ka\u0308seso\u00dfe",
+    "source": {
+        "sourceDisplayName": "Lecker",
+        "sourceSiteUrl": "lecker.de",
+        "sourceRecipeUrl": "http://www.lecker.de/rezept/852465/Gemueseplatte-mit-Kaesesosse.html"
+    },
+    "id": "Gemuseplatte-mit-Kasesoe-832515",
+    "ingredientLines": [
+        "800 g Broccoli",
+        "8-10 M\u00f6hren (200 g)",
+        "1 Bund Lauchzwiebeln",
+        "3 EL \u00d6l (z. B. Maiskeim\u00f6l)",
+        "evtl. 2 TL Gem\u00fcsebr\u00fche",
+        "1/2 Bund Petersilie",
+        "1/2 l Milch",
+        "120 g Schmelzk\u00e4se (20 % Fett i. Tr.)",
+        "4 EL heller So\u00dfenbinder",
+        "Salz, Pfeffer, Muskat"
+    ],
+    "attribution": {
+        "html": "<a href='http://www.yummly.co/recipe/Gemuseplatte-mit-Kasesoe-832515'>Gemu\u0308seplatte mit Ka\u0308seso&szlig;e recipe</a> information powered by <img alt='Yummly' src='https://static.yummly.co/api-logo.png'/>",
+        "url": "http://www.yummly.co/recipe/Gemuseplatte-mit-Kasesoe-832515",
+        "text": "Gemu\u0308seplatte mit Ka\u0308seso&szlig;e recipes: information powered by Yummly",
+        "logo": "https://static.yummly.co/api-logo.png"
+    },
+    "numberOfServings": 4,
+    "totalTimeInSeconds": 1800,
+    "attributes": {},
+    "flavors": {},
+    "rating": 3
+}

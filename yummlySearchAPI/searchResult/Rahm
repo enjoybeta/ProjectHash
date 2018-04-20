@@ -1,0 +1,95 @@
+{
+    "criteria": {
+        "q": "R+a+h+m",
+        "allowedIngredient": null,
+        "excludedIngredient": null
+    },
+    "matches": [
+        {
+            "imageUrlsBySize": {
+                "90": "https://lh3.googleusercontent.com/Ivl7x8uZigeRjx1p7TIMRiMIJM3eKGW6A1i8Ir-nO-UKMVbUVIvM0_CxPiQCUyBTm8OXwXzoVMTfJZiActhGKmI=s90-c"
+            },
+            "sourceDisplayName": "Can't Stay Out of the Kitchen",
+            "ingredients": [
+                "unbleached all-purpose flour",
+                "sugar",
+                "baking powder",
+                "salt",
+                "milk",
+                "eggs",
+                "vanilla",
+                "butter",
+                "sour cream",
+                "jam",
+                "jelly",
+                "preserves",
+                "powdered sugar",
+                "strawberries",
+                "corn starch",
+                "water"
+            ],
+            "id": "STRAWBERRY-BREAKFAST-CREPES-1977153",
+            "smallImageUrls": [
+                "https://lh3.googleusercontent.com/p_IbnxKd2QhanyL6DjHiAHc_pj-eONC6SFglWIpaIv8iBX7cH_HcPv60zLKxJ_b7UCbTO2NxJna-HBdY20UGqg=s90"
+            ],
+            "recipeName": "STRAWBERRY BREAKFAST CRE\u0302PES",
+            "totalTimeInSeconds": 2700,
+            "attributes": {
+                "course": [
+                    "Breakfast and Brunch"
+                ]
+            },
+            "flavors": {
+                "piquant": 0.0,
+                "meaty": 0.16666666666666666,
+                "bitter": 0.16666666666666666,
+                "sweet": 0.6666666666666666,
+                "sour": 0.6666666666666666,
+                "salty": 0.16666666666666666
+            },
+            "rating": 4
+        },
+        {
+            "recipeName": "H I M B E E R T O R T E",
+            "ingredients": [
+                "Ei",
+                "Puderzucker",
+                "Vanillezucker",
+                "Mehl",
+                "St\u00e4rke",
+                "Backpulver",
+                "F\u00fcllung",
+                "G\u00f6tterspeise",
+                "Zucker",
+                "K\u00e4se",
+                "Rahm",
+                "Himbeere"
+            ],
+            "totalTimeInSeconds": 7200,
+            "sourceDisplayName": "Lecker",
+            "id": "H-I-M-B-E-E-R-T-O-R-T-E-839122",
+            "rating": 3,
+            "flavors": {
+                "sweet": 0.8333333333333334,
+                "piquant": 0.0,
+                "sour": 0.6666666666666666,
+                "salty": 0.16666666666666666,
+                "meaty": 0.16666666666666666,
+                "bitter": 0.16666666666666666
+            },
+            "attributes": {
+                "course": [
+                    "Desserts"
+                ]
+            }
+        }
+    ],
+    "facetCounts": {},
+    "totalMatchCount": 2,
+    "attribution": {
+        "html": "Recipe search powered by <a href='http://www.yummly.co/recipes'><img alt='Yummly' src='https://static.yummly.co/api-logo.png'/></a>",
+        "url": "http://www.yummly.co/recipes/",
+        "text": "Recipe search powered by Yummly",
+        "logo": "https://static.yummly.co/api-logo.png"
+    }
+}

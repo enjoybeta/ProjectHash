@@ -1,0 +1,49 @@
+{
+    "yield": "Zutaten f\u00fcr 4 Personen:",
+    "nutritionEstimates": [],
+    "totalTime": "30 min",
+    "images": [
+        {
+            "hostedSmallUrl": "http://lh3.googleusercontent.com/48Yfg3yhgauGNOMFCdrl5ZXis-wiZiTjU7jvkTWpF1XEaG-dhUJiQyiNP-dIqWuo-tXVK2w1MRYIdKha8_ZmuQ=s90",
+            "hostedMediumUrl": "http://lh3.googleusercontent.com/48Yfg3yhgauGNOMFCdrl5ZXis-wiZiTjU7jvkTWpF1XEaG-dhUJiQyiNP-dIqWuo-tXVK2w1MRYIdKha8_ZmuQ=s180",
+            "hostedLargeUrl": "http://lh3.googleusercontent.com/48Yfg3yhgauGNOMFCdrl5ZXis-wiZiTjU7jvkTWpF1XEaG-dhUJiQyiNP-dIqWuo-tXVK2w1MRYIdKha8_ZmuQ=s360",
+            "imageUrlsBySize": {
+                "90": "http://lh3.googleusercontent.com/KsrrnneZit0oggSqbnY4ImlS1OuMcuB452awSWvVsFGMZCWvQ1e9YfHFkzOwieCZ79bZb8Pik7JqboUznvY2fSI=s90-c",
+                "360": "http://lh3.googleusercontent.com/KsrrnneZit0oggSqbnY4ImlS1OuMcuB452awSWvVsFGMZCWvQ1e9YfHFkzOwieCZ79bZb8Pik7JqboUznvY2fSI=s360-c"
+            }
+        }
+    ],
+    "name": "Molokhia-Suppe",
+    "source": {
+        "sourceDisplayName": "Lecker",
+        "sourceSiteUrl": "lecker.de",
+        "sourceRecipeUrl": "http://www.lecker.de/rezept/2973383/Molokhia-Suppe.html"
+    },
+    "id": "Molokhia-Suppe-928880",
+    "ingredientLines": [
+        "150 g Bulgur",
+        "Salz",
+        "2 rote Zwiebeln",
+        "1 helle, bzw. wei\u00dfe Zwiebel",
+        "5 Kardamom-Kapseln",
+        "1,25 l Gem\u00fcsebr\u00fche (z. B. aus F48677)",
+        "1 Lorbeerblatt",
+        "4 EL \u00d6l",
+        "Zitronensaft",
+        "100 g getrocknete Molokhia-Bl\u00e4tter (ersatzweise 250 g junger Baby-Spinat)",
+        "Pfeffer",
+        "200 g gegrillte Paprika (Glas)",
+        "30 g Erdnusskerne"
+    ],
+    "attribution": {
+        "html": "<a href='http://www.yummly.co/recipe/Molokhia-Suppe-928880'>Molokhia-Suppe recipe</a> information powered by <img alt='Yummly' src='https://static.yummly.co/api-logo.png'/>",
+        "url": "http://www.yummly.co/recipe/Molokhia-Suppe-928880",
+        "text": "Molokhia-Suppe recipes: information powered by Yummly",
+        "logo": "https://static.yummly.co/api-logo.png"
+    },
+    "numberOfServings": 4,
+    "totalTimeInSeconds": 1800,
+    "attributes": {},
+    "flavors": {},
+    "rating": 3
+}

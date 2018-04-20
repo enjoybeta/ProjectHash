@@ -1,0 +1,378 @@
+{
+    "criteria": {
+        "q": "S+e+n+f",
+        "allowedIngredient": null,
+        "excludedIngredient": null
+    },
+    "matches": [
+        {
+            "imageUrlsBySize": {
+                "90": "https://lh3.googleusercontent.com/apVHCZ65J0rhOXV9Ig1AIZxPp7KUoBt0Jt9UwDdzVqvj965A270YI3fdvusPDbKsgUqfZEHjnNeuMoqu1C2w-Q=s90-c"
+            },
+            "sourceDisplayName": "PureWow",
+            "ingredients": [
+                "spaghetti",
+                "unsalted butter",
+                "extra-virgin olive oil",
+                "pecorino romano cheese",
+                "salt",
+                "freshly ground black pepper"
+            ],
+            "id": "Cacio-e-Pepe-2117185",
+            "smallImageUrls": [
+                "https://lh3.googleusercontent.com/ban3FepY4Kptq7sAAfb0ERQgBZJRkGDWMkG7jQVLw2KfvCHYeVV6sDUI7DsSiOdAo7qG5VT7jGJosg4tezLh0Q=s90"
+            ],
+            "recipeName": "Cacio e Pepe",
+            "totalTimeInSeconds": 1500,
+            "attributes": {
+                "course": [
+                    "Main Dishes"
+                ],
+                "cuisine": [
+                    "Italian"
+                ]
+            },
+            "flavors": null,
+            "rating": 4
+        },
+        {
+            "imageUrlsBySize": {
+                "90": "https://lh3.googleusercontent.com/7scilqiPm6S3K9QvvUB9-tYnELAH9CgkjhtGMeowvfAJ1I6FE6IL_TCvdQ3jkT-aMcdPcXLGZy1Jr-wv2tdAGw=s90-c"
+            },
+            "sourceDisplayName": "Cooking Classy",
+            "ingredients": [
+                "lean ground beef",
+                "olive oil",
+                "yellow onion",
+                "carrots",
+                "diced celery",
+                "garlic",
+                "tomato sauce",
+                "low sodium chicken broth",
+                "water",
+                "diced tomatoes",
+                "granulated sugar",
+                "dried basil",
+                "dried oregano",
+                "dried thyme",
+                "marjoram",
+                "salt",
+                "freshly ground black pepper",
+                "ditalini pasta",
+                "red kidney beans",
+                "Great Northern Beans",
+                "romano cheese"
+            ],
+            "id": "Copycat-Olive-Garden-Pasta-e-Fagioli-Soup-2195765",
+            "smallImageUrls": [
+                "https://lh3.googleusercontent.com/dvLtbYOrZHM9Fhe7Gjw274AnIKrI8CSGELlRYuM0caKeDMWKtCs2doNC5M-tvwLLFhkOp6Yt5Zl9VKXlOlVDbQ=s90"
+            ],
+            "recipeName": "Copycat Olive Garden Pasta e Fagioli Soup",
+            "totalTimeInSeconds": 3900,
+            "attributes": {
+                "course": [
+                    "Soups"
+                ],
+                "cuisine": [
+                    "Italian"
+                ]
+            },
+            "flavors": null,
+            "rating": 4
+        },
+        {
+            "imageUrlsBySize": {
+                "90": "http://lh3.googleusercontent.com/ix9DgH1VWQNxJN53saFjOZot8kn369YHahWcEkpxgu88G3umBWTZfHk-o5StCq-g99pSeX0WA1kE1X5kzBqw=s90-c"
+            },
+            "sourceDisplayName": "Amuse Your Bouche",
+            "ingredients": [
+                "brown rice",
+                "sunflower oil",
+                "spring onions",
+                "garlic",
+                "bell pepper",
+                "cherry tomatoes",
+                "hot chili powder",
+                "smoked paprika",
+                "black beans",
+                "salt",
+                "black pepper",
+                "cheddar cheese",
+                "fresh coriander"
+            ],
+            "id": "Veggie-Burrito-Bowls-978324",
+            "smallImageUrls": [
+                "http://lh3.googleusercontent.com/Xjkk6qnp3KKnOSGJuadprZtADxkfoNGF0ryRs8m-HbYqfYxxvrDhn1jPmqjpXz8mR1JH98dW0m0v0lvUi8mT=s90"
+            ],
+            "recipeName": "Veggie Burrito Bowls",
+            "totalTimeInSeconds": 1500,
+            "attributes": {
+                "course": [
+                    "Main Dishes",
+                    "Lunch"
+                ]
+            },
+            "flavors": {
+                "piquant": 0.16666666666666666,
+                "meaty": 0.16666666666666666,
+                "bitter": 0.3333333333333333,
+                "sweet": 0.16666666666666666,
+                "sour": 0.8333333333333334,
+                "salty": 0.6666666666666666
+            },
+            "rating": 4
+        },
+        {
+            "imageUrlsBySize": {
+                "90": "https://lh3.googleusercontent.com/2aQDskY7F1TVB7yjp-QHWTR4WbKOdk8FhLzCzIc7s57_ixD3Lx3-DVVOLR_rH0Oa9GCKs44idSepadpEVt_Oog=s90-c"
+            },
+            "sourceDisplayName": "Go Eat and Repeat",
+            "ingredients": [
+                "noodles",
+                "olive oil",
+                "ground black pepper",
+                "garlic salt",
+                "salt",
+                "red pepper flakes"
+            ],
+            "id": "Spaghetti-Aglio_-Olio-e-Peperoncino-1360210",
+            "smallImageUrls": [
+                "https://lh3.googleusercontent.com/Vm4FW-PScQJUCZkd7KDS80BEbMfjA5BquDu9y60QIskewWlcKho6E2bNuxt0IprGLAzMQsuScBfMEZ7HP5XLfw=s90"
+            ],
+            "recipeName": "Spaghetti Aglio, Olio e Peperoncino",
+            "totalTimeInSeconds": 1200,
+            "attributes": {},
+            "flavors": {
+                "piquant": 0.16666666666666666,
+                "meaty": 0.5,
+                "bitter": 0.6666666666666666,
+                "sweet": 0.16666666666666666,
+                "sour": 0.16666666666666666,
+                "salty": 0.6666666666666666
+            },
+            "rating": 4
+        },
+        {
+            "imageUrlsBySize": {
+                "90": "http://lh3.ggpht.com/0rmLZE7x1HbRWbvipfkv7Uv5_k22lOSgPkDSu9Zv0rKIYKdS4260-hYxu1YHSouwQrGKW0wK8VAy3dCiOASqB5c=s90-c"
+            },
+            "sourceDisplayName": "Steamy Kitchen",
+            "ingredients": [
+                "spaghetti squash",
+                "butter",
+                "garlic",
+                "parsley",
+                "salt",
+                "parmesan cheese"
+            ],
+            "id": "Baked-spaghetti-squash-with-garlic-and-butter-315049",
+            "smallImageUrls": [
+                "http://lh3.ggpht.com/r7ErVPGqh5E5WRijrMcdKJdyxzcu9zeDIdk6JG_ZtiGK7Q3WsMq0S_XDzFlycMr1l2Ke9soTJX_uJzzOBTgM3g=s90"
+            ],
+            "recipeName": "Baked Spaghetti Squash with Garlic and Butter",
+            "totalTimeInSeconds": 5100,
+            "attributes": {
+                "course": [
+                    "Side Dishes"
+                ],
+                "cuisine": [
+                    "Italian"
+                ]
+            },
+            "flavors": {
+                "piquant": 0.0,
+                "meaty": 0.16666666666666666,
+                "bitter": 0.16666666666666666,
+                "sweet": 0.0,
+                "sour": 0.3333333333333333,
+                "salty": 0.3333333333333333
+            },
+            "rating": 5
+        },
+        {
+            "imageUrlsBySize": {
+                "90": "https://lh3.googleusercontent.com/YWVcEhgrfrDuTPEuVcUPa339QQIG2siyxDwmcLWW4mdEBxXCAz-r1JNo0k6LJwFeSZ27HtNY32V3O4WwkjLl=s90-c"
+            },
+            "sourceDisplayName": "Northern Nester",
+            "ingredients": [
+                "cottage cheese",
+                "peanut flour",
+                "xylitol sweetener"
+            ],
+            "id": "S_-E_-FP-2234717",
+            "smallImageUrls": [
+                "https://lh3.googleusercontent.com/qfOceY45vAZAxBqbUsHI4q3ZAciRGvt9tNmHtISJRnAIlys1tyZeK3O-Nt4aKoZEaXpVk5gonq_0Lo-EqfrNcmk=s90"
+            ],
+            "recipeName": "S, E, FP",
+            "totalTimeInSeconds": 300,
+            "attributes": {
+                "course": [
+                    "Desserts"
+                ],
+                "cuisine": [
+                    "Kid-Friendly"
+                ]
+            },
+            "flavors": {
+                "piquant": 0.0,
+                "meaty": 0.5,
+                "bitter": 0.16666666666666666,
+                "sweet": 0.3333333333333333,
+                "sour": 0.0,
+                "salty": 0.8333333333333334
+            },
+            "rating": 4
+        },
+        {
+            "imageUrlsBySize": {
+                "90": "https://lh3.googleusercontent.com/JfQG1_XMS_hDPtA8sU4giRAIo2Dt0H-qHVIbKB9cQeoLVFJscLS5xF43AsWp6bZd8yF-F8yWKsz3q2s-6zuQ=s90-c"
+            },
+            "sourceDisplayName": "Chasing Lost Socks",
+            "ingredients": [
+                "oat flour",
+                "flax seed meal",
+                "cinnamon",
+                "liquid egg whites",
+                "fat free greek yogurt",
+                "baking powder",
+                "stevia powder",
+                "salt"
+            ],
+            "id": "Cinnamon-Lovers-Muffin-in-a-Mug-_with-Variations_-THM-_E_-1457628",
+            "smallImageUrls": [
+                "https://lh3.googleusercontent.com/xtOltCT2lt0a9C7SXhU4yVwO1Rw3ibx4P8wzLndy8NeUmHPHQ3uqjTQhW1iASl3_MwDGWFW0z-PXJn-vkrNl5xA=s90"
+            ],
+            "recipeName": "Cinnamon Lover\u2019s Muffin in a Mug (with Variations) \u2013 THM {E}",
+            "totalTimeInSeconds": 300,
+            "attributes": {
+                "course": [
+                    "Breakfast and Brunch"
+                ]
+            },
+            "flavors": null,
+            "rating": 3
+        },
+        {
+            "imageUrlsBySize": {
+                "90": "https://lh3.googleusercontent.com/mUIXQj6orq_Jie2qPAAYQMe8awdRNUZusCl44pvGsXctwT6VmT2TkPfxPwSpfpdYfmzBB6TEI6enBRWkR12J=s90-c"
+            },
+            "sourceDisplayName": "Northern Nester",
+            "ingredients": [
+                "butter",
+                "chopped celery",
+                "onions",
+                "carrots",
+                "garlic cloves",
+                "boneless skinless chicken breasts",
+                "thyme",
+                "rosemary",
+                "salt",
+                "sage",
+                "ground pepper",
+                "parsley",
+                "chicken broth",
+                "water"
+            ],
+            "id": "E-2402420",
+            "smallImageUrls": [
+                "https://lh3.googleusercontent.com/LNLd9ZzgRUSOAlti4MP1MY05sVmgIH_T6b8-lgfi-DpBskFX5UtAGzsHpWqHo1hWbbNrudzkra73bWSKb5zNkA=s90"
+            ],
+            "recipeName": "E",
+            "totalTimeInSeconds": 3600,
+            "attributes": {
+                "course": [
+                    "Soups",
+                    "Main Dishes"
+                ]
+            },
+            "flavors": {
+                "piquant": 0.16666666666666666,
+                "meaty": 0.16666666666666666,
+                "bitter": 0.16666666666666666,
+                "sweet": 0.16666666666666666,
+                "sour": 0.16666666666666666,
+                "salty": 0.16666666666666666
+            },
+            "rating": 4
+        },
+        {
+            "imageUrlsBySize": {
+                "90": "http://lh3.googleusercontent.com/zUtP22aIMPU1bCfdd4iStUafLE9H5bH42VUeFrnY_gOVaurmFl4k116tN2Ir-k1wxqUC16kHl9z4aM2hMPfK5g=s90-c"
+            },
+            "sourceDisplayName": "A Home with Purpose",
+            "ingredients": [
+                "hamburger",
+                "onions",
+                "salsa",
+                "tortillas",
+                "cheddar cheese",
+                "salt",
+                "pepper"
+            ],
+            "id": "Easy-Mexican-Casserole_S-or-E_-1305317",
+            "smallImageUrls": [
+                "http://lh3.googleusercontent.com/iI3qPU8gARnZX8AhSNNaMdxtUYKJnYIV2rkwJf1nzFEmo7ebAD8SHYidJSFqodBXU5bdC-vfBi6wNh4TZzs=s90"
+            ],
+            "recipeName": "Easy Mexican Casserole(S or E)",
+            "totalTimeInSeconds": 3300,
+            "attributes": {
+                "course": [
+                    "Main Dishes"
+                ],
+                "cuisine": [
+                    "Mexican"
+                ]
+            },
+            "flavors": {
+                "piquant": 0.8333333333333334,
+                "meaty": 0.8333333333333334,
+                "bitter": 0.8333333333333334,
+                "sweet": 0.16666666666666666,
+                "sour": 0.16666666666666666,
+                "salty": 0.8333333333333334
+            },
+            "rating": 4
+        },
+        {
+            "imageUrlsBySize": {
+                "90": "http://lh6.ggpht.com/IvH39S-in6BwI75fiIvUeXPLaECSEPpbFIgZkvAavB3puFeJ5plgFT7ppNBaVhEqkbbVZPQ7Z2Ila-t_zBWUpw=s90-c"
+            },
+            "sourceDisplayName": "Table for Two",
+            "ingredients": [
+                "pasta",
+                "unsalted butter",
+                "parmesan cheese",
+                "ground black pepper",
+                "salt"
+            ],
+            "id": "Cacio-e-Pepe-932878",
+            "smallImageUrls": [
+                "http://lh5.ggpht.com/p8tHTGQigXo_BgXYHRSpFfGXb35L2L5h5Or7r-0NIZj43ijzbESjVBF2Wqzoq4S5Ym178jpOsYRTcSr4azrH=s90"
+            ],
+            "recipeName": "Cacio e Pepe",
+            "totalTimeInSeconds": 1200,
+            "attributes": {
+                "cuisine": [
+                    "Italian"
+                ]
+            },
+            "flavors": {
+                "piquant": 0.0,
+                "meaty": 0.8333333333333334,
+                "bitter": 0.6666666666666666,
+                "sweet": 0.16666666666666666,
+                "sour": 0.16666666666666666,
+                "salty": 0.6666666666666666
+            },
+            "rating": 4
+        }
+    ],
+    "facetCounts": {},
+    "totalMatchCount": 45872,
+    "attribution": {
+        "html": "Recipe search powered by <a href='http://www.yummly.co/recipes'><img alt='Yummly' src='https://static.yummly.co/api-logo.png'/></a>",
+        "url": "http://www.yummly.co/recipes/",
+        "text": "Recipe search powered by Yummly",
+        "logo": "https://static.yummly.co/api-logo.png"
+    }
+}

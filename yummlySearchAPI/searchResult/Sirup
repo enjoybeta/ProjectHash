@@ -1,0 +1,58 @@
+{
+    "criteria": {
+        "q": "S+i+r+u+p",
+        "allowedIngredient": null,
+        "excludedIngredient": null
+    },
+    "matches": [
+        {
+            "imageUrlsBySize": {
+                "90": "https://lh3.googleusercontent.com/OQDZahzRuMPyJOuZnmm2aK2Auw-GHtX-XW2qMsveFy0PIRGHg1ABX3onegrvelOubd2cQYM3Qz9PdU_4T-nStYs=s90-c"
+            },
+            "sourceDisplayName": "Bangla Recipe",
+            "ingredients": [
+                "butter",
+                "brown sugar",
+                "eggs",
+                "all-purpose flour",
+                "baking powder",
+                "salt",
+                "ground cinnamon",
+                "ground nutmeg",
+                "apples",
+                "apricot jam",
+                "water",
+                "syrup",
+                "glaze"
+            ],
+            "id": "Delicious-Apple-Cake-1559929",
+            "smallImageUrls": [
+                "https://lh3.googleusercontent.com/cN1fgjN6AIJ0nkXWFmGLKb8p1RfS3CPwAI3HSdOozojhunfC8lBpsltJ9XmjOCMCNpOj8URE2JC9WF7E_r-6IjU=s90"
+            ],
+            "recipeName": "Delicious Apple Cake",
+            "totalTimeInSeconds": 3600,
+            "attributes": {
+                "course": [
+                    "Desserts"
+                ]
+            },
+            "flavors": {
+                "piquant": 0.16666666666666666,
+                "meaty": 0.16666666666666666,
+                "bitter": 0.16666666666666666,
+                "sweet": 0.6666666666666666,
+                "sour": 0.16666666666666666,
+                "salty": 0.16666666666666666
+            },
+            "rating": 4
+        }
+    ],
+    "facetCounts": {},
+    "totalMatchCount": 1,
+    "attribution": {
+        "html": "Recipe search powered by <a href='http://www.yummly.co/recipes'><img alt='Yummly' src='https://static.yummly.co/api-logo.png'/></a>",
+        "url": "http://www.yummly.co/recipes/",
+        "text": "Recipe search powered by Yummly",
+        "logo": "https://static.yummly.co/api-logo.png"
+    }
+}

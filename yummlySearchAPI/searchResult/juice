@@ -1,0 +1,93 @@
+{
+    "criteria": {
+        "q": "j+u+i+c+e",
+        "allowedIngredient": null,
+        "excludedIngredient": null
+    },
+    "matches": [
+        {
+            "imageUrlsBySize": {
+                "90": "http://lh3.googleusercontent.com/rapUKFj9J3L3fRKa8fp2bkUzMwt5eMsH2q2vuTDJS1B0sAEMI8uL_7b8quUKpYd-d5WGBsUneHLuPnJycoBh=s90-c"
+            },
+            "sourceDisplayName": "Lecker",
+            "ingredients": [
+                "gouda",
+                "B\u00f6hnchen",
+                "M\u00f6hre",
+                "Champignon",
+                "Butterschmalz",
+                "B\u00e4rlauch",
+                "Butter",
+                "Mehl",
+                "Gem\u00fcsebr\u00fche",
+                "Schlabgobers",
+                "Eigelb",
+                "Lasagnebl\u00e4ter"
+            ],
+            "id": "Bunte-Gemuse-Lasagne-826424",
+            "smallImageUrls": [
+                "http://lh3.googleusercontent.com/kmPL2g0SeDGe9Qf_CpKrsYCXA9AY8DARIEn-6zmG2OyJSipfO5d7LIl5Hmll-Oj1MYfZxWoplromNgyI5_JK=s90"
+            ],
+            "recipeName": "Bunte Gemu\u0308se-Lasagne",
+            "totalTimeInSeconds": 4800,
+            "attributes": {},
+            "flavors": {
+                "sweet": 0.16666666666666666,
+                "piquant": 0.0,
+                "sour": 0.16666666666666666,
+                "salty": 0.5,
+                "meaty": 0.16666666666666666,
+                "bitter": 0.16666666666666666
+            },
+            "rating": 3
+        },
+        {
+            "imageUrlsBySize": {
+                "90": "http://lh3.googleusercontent.com/lK6l2Z2u-pJYXG6QbnygJk-54wKc1VGNCVXunF-6OpYqDNScuyo8wPRlnhKh2TZhOM6uqIKrxBmTxTCV-_y7ZFE=s90-c"
+            },
+            "sourceDisplayName": "Lecker",
+            "ingredients": [
+                "Mozzarella",
+                "Parikaschote",
+                "Zucchini",
+                "Schweinsschnitzerl",
+                "Butterschmalz",
+                "Zwiebel",
+                "Knoblaucknolle",
+                "Ingwer",
+                "Chilischote",
+                "Butter",
+                "Mehl",
+                "Gem\u00fcsebr\u00fche",
+                "Kokosmilch",
+                "Eigelb",
+                "Lasagnebl\u00e4ter",
+                "Koriander"
+            ],
+            "id": "Asia-Lasagne-mit-Schweinefleisch-824129",
+            "smallImageUrls": [
+                "http://lh3.googleusercontent.com/6mVVJdXMn8eXQ7lyhfS9xBuMLlIaNVUU2iyb0Nbgbqoc14MAGSM8Fr5U1CzU2KkM_ujzbE_wqv2MIr0RIre-KG0=s90"
+            ],
+            "recipeName": "Asia-Lasagne mit Schweinefleisch",
+            "totalTimeInSeconds": 4500,
+            "attributes": {},
+            "flavors": {
+                "sweet": 0.16666666666666666,
+                "piquant": 0.6666666666666666,
+                "sour": 0.8333333333333334,
+                "salty": 0.16666666666666666,
+                "meaty": 0.5,
+                "bitter": 0.16666666666666666
+            },
+            "rating": 3
+        }
+    ],
+    "facetCounts": {},
+    "totalMatchCount": 2,
+    "attribution": {
+        "html": "Recipe search powered by <a href='http://www.yummly.co/recipes'><img alt='Yummly' src='https://static.yummly.co/api-logo.png'/></a>",
+        "url": "http://www.yummly.co/recipes/",
+        "text": "Recipe search powered by Yummly",
+        "logo": "https://static.yummly.co/api-logo.png"
+    }
+}

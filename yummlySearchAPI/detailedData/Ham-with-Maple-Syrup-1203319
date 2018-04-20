@@ -1,0 +1,58 @@
+{
+    "yield": "6 servings",
+    "nutritionEstimates": [],
+    "prepTimeInSeconds": 900,
+    "totalTime": "2 hr",
+    "images": [
+        {
+            "hostedSmallUrl": "http://lh3.googleusercontent.com/ukfHum19z8bCJ-q76dAP0TQXe-ObCE9meXnYwGdU7DoI2mH9EIaWB9DiKZYEu3nu6ystefX3a0OTGW13vk8ZYg=s90",
+            "hostedMediumUrl": "http://lh3.googleusercontent.com/ukfHum19z8bCJ-q76dAP0TQXe-ObCE9meXnYwGdU7DoI2mH9EIaWB9DiKZYEu3nu6ystefX3a0OTGW13vk8ZYg=s180",
+            "hostedLargeUrl": "http://lh3.googleusercontent.com/ukfHum19z8bCJ-q76dAP0TQXe-ObCE9meXnYwGdU7DoI2mH9EIaWB9DiKZYEu3nu6ystefX3a0OTGW13vk8ZYg=s360",
+            "imageUrlsBySize": {
+                "90": "http://lh3.googleusercontent.com/_LI_3jlK9ClmU1dVY_YTw3rKItHQfl38H6zCrr1OJsVIBtHplupHFbs8lYTqdS39gf_ZYFmTYySvZvk6fN3vMA=s90-c",
+                "360": "http://lh3.googleusercontent.com/_LI_3jlK9ClmU1dVY_YTw3rKItHQfl38H6zCrr1OJsVIBtHplupHFbs8lYTqdS39gf_ZYFmTYySvZvk6fN3vMA=s360-c"
+            }
+        }
+    ],
+    "name": "Ham with Maple Syrup",
+    "source": {
+        "sourceDisplayName": "Metro.ca",
+        "sourceSiteUrl": "metro.ca",
+        "sourceRecipeUrl": "http://www.metro.ca/recipes/ham-with-maple-syrup.en.html"
+    },
+    "prepTime": "15 Min",
+    "id": "Ham-with-Maple-Syrup-1203319",
+    "ingredientLines": [
+        "1 ham 0 0",
+        "1/2 cup (125 mL) Maple syrup or honey 0 0",
+        "6 whole garlic cloves, peeled 0 0",
+        "3 star anise 0 0",
+        "2 cinnamon sticks 0 0",
+        "6 bay leaves 0 0",
+        "3 whole dried hot peppers 0 0",
+        "coriander seeds to taste 0 0",
+        "fennel seeds to taste 0 0",
+        "Sufficient quantity, olive oil 0 0",
+        "Sufficient quantity, water 0 0"
+    ],
+    "cookTime": "1 Hr 45 Min",
+    "attribution": {
+        "html": "<a href='http://www.yummly.co/recipe/Ham-with-Maple-Syrup-1203319'>Ham with Maple Syrup recipe</a> information powered by <img alt='Yummly' src='https://static.yummly.co/api-logo.png'/>",
+        "url": "http://www.yummly.co/recipe/Ham-with-Maple-Syrup-1203319",
+        "text": "Ham with Maple Syrup recipes: information powered by Yummly",
+        "logo": "https://static.yummly.co/api-logo.png"
+    },
+    "numberOfServings": 6,
+    "totalTimeInSeconds": 7200,
+    "attributes": {
+        "holiday": [
+            "Christmas"
+        ],
+        "course": [
+            "Main Dishes"
+        ]
+    },
+    "cookTimeInSeconds": 6300,
+    "flavors": {},
+    "rating": 3
+}

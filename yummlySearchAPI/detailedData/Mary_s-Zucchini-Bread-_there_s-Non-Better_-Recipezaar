@@ -1030,8 +1030,19 @@
     },
     "numberOfServings": 20,
     "totalTimeInSeconds": 4800,
-    "attributes": {},
+    "attributes": {
+        "course": [
+            "Breads"
+        ]
+    },
     "cookTimeInSeconds": 3600,
-    "flavors": {},
+    "flavors": {
+        "Piquant": 0.0,
+        "Meaty": 0.6667,
+        "Bitter": 0.1667,
+        "Sweet": 0.8333,
+        "Sour": 0.3333,
+        "Salty": 0.6667
+    },
     "rating": 4
 }

@@ -1,0 +1,350 @@
+{
+    "criteria": {
+        "q": "K+a+k+a+o",
+        "allowedIngredient": null,
+        "excludedIngredient": null
+    },
+    "matches": [
+        {
+            "imageUrlsBySize": {
+                "90": "http://lh5.ggpht.com/CkRWBd8330UWw5RIvIrxW566CH1KdzKJLTmdm_99hDJbW_qw65S0uU9T2gc1Q4XnFcoB38Nz0VTzTZVuGdev5g=s90-c"
+            },
+            "sourceDisplayName": "Nom Nom Paleo",
+            "ingredients": [
+                "sweet potatoes",
+                "ghee",
+                "kosher salt",
+                "hot dogs",
+                "sunflower seeds"
+            ],
+            "id": "Yummy-Mummies-_a_k_a_-Halloweenies_-477174",
+            "smallImageUrls": [
+                "http://lh4.ggpht.com/STXHitCoAXANRPY7j4_tlpsJz0u6s4UdrIPavsjkXLd_sjU3MZuFnPk7B0yiVmt9yhtTnaEisBC1uVgJJTS-9g=s90"
+            ],
+            "recipeName": "Yummy Mummies (a.k.a. Halloweenies)",
+            "totalTimeInSeconds": 3300,
+            "attributes": {
+                "course": [
+                    "Lunch"
+                ],
+                "cuisine": [
+                    "Kid-Friendly"
+                ],
+                "holiday": [
+                    "Halloween"
+                ]
+            },
+            "flavors": {
+                "piquant": 0.0,
+                "meaty": 0.8333333333333334,
+                "bitter": 0.8333333333333334,
+                "sweet": 0.16666666666666666,
+                "sour": 0.16666666666666666,
+                "salty": 0.8333333333333334
+            },
+            "rating": 4
+        },
+        {
+            "imageUrlsBySize": {
+                "90": "http://lh5.ggpht.com/__EZNx8PHR7h5lKJn1HJx68_d8NyrwuzElcOTp_jVJIbnzJ9t6BOWlhM_cFdEEGShauh5Bwm2Ohmu9jjfvWNeho=s90-c"
+            },
+            "sourceDisplayName": "Mom On Timeout",
+            "ingredients": [
+                "instant pudding & pie filling",
+                "crushed pineapple",
+                "mini marshmallows",
+                "chopped nuts",
+                "cool whip"
+            ],
+            "id": "Pistachio-Dessert-Salad-a_k_a-Pistachio-Fluff_-981266",
+            "smallImageUrls": [
+                "http://lh6.ggpht.com/Mq2Y5EVSUYsJPa0uJyxfuES7mT269M9tQn-CYqp2_SPtqslQ3fgAS9SXC-Qm9isJsJ5AH6vFJZyD9bCFpaxm=s90"
+            ],
+            "recipeName": "Pistachio Dessert Salad \u2013 a.k.a Pistachio Fluff!",
+            "totalTimeInSeconds": 1200,
+            "attributes": {
+                "course": [
+                    "Desserts",
+                    "Salads"
+                ]
+            },
+            "flavors": {
+                "piquant": 0.0,
+                "meaty": 0.16666666666666666,
+                "bitter": 0.16666666666666666,
+                "sweet": 0.8333333333333334,
+                "sour": 0.8333333333333334,
+                "salty": 0.16666666666666666
+            },
+            "rating": 4
+        },
+        {
+            "imageUrlsBySize": {
+                "90": "http://lh6.ggpht.com/LnJBQ-hZISk61hd1PteCdH66Kwla0G9sDdh6rer7BhW3-Bjdl3p072eQd9D-U-BS16aNaCmr9mLLNEbL7C5d=s90-c"
+            },
+            "sourceDisplayName": "101 Cookbooks",
+            "ingredients": [
+                "extra-virgin olive oil",
+                "salt",
+                "potatoes",
+                "garlic",
+                "yellow onion",
+                "stock",
+                "white beans",
+                "cabbage",
+                "parmesan cheese"
+            ],
+            "id": "Rustic-cabbage-soup-308880",
+            "smallImageUrls": [
+                "http://lh3.ggpht.com/coREBwR5J9lvxOEjtCCtZOEWoQ6mKOhXRvwqyLvr5_9kw3F9YWztFXofX7Zi-Vfj1CBiC5xHT1kjNcA6-N9jzw=s90"
+            ],
+            "recipeName": "Rustic Cabbage Soup",
+            "totalTimeInSeconds": 1800,
+            "attributes": {
+                "course": [
+                    "Soups"
+                ]
+            },
+            "flavors": {
+                "piquant": 0.0,
+                "meaty": 0.16666666666666666,
+                "bitter": 0.3333333333333333,
+                "sweet": 0.16666666666666666,
+                "sour": 0.8333333333333334,
+                "salty": 0.16666666666666666
+            },
+            "rating": 5
+        },
+        {
+            "imageUrlsBySize": {
+                "90": "https://lh3.googleusercontent.com/SOvS0485y6q90DXzPzkDJwUAyJBeMlbytURDooJt1mcj9fnvm-cDxfvmN9bhrlQa7sAnQLZnq-cUczJfOGfYqQ=s90-c"
+            },
+            "sourceDisplayName": "Leite's Culinaria",
+            "ingredients": [
+                "bread flour",
+                "instant yeast",
+                "salt",
+                "water",
+                "cornmeal"
+            ],
+            "id": "Jim-Laheys-No-Knead-Bread-2302462",
+            "smallImageUrls": [
+                "https://lh3.googleusercontent.com/ThOsRSwOmRDrh3-R6HDLpBaR-V1oT3QYZqA7fc5nD_hTokEX0_G5-2MocIyOp1YOlPwfwX1ODPifqkJLxlGmMA=s90"
+            ],
+            "recipeName": "Jim Lahey\u2019s No-Knead Bread",
+            "totalTimeInSeconds": 12600,
+            "attributes": {
+                "course": [
+                    "Breads"
+                ]
+            },
+            "flavors": null,
+            "rating": 4
+        },
+        {
+            "imageUrlsBySize": {
+                "90": "http://lh5.ggpht.com/rKVDW4CKZEKP_p2T5jzFaKLQS59yn8FZIejt_HESo5bT0pfdkPm9x90l3w3STpd_gJuduw_olQc8LogbdHjC-g=s90-c"
+            },
+            "sourceDisplayName": "Bushel and a Peck",
+            "ingredients": [
+                "baking soda",
+                "water",
+                "avocado",
+                "maple syrup",
+                "eggs",
+                "cocoa powder",
+                "dark chocolate"
+            ],
+            "id": "Double-Chocolate-Avocado-Cookies-975140",
+            "smallImageUrls": [
+                "http://lh6.ggpht.com/bKPUe1U8Un0wnRpyZOsDdQNGx-qqPcUPYvKoEWCbxGKtvL4pKfwSMMjfjSvmk0rnaCqSUIKRqt1ChUSy1G7Naw=s90"
+            ],
+            "recipeName": "Double Chocolate Avocado Cookies",
+            "totalTimeInSeconds": 1500,
+            "attributes": {
+                "course": [
+                    "Desserts"
+                ]
+            },
+            "flavors": {
+                "piquant": 0.0,
+                "meaty": 0.3333333333333333,
+                "bitter": 0.8333333333333334,
+                "sweet": 0.6666666666666666,
+                "sour": 0.3333333333333333,
+                "salty": 0.3333333333333333
+            },
+            "rating": 3
+        },
+        {
+            "imageUrlsBySize": {
+                "90": "http://lh3.googleusercontent.com/FAJj1ifXRbMC8YPqNeaCkyZ5Bikk3gj-Z9C4O-UAAev66CM_ZWX9BNsNRGb6CrrxLSpdaHTt6R8v_JotdPBi34k=s90-c"
+            },
+            "sourceDisplayName": "Wine Lady Cooks",
+            "ingredients": [
+                "bisquick",
+                "low-fat milk",
+                "sugar",
+                "eggs",
+                "brown sugar",
+                "cinnamon",
+                "butter"
+            ],
+            "id": "Bisquick-Coffee-Cake-1248297",
+            "smallImageUrls": [
+                "http://lh3.googleusercontent.com/0v11tJMoEzhBQ9d4XcFjTugjBLJ8bCA2rNvtFF2S2t_tKo0PVPuMG3zKwoULrsDLG0Kfuira01mG4VAk7ersgQ=s90"
+            ],
+            "recipeName": "Bisquick Coffee Cake",
+            "totalTimeInSeconds": 2100,
+            "attributes": {
+                "course": [
+                    "Breads"
+                ]
+            },
+            "flavors": {
+                "piquant": 0.0,
+                "meaty": 0.3333333333333333,
+                "bitter": 0.8333333333333334,
+                "sweet": 0.6666666666666666,
+                "sour": 0.16666666666666666,
+                "salty": 0.8333333333333334
+            },
+            "rating": 4
+        },
+        {
+            "imageUrlsBySize": {
+                "90": "https://lh3.googleusercontent.com/CcSnpLVjMsURsMU5i6M0nj01Q9TsJTHmrYUT-_CdhpsV-9FnLnK9EqGuumXihrHoKkKCWOg9AzwWzyyK03Iz=s90-c"
+            },
+            "sourceDisplayName": "The Southern Lady Cooks",
+            "ingredients": [
+                "granulated sugar",
+                "shortening",
+                "ground cinnamon",
+                "honey",
+                "vanilla extract"
+            ],
+            "id": "CINNAMON-CHIPS-MAKE-YOUR-OWN-2158574",
+            "smallImageUrls": [
+                "https://lh3.googleusercontent.com/XAX0Md_hYPChsG1n20ikIAtHtXcsPFpvTdAx6kEbpRYykduz0HAqUcTLe0HHct7ICrUzUkxD6BaNm4TxIUhAhMY=s90"
+            ],
+            "recipeName": "CINNAMON CHIPS \u2013 MAKE YOUR OWN",
+            "totalTimeInSeconds": 3300,
+            "attributes": {
+                "course": [
+                    "Desserts"
+                ]
+            },
+            "flavors": {
+                "piquant": 0.0,
+                "meaty": 0.16666666666666666,
+                "bitter": 0.16666666666666666,
+                "sweet": 0.8333333333333334,
+                "sour": 0.16666666666666666,
+                "salty": 0.0
+            },
+            "rating": 4
+        },
+        {
+            "imageUrlsBySize": {
+                "90": "http://lh5.ggpht.com/U_fczbl728u32GWEWZ-ghWqxq2DgLIPPH4_znswpl6BtcBybq67SvPDiM0PmzfUgIlaX3uf1hWgBWmDsJHbs=s90-c"
+            },
+            "sourceDisplayName": "101 Cookbooks",
+            "ingredients": [
+                "jasmine rice",
+                "unsweetened coconut milk",
+                "water",
+                "fine sea salt",
+                "shallots",
+                "unsalted butter",
+                "cashew nuts"
+            ],
+            "id": "Purple-jasmine-coconut-rice-308593",
+            "smallImageUrls": [
+                "http://lh6.ggpht.com/0v4V01sFVCP5kBR0LUDAxQfXWSwRUypaoy5lhFzMzqUY3KUFiRAeEIooq29OaNo8idnJJ2PYsIfqN2TSEbBp=s90"
+            ],
+            "recipeName": "Purple Jasmine Coconut Rice",
+            "totalTimeInSeconds": 2700,
+            "attributes": {
+                "course": [
+                    "Side Dishes"
+                ]
+            },
+            "flavors": {
+                "piquant": 0.0,
+                "meaty": 0.16666666666666666,
+                "bitter": 0.16666666666666666,
+                "sweet": 0.16666666666666666,
+                "sour": 0.16666666666666666,
+                "salty": 0.16666666666666666
+            },
+            "rating": 5
+        },
+        {
+            "imageUrlsBySize": {
+                "90": "https://lh3.googleusercontent.com/8eRNhxPXBqODS5Pu7-OFjls93c-8C_VPQKN-h__T8gnyWoUxVrtX9ezHTE-dZdChYj9qV35H3ixOEPeMU5_1bQ=s90-c"
+            },
+            "sourceDisplayName": "Hostess At Heart",
+            "ingredients": [
+                "egg whites",
+                "vanilla extract",
+                "sugar",
+                "cocoa",
+                "semi-sweet chocolate morsels",
+                "shortening"
+            ],
+            "id": "Chocolate-Meringue-Stars-1481256",
+            "smallImageUrls": [
+                "https://lh3.googleusercontent.com/DYLuMpMxZH-jEEOAvK7ZywL_MPWdncbv6say_wLEaVgh1SFScbwx5SQdvpreNyZ2jvpG49WbvC1vbJTiOx71gVA=s90"
+            ],
+            "recipeName": "Chocolate Meringue Stars",
+            "totalTimeInSeconds": 2700,
+            "attributes": {
+                "course": [
+                    "Desserts"
+                ]
+            },
+            "flavors": {
+                "piquant": 0.0,
+                "meaty": 0.6666666666666666,
+                "bitter": 0.6666666666666666,
+                "sweet": 0.8333333333333334,
+                "sour": 0.0,
+                "salty": 0.16666666666666666
+            },
+            "rating": 4
+        },
+        {
+            "imageUrlsBySize": {
+                "90": "http://lh3.googleusercontent.com/Kt8GAQdSrjz2oK9tETa_eNrWM_saL_INOOAIIdYQ5qQfRCT6xr0r99S5cQjDOeT4Zx-oRAFpkUqVhpElfV1u27M=s90-c"
+            },
+            "sourceDisplayName": "Recipes, Food and Cooking",
+            "ingredients": [
+                "bread flour",
+                "instant yeast",
+                "salt",
+                "cornmeal"
+            ],
+            "id": "No-Knead-Bread-1070284",
+            "smallImageUrls": [
+                "http://lh3.googleusercontent.com/n8agtNC0nIuxqoGuP2gFKr2HcannIkJQvplLD3V0IZZW8ZbiXRmtUZk-dTxz8JBJnWn6pPunFtHdejWxxwf_rw=s90"
+            ],
+            "recipeName": "No Knead Bread",
+            "totalTimeInSeconds": 900,
+            "attributes": {
+                "course": [
+                    "Breads"
+                ]
+            },
+            "flavors": null,
+            "rating": 4
+        }
+    ],
+    "facetCounts": {},
+    "totalMatchCount": 4975,
+    "attribution": {
+        "html": "Recipe search powered by <a href='http://www.yummly.co/recipes'><img alt='Yummly' src='https://static.yummly.co/api-logo.png'/></a>",
+        "url": "http://www.yummly.co/recipes/",
+        "text": "Recipe search powered by Yummly",
+        "logo": "https://static.yummly.co/api-logo.png"
+    }
+}

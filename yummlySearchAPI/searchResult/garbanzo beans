@@ -1,0 +1,54 @@
+{
+    "criteria": {
+        "q": "g+a+r+b+a+n+z+o+ +b+e+a+n+s",
+        "allowedIngredient": null,
+        "excludedIngredient": null
+    },
+    "matches": [
+        {
+            "imageUrlsBySize": {
+                "90": "http://lh3.googleusercontent.com/RrStN3tLMJ1IeQwEMDE-6mS6C2elKu9UxvqMYn5f0DBm5VaeOaQZeOjQWpYyfN98Ry-FJq7E3W3HNBfk_8hYWg=s90-c"
+            },
+            "sourceDisplayName": "Lecker",
+            "ingredients": [
+                "Mehl",
+                "Salz",
+                "Vollmilch",
+                "\u00d6l",
+                "Ei",
+                "Musskatnuss",
+                "Butter",
+                "Dill",
+                "Rahm",
+                "Lachs",
+                "Essig",
+                "Honig",
+                "Pfeffer wei\u00df"
+            ],
+            "id": "Lachs-Crepes-mit-Dijon-Creme-925008",
+            "smallImageUrls": [
+                "http://lh3.googleusercontent.com/GTEAwlbAVFDkBqZFN9_y3hruC8Nl641ZoHJ4s4DR7TQweJLFRoX9E8_0Wx03VpoxuphN0GngYTihNouqF3wDvfg=s90"
+            ],
+            "recipeName": "Lachs-Cre\u0302pes mit Dijon-Creme",
+            "totalTimeInSeconds": 2700,
+            "attributes": {},
+            "flavors": {
+                "sweet": 0.16666666666666666,
+                "piquant": 0.3333333333333333,
+                "sour": 0.16666666666666666,
+                "salty": 0.16666666666666666,
+                "meaty": 0.6666666666666666,
+                "bitter": 0.16666666666666666
+            },
+            "rating": 3
+        }
+    ],
+    "facetCounts": {},
+    "totalMatchCount": 1,
+    "attribution": {
+        "html": "Recipe search powered by <a href='http://www.yummly.co/recipes'><img alt='Yummly' src='https://static.yummly.co/api-logo.png'/></a>",
+        "url": "http://www.yummly.co/recipes/",
+        "text": "Recipe search powered by Yummly",
+        "logo": "https://static.yummly.co/api-logo.png"
+    }
+}

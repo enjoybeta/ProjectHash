@@ -1,0 +1,58 @@
+{
+    "nutritionEstimates": [],
+    "totalTime": "35 min",
+    "images": [
+        {
+            "hostedSmallUrl": "https://lh3.googleusercontent.com/O3W0Lnu-Zl2z8G4Q7uk0wj2NdKHgXM2S6ZmHxyqsh5cBGBrEY0DzhiuqLYsLx0Lu3XcK-a8Ozf5UY0encAGtrog=s90",
+            "hostedMediumUrl": "https://lh3.googleusercontent.com/O3W0Lnu-Zl2z8G4Q7uk0wj2NdKHgXM2S6ZmHxyqsh5cBGBrEY0DzhiuqLYsLx0Lu3XcK-a8Ozf5UY0encAGtrog=s180",
+            "hostedLargeUrl": "https://lh3.googleusercontent.com/O3W0Lnu-Zl2z8G4Q7uk0wj2NdKHgXM2S6ZmHxyqsh5cBGBrEY0DzhiuqLYsLx0Lu3XcK-a8Ozf5UY0encAGtrog=s360",
+            "imageUrlsBySize": {
+                "90": "https://lh3.googleusercontent.com/u69cLubyzz0o18JScoY7bpSE8eIavQbzba0A7WgQczMqC85XNyKJxs4N_cZ_R5J7wU1xhH7jiUX3-pZ9Qo1Q=s90-c",
+                "360": "https://lh3.googleusercontent.com/u69cLubyzz0o18JScoY7bpSE8eIavQbzba0A7WgQczMqC85XNyKJxs4N_cZ_R5J7wU1xhH7jiUX3-pZ9Qo1Q=s360-c"
+            }
+        }
+    ],
+    "name": "Instant Pot Meatballs",
+    "source": {
+        "sourceDisplayName": "Pressure Luck Cooking",
+        "sourceSiteUrl": "pressureluckcooking.com",
+        "sourceRecipeUrl": "http://pressureluckcooking.com/recipe/instant-pot-meatballs/"
+    },
+    "id": "Instant-Pot-Meatballs-2156960",
+    "ingredientLines": [
+        "1 lb of ground beef (85%-90% lean \u2013 the less lean, the better for meatballs!)",
+        "\u00bd lb of ground pork",
+        "\u00bd cup of grated parmesan cheese",
+        "1/3 cup of breadcrumbs",
+        "2 tbsp of crushed garlic",
+        "2 tsp of seasoned salt",
+        "1 teaspoon ground black pepper",
+        "1 tsp of dried oregano",
+        "2 tbsp of dried parsley",
+        "1/3 cup of whole milk",
+        "1 large egg, slightly beaten",
+        "48oz of Victoria White Linen Marinara Sauce (Costco sells these jars in 40oz pairs and you\u2019d use one of those jars plus some of another.  If you aren\u2019t a Costco member, most supermarkets have it in smaller size jars or I linked where you can get it on Amazon.  BELIEVE ME \u2013 THIS IS THE BEST JARRED MARINARA SAUCE THERE IS!)",
+        "1 cup of water",
+        "A few 12\u201d hero breads",
+        "Provolone cheese slices, for the hero",
+        "Shredded Mozzarella, for the hero"
+    ],
+    "cookTime": "and",
+    "attribution": {
+        "html": "<a href='http://www.yummly.co/recipe/Instant-Pot-Meatballs-2156960'>Instant Pot Meatballs recipe</a> information powered by <img alt='Yummly' src='https://static.yummly.co/api-logo.png'/>",
+        "url": "http://www.yummly.co/recipe/Instant-Pot-Meatballs-2156960",
+        "text": "Instant Pot Meatballs recipes: information powered by Yummly",
+        "logo": "https://static.yummly.co/api-logo.png"
+    },
+    "numberOfServings": 4,
+    "totalTimeInSeconds": 2100,
+    "attributes": {
+        "course": [
+            "Lunch",
+            "Main Dishes"
+        ]
+    },
+    "cookTimeInSeconds": 0,
+    "flavors": {},
+    "rating": 4
+}

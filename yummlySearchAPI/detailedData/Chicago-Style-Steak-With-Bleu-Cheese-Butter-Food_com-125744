@@ -1027,7 +1027,11 @@
     },
     "numberOfServings": 4,
     "totalTimeInSeconds": 1200,
-    "attributes": {},
+    "attributes": {
+        "course": [
+            "Main Dishes"
+        ]
+    },
     "cookTimeInSeconds": 600,
     "flavors": {},
     "rating": 4

@@ -65,8 +65,19 @@
             "sourceDisplayName": "Food.com",
             "id": "Mary_s-Zucchini-Bread-_there_s-Non-Better_-Recipezaar",
             "rating": 4,
-            "flavors": null,
-            "attributes": {}
+            "flavors": {
+                "piquant": 0.0,
+                "meaty": 0.6666666666666666,
+                "bitter": 0.16666666666666666,
+                "sweet": 0.8333333333333334,
+                "sour": 0.3333333333333333,
+                "salty": 0.6666666666666666
+            },
+            "attributes": {
+                "course": [
+                    "Breads"
+                ]
+            }
         },
         {
             "imageUrlsBySize": {
@@ -158,7 +169,11 @@
             ],
             "recipeName": "Erdbeer-Ka\u0308sekuchen",
             "totalTimeInSeconds": 7200,
-            "attributes": {},
+            "attributes": {
+                "course": [
+                    "Desserts"
+                ]
+            },
             "flavors": null,
             "rating": 3
         },
@@ -297,8 +312,19 @@
             ],
             "recipeName": "Espresso-Ka\u0308sekuchen",
             "totalTimeInSeconds": 3600,
-            "attributes": {},
-            "flavors": null,
+            "attributes": {
+                "course": [
+                    "Desserts"
+                ]
+            },
+            "flavors": {
+                "sweet": 0.8333333333333334,
+                "piquant": 0.0,
+                "sour": 0.16666666666666666,
+                "salty": 0.5,
+                "meaty": 0.8333333333333334,
+                "bitter": 0.5
+            },
             "rating": 3
         },
         {

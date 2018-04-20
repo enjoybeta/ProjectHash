@@ -1,0 +1,54 @@
+{
+    "yield": "Zutaten:",
+    "nutritionEstimates": [],
+    "totalTime": "1 hr 15 min",
+    "images": [
+        {
+            "hostedSmallUrl": "http://lh3.googleusercontent.com/g9d9sBItY2ZvZCqY7PhdvSm_rqnQ35SD_pE9POrXEWRCdXTHJq7c3ZJdQyco-nTpGdUsDe_aobO6I029_TyB=s90",
+            "hostedMediumUrl": "http://lh3.googleusercontent.com/g9d9sBItY2ZvZCqY7PhdvSm_rqnQ35SD_pE9POrXEWRCdXTHJq7c3ZJdQyco-nTpGdUsDe_aobO6I029_TyB=s180",
+            "hostedLargeUrl": "http://lh3.googleusercontent.com/g9d9sBItY2ZvZCqY7PhdvSm_rqnQ35SD_pE9POrXEWRCdXTHJq7c3ZJdQyco-nTpGdUsDe_aobO6I029_TyB=s360",
+            "imageUrlsBySize": {
+                "90": "http://lh3.googleusercontent.com/5fZ0O8qRyBXXP16kIm1qN_a9Dy92LZ-XqAOpyZp5AAkSbqf4t98agr1_0tn8veuc7AsQj44XfaOyNnxx0nZArw=s90-c",
+                "360": "http://lh3.googleusercontent.com/5fZ0O8qRyBXXP16kIm1qN_a9Dy92LZ-XqAOpyZp5AAkSbqf4t98agr1_0tn8veuc7AsQj44XfaOyNnxx0nZArw=s360-c"
+            }
+        }
+    ],
+    "name": "Apfelkuchen mit Schmand",
+    "source": {
+        "sourceDisplayName": "Lecker",
+        "sourceSiteUrl": "lecker.de",
+        "sourceRecipeUrl": "http://www.lecker.de/rezept/754458/Apfelkuchen-mit-Schmand.html"
+    },
+    "id": "Apfelkuchen-mit-Schmand-825062",
+    "ingredientLines": [
+        "500 g Mehl (Type 550)",
+        "Salz",
+        "1 P\u00e4ckchen Trockenhefe",
+        "90 g Zucker",
+        "300 ml Milch",
+        "60 g Butter oder Margarine",
+        "70 g Walnusskerne",
+        "1,2 kg \u00c4pfel",
+        "4 EL Zitronensaft",
+        "200 g Schmand",
+        "3 Eier (Gr\u00f6\u00dfe M)",
+        "1 P\u00e4ckchen Vanillin-Zucker",
+        "Fett f\u00fcr die Fettpfanne",
+        "Mehl zum Bearbeiten"
+    ],
+    "attribution": {
+        "html": "<a href='http://www.yummly.co/recipe/Apfelkuchen-mit-Schmand-825062'>Apfelkuchen mit Schmand recipe</a> information powered by <img alt='Yummly' src='https://static.yummly.co/api-logo.png'/>",
+        "url": "http://www.yummly.co/recipe/Apfelkuchen-mit-Schmand-825062",
+        "text": "Apfelkuchen mit Schmand recipes: information powered by Yummly",
+        "logo": "https://static.yummly.co/api-logo.png"
+    },
+    "numberOfServings": 4,
+    "totalTimeInSeconds": 4500,
+    "attributes": {
+        "course": [
+            "Desserts"
+        ]
+    },
+    "flavors": {},
+    "rating": 3
+}

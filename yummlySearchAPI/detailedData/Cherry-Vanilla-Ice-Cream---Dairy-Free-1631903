@@ -1,0 +1,49 @@
+{
+    "nutritionEstimates": [],
+    "totalTime": "50 min",
+    "images": [
+        {
+            "hostedSmallUrl": "https://lh3.googleusercontent.com/3hxt1Nh_VmDwfkTcXltv9L6R7WK_OXSWTlce84uSdglWYHPa756948cIgWktQdgcTTeR-zrJWmBOyksEHbs7=s90",
+            "hostedMediumUrl": "https://lh3.googleusercontent.com/3hxt1Nh_VmDwfkTcXltv9L6R7WK_OXSWTlce84uSdglWYHPa756948cIgWktQdgcTTeR-zrJWmBOyksEHbs7=s180",
+            "hostedLargeUrl": "https://lh3.googleusercontent.com/3hxt1Nh_VmDwfkTcXltv9L6R7WK_OXSWTlce84uSdglWYHPa756948cIgWktQdgcTTeR-zrJWmBOyksEHbs7=s360",
+            "imageUrlsBySize": {
+                "90": "https://lh3.googleusercontent.com/b_OZTwUjlJCAKubUoztSI7L9Cj15km_1Usp_MBsDAweQIsMJQNoYcdHH4J9XDOpf3SzfOGhPUPDHFNZ65dPs4w=s90-c",
+                "360": "https://lh3.googleusercontent.com/b_OZTwUjlJCAKubUoztSI7L9Cj15km_1Usp_MBsDAweQIsMJQNoYcdHH4J9XDOpf3SzfOGhPUPDHFNZ65dPs4w=s360-c"
+            }
+        }
+    ],
+    "name": "Cherry Vanilla Ice Cream - Dairy Free",
+    "source": {
+        "sourceDisplayName": "The Herbal Spoon",
+        "sourceSiteUrl": "theherbalspoon.com",
+        "sourceRecipeUrl": "http://www.theherbalspoon.com/2016/05/cherry-vanilla-ice-cream-without-machine.html"
+    },
+    "id": "Cherry-Vanilla-Ice-Cream---Dairy-Free-1631903",
+    "ingredientLines": [
+        "4 cups full-fat coconut milk [we use this one:http://amzn.to/24GPP7h]",
+        "1/3 cup. [organic raw cane sugar:http://amzn.to/24GPZLU] or [coconut sugar:http://amzn.to/21OOsOB] (whiz it up in a food processor or coffee grinder to make it extra fine)",
+        "1 1/2 tsp. [vanilla extract:http://amzn.to/1WkJw4L] OR vanilla bean powder",
+        "1-2 tbsp. rum, vodka, etc. OR [grass-fed gelatin:http://amzn.to/1WjkkLv] (optional - see note on page 8 of The Splendid Scoop e-book)",
+        "1-2 tbsp. rum, vodka, etc. OR [grass-fed gelatin:http://amzn.to/1WjkkLv] (optional - see note on page 8 of The Splendid Scoop e-book)",
+        "1-2 tbsp. rum, vodka, etc. OR [grass-fed gelatin:http://amzn.to/1WjkkLv] (optional - see note on page 8 of The Splendid Scoop e-book)",
+        "1 1/2 cups fresh cherries, pitted and roughly chopped"
+    ],
+    "attribution": {
+        "html": "<a href='http://www.yummly.co/recipe/Cherry-Vanilla-Ice-Cream---Dairy-Free-1631903'>Cherry Vanilla Ice Cream - Dairy Free recipe</a> information powered by <img alt='Yummly' src='https://static.yummly.co/api-logo.png'/>",
+        "url": "http://www.yummly.co/recipe/Cherry-Vanilla-Ice-Cream---Dairy-Free-1631903",
+        "text": "Cherry Vanilla Ice Cream - Dairy Free recipes: information powered by Yummly",
+        "logo": "https://static.yummly.co/api-logo.png"
+    },
+    "numberOfServings": 4,
+    "totalTimeInSeconds": 3000,
+    "attributes": {
+        "holiday": [
+            "Summer"
+        ],
+        "course": [
+            "Desserts"
+        ]
+    },
+    "flavors": {},
+    "rating": 4
+}

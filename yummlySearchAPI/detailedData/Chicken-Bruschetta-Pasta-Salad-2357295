@@ -1,0 +1,53 @@
+{
+    "yield": "1",
+    "nutritionEstimates": [],
+    "prepTimeInSeconds": 300,
+    "totalTime": "15 min",
+    "images": [
+        {
+            "hostedSmallUrl": "https://lh3.googleusercontent.com/JcYC8W_qhK8rmNC6iJpHUM1UHwypRTvsDmqmexFslyBF7f0pvWcvikKk8MZzbfIe4m_keRLwS5_CZ7ER7Z2PXQ=s90",
+            "hostedMediumUrl": "https://lh3.googleusercontent.com/JcYC8W_qhK8rmNC6iJpHUM1UHwypRTvsDmqmexFslyBF7f0pvWcvikKk8MZzbfIe4m_keRLwS5_CZ7ER7Z2PXQ=s180",
+            "hostedLargeUrl": "https://lh3.googleusercontent.com/JcYC8W_qhK8rmNC6iJpHUM1UHwypRTvsDmqmexFslyBF7f0pvWcvikKk8MZzbfIe4m_keRLwS5_CZ7ER7Z2PXQ=s360",
+            "imageUrlsBySize": {
+                "90": "https://lh3.googleusercontent.com/-brYIQsOeZ-gwEDGxyHiVBHGOu8NybhLd23brsld339rD90Kh1l1BMjA1n52cCYd6HZ9kvlTyBmv_rk-fTSD=s90-c",
+                "360": "https://lh3.googleusercontent.com/-brYIQsOeZ-gwEDGxyHiVBHGOu8NybhLd23brsld339rD90Kh1l1BMjA1n52cCYd6HZ9kvlTyBmv_rk-fTSD=s360-c"
+            }
+        }
+    ],
+    "name": "Chicken Bruschetta Pasta Salad",
+    "source": {
+        "sourceDisplayName": "Cafe Delites",
+        "sourceSiteUrl": "cafedelites.com",
+        "sourceRecipeUrl": "https://cafedelites.com/chicken-bruschetta-pasta-salad/"
+    },
+    "prepTime": "5 Min",
+    "id": "Chicken-Bruschetta-Pasta-Salad-2357295",
+    "ingredientLines": [
+        "1/2 cup boiled pasta, drained (60g dry weight)",
+        "1/2 red onion, finely chopped",
+        "1 tomato, finely chopped",
+        "Fresh basil leaves, finely chopped",
+        "1 small chicken breast, (135g), pre-grilled and seasoned with <a href=\"http://www.amazon.com/gp/product/B00KACQMCS/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00KACQMCS&linkCode=as2&tag=cafedeli-20&linkId=46MIA3SNQHDQUHCH\">Flavor God Everything Seasoning</a><img src=\"https://ir-na.amazon-adsystem.com/e/ir?t=cafedeli-20&l=as2&o=1&a=B00KACQMCS\" width=\"1\" height=\"1\" border=\"0\" alt=\"\" style=\"border:none !important; margin:0px !important;\" /> (or any garlic powder or seasoning of choice)",
+        "1 small chicken breast, (135g), pre-grilled and seasoned with <a href=\"http://www.amazon.com/gp/product/B00KACQMCS/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00KACQMCS&linkCode=as2&tag=cafedeli-20&linkId=46MIA3SNQHDQUHCH\">Flavor God Everything Seasoning</a><img src=\"https://ir-na.amazon-adsystem.com/e/ir?t=cafedeli-20&l=as2&o=1&a=B00KACQMCS\" width=\"1\" height=\"1\" border=\"0\" alt=\"\" style=\"border:none !important; margin:0px !important;\" /> (or any garlic powder or seasoning of choice)",
+        "1 teaspoon garlic olive oil",
+        "Drizzle of balsamic glaze"
+    ],
+    "cookTime": "10 Min",
+    "attribution": {
+        "html": "<a href='http://www.yummly.co/recipe/Chicken-Bruschetta-Pasta-Salad-2357295'>Chicken Bruschetta Pasta Salad recipe</a> information powered by <img alt='Yummly' src='https://static.yummly.co/api-logo.png'/>",
+        "url": "http://www.yummly.co/recipe/Chicken-Bruschetta-Pasta-Salad-2357295",
+        "text": "Chicken Bruschetta Pasta Salad recipes: information powered by Yummly",
+        "logo": "https://static.yummly.co/api-logo.png"
+    },
+    "numberOfServings": 1,
+    "totalTimeInSeconds": 900,
+    "attributes": {
+        "course": [
+            "Lunch",
+            "Salads"
+        ]
+    },
+    "cookTimeInSeconds": 600,
+    "flavors": {},
+    "rating": 4
+}

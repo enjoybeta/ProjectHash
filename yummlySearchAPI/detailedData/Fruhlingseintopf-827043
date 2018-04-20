@@ -1,0 +1,45 @@
+{
+    "yield": "Zutaten f\u00fcr 4 Personen:",
+    "nutritionEstimates": [],
+    "totalTime": "35 min",
+    "images": [
+        {
+            "hostedSmallUrl": "http://lh3.googleusercontent.com/rz8u7-37i1i1wXGVG9EHHKq5UxBVsW81gBKdnYv3vq9f0xenQXkufUTv8cfcOyVK2kGiCE0Po05798ZX_ZEl=s90",
+            "hostedMediumUrl": "http://lh3.googleusercontent.com/rz8u7-37i1i1wXGVG9EHHKq5UxBVsW81gBKdnYv3vq9f0xenQXkufUTv8cfcOyVK2kGiCE0Po05798ZX_ZEl=s180",
+            "hostedLargeUrl": "http://lh3.googleusercontent.com/rz8u7-37i1i1wXGVG9EHHKq5UxBVsW81gBKdnYv3vq9f0xenQXkufUTv8cfcOyVK2kGiCE0Po05798ZX_ZEl=s360",
+            "imageUrlsBySize": {
+                "90": "http://lh3.googleusercontent.com/A-VQ2OtpwvcXRq4YziVJhiokIfrhsBUB4Z68gujLvc1QEGyFx95B0kVikATn9j_jFN9kq_KszARlvj9-VP0w7w=s90-c",
+                "360": "http://lh3.googleusercontent.com/A-VQ2OtpwvcXRq4YziVJhiokIfrhsBUB4Z68gujLvc1QEGyFx95B0kVikATn9j_jFN9kq_KszARlvj9-VP0w7w=s360-c"
+            }
+        }
+    ],
+    "name": "Fru\u0308hlingseintopf",
+    "source": {
+        "sourceDisplayName": "Lecker",
+        "sourceSiteUrl": "lecker.de",
+        "sourceRecipeUrl": "http://www.lecker.de/rezept/777925/Fruehlingseintopf.html"
+    },
+    "id": "Fruhlingseintopf-827043",
+    "ingredientLines": [
+        "2 H\u00e4hnchenbr\u00fcste (mit Haut, auf Knochen; \u00e0 ca. 350 g)",
+        "1 l klare H\u00fchnerbouillon (Instant)",
+        "400 g M\u00f6hren",
+        "2 Kohlrabi (\u00e0 ca. 200 g)",
+        "150 g tiefgefrorene Erbsen",
+        "je 2 Stiele Petersilie und Kerbel",
+        "Salz",
+        "Pfeffer",
+        "4 TL Cr\u00e8me fra\u00eeche"
+    ],
+    "attribution": {
+        "html": "<a href='http://www.yummly.co/recipe/Fruhlingseintopf-827043'>Fru\u0308hlingseintopf recipe</a> information powered by <img alt='Yummly' src='https://static.yummly.co/api-logo.png'/>",
+        "url": "http://www.yummly.co/recipe/Fruhlingseintopf-827043",
+        "text": "Fru\u0308hlingseintopf recipes: information powered by Yummly",
+        "logo": "https://static.yummly.co/api-logo.png"
+    },
+    "numberOfServings": 4,
+    "totalTimeInSeconds": 2100,
+    "attributes": {},
+    "flavors": {},
+    "rating": 3
+}

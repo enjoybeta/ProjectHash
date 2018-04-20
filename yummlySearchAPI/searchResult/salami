@@ -1,0 +1,372 @@
+{
+    "criteria": {
+        "q": "S+a+l+a+m+i",
+        "allowedIngredient": null,
+        "excludedIngredient": null
+    },
+    "matches": [
+        {
+            "imageUrlsBySize": {
+                "90": "https://lh3.googleusercontent.com/NYiqbItU_wPggBTXQ5Z1k9Xo-JDKfjVrCyqGoBrDWFyTJ6OE-gR95eVDHKxe2T2e3dPcxIHvbRB7g7gMMZ_g5Q=s90-c"
+            },
+            "sourceDisplayName": "Southern Bite",
+            "ingredients": [
+                "cooked chicken",
+                "instant rice",
+                "cream of chicken soup",
+                "sour cream",
+                "diced onions",
+                "diced tomatoes and green chilies",
+                "chicken broth",
+                "fajita seasoning mix",
+                "Mexican cheese blend"
+            ],
+            "id": "Fajita-Chicken-Casserole---Advantium-240-Wall-Oven-Version-2223892",
+            "smallImageUrls": [
+                "https://lh3.googleusercontent.com/YzmEtbtjEmATC_WIWe37Did14KJWg6xVL17gLCL8bSuNhQATGQjpRmK0f6SoR3Ew1VIrDwQI6SGGm2ikhQPe=s90"
+            ],
+            "recipeName": "Fajita Chicken Casserole - Advantium 240 Wall Oven Version",
+            "totalTimeInSeconds": 1500,
+            "attributes": {
+                "course": [
+                    "Main Dishes"
+                ]
+            },
+            "flavors": {
+                "piquant": 0.16666666666666666,
+                "meaty": 0.3333333333333333,
+                "bitter": 0.5,
+                "sweet": 0.16666666666666666,
+                "sour": 0.16666666666666666,
+                "salty": 0.6666666666666666
+            },
+            "rating": 4
+        },
+        {
+            "imageUrlsBySize": {
+                "90": "https://lh3.googleusercontent.com/LjUe16W9WI3mQp6bQpJWQWamuaX5nbTD-fbwqJzZbw5tK-YPUZF6mhNA1LaCaGZDIsHG00XUqZbUy6UCAmZjnQ=s90-c"
+            },
+            "sourceDisplayName": "The Spruce",
+            "ingredients": [
+                "potatoes",
+                "salt",
+                "whole milk",
+                "butter",
+                "freshly ground black pepper"
+            ],
+            "id": "The-Ultimate-Mashed-Potatoes-2216530",
+            "smallImageUrls": [
+                "https://lh3.googleusercontent.com/YlNPnyBELWCpma7ziMTO7jgSdSmwhzxylL1Er785P1QsOuKufEQXy0fsdoWpCszMJumxSrAhjXewJm5_G52YNg=s90"
+            ],
+            "recipeName": "The Ultimate Mashed Potatoes",
+            "totalTimeInSeconds": 2400,
+            "attributes": {
+                "course": [
+                    "Side Dishes"
+                ]
+            },
+            "flavors": {
+                "bitter": 1.0,
+                "meaty": 1.0,
+                "piquant": 0.0,
+                "salty": 1.0,
+                "sour": 1.0,
+                "sweet": 1.0
+            },
+            "rating": 4
+        },
+        {
+            "imageUrlsBySize": {
+                "90": "https://lh3.googleusercontent.com/Y4IgE5En7wx_Ar9CePqD_emQMvGKC5ZKGjiRm3nk1h1o6N5IxIMU-igcSyJ3TXo3wFHph_JTDXALQ2N1atW4=s90-c"
+            },
+            "sourceDisplayName": "The Homemade Haus",
+            "ingredients": [
+                "red wine",
+                "port",
+                "brandy",
+                "cinnamon sticks",
+                "cardamom pods",
+                "clove",
+                "orange",
+                "raisins",
+                "blanched almonds",
+                "fresh ginger",
+                "light brown sugar",
+                "orange slices"
+            ],
+            "id": "Glogg-1436431",
+            "smallImageUrls": [
+                "https://lh3.googleusercontent.com/9Nr6B3CpxnuZbLawx9OfTlA-GmBd8LE2Qrj28-iS0SvLkcoACnga8262_zxNBK-ixfJ2icLWzPVkGRsHapPVY7Y=s90"
+            ],
+            "recipeName": "Glogg",
+            "totalTimeInSeconds": 3600,
+            "attributes": {
+                "course": [
+                    "Beverages",
+                    "Cocktails"
+                ],
+                "holiday": [
+                    "Christmas"
+                ]
+            },
+            "flavors": null,
+            "rating": 4
+        },
+        {
+            "imageUrlsBySize": {
+                "90": "https://lh3.googleusercontent.com/op3yRIUjBZxqrIcL38O_j8hxF9kkX2TSLb-3SKDuPTXKOndALC-PYOa4cPd9SiAGxY4LNp19MuN2-CScbh8H=s90-c"
+            },
+            "sourceDisplayName": "Older Mommy, Still Yummy",
+            "ingredients": [
+                "kiwi",
+                "honeydew melon",
+                "baby kale",
+                "bananas",
+                "milk",
+                "chia seeds",
+                "raspberries",
+                "pumpkin seeds",
+                "shredded coconut"
+            ],
+            "id": "Green-Goodness-Smoothie-Bowl-1478662",
+            "smallImageUrls": [
+                "https://lh3.googleusercontent.com/-4gph0RJ4aHdbp_uZLJcNyrBZ1__J3oTV2j5bM2LUUDr-zZ3AtbBHp4QFgUR668t79Sf2HhtExMZlHqMLzUAbg=s90"
+            ],
+            "recipeName": "Green Goodness Smoothie Bowl",
+            "totalTimeInSeconds": 900,
+            "attributes": {
+                "course": [
+                    "Beverages"
+                ]
+            },
+            "flavors": {
+                "sweet": 0.5,
+                "piquant": 0.0,
+                "sour": 0.8333333333333334,
+                "salty": 0.16666666666666666,
+                "meaty": 0.16666666666666666,
+                "bitter": 0.16666666666666666
+            },
+            "rating": 4
+        },
+        {
+            "imageUrlsBySize": {
+                "90": "https://lh3.googleusercontent.com/dcLjzS5pLtoT2TpMluLG966TrxD40g4YwLQ7EZWQV4AOfs16g6nXDM7qK7iMTdnE8F7RDS_hAf2Q5qD06d1SdA=s90-c"
+            },
+            "sourceDisplayName": "Bake Eat Repeat-Jessica",
+            "ingredients": [
+                "all-purpose flour",
+                "salt",
+                "instant yeast",
+                "olive oil",
+                "water"
+            ],
+            "id": "Perfect-Thin-Crust-Pizza-Dough-2401784",
+            "smallImageUrls": [
+                "https://lh3.googleusercontent.com/6kko6U_wq4U1GJv0tczQk--iegQOXh9KnbDeT3vnIJBb_1flUY877mZUxyLdyQ9oC8sbpFywlQthfyNb3Bv7=s90"
+            ],
+            "recipeName": "Perfect Thin Crust Pizza Dough",
+            "totalTimeInSeconds": 2280,
+            "attributes": {
+                "course": [
+                    "Breads",
+                    "Main Dishes"
+                ]
+            },
+            "flavors": {
+                "piquant": 0.0,
+                "meaty": 0.16666666666666666,
+                "bitter": 0.16666666666666666,
+                "sweet": 0.0,
+                "sour": 0.16666666666666666,
+                "salty": 0.8333333333333334
+            },
+            "rating": 4
+        },
+        {
+            "imageUrlsBySize": {
+                "90": "https://lh3.googleusercontent.com/L7KKzG_qi83_y7jhDDeBz-nSR7ILnAqRQIvs5MJF2Q-UJMGzr-jXYhQaFArRPd8Y6Htg5wrjFUWbHUW2DBApEA=s90-c"
+            },
+            "sourceDisplayName": "Sweet Peas and Saffron",
+            "ingredients": [
+                "brown rice",
+                "salt",
+                "lime",
+                "lean ground turkey",
+                "taco seasoning",
+                "cherry tomatoes",
+                "jalapeno chilies",
+                "red onion",
+                "corn kernels",
+                "shredded cheese"
+            ],
+            "id": "Turkey-Taco-Lunch-Bowls-_Meal-Prep_-2194260",
+            "smallImageUrls": [
+                "https://lh3.googleusercontent.com/Vs6j7MbJHq_8VoZcXrvAY-xVCaWqahcVTWTPpf0DH4velmszyDWKKaWQlxBEWP9BRX43TtotZrXUcxcLKxUCcKY=s90"
+            ],
+            "recipeName": "Turkey Taco Lunch Bowls (Meal Prep)",
+            "totalTimeInSeconds": 1800,
+            "attributes": {
+                "course": [
+                    "Main Dishes",
+                    "Lunch"
+                ]
+            },
+            "flavors": {
+                "piquant": 0.6666666666666666,
+                "meaty": 0.16666666666666666,
+                "bitter": 0.8333333333333334,
+                "sweet": 0.16666666666666666,
+                "sour": 0.5,
+                "salty": 0.8333333333333334
+            },
+            "rating": 4
+        },
+        {
+            "imageUrlsBySize": {
+                "90": "https://lh3.googleusercontent.com/eybSW5yOVht8PYHJzuzl8vBJ3_DHulQGIKqNotU7HvUfhMD7uHyB1tlAXvNY0RgnMpZgNMzpxuKviHO61uQ6ow=s90-c"
+            },
+            "sourceDisplayName": "Sweet C's Designs",
+            "ingredients": [
+                "flour",
+                "luke warm water",
+                "salt",
+                "active dry yeast",
+                "jalapeno chilies",
+                "sharp cheddar cheese"
+            ],
+            "id": "Easy-Jalapeno-Cheddar-Bread-2178791",
+            "smallImageUrls": [
+                "https://lh3.googleusercontent.com/tFHyZu1iOrjn_Mg_lsT61dWhWqYaveFmx_k_SxDkWLx3kvQC_nV79jRDcPVDSnNBszw1HiYg6VvwdVYp0JdT=s90"
+            ],
+            "recipeName": "Easy Jalapeno Cheddar Bread",
+            "totalTimeInSeconds": 10800,
+            "attributes": {
+                "course": [
+                    "Breads"
+                ]
+            },
+            "flavors": null,
+            "rating": 4
+        },
+        {
+            "imageUrlsBySize": {
+                "90": "https://lh3.googleusercontent.com/0toJYybLQOX8zCNaNCl6EWDIx9ciO6PokCR5vnAao6nUN-Q_mMEhfGKi-O_oGeHTN5BVe86_6wohdwykP3jwwYw=s90-c"
+            },
+            "sourceDisplayName": "Sprouted Fig",
+            "ingredients": [
+                "avocado",
+                "coconut sugar",
+                "eggs",
+                "dark chocolate cocoa powder",
+                "chocolate chunks",
+                "baking soda"
+            ],
+            "id": "Healthy-Avocado-Chocolate-Cookies-1353727",
+            "smallImageUrls": [
+                "https://lh3.googleusercontent.com/l3FxHmURWQjIoh0moFw5-yH4ebnzOnlQ0FIB4aGF2Ce5Hv3hyuzs1Civ9KlJ0GpwXm2TsNqx-gjDha5zQv4FDg=s90"
+            ],
+            "recipeName": "Healthy Avocado Chocolate Cookies",
+            "totalTimeInSeconds": 780,
+            "attributes": {
+                "course": [
+                    "Desserts"
+                ]
+            },
+            "flavors": {
+                "piquant": 0.0,
+                "meaty": 0.5,
+                "bitter": 0.8333333333333334,
+                "sweet": 0.8333333333333334,
+                "sour": 0.16666666666666666,
+                "salty": 0.5
+            },
+            "rating": 4
+        },
+        {
+            "imageUrlsBySize": {
+                "90": "http://lh4.ggpht.com/ribjBHFf3xceZLrfVImQYh05mP8OckU9xhIHxd9jCyjndVvzKSPZK_CMRDSJrfR3HIYIUOg_5oe9wRqWyRcj=s90-c"
+            },
+            "sourceDisplayName": "How Sweet It Is",
+            "ingredients": [
+                "dry ros\u00e9 wine",
+                "water",
+                "sugar",
+                "fresh mint"
+            ],
+            "id": "Rose-Sorbet-1021214",
+            "smallImageUrls": [
+                "http://lh4.ggpht.com/oIpUo39U5MM4PM4IJ0HXkn-L_H1Pl2_NR0KaeKpDm71RV-6VPXvqbRIlXW5YjVpUle8-insHo8GxrM1SIPDBhfk=s90"
+            ],
+            "recipeName": "Rose\u0301 Sorbet",
+            "totalTimeInSeconds": 28800,
+            "attributes": {
+                "course": [
+                    "Desserts"
+                ]
+            },
+            "flavors": null,
+            "rating": 3
+        },
+        {
+            "imageUrlsBySize": {
+                "90": "https://lh3.googleusercontent.com/mf1vdebaLpjdgOktMtfvjDtz4F2nPrrViUKV0CTg4mvcIdlOSxKQ9zgGLl_ckNp7VXfj2aDCFSQzQs5gd2dP=s90-c"
+            },
+            "sourceDisplayName": "The Healthy Foodie",
+            "ingredients": [
+                "boneless skinless chicken breasts",
+                "plain greek yogurt",
+                "garlic cloves",
+                "fresh lime juice",
+                "fresh ginger",
+                "garam masala",
+                "ground coriander",
+                "salt",
+                "sweet paprika",
+                "ground cumin",
+                "ground cinnamon",
+                "ground cardamom",
+                "ground nutmeg",
+                "cayenne pepper",
+                "ground white pepper",
+                "ghee",
+                "onions",
+                "crushed tomatoes",
+                "water",
+                "heavy cream",
+                "chopped fresh cilantro"
+            ],
+            "id": "Chicken-Tikka-Masala-2046753",
+            "smallImageUrls": [
+                "https://lh3.googleusercontent.com/TD0BCS8vbAWNT2n0Vs0jUTHfUi0E12hqhjXcojTuDV1JWQCtVPKGz6JWzngPfgh24jSHMFbIOop1n7gz9dy1qA=s90"
+            ],
+            "recipeName": "Chicken Tikka Masala",
+            "totalTimeInSeconds": 6300,
+            "attributes": {
+                "course": [
+                    "Main Dishes"
+                ],
+                "cuisine": [
+                    "Indian"
+                ]
+            },
+            "flavors": {
+                "piquant": 0.5,
+                "meaty": 0.16666666666666666,
+                "bitter": 0.16666666666666666,
+                "sweet": 0.16666666666666666,
+                "sour": 0.3333333333333333,
+                "salty": 0.5
+            },
+            "rating": 4
+        }
+    ],
+    "facetCounts": {},
+    "totalMatchCount": 1310,
+    "attribution": {
+        "html": "Recipe search powered by <a href='http://www.yummly.co/recipes'><img alt='Yummly' src='https://static.yummly.co/api-logo.png'/></a>",
+        "url": "http://www.yummly.co/recipes/",
+        "text": "Recipe search powered by Yummly",
+        "logo": "https://static.yummly.co/api-logo.png"
+    }
+}

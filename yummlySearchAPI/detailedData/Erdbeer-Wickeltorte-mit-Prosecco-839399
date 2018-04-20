@@ -1,0 +1,60 @@
+{
+    "yield": "Zutaten f\u00fcr 16 St\u00fccke:",
+    "nutritionEstimates": [],
+    "totalTime": "1 hr 30 min",
+    "images": [
+        {
+            "hostedSmallUrl": "http://lh3.googleusercontent.com/KcUda1y1eTvmXJd2dx3Xh2CUfzl75gDqehz_qbwwkHUxPQ9WAikOlX6y60fIWFjFvcg1XrO_mHA1m3PtRI1XBw=s90",
+            "hostedMediumUrl": "http://lh3.googleusercontent.com/KcUda1y1eTvmXJd2dx3Xh2CUfzl75gDqehz_qbwwkHUxPQ9WAikOlX6y60fIWFjFvcg1XrO_mHA1m3PtRI1XBw=s180",
+            "hostedLargeUrl": "http://lh3.googleusercontent.com/KcUda1y1eTvmXJd2dx3Xh2CUfzl75gDqehz_qbwwkHUxPQ9WAikOlX6y60fIWFjFvcg1XrO_mHA1m3PtRI1XBw=s360",
+            "imageUrlsBySize": {
+                "90": "http://lh3.googleusercontent.com/ee9Z0WAXtKDWAA289BNT2cz8CMnJgxvVx5awuWFYDoTNqeQZHHN5CLgMjFR3l00CsEzIKgD83soHj7nead6D=s90-c",
+                "360": "http://lh3.googleusercontent.com/ee9Z0WAXtKDWAA289BNT2cz8CMnJgxvVx5awuWFYDoTNqeQZHHN5CLgMjFR3l00CsEzIKgD83soHj7nead6D=s360-c"
+            }
+        }
+    ],
+    "name": "Erdbeer-Wickeltorte mit Prosecco",
+    "source": {
+        "sourceDisplayName": "Lecker",
+        "sourceSiteUrl": "lecker.de",
+        "sourceRecipeUrl": "http://www.lecker.de/rezept/1663348/Erdbeer-Wickeltorte-mit-Prosecco.html"
+    },
+    "id": "Erdbeer-Wickeltorte-mit-Prosecco-839399",
+    "ingredientLines": [
+        "225 g Mehl",
+        "50 g Puderzucker",
+        "75 g Butter",
+        "1 Eigelb (Gr\u00f6\u00dfe M)",
+        "3 Eier (Gr\u00f6\u00dfe M)",
+        "225 g Zucker",
+        "40 g Speisest\u00e4rke",
+        "1 TL Backpulver",
+        "100 g Mandelbl\u00e4ttchen",
+        "8 Blatt Gelatine",
+        "ca. 1 kg Erdbeeren",
+        "300 g Doppelrahm-Frischk\u00e4se",
+        "200 g Magerquark",
+        "1\u20132 EL Zitronensaft",
+        "2 P\u00e4ckchen Vanillin-Zucker",
+        "125 ml Prosecco",
+        "400 g Schlagsahne",
+        "ca. 250 g Erdbeer-Konfit\u00fcre",
+        "Zucker f\u00fcr das Geschirrtuch",
+        "Mehl f\u00fcr die Arbeitsfl\u00e4che"
+    ],
+    "attribution": {
+        "html": "<a href='http://www.yummly.co/recipe/Erdbeer-Wickeltorte-mit-Prosecco-839399'>Erdbeer-Wickeltorte mit Prosecco recipe</a> information powered by <img alt='Yummly' src='https://static.yummly.co/api-logo.png'/>",
+        "url": "http://www.yummly.co/recipe/Erdbeer-Wickeltorte-mit-Prosecco-839399",
+        "text": "Erdbeer-Wickeltorte mit Prosecco recipes: information powered by Yummly",
+        "logo": "https://static.yummly.co/api-logo.png"
+    },
+    "numberOfServings": 16,
+    "totalTimeInSeconds": 5400,
+    "attributes": {
+        "course": [
+            "Desserts"
+        ]
+    },
+    "flavors": {},
+    "rating": 3
+}

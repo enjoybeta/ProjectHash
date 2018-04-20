@@ -1,0 +1,48 @@
+{
+    "yield": "Zutaten f\u00fcr 8\u201310 Portionen:",
+    "nutritionEstimates": [],
+    "totalTime": "30 min",
+    "images": [
+        {
+            "hostedSmallUrl": "http://lh3.googleusercontent.com/Ll-fIsHzIJyciiwC4yu1IVYcXtVs-0ER1O2iIOXCvl2unCzHQw2zZmkTEDGKz_gZ7xfyPfvzmf0L5iRuVZqG6A=s90",
+            "hostedMediumUrl": "http://lh3.googleusercontent.com/Ll-fIsHzIJyciiwC4yu1IVYcXtVs-0ER1O2iIOXCvl2unCzHQw2zZmkTEDGKz_gZ7xfyPfvzmf0L5iRuVZqG6A=s180",
+            "hostedLargeUrl": "http://lh3.googleusercontent.com/Ll-fIsHzIJyciiwC4yu1IVYcXtVs-0ER1O2iIOXCvl2unCzHQw2zZmkTEDGKz_gZ7xfyPfvzmf0L5iRuVZqG6A=s360",
+            "imageUrlsBySize": {
+                "90": "http://lh3.googleusercontent.com/PbwdzChxDenNYX11L1DWHMzZDIg3IpNPLhh3_WY29RfUg6vc5RWBbcyiJrz-e9rGc82ep_6-gQHItK_bl8V6=s90-c",
+                "360": "http://lh3.googleusercontent.com/PbwdzChxDenNYX11L1DWHMzZDIg3IpNPLhh3_WY29RfUg6vc5RWBbcyiJrz-e9rGc82ep_6-gQHItK_bl8V6=s360-c"
+            }
+        }
+    ],
+    "name": "Selbstgemachtes Vanille- und Schoko-Quark-Eis",
+    "source": {
+        "sourceDisplayName": "Lecker",
+        "sourceSiteUrl": "lecker.de",
+        "sourceRecipeUrl": "http://www.lecker.de/rezept/1731242/Selbstgemachtes-Vanille-und-Schoko-Quark-Eis.html"
+    },
+    "id": "Selbstgemachtes-Vanille--und-Schoko-Quark-Eis-842555",
+    "ingredientLines": [
+        "500 g Schlagsahne",
+        "500 g Sahnequark (40 % Fett i. T.)",
+        "150 g Cr\u00e8me fra\u00eeche",
+        "50 g + 1 EL Zucker",
+        "3 P\u00e4ckchen Vanillin-Zucker",
+        "1 Beutel (150 g) Kuvert\u00fcre Fix, Vollmilch",
+        "evtl. bunte Schokolinsen zum Bestreuen",
+        "evtl. Eiswaffeln"
+    ],
+    "attribution": {
+        "html": "<a href='http://www.yummly.co/recipe/Selbstgemachtes-Vanille--und-Schoko-Quark-Eis-842555'>Selbstgemachtes Vanille- und Schoko-Quark-Eis recipe</a> information powered by <img alt='Yummly' src='https://static.yummly.co/api-logo.png'/>",
+        "url": "http://www.yummly.co/recipe/Selbstgemachtes-Vanille--und-Schoko-Quark-Eis-842555",
+        "text": "Selbstgemachtes Vanille- und Schoko-Quark-Eis recipes: information powered by Yummly",
+        "logo": "https://static.yummly.co/api-logo.png"
+    },
+    "numberOfServings": 8,
+    "totalTimeInSeconds": 1800,
+    "attributes": {
+        "course": [
+            "Desserts"
+        ]
+    },
+    "flavors": {},
+    "rating": 3
+}

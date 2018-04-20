@@ -1,0 +1,52 @@
+{
+    "nutritionEstimates": [],
+    "totalTime": "45 min",
+    "images": [
+        {
+            "hostedSmallUrl": "http://lh3.googleusercontent.com/v2WR2mbpcXMySYBKP70d1SFtrEa07JCcF6LvVf-0Y_FZYKimN7o71xFkNaIU3mjJ1Pf_tDCDIwZfxXyI2rkkLyY=s90",
+            "hostedMediumUrl": "http://lh3.googleusercontent.com/v2WR2mbpcXMySYBKP70d1SFtrEa07JCcF6LvVf-0Y_FZYKimN7o71xFkNaIU3mjJ1Pf_tDCDIwZfxXyI2rkkLyY=s180",
+            "hostedLargeUrl": "http://lh3.googleusercontent.com/v2WR2mbpcXMySYBKP70d1SFtrEa07JCcF6LvVf-0Y_FZYKimN7o71xFkNaIU3mjJ1Pf_tDCDIwZfxXyI2rkkLyY=s360",
+            "imageUrlsBySize": {
+                "90": "http://lh3.googleusercontent.com/FDUiKA2y9xzCGzeFwYxMrLwlDKlWyIJ9xKO09TDl-BA17A3aBAc17_kWLXf_MIZn3ROnYe3nmag9qO9CRaZg=s90-c",
+                "360": "http://lh3.googleusercontent.com/FDUiKA2y9xzCGzeFwYxMrLwlDKlWyIJ9xKO09TDl-BA17A3aBAc17_kWLXf_MIZn3ROnYe3nmag9qO9CRaZg=s360-c"
+            }
+        }
+    ],
+    "name": "Healthy Fish & Chips Recipe \u2013 #FitTeam14 October",
+    "source": {
+        "sourceDisplayName": "Nic's Nutrition",
+        "sourceSiteUrl": "nicsnutrition.com",
+        "sourceRecipeUrl": "http://nicsnutrition.com/recipe/healthy-fish-chip-recipe/"
+    },
+    "id": "Healthy-Fish-_-Chips-Recipe-_FitTeam14-October-1087639",
+    "ingredientLines": [
+        "2 medium sweet potatoes",
+        "2 skinless & boneless white fish fillets*",
+        "4 tbsp flour**",
+        "1 egg & a splash of milk",
+        "2 handfuls of porridge oats",
+        "black pepper & seasonings***",
+        "frozen peas",
+        "Optional: Tomato Ketchup****",
+        "Spray oil/cooking oil****",
+        "Ingredients: Fish, Oats, Vegetables",
+        "Ingredients: Fish, Oats, Vegetables",
+        "Ingredients: Fish, Oats, Vegetables"
+    ],
+    "attribution": {
+        "html": "<a href='http://www.yummly.co/recipe/Healthy-Fish-_-Chips-Recipe-_FitTeam14-October-1087639'>Healthy Fish &amp; Chips Recipe &ndash; #FitTeam14 October recipe</a> information powered by <img alt='Yummly' src='https://static.yummly.co/api-logo.png'/>",
+        "url": "http://www.yummly.co/recipe/Healthy-Fish-_-Chips-Recipe-_FitTeam14-October-1087639",
+        "text": "Healthy Fish &amp; Chips Recipe &ndash; #FitTeam14 October recipes: information powered by Yummly",
+        "logo": "https://static.yummly.co/api-logo.png"
+    },
+    "numberOfServings": 4,
+    "totalTimeInSeconds": 2700,
+    "attributes": {
+        "course": [
+            "Main Dishes",
+            "Lunch"
+        ]
+    },
+    "flavors": {},
+    "rating": 4
+}

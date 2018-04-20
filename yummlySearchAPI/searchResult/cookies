@@ -1,0 +1,354 @@
+{
+    "criteria": {
+        "q": "c+o+o+k+i+e+s",
+        "allowedIngredient": null,
+        "excludedIngredient": null
+    },
+    "matches": [
+        {
+            "imageUrlsBySize": {
+                "90": "http://lh3.googleusercontent.com/-eMQ11NXU0d2W2P9F1kQiYen444kFCLNeMkjL1NbMVwE7r29Bt3smkzS35ILMAHPaSoCI22NYBPKR7A518JojQ=s90-c"
+            },
+            "sourceDisplayName": "Lecker",
+            "ingredients": [
+                "Mehl",
+                "Butter",
+                "Salz",
+                "Zitrone",
+                "Ei",
+                "Zucker",
+                "Speisest\u00e4rke",
+                "Eigelb",
+                "Zitronenscheibe",
+                "Fett",
+                "Trockenerbsen"
+            ],
+            "id": "Key-Lime-Pie-827304",
+            "smallImageUrls": [
+                "http://lh3.googleusercontent.com/MjsmdFKJG3W3q-RGPSmXzEbGdc9rbsjLk80pa8KkEbn3Cf6B5L60lTlVdGftryV-TdIlDIAFazk1U2Txv8Ge=s90"
+            ],
+            "recipeName": "Key-Lime-Pie",
+            "totalTimeInSeconds": 3600,
+            "attributes": {
+                "course": [
+                    "Desserts"
+                ]
+            },
+            "flavors": {
+                "sweet": 0.8333333333333334,
+                "piquant": 0.0,
+                "sour": 0.8333333333333334,
+                "salty": 0.16666666666666666,
+                "meaty": 0.16666666666666666,
+                "bitter": 0.16666666666666666
+            },
+            "rating": 3
+        },
+        {
+            "imageUrlsBySize": {
+                "90": "http://lh3.googleusercontent.com/-6iOWm7KBEeXV0qzQ-YnfEzgma3AMZxzNPx1dOttV7I-e0704wzQ2Bu32EVLttyKcotvUt7cv5em2PgbOAWgiA=s90-c"
+            },
+            "sourceDisplayName": "Lecker",
+            "ingredients": [
+                "Rhabarber",
+                "Johannisbeersaft",
+                "Zucker",
+                "Saucenpulver",
+                "Mehl",
+                "Trockenhefe",
+                "Salz",
+                "Butter",
+                "Ei",
+                "Milch",
+                "Eigelb",
+                "Schlabgobers",
+                "pudding",
+                "Mandelbl\u00e4tter",
+                "Pistazie"
+            ],
+            "id": "Kopenhagener-mit-Vanillepudding-und-Rhabarber-926667",
+            "smallImageUrls": [
+                "http://lh3.googleusercontent.com/TQQIiGcBiZ-xQkJ2RsWDt8ukz9YTaZBkaIjl3z9XB-TKktUDbXPyTQE3Osgvj7Hyh3G5uVisxi1gDuiqAE6B=s90"
+            ],
+            "recipeName": "Kopenhagener mit Vanillepudding und Rhabarber",
+            "totalTimeInSeconds": 6300,
+            "attributes": {
+                "course": [
+                    "Desserts"
+                ]
+            },
+            "flavors": null,
+            "rating": 3
+        },
+        {
+            "imageUrlsBySize": {
+                "90": "http://lh3.googleusercontent.com/rz5Nil0AOQ4yzCc3ePA-red1SQN0EQ-8Y5V5Vel2Wiwe1ZYdc73teqoPm6qGNGak-Ir_gTbsL52bglfI6sA_=s90-c"
+            },
+            "sourceDisplayName": "Lecker",
+            "ingredients": [
+                "weiche Butter",
+                "Puderzucker",
+                "Eigelb",
+                "matcha",
+                "Mehl",
+                "Salz",
+                "Demerarazucker"
+            ],
+            "id": "Matcha-Tea-Cookies-835701",
+            "smallImageUrls": [
+                "http://lh3.googleusercontent.com/VYglElYcCZ6eeEGAJ89KZc8tVW1z7Vygdu6imGZ8qXhlbgurwbO5yEezoFNt2XTtsEbpVraASFWGtcInUPRabw=s90"
+            ],
+            "recipeName": "Matcha-Tea-Cookies",
+            "totalTimeInSeconds": 3000,
+            "attributes": {
+                "course": [
+                    "Desserts"
+                ]
+            },
+            "flavors": {
+                "sweet": 0.6666666666666666,
+                "piquant": 0.0,
+                "sour": 0.16666666666666666,
+                "salty": 0.5,
+                "meaty": 0.8333333333333334,
+                "bitter": 0.16666666666666666
+            },
+            "rating": 3
+        },
+        {
+            "imageUrlsBySize": {
+                "90": "http://lh3.googleusercontent.com/2PIvbaraQsS2_KMpp0VVz1wGBLb80LqSNTjgthI-KqVt0RHpx2TixGxreTH-bomZsyIXpTdDSEqyXWvOy_hKX6k=s90-c"
+            },
+            "sourceDisplayName": "Lecker",
+            "ingredients": [
+                "Butter",
+                "Zucker",
+                "Mehl",
+                "Eigelb",
+                "Ei",
+                "Salz",
+                "Zitrone",
+                "magerquark",
+                "Milch",
+                "semolina",
+                "Erdbeere",
+                "Tortenguss",
+                "Fett",
+                "H\u00fclsenfr\u00fcchte"
+            ],
+            "id": "Erdbeer-Kasekuchen-921074",
+            "smallImageUrls": [
+                "http://lh3.googleusercontent.com/GdptLpj8dgCibi9LsdeI92EMegP3MasA9HsUJr3I24u5u3kwPmNfw7Q_wOValw66j8q2l-0lj6h0SwBFAFfg3A=s90"
+            ],
+            "recipeName": "Erdbeer-Ka\u0308sekuchen",
+            "totalTimeInSeconds": 7200,
+            "attributes": {
+                "course": [
+                    "Desserts"
+                ]
+            },
+            "flavors": null,
+            "rating": 3
+        },
+        {
+            "imageUrlsBySize": {
+                "90": "http://lh3.googleusercontent.com/S09neo8JEHNYNxioCcVPGnzYuIqI1oHKZTYKAx5MWBS8z6SabmpSFYUvcAYfGv1_3MftMfADmbLhSGA-xs9GXgQ=s90-c"
+            },
+            "sourceDisplayName": "Lecker",
+            "ingredients": [
+                "Zucker",
+                "Apfelsine",
+                "Speisest\u00e4rke",
+                "Orangensaft",
+                "Ei",
+                "Eigelb"
+            ],
+            "id": "Karamellpudding-mit-Orangen-_Flan-con-Naranja_-840169",
+            "smallImageUrls": [
+                "http://lh3.googleusercontent.com/XyMxgB_BA0c2-WLU8OLVhnQKrykXq3ozj4Lwgg_Ykaw2euZl7UErYCFA-jpItMmJ-0DgcX8OI9JGpKIvmN7eVw=s90"
+            ],
+            "recipeName": "Karamellpudding mit Orangen (Flan con Naranja)",
+            "totalTimeInSeconds": 3600,
+            "attributes": {
+                "course": [
+                    "Desserts"
+                ]
+            },
+            "flavors": {
+                "sweet": 0.6666666666666666,
+                "piquant": 0.0,
+                "sour": 0.8333333333333334,
+                "salty": 0.16666666666666666,
+                "meaty": 0.16666666666666666,
+                "bitter": 0.16666666666666666
+            },
+            "rating": 3
+        },
+        {
+            "imageUrlsBySize": {
+                "90": "http://lh3.googleusercontent.com/kSZHS2b0LjyBmba7qgRDZseAzrX3CrONV6LaHkp_UgSnmj2E6PQW0SxV9dVw1qvL6apEABEQ6lm1QFJ49oP3zw=s90-c"
+            },
+            "sourceDisplayName": "Lecker",
+            "ingredients": [
+                "Puderzucker",
+                "weiche Butter",
+                "aroma",
+                "Mehl",
+                "Speisest\u00e4rke",
+                "Passionsfrucht"
+            ],
+            "id": "Melting-Moments-829058",
+            "smallImageUrls": [
+                "http://lh3.googleusercontent.com/_LasFD4yaTsOx72ZSlIHwz5NuQ_3KVEn9OXPFQfVnpu05c23ZevTH6nqtiS7pjDltbuHbEVLctr75-KzpaoGuQ=s90"
+            ],
+            "recipeName": "Melting Moments",
+            "totalTimeInSeconds": 3600,
+            "attributes": {
+                "course": [
+                    "Desserts"
+                ]
+            },
+            "flavors": null,
+            "rating": 3
+        },
+        {
+            "imageUrlsBySize": {
+                "90": "http://lh3.googleusercontent.com/g56k17ZAAV4Xv50MzSCN8HdTWqZvCn0HfN8Xixm4Vt4-UkKhXzcWTpw_bcbENRN20wlBEQKr11qIXWjPw0QJ=s90-c"
+            },
+            "sourceDisplayName": "Lecker",
+            "ingredients": [
+                "Mehl",
+                "Zucker",
+                "Kakaopulver",
+                "Butter",
+                "Eigelb",
+                "Salz",
+                "Schattenmorellen",
+                "Ei",
+                "Backpulver",
+                "Mandellk\u00f6r"
+            ],
+            "id": "Versunkener-Kirschkuchen-mit-Schokostreuseln-927436",
+            "smallImageUrls": [
+                "http://lh3.googleusercontent.com/UnQdOFWfUMPCHE5q-cvEq6rZJ5DXLlhPWfMWM1J5fOkqQ4eDkds_e7yB6uUj5PeTPSZc9gz0rEQWWjGaN13Ukg=s90"
+            ],
+            "recipeName": "Versunkener Kirschkuchen mit Schokostreuseln",
+            "totalTimeInSeconds": 5400,
+            "attributes": {
+                "course": [
+                    "Desserts"
+                ]
+            },
+            "flavors": null,
+            "rating": 3
+        },
+        {
+            "imageUrlsBySize": {
+                "90": "http://lh3.googleusercontent.com/Q-qRjVvCHHUuRLaqR68oHjl5VcOrEIwtC-n9dzpFm3PO5DK0KRbafxO0zl6M62vsgHFtQetdhYeQkB5CCYHmug=s90-c"
+            },
+            "sourceDisplayName": "Lecker",
+            "ingredients": [
+                "Mehl",
+                "Zucker",
+                "Salz",
+                "Eigelb",
+                "Butter",
+                "Ei",
+                "Konfit\u00fcre",
+                "Marille",
+                "Marillennektar",
+                "Speisest\u00e4rke",
+                "Schlabgobers",
+                "Bourbon-Vanillezucker",
+                "Puderzucker",
+                "Fett"
+            ],
+            "id": "Saint-Honore-Torte-mit-Aprikosenkompott-und-Vanillesahne-846748",
+            "smallImageUrls": [
+                "http://lh3.googleusercontent.com/teDamwlfJWmElWIlPK5JidhynQyPUGh9WzAYZE5v2DMHSQfViaaXHS3ZU01-odtddRvPzXJLzNJW9SGtJhTVHA=s90"
+            ],
+            "recipeName": "Saint Honore\u0301-Torte mit Aprikosenkompott und Vanillesahne",
+            "totalTimeInSeconds": 5400,
+            "attributes": {},
+            "flavors": {
+                "sweet": 0.8333333333333334,
+                "piquant": 0.0,
+                "sour": 0.5,
+                "salty": 0.16666666666666666,
+                "meaty": 0.16666666666666666,
+                "bitter": 0.16666666666666666
+            },
+            "rating": 3
+        },
+        {
+            "imageUrlsBySize": {
+                "90": "http://lh3.googleusercontent.com/0uuqDEggsWsuZ9UCkHObeTcfLCIxUXgB8aED7VgGD_a1Q2OgUYKjnAqmghEQdftyXa77y-PbfrqIrgMVLSzAXQ=s90-c"
+            },
+            "sourceDisplayName": "Lecker",
+            "ingredients": [
+                "Schokolade",
+                "Filoteig",
+                "Eigelb",
+                "Schlabgobers"
+            ],
+            "id": "Schokoladen-Croissants-830392",
+            "smallImageUrls": [
+                "http://lh3.googleusercontent.com/VYXKjD1icnR_1-6gEhJkucp4kkqQOhjoUDR-cJEMvFJH6KHFSnCkUZC1jQ9R_1fYHCyoN0icJwnNwtqkF0Miiw=s90"
+            ],
+            "recipeName": "Schokoladen-Croissants",
+            "totalTimeInSeconds": 1800,
+            "attributes": {
+                "course": [
+                    "Desserts"
+                ]
+            },
+            "flavors": null,
+            "rating": 3
+        },
+        {
+            "imageUrlsBySize": {
+                "90": "http://lh3.googleusercontent.com/OVI-oS7cr7unqyN94gc8qmZuCYnBABgASeGLAIXpR5wbp9ZlIMOSZ1mKmTj_1YBYNiasy0KKSfkNGSFf_ziPCQ0=s90-c"
+            },
+            "sourceDisplayName": "Lecker",
+            "ingredients": [
+                "Filoteig",
+                "Vanilleschote",
+                "Butter",
+                "Milch",
+                "Mehl",
+                "Zucker",
+                "Stangenzimt",
+                "Salz",
+                "Ei",
+                "Eigelb",
+                "Nektarinen",
+                "Demerarazucker",
+                "Fett"
+            ],
+            "id": "Tarte-de-Pastel-de-Nata-_Vanille-Tarte-mit-Nektarinen_-930043",
+            "smallImageUrls": [
+                "http://lh3.googleusercontent.com/Szipg_5KeQIpka1VJv7OJHMtEwN5iBnyAQGk_k6Nif6Cr-bBSX-NIat3dyaS_xk9boCHgn053blrX5-5OsKBZA=s90"
+            ],
+            "recipeName": "Tarte de Pastel de Nata (Vanille-Tarte mit Nektarinen)",
+            "totalTimeInSeconds": 3600,
+            "attributes": {},
+            "flavors": {
+                "sweet": 0.8333333333333334,
+                "piquant": 0.0,
+                "sour": 0.16666666666666666,
+                "salty": 0.16666666666666666,
+                "meaty": 0.16666666666666666,
+                "bitter": 0.16666666666666666
+            },
+            "rating": 3
+        }
+    ],
+    "facetCounts": {},
+    "totalMatchCount": 659,
+    "attribution": {
+        "html": "Recipe search powered by <a href='http://www.yummly.co/recipes'><img alt='Yummly' src='https://static.yummly.co/api-logo.png'/></a>",
+        "url": "http://www.yummly.co/recipes/",
+        "text": "Recipe search powered by Yummly",
+        "logo": "https://static.yummly.co/api-logo.png"
+    }
+}

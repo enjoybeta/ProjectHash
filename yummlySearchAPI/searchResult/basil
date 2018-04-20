@@ -208,7 +208,14 @@
             ],
             "recipeName": "B.L.A.T Salad with Taco Bacon! // I Ate That",
             "totalTimeInSeconds": 1500,
-            "attributes": {},
+            "attributes": {
+                "course": [
+                    "Salads"
+                ],
+                "holiday": [
+                    "Summer"
+                ]
+            },
             "flavors": null,
             "rating": 4
         },

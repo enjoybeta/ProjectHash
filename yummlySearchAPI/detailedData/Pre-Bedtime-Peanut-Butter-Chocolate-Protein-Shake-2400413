@@ -1,0 +1,52 @@
+{
+    "yield": "2",
+    "nutritionEstimates": [],
+    "totalTime": "3 min",
+    "images": [
+        {
+            "hostedSmallUrl": "https://lh3.googleusercontent.com/A8ea-5Z50k8s_OsqKMFeMI9Te212DP7E-j0lo-ZtGWFvmQkHqxAoA6sPzCQ7uTetFsolRSapSWGOshR7DJCV=s90",
+            "hostedMediumUrl": "https://lh3.googleusercontent.com/A8ea-5Z50k8s_OsqKMFeMI9Te212DP7E-j0lo-ZtGWFvmQkHqxAoA6sPzCQ7uTetFsolRSapSWGOshR7DJCV=s180",
+            "hostedLargeUrl": "https://lh3.googleusercontent.com/A8ea-5Z50k8s_OsqKMFeMI9Te212DP7E-j0lo-ZtGWFvmQkHqxAoA6sPzCQ7uTetFsolRSapSWGOshR7DJCV=s360",
+            "imageUrlsBySize": {
+                "90": "https://lh3.googleusercontent.com/ZsqrJKkbcDZrw_x7IlJL2HBD86_n5KdccKUTgLH4D2p1LEBRxkbMxOq1DCaY8hX0DQBzUAt83WLfSkj2JQ0BHqo=s90-c",
+                "360": "https://lh3.googleusercontent.com/ZsqrJKkbcDZrw_x7IlJL2HBD86_n5KdccKUTgLH4D2p1LEBRxkbMxOq1DCaY8hX0DQBzUAt83WLfSkj2JQ0BHqo=s360-c"
+            }
+        }
+    ],
+    "name": "Pre-Bedtime Peanut Butter Chocolate Protein Shake",
+    "source": {
+        "sourceDisplayName": "Whitney E. RD",
+        "sourceSiteUrl": "whitneyerd.com",
+        "sourceRecipeUrl": "https://www.whitneyerd.com/2015/03/prebedtime-peanut-butter-chocolate-protein-shake.html"
+    },
+    "id": "Pre-Bedtime-Peanut-Butter-Chocolate-Protein-Shake-2400413",
+    "ingredientLines": [
+        "1 Frozen Banana",
+        "1 Scoop About Time Zz's Peanut Butter Flavor",
+        "2 T. Cocoa Powder",
+        "1 T. Natural Peanut Butter",
+        "2 C. Unsweetened Vanilla Almond Milk",
+        "Ice",
+        "Cacao Nibs for topping (optional)"
+    ],
+    "cookTime": "3 Min",
+    "attribution": {
+        "html": "<a href='http://www.yummly.co/recipe/Pre-Bedtime-Peanut-Butter-Chocolate-Protein-Shake-2400413'>Pre-Bedtime Peanut Butter Chocolate Protein Shake recipe</a> information powered by <img alt='Yummly' src='https://static.yummly.co/api-logo.png'/>",
+        "url": "http://www.yummly.co/recipe/Pre-Bedtime-Peanut-Butter-Chocolate-Protein-Shake-2400413",
+        "text": "Pre-Bedtime Peanut Butter Chocolate Protein Shake recipes: information powered by Yummly",
+        "logo": "https://static.yummly.co/api-logo.png"
+    },
+    "numberOfServings": 2,
+    "totalTimeInSeconds": 180,
+    "attributes": {
+        "course": [
+            "Beverages"
+        ],
+        "cuisine": [
+            "Kid-Friendly"
+        ]
+    },
+    "cookTimeInSeconds": 180,
+    "flavors": {},
+    "rating": 4
+}

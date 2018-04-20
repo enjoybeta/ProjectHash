@@ -1080,7 +1080,15 @@
     },
     "numberOfServings": 8,
     "totalTimeInSeconds": 7800,
-    "attributes": {},
+    "attributes": {
+        "cuisine": [
+            "Kid-Friendly"
+        ],
+        "course": [
+            "Main Dishes",
+            "Lunch"
+        ]
+    },
     "cookTimeInSeconds": 7200,
     "flavors": {},
     "rating": 4

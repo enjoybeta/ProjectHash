@@ -1,0 +1,47 @@
+{
+    "yield": "Zutaten f\u00fcr 4 St\u00fccke:",
+    "nutritionEstimates": [],
+    "totalTime": "40 min",
+    "images": [
+        {
+            "hostedSmallUrl": "http://lh3.googleusercontent.com/GfVwyLES7yJmdjTJ9b5LQJrAcNiV-nY-XDp71OxWeVievVO8PjWeZxEjwlS-VmLLSc15D-wJtRKv84b_b2RA5A=s90",
+            "hostedMediumUrl": "http://lh3.googleusercontent.com/GfVwyLES7yJmdjTJ9b5LQJrAcNiV-nY-XDp71OxWeVievVO8PjWeZxEjwlS-VmLLSc15D-wJtRKv84b_b2RA5A=s180",
+            "hostedLargeUrl": "http://lh3.googleusercontent.com/GfVwyLES7yJmdjTJ9b5LQJrAcNiV-nY-XDp71OxWeVievVO8PjWeZxEjwlS-VmLLSc15D-wJtRKv84b_b2RA5A=s360",
+            "imageUrlsBySize": {
+                "90": "http://lh3.googleusercontent.com/zbbKWRu3iD6HweiGUmygXFcILCRpQMl10SWCWIi7IbPRf6jFZeIF45A1jdRxYn8zIwBx0RuHYmgixgicv8j5Eg=s90-c",
+                "360": "http://lh3.googleusercontent.com/zbbKWRu3iD6HweiGUmygXFcILCRpQMl10SWCWIi7IbPRf6jFZeIF45A1jdRxYn8zIwBx0RuHYmgixgicv8j5Eg=s360-c"
+            }
+        }
+    ],
+    "name": "Friesentorte",
+    "source": {
+        "sourceDisplayName": "Lecker",
+        "sourceSiteUrl": "lecker.de",
+        "sourceRecipeUrl": "http://www.lecker.de/rezept/1113004/Friesentorte.html"
+    },
+    "id": "Friesentorte-837523",
+    "ingredientLines": [
+        "2 Scheiben tiefgefrorener Bl\u00e4tterteig (12 x 12 cm; \u00e0 45 g)",
+        "1 Eigelb (Gr\u00f6\u00dfe M)",
+        "2 EL Milch",
+        "4 EL Hagelzucker",
+        "100 g Schlagsahne",
+        "1 P\u00e4ckchen Vanillin-Zucker",
+        "80 g Pflaumenmus"
+    ],
+    "attribution": {
+        "html": "<a href='http://www.yummly.co/recipe/Friesentorte-837523'>Friesentorte recipe</a> information powered by <img alt='Yummly' src='https://static.yummly.co/api-logo.png'/>",
+        "url": "http://www.yummly.co/recipe/Friesentorte-837523",
+        "text": "Friesentorte recipes: information powered by Yummly",
+        "logo": "https://static.yummly.co/api-logo.png"
+    },
+    "numberOfServings": 4,
+    "totalTimeInSeconds": 2400,
+    "attributes": {
+        "course": [
+            "Desserts"
+        ]
+    },
+    "flavors": {},
+    "rating": 3
+}

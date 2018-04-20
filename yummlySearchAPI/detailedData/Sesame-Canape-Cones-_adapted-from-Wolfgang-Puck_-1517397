@@ -1212,7 +1212,12 @@
     },
     "numberOfServings": 4,
     "totalTimeInSeconds": 2400,
-    "attributes": {},
+    "attributes": {
+        "course": [
+            "Lunch",
+            "Appetizers"
+        ]
+    },
     "flavors": {},
     "rating": 3
 }

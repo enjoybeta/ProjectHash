@@ -1,0 +1,45 @@
+{
+    "criteria": {
+        "q": "q+u+i+n+o+a",
+        "allowedIngredient": null,
+        "excludedIngredient": null
+    },
+    "matches": [
+        {
+            "imageUrlsBySize": {
+                "90": "https://lh3.googleusercontent.com/Z6bdHfs4ljDODV3QXihh_7_et3-od3P8eajKFVgwe97OjQ0N0ifakHpa0w-a_YUodbkSoOXZlZWMJlaTJlSz6w=s90-c"
+            },
+            "sourceDisplayName": "That's Low Carb",
+            "ingredients": [
+                "coconut milk",
+                "ground cinnamon",
+                "pure vanilla extract",
+                "egg yolks",
+                "erythritol",
+                "blackberries",
+                "almond extract"
+            ],
+            "id": "Low-Carb-Blackberry-Ice-Cream-2270048",
+            "smallImageUrls": [
+                "https://lh3.googleusercontent.com/XebTMkKWtwQPM8qoSRG8E6e-2S82_O47YsIIQBF1TQGcjm465yfkTDPuV7GA1-7Pi1gKUaOk-H1nZhFNkmzUIQ=s90"
+            ],
+            "recipeName": "Low Carb Blackberry Ice Cream",
+            "totalTimeInSeconds": 1200,
+            "attributes": {
+                "course": [
+                    "Desserts"
+                ]
+            },
+            "flavors": null,
+            "rating": 4
+        }
+    ],
+    "facetCounts": {},
+    "totalMatchCount": 1,
+    "attribution": {
+        "html": "Recipe search powered by <a href='http://www.yummly.co/recipes'><img alt='Yummly' src='https://static.yummly.co/api-logo.png'/></a>",
+        "url": "http://www.yummly.co/recipes/",
+        "text": "Recipe search powered by Yummly",
+        "logo": "https://static.yummly.co/api-logo.png"
+    }
+}

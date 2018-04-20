@@ -946,7 +946,14 @@
     },
     "numberOfServings": 4,
     "totalTimeInSeconds": 1800,
-    "attributes": {},
+    "attributes": {
+        "course": [
+            "Desserts"
+        ],
+        "cuisine": [
+            "Kid-Friendly"
+        ]
+    },
     "flavors": {},
     "rating": 4
 }

@@ -1,0 +1,106 @@
+{
+    "criteria": {
+        "q": "A+p+f+e+l+s+i+n+e",
+        "allowedIngredient": null,
+        "excludedIngredient": null
+    },
+    "matches": [
+        {
+            "imageUrlsBySize": {
+                "90": "http://lh3.googleusercontent.com/EWHHrnddLol9O9JaGZaD42Zl45cVWnmaiCynSkz0l9woC1XCNKkwv9ghL-vkR_IWHNOCvFX4ciMn3Jq8GH0iKRc=s90-c"
+            },
+            "sourceDisplayName": "Food52",
+            "ingredients": [
+                "duck breasts",
+                "sunflower oil",
+                "large garlic cloves",
+                "ground coriander",
+                "ground cumin",
+                "scallions",
+                "milk",
+                "bread crumbs",
+                "fresh thyme leaves",
+                "ground black pepper",
+                "salt",
+                "sugar",
+                "fresh orange juice",
+                "white wine vinegar",
+                "white wine",
+                "duck stock",
+                "unsalted butter",
+                "all-purpose flour",
+                "orange"
+            ],
+            "id": "Duck-Meatballs-a-LOrange-1222423",
+            "smallImageUrls": [
+                "http://lh3.googleusercontent.com/wrZW1O8_6ddg36ZZlpBQ0gzzyhOdvTOakViFOqo76if_eAfcADSB5tTOXTUX7-LPmL5ZYUdDq2cEhut6mp4Rjw=s90"
+            ],
+            "recipeName": "Duck Meatballs a\u0300 L\u2019Orange",
+            "totalTimeInSeconds": 6300,
+            "attributes": {
+                "course": [
+                    "Main Dishes"
+                ]
+            },
+            "flavors": {
+                "piquant": 0.0,
+                "meaty": 0.5,
+                "bitter": 0.16666666666666666,
+                "sweet": 0.5,
+                "sour": 0.6666666666666666,
+                "salty": 0.3333333333333333
+            },
+            "rating": 3
+        },
+        {
+            "imageUrlsBySize": {
+                "90": "https://lh3.googleusercontent.com/0ZnfJp11gq_xFg7o7Nqml9mg8ynbanBNHcqUX-qMrzwEQT0UNzy2MeCyKNylMjvQf28Z-UP2OVhlfxO6IQ0avw=s90-c"
+            },
+            "sourceDisplayName": "Kitchen Heals Soul",
+            "ingredients": [
+                "all-purpose flour",
+                "baking powder",
+                "salt",
+                "ground cardamom",
+                "pumpkin pur\u00e9e",
+                "granulated sugar",
+                "canola oil",
+                "vanilla",
+                "large eggs",
+                "powdered sugar",
+                "milk",
+                "sprinkles"
+            ],
+            "id": "Pumpkin-Cardamom-Baked-Doughnuts-1598926",
+            "smallImageUrls": [
+                "https://lh3.googleusercontent.com/gIvG22B6VcJK1LmPsnCAju-Eom2iH0M_XklViKyXxEtysKnis_zQhkpdxD7N9gq1eaC7S9_-cwGBqJTxz05itA=s90"
+            ],
+            "recipeName": "Pumpkin Cardamom Baked Doughnuts",
+            "totalTimeInSeconds": 1920,
+            "attributes": {
+                "course": [
+                    "Desserts",
+                    "Breakfast and Brunch",
+                    "Breads"
+                ]
+            },
+            "flavors": {
+                "piquant": 0.0,
+                "meaty": 0.16666666666666666,
+                "bitter": 0.16666666666666666,
+                "sweet": 0.8333333333333334,
+                "sour": 0.16666666666666666,
+                "salty": 0.3333333333333333
+            },
+            "rating": 4
+        }
+    ],
+    "facetCounts": {},
+    "totalMatchCount": 2,
+    "attribution": {
+        "html": "Recipe search powered by <a href='http://www.yummly.co/recipes'><img alt='Yummly' src='https://static.yummly.co/api-logo.png'/></a>",
+        "url": "http://www.yummly.co/recipes/",
+        "text": "Recipe search powered by Yummly",
+        "logo": "https://static.yummly.co/api-logo.png"
+    }
+}

@@ -1,0 +1,52 @@
+{
+    "yield": "Dieses ist ein Rezept aus \"Sekt und H\u00e4ppchen\". M\u00f6chten Sie nur 1 Rezept davon kochen, reicht es f\u00fcr entsprechend weniger Personen.",
+    "nutritionEstimates": [],
+    "totalTime": "50 min",
+    "images": [
+        {
+            "hostedSmallUrl": "http://lh3.googleusercontent.com/2k4S63GEowtSaonTpKxqAi7L5aP8skh1BX0Z3cgMUfEtziYQNOEBqX311IAoD3YDd1kssYC7XrMrafZ2R4rYAMY=s90",
+            "hostedMediumUrl": "http://lh3.googleusercontent.com/2k4S63GEowtSaonTpKxqAi7L5aP8skh1BX0Z3cgMUfEtziYQNOEBqX311IAoD3YDd1kssYC7XrMrafZ2R4rYAMY=s180",
+            "hostedLargeUrl": "http://lh3.googleusercontent.com/2k4S63GEowtSaonTpKxqAi7L5aP8skh1BX0Z3cgMUfEtziYQNOEBqX311IAoD3YDd1kssYC7XrMrafZ2R4rYAMY=s360",
+            "imageUrlsBySize": {
+                "90": "http://lh3.googleusercontent.com/ysFsWFjQuIvhJztBvoYNwWS1zNAv0yCf0OA5mP65Fw76YJqES0tq9BrVDox0Siz6xsZP4jvsQDlbkhW6qEbiDw=s90-c",
+                "360": "http://lh3.googleusercontent.com/ysFsWFjQuIvhJztBvoYNwWS1zNAv0yCf0OA5mP65Fw76YJqES0tq9BrVDox0Siz6xsZP4jvsQDlbkhW6qEbiDw=s360-c"
+            }
+        }
+    ],
+    "name": "Feine Fischplatte",
+    "source": {
+        "sourceDisplayName": "Lecker",
+        "sourceSiteUrl": "lecker.de",
+        "sourceRecipeUrl": "http://www.lecker.de/rezept/837944/Feine-Fischplatte.html"
+    },
+    "id": "Feine-Fischplatte-831884",
+    "ingredientLines": [
+        "10 Eier",
+        "8 EL Milch",
+        "Salz, wei\u00dfer Pfeffer",
+        "2-3 EL Butter",
+        "8 Scheiben (\u00e0 ca. 50 g) eckiges Schwarzbrot",
+        "2 ger\u00e4ucherte Forellenfilets (125 g)",
+        "3 Scheiben (\u00e0 ca. 30 g) ger\u00e4ucherter Lachs",
+        "150 g ger\u00e4ucherter Aal",
+        "Zitronenecken, Forellenkaviar, Meerrettich (Tube)",
+        "und Dill zum Garnieren",
+        "20 Garnelen \u00e0 10 g (ohne Kopf u. Schale; frisch oder TK)",
+        "2 EL \u00d6l (z. B. Oliven\u00f6l)",
+        "Edels\u00fc\u00df-Paprika",
+        "200 g Tomaten-Ketchup",
+        "2-3 EL geriebener Meerrettich (a. d. Glas)",
+        "etwas Zitronensaft"
+    ],
+    "attribution": {
+        "html": "<a href='http://www.yummly.co/recipe/Feine-Fischplatte-831884'>Feine Fischplatte recipe</a> information powered by <img alt='Yummly' src='https://static.yummly.co/api-logo.png'/>",
+        "url": "http://www.yummly.co/recipe/Feine-Fischplatte-831884",
+        "text": "Feine Fischplatte recipes: information powered by Yummly",
+        "logo": "https://static.yummly.co/api-logo.png"
+    },
+    "numberOfServings": 1,
+    "totalTimeInSeconds": 3000,
+    "attributes": {},
+    "flavors": {},
+    "rating": 3
+}

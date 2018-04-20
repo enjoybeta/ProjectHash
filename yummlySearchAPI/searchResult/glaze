@@ -1,0 +1,336 @@
+{
+    "criteria": {
+        "q": "g+l+a+z+e",
+        "allowedIngredient": null,
+        "excludedIngredient": null
+    },
+    "matches": [
+        {
+            "imageUrlsBySize": {
+                "90": "http://lh3.googleusercontent.com/n-LWwvJC-ewDTi-teaxbrwxCMSLW2lcAZI-i97Ec18cjBFOumer8-U846Jc-BlwbvqwXYh3VUOVvaCfpH36ojA=s90-c"
+            },
+            "sourceDisplayName": "Lecker",
+            "ingredients": [
+                "\u00d6l",
+                "Butter",
+                "Ei",
+                "Milch",
+                "Salz",
+                "Mehl",
+                "Zimt",
+                "Zucker",
+                "\u00c4pfel",
+                "Rosine"
+            ],
+            "id": "Apfel-Zimt-Pop-Overs-846273",
+            "smallImageUrls": [
+                "http://lh3.googleusercontent.com/QumI0UKtvWXfG4VYy05Uoay5S2_8h8osR0fcctcaZgel2CH_jVwF54Rat_mfN_2ZFMIGKCqVfbqHIxmSy_Foxw=s90"
+            ],
+            "recipeName": "Apfel-Zimt-Pop-Overs",
+            "totalTimeInSeconds": 2400,
+            "attributes": {},
+            "flavors": {
+                "sweet": 0.5,
+                "piquant": 0.0,
+                "sour": 0.16666666666666666,
+                "salty": 0.16666666666666666,
+                "meaty": 0.16666666666666666,
+                "bitter": 0.16666666666666666
+            },
+            "rating": 3
+        },
+        {
+            "imageUrlsBySize": {
+                "90": "http://lh3.googleusercontent.com/1xMe5s4am4ECvoqD8KrLPUnXBoap8M_QDEPFz_N9lRlmMixwyqHHxtwQNGS1iClKZYB-r64sNlCnlDLMwIRe0Q=s90-c"
+            },
+            "sourceDisplayName": "Lecker",
+            "ingredients": [
+                "Mehl",
+                "Pfeffer",
+                "Oliven\u00f6l",
+                "Hefe",
+                "Tomate",
+                "Knoblaucknolle",
+                "Lammhack",
+                "Kreuzk\u00fcmmel",
+                "Tomatensaft",
+                "Petersile",
+                "Zwiebel",
+                "Peperoni"
+            ],
+            "id": "Turkische-Pizza-_Lahmacun_-840435",
+            "smallImageUrls": [
+                "http://lh3.googleusercontent.com/3pMdRzLWg0OGBTwxugTDFQLqBOLrap-BuvO-C0eYW9iQgMZaZVrW3JMVu30cA02hxUQQgTZys92BcIC37JN03w=s90"
+            ],
+            "recipeName": "Tu\u0308rkische Pizza \"Lahmacun\"",
+            "totalTimeInSeconds": 2700,
+            "attributes": {},
+            "flavors": {
+                "sweet": 0.16666666666666666,
+                "piquant": 0.8333333333333334,
+                "sour": 0.8333333333333334,
+                "salty": 0.16666666666666666,
+                "meaty": 0.5,
+                "bitter": 0.16666666666666666
+            },
+            "rating": 3
+        },
+        {
+            "imageUrlsBySize": {
+                "90": "http://lh3.googleusercontent.com/7r1JyMWcbp8MgzMIRtAwtmJJGDOgeENqz7LyhsnQXlf54KXKUABsB09bgbuRTSJPAXYLSZgr9R9jqMRV-ud6=s90-c"
+            },
+            "sourceDisplayName": "Lecker",
+            "ingredients": [
+                "\u00c4pfel",
+                "Apelsaft",
+                "Stangenzimt",
+                "Zitrone",
+                "Sternanis",
+                "Honig"
+            ],
+            "id": "Heier-Apfel-Drink-821577",
+            "smallImageUrls": [
+                "http://lh3.googleusercontent.com/7vo-P_LWaiSpTci5zECx_lPgAhRGNn3_GqA4GFdRdSdP48fIUMU4DJRgnM-YN0pRw_SEyFMZmkgEcY3sZ1sZi2g=s90"
+            ],
+            "recipeName": "Hei\u00dfer Apfel-Drink",
+            "totalTimeInSeconds": 600,
+            "attributes": {},
+            "flavors": null,
+            "rating": 3
+        },
+        {
+            "imageUrlsBySize": {
+                "90": "http://lh3.googleusercontent.com/KsrrnneZit0oggSqbnY4ImlS1OuMcuB452awSWvVsFGMZCWvQ1e9YfHFkzOwieCZ79bZb8Pik7JqboUznvY2fSI=s90-c"
+            },
+            "sourceDisplayName": "Lecker",
+            "ingredients": [
+                "Bulgur",
+                "Salz",
+                "Zwiebel",
+                "Cardomon",
+                "Gem\u00fcsebr\u00fche",
+                "Lorbeer",
+                "\u00d6l",
+                "Zitronensaft",
+                "Blatt",
+                "Pfeffer",
+                "Paprika",
+                "Erdnuss"
+            ],
+            "id": "Molokhia-Suppe-928880",
+            "smallImageUrls": [
+                "http://lh3.googleusercontent.com/48Yfg3yhgauGNOMFCdrl5ZXis-wiZiTjU7jvkTWpF1XEaG-dhUJiQyiNP-dIqWuo-tXVK2w1MRYIdKha8_ZmuQ=s90"
+            ],
+            "recipeName": "Molokhia-Suppe",
+            "totalTimeInSeconds": 1800,
+            "attributes": {},
+            "flavors": null,
+            "rating": 3
+        },
+        {
+            "imageUrlsBySize": {
+                "90": "http://lh3.googleusercontent.com/NWSWJtMim0w9hrHuGZFLOPfsMfApO7Uc9HaznCvS2r0MWjWdylbGVU6i4FiOOKmf24PAdvDElQr2c39TWX7aKQ=s90-c"
+            },
+            "sourceDisplayName": "Lecker",
+            "ingredients": [
+                "Butter",
+                "magerquark",
+                "Zucker",
+                "Ei",
+                "Vanillepuddingpulver",
+                "Zitrone",
+                "Milch"
+            ],
+            "id": "Blitz-Kasekuchen-847010",
+            "smallImageUrls": [
+                "http://lh3.googleusercontent.com/_FCD7jr7KOX1WKhGAD5X3eELyCfZMQFdWt5wTKWq6DgEjJ3Bfgr0YdrJrGkX2EVUPLUXSZRg--psotzpI8Y_=s90"
+            ],
+            "recipeName": "Blitz-Ka\u0308sekuchen",
+            "totalTimeInSeconds": 5400,
+            "attributes": {},
+            "flavors": {
+                "sweet": 0.8333333333333334,
+                "piquant": 0.0,
+                "sour": 0.6666666666666666,
+                "salty": 0.5,
+                "meaty": 0.16666666666666666,
+                "bitter": 0.16666666666666666
+            },
+            "rating": 3
+        },
+        {
+            "imageUrlsBySize": {
+                "90": "http://lh3.googleusercontent.com/Ukh6_32rRDqNbR2fFV8ifIHJydOlNLyxJQmKg-_4nlNuBU9tfccCZ5L_qhNEIw0aayLjgXyl3jDbn_3d21vi=s90-c"
+            },
+            "sourceDisplayName": "Lecker",
+            "ingredients": [
+                "Zwiebel",
+                "M\u00f6hre",
+                "Schinkenbraten",
+                "Pfefferkorn",
+                "Lorbeerbl\u00e4tter",
+                "Honig",
+                "Sojasauce",
+                "Senf",
+                "Speisest\u00e4rke",
+                "Salz",
+                "Pfeffer",
+                "Petersile"
+            ],
+            "id": "Saftiger-Oster-Schinkenbraten-840759",
+            "smallImageUrls": [
+                "http://lh3.googleusercontent.com/zQ3LWAlKuSm9rJAV4I5VYvJ_sS55uM7InU0Z4bVDnPLFjp8tWaXSdWlq9z1-Q7mGi109SMT6OCgKtdIdCgfRbA=s90"
+            ],
+            "recipeName": "Saftiger Oster-Schinkenbraten",
+            "totalTimeInSeconds": 12600,
+            "attributes": {},
+            "flavors": null,
+            "rating": 3
+        },
+        {
+            "imageUrlsBySize": {
+                "90": "http://lh3.googleusercontent.com/A_Nfc1_Xp-zxPuiCBPxPNQOHGHqIyQYF3skfKohZs7uYm_I6Eb8mECGi8QkSheMBbTXZpJ-uprC_3TRTSN6i2w=s90-c"
+            },
+            "sourceDisplayName": "Lecker",
+            "ingredients": [
+                "Zucker",
+                "Walnuss",
+                "dunkle Schokolade",
+                "Ei",
+                "Vanillezucker",
+                "\u00d6l",
+                "Banane",
+                "Mehl",
+                "Backpulver",
+                "Salz",
+                "Zimt",
+                "Milch"
+            ],
+            "id": "Banana-Chocolate-Bread-849018",
+            "smallImageUrls": [
+                "http://lh3.googleusercontent.com/e3KaAOfwY2lzyA-pSRpWXDjsVkgLn822FgSHJbZQUJcCUmBe-APQWNeY2myCXilN1neGSMIgZr5bBB_5OJXwbjk=s90"
+            ],
+            "recipeName": "Banana Chocolate Bread",
+            "totalTimeInSeconds": 6300,
+            "attributes": {},
+            "flavors": {
+                "sweet": 0.6666666666666666,
+                "piquant": 0.0,
+                "sour": 0.16666666666666666,
+                "salty": 0.16666666666666666,
+                "meaty": 0.6666666666666666,
+                "bitter": 0.16666666666666666
+            },
+            "rating": 3
+        },
+        {
+            "imageUrlsBySize": {
+                "90": "http://lh3.googleusercontent.com/expsR3b1HcHXepQbvSUuQdmPHFarLe247GABuEfpceu38-DvqLmgto211R-C5SesonLJYx5nyqxRVR8mxpDSTA=s90-c"
+            },
+            "sourceDisplayName": "Lecker",
+            "ingredients": [
+                "Melanzani",
+                "Salz",
+                "Tomate",
+                "Mozzarella",
+                "Oliven\u00f6l",
+                "Zwiebel",
+                "Butter",
+                "Mehl",
+                "Milch",
+                "Gem\u00fcsebr\u00fche",
+                "Parmaschinken",
+                "Basilikum"
+            ],
+            "id": "Tomaten-Auflauf-alla-caprese-837067",
+            "smallImageUrls": [
+                "http://lh3.googleusercontent.com/Ep__zCdQH70HxbmB7DGGs6RFJgwBH6N0jnVVI_91LQe9O0n1rmlf8MlHC2eVsUCC5ow0tnhKlNCi_ey_AADAALs=s90"
+            ],
+            "recipeName": "Tomaten-Auflauf alla caprese",
+            "totalTimeInSeconds": 4500,
+            "attributes": {},
+            "flavors": null,
+            "rating": 3
+        },
+        {
+            "imageUrlsBySize": {
+                "90": "http://lh3.googleusercontent.com/5VGlsM9uNxTTzhC_MW8wSVOIV4mRxhRXlEmbgUSUv-6xBV4fLyHNlAeRCeZt98VU02L6QF-L3Y8NiVL0k3XNHQ=s90-c"
+            },
+            "sourceDisplayName": "Lecker",
+            "ingredients": [
+                "Zucker",
+                "Zitronensaft",
+                "Fett",
+                "Ei",
+                "Schlabgobers",
+                "Milch",
+                "Haselnuss",
+                "Zitronenmelisse",
+                "\u00d6l"
+            ],
+            "id": "Karamell-Flan-mit-Nusskrokant-833912",
+            "smallImageUrls": [
+                "http://lh3.googleusercontent.com/7-TVbYGNoZuDSCxCL8Kzf2jc4BGx7Ku0qrZMnvSZlFHpC1FYTftOyJK-adKbMPRo4-VsmBpSent0zzmO7Z09vho=s90"
+            ],
+            "recipeName": "Karamell-Flan mit Nusskrokant",
+            "totalTimeInSeconds": 9000,
+            "attributes": {
+                "course": [
+                    "Desserts"
+                ]
+            },
+            "flavors": {
+                "sweet": 0.5,
+                "piquant": 0.0,
+                "sour": 0.5,
+                "salty": 0.16666666666666666,
+                "meaty": 0.6666666666666666,
+                "bitter": 0.3333333333333333
+            },
+            "rating": 3
+        },
+        {
+            "imageUrlsBySize": {
+                "90": "http://lh3.googleusercontent.com/3hgTvWsfSnRcD1D2tkC4JhAO_0OX68S8stfLQsfNHh_7pR7MrlaZuYqKU6Eru4jIS-LqhKJ5y3TPI-3bVaSF=s90-c"
+            },
+            "sourceDisplayName": "Lecker",
+            "ingredients": [
+                "Sonnenblumen\u00f6l",
+                "Kokosmilch",
+                "Mehl",
+                "Vollweizenmehl",
+                "Backpulver",
+                "Mohn",
+                "Avocado",
+                "Zucker",
+                "Beeren",
+                "Apelsaft",
+                "Vanillepuddingpulver"
+            ],
+            "id": "Avocado-Mohnkuchen-mit-Kokoscreme-und-Beerengrutze-849200",
+            "smallImageUrls": [
+                "http://lh3.googleusercontent.com/eVINnZm0vtmQFrjazgf_y5f40Ho4Oiu2tmOGpSc1TCiMV61OYFXv1SxOz73xMfnIgeDZOfpIXlgejxHBNMT9uRk=s90"
+            ],
+            "recipeName": "Avocado-Mohnkuchen mit Kokoscreme und Beerengru\u0308tze",
+            "totalTimeInSeconds": 4500,
+            "attributes": {},
+            "flavors": {
+                "sweet": 0.5,
+                "piquant": 0.0,
+                "sour": 0.3333333333333333,
+                "salty": 0.16666666666666666,
+                "meaty": 0.6666666666666666,
+                "bitter": 0.16666666666666666
+            },
+            "rating": 3
+        }
+    ],
+    "facetCounts": {},
+    "totalMatchCount": 845,
+    "attribution": {
+        "html": "Recipe search powered by <a href='http://www.yummly.co/recipes'><img alt='Yummly' src='https://static.yummly.co/api-logo.png'/></a>",
+        "url": "http://www.yummly.co/recipes/",
+        "text": "Recipe search powered by Yummly",
+        "logo": "https://static.yummly.co/api-logo.png"
+    }
+}

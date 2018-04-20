@@ -1,0 +1,49 @@
+{
+    "nutritionEstimates": [],
+    "totalTime": "1 hr",
+    "images": [
+        {
+            "hostedSmallUrl": "http://lh5.ggpht.com/V3ybfPPTHHWLEStZWmJ4F6qRgpf0cYi_lpkiyEGvcrQcjwO7YObMefe2PoQEi349OfFQV5LOopHvSQuErwp4=s90",
+            "hostedMediumUrl": "http://lh5.ggpht.com/V3ybfPPTHHWLEStZWmJ4F6qRgpf0cYi_lpkiyEGvcrQcjwO7YObMefe2PoQEi349OfFQV5LOopHvSQuErwp4=s180",
+            "hostedLargeUrl": "http://lh5.ggpht.com/V3ybfPPTHHWLEStZWmJ4F6qRgpf0cYi_lpkiyEGvcrQcjwO7YObMefe2PoQEi349OfFQV5LOopHvSQuErwp4=s360",
+            "imageUrlsBySize": {
+                "90": "http://lh5.ggpht.com/RY2huGt9o6P1e38qXt4UDgsQsjt7XlX2fbOq5ijZ31pHzAwB3wXU22yMSNZXrLCoSB4cT1ML3f31aHnuf4BYSw=s90-c",
+                "360": "http://lh5.ggpht.com/RY2huGt9o6P1e38qXt4UDgsQsjt7XlX2fbOq5ijZ31pHzAwB3wXU22yMSNZXrLCoSB4cT1ML3f31aHnuf4BYSw=s360-c"
+            }
+        }
+    ],
+    "name": "Coca-Cola Pork Ribs",
+    "source": {
+        "sourceDisplayName": "Palachinka",
+        "sourceSiteUrl": "palachinkablog.com",
+        "sourceRecipeUrl": "http://palachinkablog.com/coca-cola-pork-ribs/"
+    },
+    "id": "Coca-Cola-Pork-Ribs-940008",
+    "ingredientLines": [
+        "about 1,5-2 kg pork ribs",
+        "1,5 l Coca-Cola",
+        "1 cinnamon stick",
+        "3-4 star anise",
+        "125 g brown sugar",
+        "60 g honey",
+        "130 g ketchup",
+        "2 Tbsp mustard",
+        "2 Tbsp Worcestershire sauce",
+        "60 ml soy sauce"
+    ],
+    "attribution": {
+        "html": "<a href='http://www.yummly.co/recipe/Coca-Cola-Pork-Ribs-940008'>Coca-Cola Pork Ribs recipe</a> information powered by <img alt='Yummly' src='https://static.yummly.co/api-logo.png'/>",
+        "url": "http://www.yummly.co/recipe/Coca-Cola-Pork-Ribs-940008",
+        "text": "Coca-Cola Pork Ribs recipes: information powered by Yummly",
+        "logo": "https://static.yummly.co/api-logo.png"
+    },
+    "numberOfServings": 4,
+    "totalTimeInSeconds": 3600,
+    "attributes": {
+        "course": [
+            "Main Dishes"
+        ]
+    },
+    "flavors": {},
+    "rating": 4
+}

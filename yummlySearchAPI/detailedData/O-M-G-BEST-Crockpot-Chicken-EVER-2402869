@@ -1,0 +1,52 @@
+{
+    "yield": "6",
+    "nutritionEstimates": [],
+    "prepTimeInSeconds": 300,
+    "totalTime": "6 hr 5 min",
+    "images": [
+        {
+            "hostedSmallUrl": "https://lh3.googleusercontent.com/xMcTR2GVrYUGCMeGjFPjyig9CsvkpJXhzGwVBeogK7tDdu7-rY0B6BEZ59GYClnjlZWHXbBU0N3fTgjoY8lVuA=s90",
+            "hostedMediumUrl": "https://lh3.googleusercontent.com/xMcTR2GVrYUGCMeGjFPjyig9CsvkpJXhzGwVBeogK7tDdu7-rY0B6BEZ59GYClnjlZWHXbBU0N3fTgjoY8lVuA=s180",
+            "hostedLargeUrl": "https://lh3.googleusercontent.com/xMcTR2GVrYUGCMeGjFPjyig9CsvkpJXhzGwVBeogK7tDdu7-rY0B6BEZ59GYClnjlZWHXbBU0N3fTgjoY8lVuA=s360",
+            "imageUrlsBySize": {
+                "90": "https://lh3.googleusercontent.com/kpXJ3nSnicePihJfDtl2t69omEhmvhazxPuohzdUZDWLETeYbOX8z3KKtAHK2ULotA0xmg88tDQUpPNFvEqb=s90-c",
+                "360": "https://lh3.googleusercontent.com/kpXJ3nSnicePihJfDtl2t69omEhmvhazxPuohzdUZDWLETeYbOX8z3KKtAHK2ULotA0xmg88tDQUpPNFvEqb=s360-c"
+            }
+        }
+    ],
+    "name": "O-M-G BEST Crockpot Chicken EVER",
+    "source": {
+        "sourceDisplayName": "Serendipity And Spice",
+        "sourceSiteUrl": "serendipityandspice.com",
+        "sourceRecipeUrl": "http://serendipityandspice.com/o-m-g-best-crockpot-chicken-ever-recipe/?utm_medium=yummly&utm_source=yummly&utm_campaign=yummly"
+    },
+    "prepTime": "5 Min",
+    "id": "O-M-G-BEST-Crockpot-Chicken-EVER-2402869",
+    "ingredientLines": [
+        "2 lbs boneless skinless Chicken Breasts (I like to dice them up so they're chicken tender sized)",
+        "1 Can cream of Chicken Soup",
+        "1/2 Packet of dry Italian Dressing",
+        "1/2 Packet of dry Ranch Dressing (try my [url href=\"http://serendipityandspice.com/diy-organic-ranch-dressing-mix-recipe/\" target=\"_blank\"]homemade Organic Ranch dressing mix[/url]here)",
+        "1 8oz pkg of Cream Cheese"
+    ],
+    "cookTime": "6 Hr",
+    "attribution": {
+        "html": "<a href='http://www.yummly.co/recipe/O-M-G-BEST-Crockpot-Chicken-EVER-2402869'>O-M-G BEST Crockpot Chicken EVER recipe</a> information powered by <img alt='Yummly' src='https://static.yummly.co/api-logo.png'/>",
+        "url": "http://www.yummly.co/recipe/O-M-G-BEST-Crockpot-Chicken-EVER-2402869",
+        "text": "O-M-G BEST Crockpot Chicken EVER recipes: information powered by Yummly",
+        "logo": "https://static.yummly.co/api-logo.png"
+    },
+    "numberOfServings": 6,
+    "totalTimeInSeconds": 21900,
+    "attributes": {
+        "course": [
+            "Main Dishes"
+        ],
+        "cuisine": [
+            "Kid-Friendly"
+        ]
+    },
+    "cookTimeInSeconds": 21600,
+    "flavors": {},
+    "rating": 4
+}

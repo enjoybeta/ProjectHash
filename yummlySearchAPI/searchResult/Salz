@@ -1,0 +1,368 @@
+{
+    "criteria": {
+        "q": "S+a+l+z",
+        "allowedIngredient": null,
+        "excludedIngredient": null
+    },
+    "matches": [
+        {
+            "imageUrlsBySize": {
+                "90": "http://lh3.googleusercontent.com/U3SeSDR5edY1TUdXOI56qT0FQGlZAOngCGNpUOShLxpEgsne8NRU3bKi2dmKfJgfxKxG34bF0mCTZ6BRfUBF=s90-c"
+            },
+            "sourceDisplayName": "Happiness is Homemade",
+            "ingredients": [
+                "broccoli",
+                "mature cheddar",
+                "carrots",
+                "garlic cloves",
+                "vegetable stock",
+                "salt",
+                "pepper",
+                "croutons"
+            ],
+            "id": "Kremowa-zupa-brokuowa-z-serem-_-Creamy-broccoli-cheddar-soup-1173991",
+            "smallImageUrls": [
+                "http://lh3.googleusercontent.com/F4X-j0hw5Td8BW0iBN-z_v_t8MsxuPXyX9JQo3-pWrBMkgOD0tLqVtZ1N1qhTAkO77phAka-uU0xo8BeC7fIwrw=s90"
+            ],
+            "recipeName": "Kremowa zupa broku\u0142owa z serem / Creamy broccoli cheddar soup",
+            "totalTimeInSeconds": 1500,
+            "attributes": {
+                "course": [
+                    "Soups"
+                ]
+            },
+            "flavors": {
+                "piquant": 0.0,
+                "meaty": 0.16666666666666666,
+                "bitter": 0.5,
+                "sweet": 0.16666666666666666,
+                "sour": 0.8333333333333334,
+                "salty": 0.8333333333333334
+            },
+            "rating": 4
+        },
+        {
+            "imageUrlsBySize": {
+                "90": "https://lh3.googleusercontent.com/EagiidCDe48B59Rl6r1KPrJ_ljt4zFFmC_IKex6ghv5EhP6aZ2hei30A20gL0BWVFproJnm5NtIjpgkHtm6gqw=s90-c"
+            },
+            "sourceDisplayName": "Happiness is Homemade",
+            "ingredients": [
+                "broccoli",
+                "mature cheddar",
+                "carrots",
+                "garlic cloves",
+                "vegetable stock",
+                "salt",
+                "pepper",
+                "croutons"
+            ],
+            "id": "Kremowa-zupa-brokuowa-z-serem-_-Creamy-broccoli-cheddar-soup-2282684",
+            "smallImageUrls": [
+                "https://lh3.googleusercontent.com/ZnLvwio-NN1LMFmZE_LMn380p9cEfEIFyRfw-F4py85bzbUUgGrZsxYNGszYJOuNqX4rMnUVAWR2vgki1nI41w=s90"
+            ],
+            "recipeName": "Kremowa zupa broku\u0142owa z serem / Creamy broccoli cheddar soup",
+            "totalTimeInSeconds": 1500,
+            "attributes": {
+                "course": [
+                    "Soups"
+                ]
+            },
+            "flavors": {
+                "piquant": 0.0,
+                "meaty": 0.16666666666666666,
+                "bitter": 0.5,
+                "sweet": 0.16666666666666666,
+                "sour": 0.8333333333333334,
+                "salty": 0.8333333333333334
+            },
+            "rating": 4
+        },
+        {
+            "imageUrlsBySize": {
+                "90": "https://lh3.googleusercontent.com/Tvtb40M9KDsrHQE1ENPf9erj7byLe4wm73hMDSwLPSkGM9OJkovqnnH2VOIjrhfp8zTDt6GidXShPY-whRF58g=s90-c"
+            },
+            "sourceDisplayName": "Toxo Bread",
+            "ingredients": [
+                "ladyfingers",
+                "mascarpone",
+                "eggs",
+                "granulated sugar",
+                "strong black coffee",
+                "cocoa powder"
+            ],
+            "id": "Individually-Sized-Tiramisu-1750543",
+            "smallImageUrls": [
+                "https://lh3.googleusercontent.com/uwhUXMNb7mTgTNj_ALy7FjjzCNjEcG0AHkIpL6gJI7M2Z-e-pR3BNbN20HkGMWCZtHf_kzdOu6MyLIQDlS4e5w=s90"
+            ],
+            "recipeName": "Individually Sized Tiramisu",
+            "totalTimeInSeconds": 1800,
+            "attributes": {
+                "course": [
+                    "Desserts"
+                ]
+            },
+            "flavors": null,
+            "rating": 4
+        },
+        {
+            "imageUrlsBySize": {
+                "90": "http://lh3.googleusercontent.com/2fH4Mj0R-lSOEo7QK6qiQ7lY4BOdiZTPi0gUwnLNjXE0WQlCCpzZsM63gJUH6SqThrq0NNdtxWQG69Sb1LIn=s90-c"
+            },
+            "sourceDisplayName": "American Heritage Cooking",
+            "ingredients": [
+                "onions",
+                "flour",
+                "chopped fresh thyme",
+                "cognac",
+                "beef broth",
+                "cracked black pepper",
+                "kosher salt",
+                "French baguette",
+                "fontina cheese",
+                "gruyere cheese"
+            ],
+            "id": "The-Best-French-Onion-Soup-A-love-story-1319267",
+            "smallImageUrls": [
+                "http://lh3.googleusercontent.com/m9twBlo_XSYeOcxCKn7aao37c-o8w5NnptpC937E-Wb8BgTQ8uHbwHMpKwEudvQ-7X5rgKt0A8L6Cj47z1tu=s90"
+            ],
+            "recipeName": "The Best French Onion Soup \u2013 A love story",
+            "totalTimeInSeconds": 2400,
+            "attributes": {
+                "course": [
+                    "Soups"
+                ],
+                "cuisine": [
+                    "French"
+                ]
+            },
+            "flavors": null,
+            "rating": 4
+        },
+        {
+            "imageUrlsBySize": {
+                "90": "http://lh4.ggpht.com/7BhVdXLwRAy1dW-YzVCYtcIouSVrdcty6rfRKaL1MZGgn8NKGVrtVXHr36pSbb91cGQ8XSVUNvmrMw3lFAI8XQE=s90-c"
+            },
+            "sourceDisplayName": "Amy's Healthy Baking",
+            "ingredients": [
+                "whole wheat flour",
+                "baking powder",
+                "baking soda",
+                "ground cinnamon",
+                "ground nutmeg",
+                "salt",
+                "coconut oil",
+                "large eggs",
+                "vanilla extract",
+                "nonfat plain greek yogurt",
+                "maple syrup",
+                "nonfat milk",
+                "carrots",
+                "fat free cream cheese",
+                "instant cheesecake pudding mix",
+                "sucralose"
+            ],
+            "id": "Classic-Carrot-Cake-Cupcakes-1041739",
+            "smallImageUrls": [
+                "http://lh6.ggpht.com/ZZVH6aIrt_TC_7VHeRr0jkiYoHCdxXyI5jw_uBR24WRrK4MIFbzMe9BECqqjhe_PkD8Q2d45XexCd3UdfjqkLQ=s90"
+            ],
+            "recipeName": "Classic Carrot Cake Cupcakes",
+            "totalTimeInSeconds": 3000,
+            "attributes": {
+                "course": [
+                    "Desserts"
+                ]
+            },
+            "flavors": {
+                "sweet": 0.6666666666666666,
+                "piquant": 0.0,
+                "sour": 0.16666666666666666,
+                "salty": 0.8333333333333334,
+                "meaty": 0.16666666666666666,
+                "bitter": 0.8333333333333334
+            },
+            "rating": 4
+        },
+        {
+            "imageUrlsBySize": {
+                "90": "https://lh3.googleusercontent.com/swCJ8l5VAAJz66BQB2mI5g9aLh8Smww116_riTVDecxKpf2PZyAK1nTgcQUpTSmdYejcjPRSdnlnuv5PVJFqG3Q=s90-c"
+            },
+            "sourceDisplayName": "Tea and Scones",
+            "ingredients": [
+                "active dry yeast",
+                "water",
+                "whole milk",
+                "flour",
+                "salt",
+                "large eggs",
+                "sugar",
+                "unsalted butter"
+            ],
+            "id": "_TWD_-Let-Them-Eat-_Rich_-Bread-2081982",
+            "smallImageUrls": [
+                "https://lh3.googleusercontent.com/MeBhM2wdy5KZwvxBK-nPaWdhgr9-cYLTJbzI9xUee0YC2Cm29j2ZPg-wRJYt43LtO-Ch-MtbYhXcuWhkPKISQas=s90"
+            ],
+            "recipeName": "{TWD} Let Them Eat [Rich] Bread\u2026",
+            "totalTimeInSeconds": 5400,
+            "attributes": {
+                "course": [
+                    "Breads"
+                ]
+            },
+            "flavors": {
+                "piquant": 0.0,
+                "meaty": 0.8333333333333334,
+                "bitter": 0.16666666666666666,
+                "sweet": 0.6666666666666666,
+                "sour": 0.16666666666666666,
+                "salty": 0.8333333333333334
+            },
+            "rating": 4
+        },
+        {
+            "imageUrlsBySize": {
+                "90": "https://lh3.googleusercontent.com/73zON2Z7DVK5t_4SV0eIpg_V8O4BuWobrqh30k6VX3riZipPX79O-PdfxyW1H1Ag_RFKBGhpgWFGs-WPhpjFTQ=s90-c"
+            },
+            "sourceDisplayName": "The Forking Truth",
+            "ingredients": [
+                "evaporated milk",
+                "sugar",
+                "corn starch",
+                "lemon",
+                "yolk",
+                "butter",
+                "water",
+                "salt",
+                "jicama",
+                "orange",
+                "tomatillos",
+                "apples",
+                "thai basil",
+                "large pearl tapioca"
+            ],
+            "id": "Tomatillo-Jicama-Fruit-Salad-with-Tapioca-and-Lemon-Creme-1628955",
+            "smallImageUrls": [
+                "https://lh3.googleusercontent.com/hDasF6X1OMSv6-SxECtj4KrQdlq06fVOG7qQdyYGRnrBfFCU5-ol_A1cMmPxC43ODFwttP9uGebTvMAH-MyuDw=s90"
+            ],
+            "recipeName": "Tomatillo Jicama Fruit Salad with Tapioca and Lemon Creme",
+            "totalTimeInSeconds": 900,
+            "attributes": {
+                "course": [
+                    "Desserts"
+                ]
+            },
+            "flavors": {
+                "piquant": 0.0,
+                "meaty": 0.16666666666666666,
+                "bitter": 0.16666666666666666,
+                "sweet": 0.3333333333333333,
+                "sour": 0.8333333333333334,
+                "salty": 0.16666666666666666
+            },
+            "rating": 4
+        },
+        {
+            "imageUrlsBySize": {
+                "90": "https://lh3.googleusercontent.com/Z2jKDUDUdUkPmdg53ODy4d3GBh4ABH3isKWY4KxVUrclfD6W6UyVAj-ka3W4E5CfHs2WqMbk0GelkhWzdnjq=s90-c"
+            },
+            "sourceDisplayName": "The Blender Girl",
+            "ingredients": [
+                "linguini",
+                "toasted sesame oil",
+                "baby bok choy",
+                "shiitake",
+                "firm silken tofu",
+                "Equal Sweetener",
+                "green onions",
+                "broth",
+                "fat",
+                "wheat-free tamari sauce",
+                "mushroom powder",
+                "fresh minced garlic",
+                "fresh ginger",
+                "seasoning",
+                "mirin",
+                "red pepper flakes",
+                "lime wedges"
+            ],
+            "id": "Epic-Vegan-Ramen-2230819",
+            "smallImageUrls": [
+                "https://lh3.googleusercontent.com/_F-bgN_vVuLdMzT76FZLyp5s7h_V1r47QLZI1fcW4M7_BV_fCGswUVBmZOa6SSFeivVWf4hAqhDfM9Xc3IeH=s90"
+            ],
+            "recipeName": "Epic Vegan Ramen",
+            "totalTimeInSeconds": 1800,
+            "attributes": {
+                "course": [
+                    "Main Dishes",
+                    "Soups"
+                ],
+                "cuisine": [
+                    "Asian"
+                ]
+            },
+            "flavors": null,
+            "rating": 4
+        },
+        {
+            "recipeName": "My Mother's Z.l. Everyday Yellow Cake",
+            "ingredients": [
+                "butter",
+                "water",
+                "flour",
+                "baking powder",
+                "vanilla sugar",
+                "sugar",
+                "eggs",
+                "lemon extract"
+            ],
+            "totalTimeInSeconds": 2400,
+            "sourceDisplayName": "Food.com",
+            "id": "My-Mother_s-Z_l_-Everyday-Yellow-Cake-Recipezaar",
+            "rating": 0,
+            "flavors": {
+                "piquant": 0.0,
+                "meaty": 0.16666666666666666,
+                "bitter": 0.5,
+                "sweet": 0.8333333333333334,
+                "sour": 0.0,
+                "salty": 0.5
+            },
+            "attributes": {
+                "course": [
+                    "Desserts"
+                ]
+            }
+        },
+        {
+            "recipeName": "Addictive Yellow Squash Casserole",
+            "ingredients": [
+                "yellow squash",
+                "butter",
+                "eggs",
+                "saltines",
+                "salt",
+                "pepper",
+                "cheez whiz",
+                "onions",
+                "fritos"
+            ],
+            "totalTimeInSeconds": 3600,
+            "sourceDisplayName": "Food.com",
+            "id": "Addictive-Yellow-Squash-Casserole-Recipezaar",
+            "rating": 4,
+            "flavors": null,
+            "attributes": {
+                "course": [
+                    "Side Dishes"
+                ]
+            }
+        }
+    ],
+    "facetCounts": {},
+    "totalMatchCount": 2033,
+    "attribution": {
+        "html": "Recipe search powered by <a href='http://www.yummly.co/recipes'><img alt='Yummly' src='https://static.yummly.co/api-logo.png'/></a>",
+        "url": "http://www.yummly.co/recipes/",
+        "text": "Recipe search powered by Yummly",
+        "logo": "https://static.yummly.co/api-logo.png"
+    }
+}

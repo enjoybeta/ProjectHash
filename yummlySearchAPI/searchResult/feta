@@ -1,0 +1,372 @@
+{
+    "criteria": {
+        "q": "f+e+t+a",
+        "allowedIngredient": null,
+        "excludedIngredient": null
+    },
+    "matches": [
+        {
+            "imageUrlsBySize": {
+                "90": "https://lh3.googleusercontent.com/JRun7CHys55BZXsDS7Cblvxs3CxBv7CaL_0G5OM88qux3bjHa0aU5utHaz5MslZ4pNuUHrMrnGqW2yJ52qv0Hg=s90-c"
+            },
+            "sourceDisplayName": "Love Foodies",
+            "ingredients": [
+                "softened butter",
+                "milk",
+                "regular sugar",
+                "eggs",
+                "strawberries",
+                "all-purpose flour",
+                "baking powder",
+                "salt",
+                "vanilla extract"
+            ],
+            "id": "Strawberry-Pound-Cake-2161706",
+            "smallImageUrls": [
+                "https://lh3.googleusercontent.com/Z-FK3Emwk1tPG_pZXi-SVmhp_2UxnkeoTQIy9_hPTucsUGP_5VkZf_iFcnfmLfw52PCS1s9uPMTIxctcg7x9=s90"
+            ],
+            "recipeName": "Strawberry Pound Cake",
+            "totalTimeInSeconds": 5400,
+            "attributes": {
+                "course": [
+                    "Desserts",
+                    "Afternoon Tea"
+                ]
+            },
+            "flavors": {
+                "piquant": 0.0,
+                "meaty": 0.3333333333333333,
+                "bitter": 0.16666666666666666,
+                "sweet": 0.6666666666666666,
+                "sour": 0.8333333333333334,
+                "salty": 0.6666666666666666
+            },
+            "rating": 4
+        },
+        {
+            "imageUrlsBySize": {
+                "90": "https://lh3.googleusercontent.com/NyieysgSzA-roDnFeH6J7NshN99L-c8Zccsa-r49fzqSAAmSWO3nZj7tgF4-omyjUAIA9kAlk4MyOo0P3tRcmcY=s90-c"
+            },
+            "sourceDisplayName": "Natasha's Kitchen",
+            "ingredients": [
+                "unsalted butter",
+                "milk",
+                "all-purpose flour",
+                "active dry yeast",
+                "preserves"
+            ],
+            "id": "Russian-Rugelach-i_e_-Mom_s-famous-Rogaliki-2285342",
+            "smallImageUrls": [
+                "https://lh3.googleusercontent.com/kbbVQIu3JOGKfnrUQo8OiwYeFhof6c0FQ4S7nHMp6LGWjyNEBhBJh9oKdgKn2rlg0NrxrVjd68-f8BzMVLue5Ls=s90"
+            ],
+            "recipeName": "Russian Rugelach i.e. Mom's famous Rogaliki",
+            "totalTimeInSeconds": 4800,
+            "attributes": {},
+            "flavors": null,
+            "rating": 4
+        },
+        {
+            "imageUrlsBySize": {
+                "90": "https://lh3.googleusercontent.com/QpjrGHpLYe_G20rnL15okOXYJeJlMBWjOf9nGpKmC4xOzSCKmpUr7xMpx2g1NJfgCtLWY-bLomJEy0pw6WTM=s90-c"
+            },
+            "sourceDisplayName": "Averie Cooks",
+            "ingredients": [
+                "saltines",
+                "unsalted butter",
+                "brown sugar",
+                "vanilla extract",
+                "semi-sweet chocolate morsels"
+            ],
+            "id": "Chocolate-Saltine-Toffee-_aka-Christmas-Crack_-2119009",
+            "smallImageUrls": [
+                "https://lh3.googleusercontent.com/7KNRorlioBKCwsZb4cJ2sRYWzPIOy_BPWJYBwPj744WAARxeq02ExWLFTsTS8wFQHVDluhQivqzlsilQ4r2Hv-8=s90"
+            ],
+            "recipeName": "Chocolate Saltine Toffee (aka Christmas Crack)",
+            "totalTimeInSeconds": 3600,
+            "attributes": {
+                "course": [
+                    "Desserts"
+                ],
+                "holiday": [
+                    "Christmas"
+                ]
+            },
+            "flavors": null,
+            "rating": 4
+        },
+        {
+            "imageUrlsBySize": {
+                "90": "http://lh6.ggpht.com/1oNr7Icsmf6BcN0nf3_hHwSG-FmXU86JEpF7Wjs8v3l9-TcVI8ihkQ1YuQuLotWHkpsjzhsZsoens4ZCJ8cp=s90-c"
+            },
+            "sourceDisplayName": "Love Foodies",
+            "ingredients": [
+                "softened butter",
+                "milk",
+                "regular sugar",
+                "eggs",
+                "all-purpose flour",
+                "baking powder",
+                "salt",
+                "lemon",
+                "juice",
+                "warm water"
+            ],
+            "id": "Moist-Orange-or-Lemon-Pound-_-Loaf-Cake-779282",
+            "smallImageUrls": [
+                "http://lh5.ggpht.com/Ao-vHQSenO9XkUUPHi-qF7t9cE-x_6AnmXxxcUZpD_E7aUgRSzWW2vszCASYsmu9iJjOLHoAT4S-UvsBCzzWKA=s90"
+            ],
+            "recipeName": "Moist Orange or Lemon Pound / Loaf Cake",
+            "totalTimeInSeconds": 5700,
+            "attributes": {
+                "course": [
+                    "Desserts",
+                    "Breads",
+                    "Afternoon Tea"
+                ]
+            },
+            "flavors": {
+                "piquant": 0.0,
+                "meaty": 0.16666666666666666,
+                "bitter": 0.16666666666666666,
+                "sweet": 0.6666666666666666,
+                "sour": 0.8333333333333334,
+                "salty": 0.16666666666666666
+            },
+            "rating": 4
+        },
+        {
+            "imageUrlsBySize": {
+                "90": "https://lh3.googleusercontent.com/BuHrnY68-Rr8jLAssM638IKfbEnpbpbmjKaUKGP9wYX--AZwBdnW37qUoR8Ac05FlxUvk039X25qp6yvuhDM2g=s90-c"
+            },
+            "sourceDisplayName": "Smitten Kitchen",
+            "ingredients": [
+                "milk",
+                "granulated sugar",
+                "active dry yeast",
+                "unsalted butter",
+                "flour",
+                "table salt",
+                "water",
+                "baking soda",
+                "eggs",
+                "pretzel salt",
+                "coarse salt"
+            ],
+            "id": "Pretzel-Parker-House-Rolls-1930079",
+            "smallImageUrls": [
+                "https://lh3.googleusercontent.com/GiTppdwuIHKBeWPkvCCg0c0OcARMVErMiFPgyHyuq5FZnenCwhx8AyH4buux9nVBYrw6dkqusXyUpD62M_--tQ=s90"
+            ],
+            "recipeName": "Pretzel Parker House Rolls",
+            "totalTimeInSeconds": 3900,
+            "attributes": {
+                "course": [
+                    "Breads"
+                ]
+            },
+            "flavors": {
+                "sweet": 0.3333333333333333,
+                "piquant": 0.0,
+                "sour": 0.16666666666666666,
+                "salty": 0.8333333333333334,
+                "meaty": 0.16666666666666666,
+                "bitter": 0.8333333333333334
+            },
+            "rating": 4
+        },
+        {
+            "imageUrlsBySize": {
+                "90": "http://lh4.ggpht.com/P4hst-XxgevN1yVt8uXTxPP2iEIGznRWqoKO7bG484CCFoxTsgxE89oieNYtz9iR8nfMEiYPlMtievBsiC8D2Q=s90-c"
+            },
+            "sourceDisplayName": "Natasha's Kitchen",
+            "ingredients": [
+                "unsalted butter",
+                "milk",
+                "all-purpose flour",
+                "active dry yeast",
+                "preserves"
+            ],
+            "id": "Russian-Rugelach-i_e_-Mom_s-famous-Rogaliki-961689",
+            "smallImageUrls": [
+                "http://lh3.ggpht.com/qh6m3TNHifIWWi03kwvNR5ppAZ8v72KMCMJ6CGMnOUcKaE4YKte-YdL9PU861WOJF0r2H5mmWHGfYXQdpFQ22A=s90"
+            ],
+            "recipeName": "Russian Rugelach i.e. Mom's famous Rogaliki",
+            "totalTimeInSeconds": 4800,
+            "attributes": {
+                "cuisine": [
+                    "Russian"
+                ]
+            },
+            "flavors": null,
+            "rating": 4
+        },
+        {
+            "imageUrlsBySize": {
+                "90": "https://lh3.googleusercontent.com/gJBmW3hGmOZeg_XyxkuQIc0gRvCklPVAEk0FtWz7kbCShAAtGjoIiOG_XjHyGaWXn2hAeEUw_bdXZiAAW04oeg=s90-c"
+            },
+            "sourceDisplayName": "eHow",
+            "ingredients": [
+                "brussels sprouts",
+                "extra-virgin olive oil",
+                "sea salt",
+                "ground black pepper",
+                "garlic cloves"
+            ],
+            "id": "How-to-Make-Roasted-Brussels-Sprouts-1996621",
+            "smallImageUrls": [
+                "https://lh3.googleusercontent.com/TJSE3uuRfbuOfFgmROJzoBMIIJSa4nrqGEM8P5t2hhYLTtA99U50eNg2MTj5jqgZrKAVtnE7byIJe5LzvYjNPw=s90"
+            ],
+            "recipeName": "How to Make Roasted Brussels Sprouts",
+            "totalTimeInSeconds": 2700,
+            "attributes": {
+                "course": [
+                    "Side Dishes"
+                ],
+                "holiday": [
+                    "Sunday Lunch"
+                ]
+            },
+            "flavors": null,
+            "rating": 3
+        },
+        {
+            "imageUrlsBySize": {
+                "90": "http://lh3.ggpht.com/RNehLOAq0ztktcIOVkcaE10hwIR_Qq7pcvevnkFCvI0tTYo0kK9hr5dzD0Jq-QuYgdHyiny5mSRTTyEEmzpYaQ=s90-c"
+            },
+            "sourceDisplayName": "Love Foodies",
+            "ingredients": [
+                "softened butter",
+                "milk",
+                "regular sugar",
+                "light brown sugar",
+                "eggs",
+                "dulce de leche",
+                "plain flour",
+                "baking powder",
+                "salt",
+                "ground cinnamon",
+                "ground nutmeg",
+                "apples",
+                "lemon juice"
+            ],
+            "id": "Moist-Caramel-and-Apple-Loaf-902065",
+            "smallImageUrls": [
+                "http://lh6.ggpht.com/cmv1N7sWtSa6FdX5AbcyfNIll9OzSY2prTVfTLcUui-Ihz7W-WwL3-OpClru-0eT03B-eATDMxL9XBfN9fFCAxM=s90"
+            ],
+            "recipeName": "Moist Caramel and Apple Loaf",
+            "totalTimeInSeconds": 6300,
+            "attributes": {
+                "course": [
+                    "Desserts"
+                ],
+                "cuisine": [
+                    "Kid-Friendly"
+                ]
+            },
+            "flavors": {
+                "sweet": 0.8333333333333334,
+                "piquant": 0.0,
+                "sour": 0.16666666666666666,
+                "salty": 0.5,
+                "meaty": 0.16666666666666666,
+                "bitter": 0.16666666666666666
+            },
+            "rating": 4
+        },
+        {
+            "imageUrlsBySize": {
+                "90": "https://lh3.googleusercontent.com/JLgKP9AVJRsMEysWPEs6bm3NRSJrbrg0i2YvJpJj4jiUmF_xYxi9YR2CqFbKtrZqPRBvBuYcHf7hTCcF8Cbjsg=s90-c"
+            },
+            "sourceDisplayName": "EA Stewart",
+            "ingredients": [
+                "gluten-free bread",
+                "extra-virgin olive oil",
+                "salad greens",
+                "romaine lettuce",
+                "spinach",
+                "kale",
+                "cherry tomatoes",
+                "cucumber",
+                "bell pepper",
+                "kalamata",
+                "feta cheese",
+                "fresh herbs",
+                "oregano",
+                "mint",
+                "basil",
+                "parsley",
+                "fresh lemon juice",
+                "salt",
+                "ground black pepper"
+            ],
+            "id": "EASY-Greek-Panzanella-Salad-_-More-Happy-Things-_-Healthy-Living-Tips-2173682",
+            "smallImageUrls": [
+                "https://lh3.googleusercontent.com/E4QBOU7gohh-kfge5_HoDejs1nEQXDg_5KYSGbxJEQuLgFwyvniuCsDC1m30lCsmBOiMpUnBVxEElHvklFsvwQ=s90"
+            ],
+            "recipeName": "EASY Greek Panzanella Salad + More Happy Things & Healthy Living Tips",
+            "totalTimeInSeconds": 1200,
+            "attributes": {
+                "course": [
+                    "Salads"
+                ],
+                "cuisine": [
+                    "Greek",
+                    "Mediterranean"
+                ]
+            },
+            "flavors": null,
+            "rating": 3
+        },
+        {
+            "imageUrlsBySize": {
+                "90": "https://lh3.googleusercontent.com/MEuU8DPM28z6WEkBtqnjQjvUr2C9sIlzOxUfvfYaphqtMGKmR0aXayh99WhN1qvckqNVUz-VmmIcS0Kjvch1EQ=s90-c"
+            },
+            "sourceDisplayName": "Smitten Kitchen",
+            "ingredients": [
+                "flour",
+                "granulated sugar",
+                "ground cinnamon",
+                "unsalted butter",
+                "salt",
+                "all-purpose flour",
+                "baking powder",
+                "table salt",
+                "lemon",
+                "large eggs",
+                "vanilla extract",
+                "fresh blueberries",
+                "milk",
+                "walnuts",
+                "sugar"
+            ],
+            "id": "Blueberry-Crumb-Cake-1843928",
+            "smallImageUrls": [
+                "https://lh3.googleusercontent.com/3qRlk95xMBNhisnSlw4L4UUVe8FplWA2DNUX3sIi58QVIroUfhzoqXAtODqjHyGK2v8YBD7aDA-BKq0igU4uMA=s90"
+            ],
+            "recipeName": "Blueberry Crumb Cake",
+            "totalTimeInSeconds": 4200,
+            "attributes": {
+                "course": [
+                    "Breads",
+                    "Afternoon Tea"
+                ]
+            },
+            "flavors": {
+                "piquant": 0.0,
+                "meaty": 0.16666666666666666,
+                "bitter": 0.16666666666666666,
+                "sweet": 0.8333333333333334,
+                "sour": 0.6666666666666666,
+                "salty": 0.5
+            },
+            "rating": 4
+        }
+    ],
+    "facetCounts": {},
+    "totalMatchCount": 588,
+    "attribution": {
+        "html": "Recipe search powered by <a href='http://www.yummly.co/recipes'><img alt='Yummly' src='https://static.yummly.co/api-logo.png'/></a>",
+        "url": "http://www.yummly.co/recipes/",
+        "text": "Recipe search powered by Yummly",
+        "logo": "https://static.yummly.co/api-logo.png"
+    }
+}

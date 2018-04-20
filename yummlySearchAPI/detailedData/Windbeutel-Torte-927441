@@ -1,0 +1,51 @@
+{
+    "yield": "Zutaten f\u00fcr ca. 16 St\u00fccke:",
+    "nutritionEstimates": [],
+    "totalTime": "1 hr 30 min",
+    "images": [
+        {
+            "imageUrlsBySize": {
+                "90": "null=s90-c",
+                "360": "null=s360-c"
+            }
+        }
+    ],
+    "name": "Windbeutel-Torte",
+    "source": {
+        "sourceDisplayName": "Lecker",
+        "sourceSiteUrl": "lecker.de",
+        "sourceRecipeUrl": "http://www.lecker.de/rezept/883554/Windbeutel-Torte.html"
+    },
+    "id": "Windbeutel-Torte-927441",
+    "ingredientLines": [
+        "2 P\u00e4ckchen Vanillin-Zucker",
+        "1 Prise Salz",
+        "75 g Butter/Margarine",
+        "210 g Mehl",
+        "7 Eier (Gr. M)",
+        "1 1/2 TL Backpulver",
+        "1/2 Vanilleschote",
+        "250 g Sahnequark (40 % Fett i. Tr.)",
+        "75 g + 3 EL Zucker",
+        "250 g Schlagsahne",
+        "1 Glas (720 ml) Sauerkirschen",
+        "1 P\u00e4ckchen roter Tortenguss",
+        "ca. 1 EL Puderzucker",
+        "evtl. Melisse u. frische Kirschen zum Verzieren, Backpapier"
+    ],
+    "attribution": {
+        "html": "<a href='http://www.yummly.co/recipe/Windbeutel-Torte-927441'>Windbeutel-Torte recipe</a> information powered by <img alt='Yummly' src='https://static.yummly.co/api-logo.png'/>",
+        "url": "http://www.yummly.co/recipe/Windbeutel-Torte-927441",
+        "text": "Windbeutel-Torte recipes: information powered by Yummly",
+        "logo": "https://static.yummly.co/api-logo.png"
+    },
+    "numberOfServings": 16,
+    "totalTimeInSeconds": 5400,
+    "attributes": {
+        "course": [
+            "Desserts"
+        ]
+    },
+    "flavors": {},
+    "rating": 3
+}

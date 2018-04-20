@@ -1,0 +1,377 @@
+{
+    "criteria": {
+        "q": "g+o+u+d+a",
+        "allowedIngredient": null,
+        "excludedIngredient": null
+    },
+    "matches": [
+        {
+            "imageUrlsBySize": {
+                "90": "https://lh3.googleusercontent.com/Q2vWFiogzwGTJ9ityWuSB-TUu3iD2JZmvc3tgo22DScEowStw_9FF33G6AAKCCPlLQt-bJEWZ9qVMYWw9AUO=s90-c"
+            },
+            "sourceDisplayName": "Food52",
+            "ingredients": [
+                "barley flakes",
+                "stout",
+                "unbleached all-purpose flour",
+                "whole wheat flour",
+                "dry yeast",
+                "sea salt",
+                "dark chocolate chips"
+            ],
+            "id": "Barley_-beer-and-dark-chocolate-artisan-bread-332776",
+            "smallImageUrls": [
+                "https://lh3.googleusercontent.com/rXCSZeSLM6OB0bQCLU5UR32vBTfC6W2Qeu6MBqhGkDrR0FCm5T7w_hTCGmQy8IKgJNTBVv8iOtYAnnPxqKUd=s90"
+            ],
+            "recipeName": "Barley, Beer and Dark Chocolate Artisan Bread",
+            "totalTimeInSeconds": 5400,
+            "attributes": {
+                "course": [
+                    "Breads"
+                ]
+            },
+            "flavors": {
+                "piquant": 0.0,
+                "meaty": 0.16666666666666666,
+                "bitter": 0.8333333333333334,
+                "sweet": 0.5,
+                "sour": 0.0,
+                "salty": 0.8333333333333334
+            },
+            "rating": 5
+        },
+        {
+            "imageUrlsBySize": {
+                "90": "http://lh6.ggpht.com/XZLcueuilknzw3hDTMhIbT7NPcDfTwf6EpHPh8LQtWmbuR_1767frakCVT23-Zq_zTzJqt4DDnAWDjBY0EtXxI0=s90-c"
+            },
+            "sourceDisplayName": "Food52",
+            "ingredients": [
+                "raw cashews",
+                "water",
+                "sea salt",
+                "agave nectar",
+                "unbleached all-purpose flour",
+                "whole wheat flour",
+                "teas",
+                "cashew milk",
+                "instant yeast"
+            ],
+            "id": "Bengali-spice-tea-infused-artisian-bread-355676",
+            "smallImageUrls": [
+                "http://lh5.ggpht.com/SSCBDTwaO3P-bhA2drg-nHYd6WqkKQTeE7Uee2gI_ZmmLSg2drUtzDmhSAmIjH1UijF6ysiAUbIr49yUkEnsdek=s90"
+            ],
+            "recipeName": "Bengali Spice Tea Infused Artisian Bread",
+            "totalTimeInSeconds": 4500,
+            "attributes": {
+                "course": [
+                    "Breads"
+                ]
+            },
+            "flavors": {
+                "sweet": 0.16666666666666666,
+                "piquant": 0.0,
+                "sour": 0.16666666666666666,
+                "salty": 0.8333333333333334,
+                "meaty": 0.16666666666666666,
+                "bitter": 0.6666666666666666
+            },
+            "rating": 5
+        },
+        {
+            "imageUrlsBySize": {
+                "90": "http://lh3.googleusercontent.com/66Qh4-pHuC9PE0UKRiPMPGU_GCW6R6oWsZL5nAQKEckP_uSO3VfCnI_KzlAGi9K1B786GU7aWneQwYa9YZR0=s90-c"
+            },
+            "sourceDisplayName": "Lecker",
+            "ingredients": [
+                "Mehl",
+                "Backpulver",
+                "Ei",
+                "Butter",
+                "Semmelbr\u00f6sel",
+                "Haselnuss",
+                "Milch",
+                "Kuvert\u00fcre",
+                "Rahm"
+            ],
+            "id": "Viertage-Haselnuss-Torte-833757",
+            "smallImageUrls": [
+                "http://lh3.googleusercontent.com/Xl-6h-22THyD5F0LOY0xYJ6mvhHq_3qscXk2QFcBEHZVdZsdn1JGM4nh7MJQPPAD6uAAi05La-ypxI0Hd4ecJNs=s90"
+            ],
+            "recipeName": "Viertage-Haselnuss-Torte",
+            "totalTimeInSeconds": 4500,
+            "attributes": {
+                "course": [
+                    "Desserts"
+                ]
+            },
+            "flavors": {
+                "sweet": 0.8333333333333334,
+                "piquant": 0.0,
+                "sour": 0.16666666666666666,
+                "salty": 0.16666666666666666,
+                "meaty": 0.8333333333333334,
+                "bitter": 0.16666666666666666
+            },
+            "rating": 3
+        },
+        {
+            "imageUrlsBySize": {
+                "90": "http://lh3.googleusercontent.com/IEVa56x1vVP1Zo_NsLbREdgJkY0WxFmu6xc7VGFXxowMyJnJZW7Pz_WBJDQzTb9kDPLkafkkc9JbB8Su9Bry=s90-c"
+            },
+            "sourceDisplayName": "Lecker",
+            "ingredients": [
+                "Fett",
+                "Schokolade",
+                "Schlabgobers",
+                "Ei",
+                "Zucker",
+                "Salz",
+                "Mehl",
+                "Backpulver",
+                "Sahnefestiger",
+                "Bourbon-Vanillezucker",
+                "Kakao",
+                "Moccabohnen"
+            ],
+            "id": "Latte-Macchiato-Torte-927283",
+            "smallImageUrls": [
+                "http://lh3.googleusercontent.com/mox7YlW0Zg6obwMtwfATLII3CVfaQMdqFJPpNkCvzeEpbj82QiWcqm_k84v4_HsCuPJ5BkmjS8PfkePljSPJexU=s90"
+            ],
+            "recipeName": "Latte-Macchiato-Torte",
+            "totalTimeInSeconds": 1800,
+            "attributes": {
+                "course": [
+                    "Desserts"
+                ]
+            },
+            "flavors": null,
+            "rating": 3
+        },
+        {
+            "imageUrlsBySize": {
+                "90": "http://lh3.googleusercontent.com/mnU5s1PLZDkL78pL-y2T6z2mjeWrOtXz4VEcgZmS0m6OKzf1CluH8_r7KM-roQhShf0EvKPJ6JOQwBBD6wtVpw8=s90-c"
+            },
+            "sourceDisplayName": "Lecker",
+            "ingredients": [
+                "Haselnuss",
+                "Nu\u00dfnougat",
+                "Marzipan",
+                "weiche Butter",
+                "Zucker",
+                "Salz",
+                "aroma",
+                "Ei",
+                "Mehl",
+                "Backpulver",
+                "Schlabgobers",
+                "Fett",
+                "Haselnussblattchen",
+                "Konfit\u00fcre",
+                "Puderzucker"
+            ],
+            "id": "Knusper-Nougat-Kranz-926655",
+            "smallImageUrls": [
+                "http://lh3.googleusercontent.com/BHRu9mng5V1YnA_8rEut9iMY9iSTIKkjvg7vIA6TShaGHvtrwae9v04JXY8nwbrufYRqn4HWkRQxB7PDrL4_=s90"
+            ],
+            "recipeName": "Knusper-Nougat-Kranz",
+            "totalTimeInSeconds": 5400,
+            "attributes": {
+                "course": [
+                    "Desserts"
+                ]
+            },
+            "flavors": null,
+            "rating": 3
+        },
+        {
+            "imageUrlsBySize": {
+                "90": "http://lh3.googleusercontent.com/jeaM-jd69GtGaj3MhYdM9NFsTdH3eheFfxxy9Pxr0oi02-VyIrxCIORGiV_xS-00XSp1wFt1P3bxAGeE__DYww=s90-c"
+            },
+            "sourceDisplayName": "Lecker",
+            "ingredients": [
+                "Semmelbr\u00f6sel",
+                "Ei",
+                "Zucker",
+                "Butter",
+                "Kirsche",
+                "Speisest\u00e4rke",
+                "Milch",
+                "Puddingpulver",
+                "Rahm",
+                "Schlabgobers",
+                "Puderzucker"
+            ],
+            "id": "Knusprige-Karamell-Torteletts-832309",
+            "smallImageUrls": [
+                "http://lh3.googleusercontent.com/5TPxI2fJYiJGSZk5Ff8aGpVEjtPGGEN1-cDutJw0NXYJFuuMJGi8VzYT4tP8CLLv-bzxtpn0OkJLCtRj-Bq2=s90"
+            ],
+            "recipeName": "Knusprige Karamell-Torteletts",
+            "totalTimeInSeconds": 5400,
+            "attributes": {
+                "course": [
+                    "Desserts"
+                ]
+            },
+            "flavors": null,
+            "rating": 3
+        },
+        {
+            "imageUrlsBySize": {
+                "90": "http://lh3.googleusercontent.com/ysFsWFjQuIvhJztBvoYNwWS1zNAv0yCf0OA5mP65Fw76YJqES0tq9BrVDox0Siz6xsZP4jvsQDlbkhW6qEbiDw=s90-c"
+            },
+            "sourceDisplayName": "Lecker",
+            "ingredients": [
+                "Ei",
+                "Milch",
+                "Pfeffer wei\u00df",
+                "Butter",
+                "Schwarzbrot",
+                "Forellenfilet",
+                "Lachs",
+                "Seeaal",
+                "Forellenkaviar",
+                "Dill",
+                "shrimp",
+                "\u00d6l",
+                "Edels\u00fcsspaprika",
+                "Ketschup",
+                "Merrettich",
+                "Zitronensaft"
+            ],
+            "id": "Feine-Fischplatte-831884",
+            "smallImageUrls": [
+                "http://lh3.googleusercontent.com/2k4S63GEowtSaonTpKxqAi7L5aP8skh1BX0Z3cgMUfEtziYQNOEBqX311IAoD3YDd1kssYC7XrMrafZ2R4rYAMY=s90"
+            ],
+            "recipeName": "Feine Fischplatte",
+            "totalTimeInSeconds": 3000,
+            "attributes": {},
+            "flavors": null,
+            "rating": 3
+        },
+        {
+            "imageUrlsBySize": {
+                "90": "http://lh3.googleusercontent.com/j98Oeb7-CsnAQ6pOYVhXYyEA5sS-iN0Awifb4iK_3EJ6OhS81LRu6FfurMYc-BjPtiIAtrD1qK1v77yqXgr_lmk=s90-c"
+            },
+            "sourceDisplayName": "Chefkoch",
+            "ingredients": [
+                "Mehl",
+                "Hefe",
+                "Salz",
+                "Zucker",
+                "\u00d6l",
+                "Milch",
+                "Ei",
+                "Malz",
+                "K\u00fcmmel",
+                "Sesam"
+            ],
+            "id": "Salz---oder-Kummelstangen-910262",
+            "smallImageUrls": [
+                "http://lh3.googleusercontent.com/xJokLxZP1Iqxc_66dAb7RqFCG2UVb6c8PQSN1UYzDkIraF0mEs22wlASt0zCoHhN9oi6TnZPWVOciVQE1r26Ag=s90"
+            ],
+            "recipeName": "Salz - oder Ku\u0308mmelstangen",
+            "totalTimeInSeconds": 2400,
+            "attributes": {
+                "course": [
+                    "Desserts"
+                ]
+            },
+            "flavors": {
+                "sweet": 0.16666666666666666,
+                "piquant": 0.0,
+                "sour": 0.16666666666666666,
+                "salty": 0.8333333333333334,
+                "meaty": 0.3333333333333333,
+                "bitter": 0.3333333333333333
+            },
+            "rating": 3
+        },
+        {
+            "imageUrlsBySize": {
+                "90": "http://lh3.googleusercontent.com/jiUnsi3vQOHqXhCT3EdnkKPGOvIXdMfQYhQuiDg_YNzrS_NHW3tR9cdooiPJvttbYUrzIJXJPd2jM3n7bfc8=s90-c"
+            },
+            "sourceDisplayName": "Chefkoch",
+            "ingredients": [
+                "Mehl",
+                "Milch",
+                "Vanillezucker",
+                "Butter",
+                "Salz",
+                "Hefe",
+                "Ei",
+                "Vanilleschote",
+                "Zitrone",
+                "Rosine",
+                "Eigelb"
+            ],
+            "id": "Stutenkerl_-Weckmann_-Klausenmann-952343",
+            "smallImageUrls": [
+                "http://lh3.googleusercontent.com/Jxq-3IURumQUpVeyR6wEhoE_06FyKaoiHVnCy4sKSka7nNvdQ5_88-edbQBcnEe8pKZrk4GUNYIb_HEqfHdk2g=s90"
+            ],
+            "recipeName": "Stutenkerl, Weckmann, Klausenmann",
+            "totalTimeInSeconds": 2400,
+            "attributes": {
+                "course": [
+                    "Desserts"
+                ]
+            },
+            "flavors": {
+                "sweet": 0.5,
+                "piquant": 0.0,
+                "sour": 0.16666666666666666,
+                "salty": 0.6666666666666666,
+                "meaty": 0.16666666666666666,
+                "bitter": 0.5
+            },
+            "rating": 3
+        },
+        {
+            "imageUrlsBySize": {
+                "90": "http://lh3.googleusercontent.com/vER-vlxCMxC9G4AOBNmyWHvaAnrE_1PXrGCMdGs_qN5Kol9v8TPQ-rd9TRqktgpiUP27nZo_QceI06WPYWyyZQ=s90-c"
+            },
+            "sourceDisplayName": "Chefkoch",
+            "ingredients": [
+                "Ei",
+                "Zucker",
+                "Mandel",
+                "Kakaopulver",
+                "Mehl",
+                "Kirschwasser",
+                "Schattenmorellen",
+                "Zimt",
+                "Vanillezucker",
+                "Rahm",
+                "Sahnesteif",
+                "Schokolade"
+            ],
+            "id": "Schwarzwalder-Schnitten-948518",
+            "smallImageUrls": [
+                "http://lh3.googleusercontent.com/ZLK4vCj4xZw5dblVawG3bC42jipAAJoj1YP_5H0DGZKwIHVKpRDlX74tJlI1oMF8xyxWh-ILF0A0FuuFVdnN=s90"
+            ],
+            "recipeName": "Schwarzwa\u0308lder Schnitten",
+            "totalTimeInSeconds": 4200,
+            "attributes": {
+                "course": [
+                    "Desserts"
+                ]
+            },
+            "flavors": {
+                "sweet": 0.8333333333333334,
+                "piquant": 0.0,
+                "sour": 0.16666666666666666,
+                "salty": 0.16666666666666666,
+                "meaty": 0.5,
+                "bitter": 0.16666666666666666
+            },
+            "rating": 3
+        }
+    ],
+    "facetCounts": {},
+    "totalMatchCount": 10,
+    "attribution": {
+        "html": "Recipe search powered by <a href='http://www.yummly.co/recipes'><img alt='Yummly' src='https://static.yummly.co/api-logo.png'/></a>",
+        "url": "http://www.yummly.co/recipes/",
+        "text": "Recipe search powered by Yummly",
+        "logo": "https://static.yummly.co/api-logo.png"
+    }
+}

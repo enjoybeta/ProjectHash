@@ -1,0 +1,116 @@
+{
+    "criteria": {
+        "q": "M+e+h+l",
+        "allowedIngredient": null,
+        "excludedIngredient": null
+    },
+    "matches": [
+        {
+            "imageUrlsBySize": {
+                "90": "https://lh3.googleusercontent.com/LV1j-0i-ASeaq_UzAjgwLaUs7VgNFgesgooXrEvSlnkHEZB9rO7W4gKvSG63IFsc8cKo4KDZxIHd-B1t58C4cNk=s90-c"
+            },
+            "sourceDisplayName": "Breaking Bread",
+            "ingredients": [
+                "walnuts",
+                "unsalted almonds",
+                "honey",
+                "vanilla",
+                "eggs",
+                "baking soda",
+                "cinnamon",
+                "salt",
+                "dried cranberries",
+                "dark chocolate chips",
+                "chia seeds",
+                "rolled oats"
+            ],
+            "id": "Cranberry-Chocolate-Chip-Breakfast-Cookies-1791402",
+            "smallImageUrls": [
+                "https://lh3.googleusercontent.com/1Wm7PVBwuiE8ISTO3dqXg4OoxD8pRGeU6bWCOQ0a0v_bxUAxrwReF8Ah086yT-3ZYNLwbI5u-VlNPnTptFMbsA=s90"
+            ],
+            "recipeName": "Cranberry Chocolate Chip Breakfast Cookies",
+            "totalTimeInSeconds": 2280,
+            "attributes": {
+                "course": [
+                    "Desserts",
+                    "Breakfast and Brunch"
+                ]
+            },
+            "flavors": {
+                "piquant": 0.0,
+                "meaty": 0.8333333333333334,
+                "bitter": 0.8333333333333334,
+                "sweet": 0.6666666666666666,
+                "sour": 0.16666666666666666,
+                "salty": 0.6666666666666666
+            },
+            "rating": 4
+        },
+        {
+            "imageUrlsBySize": {
+                "90": "http://lh3.googleusercontent.com/CxO_0JaSmAcnDVLgf6FgLfgVwGAHWuJlGR8OsomniWlyQcXhvLxGmLcES2sXsOt6uJ_OTih9aTHEPK6Ft77t=s90-c"
+            },
+            "sourceDisplayName": "Lecker",
+            "ingredients": [
+                "Mandel",
+                "Haferflocken",
+                "Marille",
+                "Butter",
+                "Honig",
+                "Zimt",
+                "M\u00fcsli",
+                "Mehl",
+                "Eiwei\u00df"
+            ],
+            "id": "Aprikosen-Mandel-Musliriegel-848709",
+            "smallImageUrls": [
+                "http://lh3.googleusercontent.com/Oi4fSxHFV-HQxFIY5yN7dl7p0WXv4dLfkLkx17kGvk5h5zP8_9K-ttfuUms_9MbJbvth6W9Q25z2fV9HlM-a=s90"
+            ],
+            "recipeName": "Aprikosen-Mandel-Mu\u0308sliriegel",
+            "totalTimeInSeconds": 1800,
+            "attributes": {},
+            "flavors": {
+                "sweet": 0.6666666666666666,
+                "piquant": 0.0,
+                "sour": 0.16666666666666666,
+                "salty": 0.3333333333333333,
+                "meaty": 0.8333333333333334,
+                "bitter": 0.8333333333333334
+            },
+            "rating": 3
+        },
+        {
+            "imageUrlsBySize": {
+                "90": "http://lh3.googleusercontent.com/4xKDjPNBnYpuSOBRDMzNnFq0Bz7T46bOenvjm7FkRhwPY0e9fzdqaM7mGjuAPWrjwIUuVlqC_DlA8glEE7oPVgA=s90-c"
+            },
+            "sourceDisplayName": "Lecker",
+            "ingredients": [
+                "Haferflocken",
+                "bananenchips",
+                "Butter",
+                "Honig",
+                "M\u00fcsli",
+                "Mehl",
+                "Eiwei\u00df",
+                "Schokolade"
+            ],
+            "id": "Schoko-Bananen-Musliriegel-846332",
+            "smallImageUrls": [
+                "http://lh3.googleusercontent.com/Mn73krNhMSuJ89DjFyvaJIlBsLZCs_YqtKv5NTjcihn5Ohj9skWIuZLvqRiHRFEPB7UltQ_HEFWNNYkFUgkreRI=s90"
+            ],
+            "recipeName": "Schoko-Bananen-Mu\u0308sliriegel",
+            "totalTimeInSeconds": 1800,
+            "attributes": {},
+            "flavors": null,
+            "rating": 3
+        }
+    ],
+    "facetCounts": {},
+    "totalMatchCount": 3,
+    "attribution": {
+        "html": "Recipe search powered by <a href='http://www.yummly.co/recipes'><img alt='Yummly' src='https://static.yummly.co/api-logo.png'/></a>",
+        "url": "http://www.yummly.co/recipes/",
+        "text": "Recipe search powered by Yummly",
+        "logo": "https://static.yummly.co/api-logo.png"
+    }
+}

@@ -1,0 +1,354 @@
+{
+    "criteria": {
+        "q": "M+e+x+i+c+a+n+ +s+e+a+s+o+n+i+n+g+ +m+i+x",
+        "allowedIngredient": null,
+        "excludedIngredient": null
+    },
+    "matches": [
+        {
+            "imageUrlsBySize": {
+                "90": "http://lh3.googleusercontent.com/-6iOWm7KBEeXV0qzQ-YnfEzgma3AMZxzNPx1dOttV7I-e0704wzQ2Bu32EVLttyKcotvUt7cv5em2PgbOAWgiA=s90-c"
+            },
+            "sourceDisplayName": "Lecker",
+            "ingredients": [
+                "Rhabarber",
+                "Johannisbeersaft",
+                "Zucker",
+                "Saucenpulver",
+                "Mehl",
+                "Trockenhefe",
+                "Salz",
+                "Butter",
+                "Ei",
+                "Milch",
+                "Eigelb",
+                "Schlabgobers",
+                "pudding",
+                "Mandelbl\u00e4tter",
+                "Pistazie"
+            ],
+            "id": "Kopenhagener-mit-Vanillepudding-und-Rhabarber-926667",
+            "smallImageUrls": [
+                "http://lh3.googleusercontent.com/TQQIiGcBiZ-xQkJ2RsWDt8ukz9YTaZBkaIjl3z9XB-TKktUDbXPyTQE3Osgvj7Hyh3G5uVisxi1gDuiqAE6B=s90"
+            ],
+            "recipeName": "Kopenhagener mit Vanillepudding und Rhabarber",
+            "totalTimeInSeconds": 6300,
+            "attributes": {
+                "course": [
+                    "Desserts"
+                ]
+            },
+            "flavors": null,
+            "rating": 3
+        },
+        {
+            "imageUrlsBySize": {
+                "90": "http://lh3.googleusercontent.com/MBDGyD2VO8ZuoJY-pm7BRZek3a74TqHhkRxRI7RFRgfCpTR2K5mjuoHRertyzNfDHZQBUICNtzDsXXQ9fqrN4g=s90-c"
+            },
+            "sourceDisplayName": "Lecker",
+            "ingredients": [
+                "Milch",
+                "Salz",
+                "Butter",
+                "Mehl",
+                "Ei",
+                "Mango",
+                "Schlabgobers",
+                "Sahnefestiger",
+                "Speisequark",
+                "Zucker",
+                "Puderzucker"
+            ],
+            "id": "Windbeutel-mit-Mango-Quark-Fullung-_vier-mal-anders_-928374",
+            "smallImageUrls": [
+                "http://lh3.googleusercontent.com/NGs0S_7mYPjfCc8ZiDaO36N5fFzPKGld5eDjyWnqDOVakN8JgdbukrnZpPGbxg02eeDoeuO3ONEVRDkUy1CzGJE=s90"
+            ],
+            "recipeName": "Windbeutel mit Mango-Quark-Fu\u0308llung (vier mal anders)",
+            "totalTimeInSeconds": 4500,
+            "attributes": {
+                "course": [
+                    "Desserts"
+                ]
+            },
+            "flavors": {
+                "sweet": 0.8333333333333334,
+                "piquant": 0.0,
+                "sour": 0.16666666666666666,
+                "salty": 0.16666666666666666,
+                "meaty": 0.16666666666666666,
+                "bitter": 0.16666666666666666
+            },
+            "rating": 3
+        },
+        {
+            "imageUrlsBySize": {
+                "90": "http://lh3.googleusercontent.com/OVI-oS7cr7unqyN94gc8qmZuCYnBABgASeGLAIXpR5wbp9ZlIMOSZ1mKmTj_1YBYNiasy0KKSfkNGSFf_ziPCQ0=s90-c"
+            },
+            "sourceDisplayName": "Lecker",
+            "ingredients": [
+                "Filoteig",
+                "Vanilleschote",
+                "Butter",
+                "Milch",
+                "Mehl",
+                "Zucker",
+                "Stangenzimt",
+                "Salz",
+                "Ei",
+                "Eigelb",
+                "Nektarinen",
+                "Demerarazucker",
+                "Fett"
+            ],
+            "id": "Tarte-de-Pastel-de-Nata-_Vanille-Tarte-mit-Nektarinen_-930043",
+            "smallImageUrls": [
+                "http://lh3.googleusercontent.com/Szipg_5KeQIpka1VJv7OJHMtEwN5iBnyAQGk_k6Nif6Cr-bBSX-NIat3dyaS_xk9boCHgn053blrX5-5OsKBZA=s90"
+            ],
+            "recipeName": "Tarte de Pastel de Nata (Vanille-Tarte mit Nektarinen)",
+            "totalTimeInSeconds": 3600,
+            "attributes": {},
+            "flavors": {
+                "sweet": 0.8333333333333334,
+                "piquant": 0.0,
+                "sour": 0.16666666666666666,
+                "salty": 0.16666666666666666,
+                "meaty": 0.16666666666666666,
+                "bitter": 0.16666666666666666
+            },
+            "rating": 3
+        },
+        {
+            "imageUrlsBySize": {
+                "90": "http://lh3.googleusercontent.com/zbbKWRu3iD6HweiGUmygXFcILCRpQMl10SWCWIi7IbPRf6jFZeIF45A1jdRxYn8zIwBx0RuHYmgixgicv8j5Eg=s90-c"
+            },
+            "sourceDisplayName": "Lecker",
+            "ingredients": [
+                "Filoteig",
+                "Eigelb",
+                "Milch",
+                "Streuzucker",
+                "Schlabgobers",
+                "Zucker",
+                "Pflaumenmus"
+            ],
+            "id": "Friesentorte-837523",
+            "smallImageUrls": [
+                "http://lh3.googleusercontent.com/GfVwyLES7yJmdjTJ9b5LQJrAcNiV-nY-XDp71OxWeVievVO8PjWeZxEjwlS-VmLLSc15D-wJtRKv84b_b2RA5A=s90"
+            ],
+            "recipeName": "Friesentorte",
+            "totalTimeInSeconds": 2400,
+            "attributes": {
+                "course": [
+                    "Desserts"
+                ]
+            },
+            "flavors": null,
+            "rating": 3
+        },
+        {
+            "imageUrlsBySize": {
+                "90": "http://lh3.googleusercontent.com/cv4sK3zrBBcqyqRR-c5IuWmnENx2dwGwFUKp_40n8Llt2LtfbzGUSAx963Y9iKdhJhOzYo6Ktdt9f9VL07gGUDA=s90-c"
+            },
+            "sourceDisplayName": "Lecker",
+            "ingredients": [
+                "weiche Butter",
+                "Vanillezucker",
+                "Puderzucker",
+                "Ei",
+                "Mehl",
+                "Backpulver",
+                "Espresso",
+                "Milch",
+                "Speisest\u00e4rke",
+                "Zucker",
+                "Eigelb"
+            ],
+            "id": "Creme-brulee-Squares-843769",
+            "smallImageUrls": [
+                "http://lh3.googleusercontent.com/ph9bQLhrWgB3IWSCB1C0UgknQKZ0I2gaYz7D_06yGr-bccqHLBgFfH1AYaZgaI6HUlHLOmb40oyFSqFXY8UradE=s90"
+            ],
+            "recipeName": "Cre\u0300me-bru\u0302le\u0301e Squares",
+            "totalTimeInSeconds": 3600,
+            "attributes": {},
+            "flavors": {
+                "sweet": 0.6666666666666666,
+                "piquant": 0.0,
+                "sour": 0.16666666666666666,
+                "salty": 0.16666666666666666,
+                "meaty": 0.16666666666666666,
+                "bitter": 0.16666666666666666
+            },
+            "rating": 3
+        },
+        {
+            "imageUrlsBySize": {
+                "90": "http://lh3.googleusercontent.com/H1trOLApakMDzuvk1_vtMcEgWBD-Ct6WRB5jIcoHFeQUfb0TC1GTtJtGzqOGpK8roA4I6jFo_bXXiTqpEZAExQ=s90-c"
+            },
+            "sourceDisplayName": "Lecker",
+            "ingredients": [
+                "Mehl",
+                "Ei",
+                "Zucker",
+                "Salz",
+                "Butter",
+                "Lauch",
+                "Lachs",
+                "Milch",
+                "Lorbeerbl\u00e4tter",
+                "Pfeffer",
+                "Erbsen",
+                "Zwiebel",
+                "trockener Wei\u00dfwein",
+                "Eigelb",
+                "Fett"
+            ],
+            "id": "Fishermans-Pie-_Lachs-Lengfisch-Pie_-927820",
+            "smallImageUrls": [
+                "http://lh3.googleusercontent.com/zihAudn8t_JTzuz7KG581NVtV8BXdo0PFxxqyO5UcVzZBXlhOMltOfoidLnaXdz-rhvVsZRCMOnYWagAAO3zpA=s90"
+            ],
+            "recipeName": "Fishermans Pie (Lachs-Lengfisch-Pie)",
+            "totalTimeInSeconds": 4500,
+            "attributes": {},
+            "flavors": {
+                "sweet": 0.3333333333333333,
+                "piquant": 0.0,
+                "sour": 0.5,
+                "salty": 0.16666666666666666,
+                "meaty": 0.3333333333333333,
+                "bitter": 0.16666666666666666
+            },
+            "rating": 3
+        },
+        {
+            "imageUrlsBySize": {
+                "90": "http://lh3.googleusercontent.com/PRhfBah-mPVOJKWpbUGdK7RWiEvnEQ4A0aouczpwM7WUyO8rire9upAdfD04cg211mXfKeniUho75c2dwbzeRA=s90-c"
+            },
+            "sourceDisplayName": "Lecker",
+            "ingredients": [
+                "weiche Butter",
+                "Eigelb",
+                "Puderzucker",
+                "Vanillezucker",
+                "Mehl",
+                "Zucker"
+            ],
+            "id": "Zarter-Heideschnee-844584",
+            "smallImageUrls": [
+                "http://lh3.googleusercontent.com/dSnkXS31f-H0VFqvl6ozf0BTaoXnwNxiN7ZuWvCsVG9YiuUoyxwZSBfeImxnMwfMAd5Ge5bZMy0A30YXCVb2=s90"
+            ],
+            "recipeName": "Zarter Heideschnee",
+            "totalTimeInSeconds": 3000,
+            "attributes": {},
+            "flavors": {
+                "sweet": 0.8333333333333334,
+                "piquant": 0.0,
+                "sour": 0.16666666666666666,
+                "salty": 0.16666666666666666,
+                "meaty": 0.6666666666666666,
+                "bitter": 0.16666666666666666
+            },
+            "rating": 3
+        },
+        {
+            "imageUrlsBySize": {
+                "90": "http://lh3.googleusercontent.com/HEBuVTTLFDhIrT4ei5IKGNPyniHBDf4Xl02sPDMpqtvItWDYzXpicVQUm8IPjUKjK0PzIRhtzOf5sptGWrj1D04=s90-c"
+            },
+            "sourceDisplayName": "Lecker",
+            "ingredients": [
+                "Butter",
+                "Puderzucker",
+                "Mehl",
+                "Eigelb",
+                "Erdbeere",
+                "Schokolade",
+                "Fett",
+                "Trockenerbsen"
+            ],
+            "id": "Erdbeer-Tarteletts-815037",
+            "smallImageUrls": [
+                "http://lh3.googleusercontent.com/Q2Rdtw0GRJInqY2XJfzYJ11l5y4h4ox6BYqZRaGt0J9qpCTpnyu3P8EV3d-ETDyOm2_kRQ8_HWpQwYSzyhPe=s90"
+            ],
+            "recipeName": "Erdbeer-Tarteletts",
+            "totalTimeInSeconds": 3600,
+            "attributes": {
+                "course": [
+                    "Desserts"
+                ]
+            },
+            "flavors": null,
+            "rating": 3
+        },
+        {
+            "imageUrlsBySize": {
+                "90": "http://lh3.googleusercontent.com/DgxyZGhPxmz_Zcmmqo-c3INbDj_DNrUdfDjmVGaJGohV897KbNK17-gM3Zsdqn23BlGVEFvUifGZDZa8eYQjzg=s90-c"
+            },
+            "sourceDisplayName": "Lecker",
+            "ingredients": [
+                "Tomate",
+                "Mozzarella",
+                "Basilikum",
+                "Basilikumsauce",
+                "Salz",
+                "Pfeffer",
+                "Filoteig",
+                "Eigelb",
+                "Milch"
+            ],
+            "id": "Caprese-Blatterteigtaschen-839759",
+            "smallImageUrls": [
+                "http://lh3.googleusercontent.com/YgH3H9dkVMHw3MYzI3i5InHarqQSRuq1O_kbByXEHMtuHzEjPTJ7pZEFOEbeBnAj7ddsZkXJUkGiH3vAj_wjWQ=s90"
+            ],
+            "recipeName": "Caprese-Bla\u0308tterteigtaschen",
+            "totalTimeInSeconds": 3000,
+            "attributes": {},
+            "flavors": null,
+            "rating": 3
+        },
+        {
+            "imageUrlsBySize": {
+                "90": "http://lh3.googleusercontent.com/ee9Z0WAXtKDWAA289BNT2cz8CMnJgxvVx5awuWFYDoTNqeQZHHN5CLgMjFR3l00CsEzIKgD83soHj7nead6D=s90-c"
+            },
+            "sourceDisplayName": "Lecker",
+            "ingredients": [
+                "Mehl",
+                "Puderzucker",
+                "Butter",
+                "Eigelb",
+                "Ei",
+                "Zucker",
+                "Speisest\u00e4rke",
+                "Backpulver",
+                "Mandelbl\u00e4tter",
+                "Gelatine",
+                "Erdbeere",
+                "Obersk\u00e4se",
+                "magerquark",
+                "Zitronensaft",
+                "prosecco",
+                "Schlabgobers",
+                "Konfit\u00fcre"
+            ],
+            "id": "Erdbeer-Wickeltorte-mit-Prosecco-839399",
+            "smallImageUrls": [
+                "http://lh3.googleusercontent.com/KcUda1y1eTvmXJd2dx3Xh2CUfzl75gDqehz_qbwwkHUxPQ9WAikOlX6y60fIWFjFvcg1XrO_mHA1m3PtRI1XBw=s90"
+            ],
+            "recipeName": "Erdbeer-Wickeltorte mit Prosecco",
+            "totalTimeInSeconds": 5400,
+            "attributes": {
+                "course": [
+                    "Desserts"
+                ]
+            },
+            "flavors": null,
+            "rating": 3
+        }
+    ],
+    "facetCounts": {},
+    "totalMatchCount": 76,
+    "attribution": {
+        "html": "Recipe search powered by <a href='http://www.yummly.co/recipes'><img alt='Yummly' src='https://static.yummly.co/api-logo.png'/></a>",
+        "url": "http://www.yummly.co/recipes/",
+        "text": "Recipe search powered by Yummly",
+        "logo": "https://static.yummly.co/api-logo.png"
+    }
+}

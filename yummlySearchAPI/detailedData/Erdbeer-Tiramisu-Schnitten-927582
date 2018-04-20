@@ -1,0 +1,53 @@
+{
+    "yield": "Zutaten f\u00fcr ca. 12 St\u00fccke:",
+    "nutritionEstimates": [],
+    "totalTime": "1 hr 15 min",
+    "images": [
+        {
+            "hostedSmallUrl": "http://lh3.googleusercontent.com/Q6qKy0S5VoRdpv8Ox-sXeTMbI0VdK7NwscFdARs8swxnNBrUKV7H-Nq26eZlI-yOmYAhGWCHL-v-dNkh-ilzzA=s90",
+            "hostedMediumUrl": "http://lh3.googleusercontent.com/Q6qKy0S5VoRdpv8Ox-sXeTMbI0VdK7NwscFdARs8swxnNBrUKV7H-Nq26eZlI-yOmYAhGWCHL-v-dNkh-ilzzA=s180",
+            "hostedLargeUrl": "http://lh3.googleusercontent.com/Q6qKy0S5VoRdpv8Ox-sXeTMbI0VdK7NwscFdARs8swxnNBrUKV7H-Nq26eZlI-yOmYAhGWCHL-v-dNkh-ilzzA=s360",
+            "imageUrlsBySize": {
+                "90": "http://lh3.googleusercontent.com/vVEwmODHJvc4YAbLbffjElLPryBKYafq8nPWBsL8EoElUw9oG60NXCvxVJlnnB5rz2g-NnR8EYkFws8FNDIg7w=s90-c",
+                "360": "http://lh3.googleusercontent.com/vVEwmODHJvc4YAbLbffjElLPryBKYafq8nPWBsL8EoElUw9oG60NXCvxVJlnnB5rz2g-NnR8EYkFws8FNDIg7w=s360-c"
+            }
+        }
+    ],
+    "name": "Erdbeer-Tiramisu-Schnitten",
+    "source": {
+        "sourceDisplayName": "Lecker",
+        "sourceSiteUrl": "lecker.de",
+        "sourceRecipeUrl": "http://www.lecker.de/rezept/924365/Erdbeer-Tiramisu-Schnitten.html"
+    },
+    "id": "Erdbeer-Tiramisu-Schnitten-927582",
+    "ingredientLines": [
+        "Fett u. Mehl f\u00fcr die Fettpfanne",
+        "2 Eier (Gr. M), Salz",
+        "50 g + 50 g + 3 TL Zucker",
+        "3 P\u00e4ckchen Vanillin-Zucker",
+        "50 g Mehl, 15 g Speisest\u00e4rke",
+        "1 gestrichener TL Backpulver",
+        "800 g Erdbeeren",
+        "125 g Mascarpone",
+        "125 g Magerquark",
+        "100 g + 400 g Schlagsahne",
+        "1 P\u00e4ckchen Tortenguss \"Erdbeer-Geschmack\"",
+        "1 P\u00e4ckchen Sahnefestiger",
+        "Kakao z. Best\u00e4uben, Alufolie"
+    ],
+    "attribution": {
+        "html": "<a href='http://www.yummly.co/recipe/Erdbeer-Tiramisu-Schnitten-927582'>Erdbeer-Tiramisu-Schnitten recipe</a> information powered by <img alt='Yummly' src='https://static.yummly.co/api-logo.png'/>",
+        "url": "http://www.yummly.co/recipe/Erdbeer-Tiramisu-Schnitten-927582",
+        "text": "Erdbeer-Tiramisu-Schnitten recipes: information powered by Yummly",
+        "logo": "https://static.yummly.co/api-logo.png"
+    },
+    "numberOfServings": 12,
+    "totalTimeInSeconds": 4500,
+    "attributes": {
+        "course": [
+            "Desserts"
+        ]
+    },
+    "flavors": {},
+    "rating": 3
+}

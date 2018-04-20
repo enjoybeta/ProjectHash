@@ -1,0 +1,49 @@
+{
+    "yield": "Zutaten f\u00fcr 8 Personen:",
+    "nutritionEstimates": [],
+    "totalTime": "3 hr 30 min",
+    "images": [
+        {
+            "hostedSmallUrl": "http://lh3.googleusercontent.com/zQ3LWAlKuSm9rJAV4I5VYvJ_sS55uM7InU0Z4bVDnPLFjp8tWaXSdWlq9z1-Q7mGi109SMT6OCgKtdIdCgfRbA=s90",
+            "hostedMediumUrl": "http://lh3.googleusercontent.com/zQ3LWAlKuSm9rJAV4I5VYvJ_sS55uM7InU0Z4bVDnPLFjp8tWaXSdWlq9z1-Q7mGi109SMT6OCgKtdIdCgfRbA=s180",
+            "hostedLargeUrl": "http://lh3.googleusercontent.com/zQ3LWAlKuSm9rJAV4I5VYvJ_sS55uM7InU0Z4bVDnPLFjp8tWaXSdWlq9z1-Q7mGi109SMT6OCgKtdIdCgfRbA=s360",
+            "imageUrlsBySize": {
+                "90": "http://lh3.googleusercontent.com/Ukh6_32rRDqNbR2fFV8ifIHJydOlNLyxJQmKg-_4nlNuBU9tfccCZ5L_qhNEIw0aayLjgXyl3jDbn_3d21vi=s90-c",
+                "360": "http://lh3.googleusercontent.com/Ukh6_32rRDqNbR2fFV8ifIHJydOlNLyxJQmKg-_4nlNuBU9tfccCZ5L_qhNEIw0aayLjgXyl3jDbn_3d21vi=s360-c"
+            }
+        }
+    ],
+    "name": "Saftiger Oster-Schinkenbraten",
+    "source": {
+        "sourceDisplayName": "Lecker",
+        "sourceSiteUrl": "lecker.de",
+        "sourceRecipeUrl": "http://www.lecker.de/rezept/2642197/Saftiger-Oster-Schinkenbraten.html"
+    },
+    "id": "Saftiger-Oster-Schinkenbraten-840759",
+    "ingredientLines": [
+        "3 Zwiebeln",
+        "2 M\u00f6hren",
+        "3 kg gep\u00f6kelter Schweineschinkenbraten (ohne Schwarte; evtl. beim Fleischer vorbestellen)",
+        "1 EL schwarze Pfefferk\u00f6rner",
+        "3 Lorbeerbl\u00e4tter",
+        "100 g fl\u00fcssiger Honig (z.\u2009B. Akazienhonig)",
+        "3\u20134 EL Sojaso\u00dfe",
+        "6 EL scharfer Senf",
+        "8 EL k\u00f6rniger Senf",
+        "1 geh\u00e4ufter TL Speisest\u00e4rke",
+        "Salz",
+        "Pfeffer",
+        "4\u20135 Stiele glatte Petersilie"
+    ],
+    "attribution": {
+        "html": "<a href='http://www.yummly.co/recipe/Saftiger-Oster-Schinkenbraten-840759'>Saftiger Oster-Schinkenbraten recipe</a> information powered by <img alt='Yummly' src='https://static.yummly.co/api-logo.png'/>",
+        "url": "http://www.yummly.co/recipe/Saftiger-Oster-Schinkenbraten-840759",
+        "text": "Saftiger Oster-Schinkenbraten recipes: information powered by Yummly",
+        "logo": "https://static.yummly.co/api-logo.png"
+    },
+    "numberOfServings": 8,
+    "totalTimeInSeconds": 12600,
+    "attributes": {},
+    "flavors": {},
+    "rating": 3
+}

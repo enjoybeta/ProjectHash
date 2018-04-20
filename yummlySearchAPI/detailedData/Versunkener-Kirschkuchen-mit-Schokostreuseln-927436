@@ -1,0 +1,52 @@
+{
+    "yield": "Zutaten f\u00fcr ca. 12 St\u00fccke:",
+    "nutritionEstimates": [],
+    "totalTime": "1 hr 30 min",
+    "images": [
+        {
+            "hostedSmallUrl": "http://lh3.googleusercontent.com/UnQdOFWfUMPCHE5q-cvEq6rZJ5DXLlhPWfMWM1J5fOkqQ4eDkds_e7yB6uUj5PeTPSZc9gz0rEQWWjGaN13Ukg=s90",
+            "hostedMediumUrl": "http://lh3.googleusercontent.com/UnQdOFWfUMPCHE5q-cvEq6rZJ5DXLlhPWfMWM1J5fOkqQ4eDkds_e7yB6uUj5PeTPSZc9gz0rEQWWjGaN13Ukg=s180",
+            "hostedLargeUrl": "http://lh3.googleusercontent.com/UnQdOFWfUMPCHE5q-cvEq6rZJ5DXLlhPWfMWM1J5fOkqQ4eDkds_e7yB6uUj5PeTPSZc9gz0rEQWWjGaN13Ukg=s360",
+            "imageUrlsBySize": {
+                "90": "http://lh3.googleusercontent.com/g56k17ZAAV4Xv50MzSCN8HdTWqZvCn0HfN8Xixm4Vt4-UkKhXzcWTpw_bcbENRN20wlBEQKr11qIXWjPw0QJ=s90-c",
+                "360": "http://lh3.googleusercontent.com/g56k17ZAAV4Xv50MzSCN8HdTWqZvCn0HfN8Xixm4Vt4-UkKhXzcWTpw_bcbENRN20wlBEQKr11qIXWjPw0QJ=s360-c"
+            }
+        }
+    ],
+    "name": "Versunkener Kirschkuchen mit Schokostreuseln",
+    "source": {
+        "sourceDisplayName": "Lecker",
+        "sourceSiteUrl": "lecker.de",
+        "sourceRecipeUrl": "http://www.lecker.de/rezept/1095038/Versunkener-Kirschkuchen-mit-Schokostreuseln.html"
+    },
+    "id": "Versunkener-Kirschkuchen-mit-Schokostreuseln-927436",
+    "ingredientLines": [
+        "425 g Mehl",
+        "275 g Zucker",
+        "ca. 2 TL Kakaopulver",
+        "2 P\u00e4ckchen Vanillin-Zucker",
+        "275 g Butter",
+        "1 Eigelb (Gr\u00f6\u00dfe M)",
+        "Salz",
+        "1 Glas (720 ml) Schattenmorellen",
+        "4 Eier (Gr\u00f6\u00dfe M)",
+        "1/2 P\u00e4ckchen Backpulver",
+        "50 ml Mandellik\u00f6r",
+        "Fett und Mehl f\u00fcr die Form"
+    ],
+    "attribution": {
+        "html": "<a href='http://www.yummly.co/recipe/Versunkener-Kirschkuchen-mit-Schokostreuseln-927436'>Versunkener Kirschkuchen mit Schokostreuseln recipe</a> information powered by <img alt='Yummly' src='https://static.yummly.co/api-logo.png'/>",
+        "url": "http://www.yummly.co/recipe/Versunkener-Kirschkuchen-mit-Schokostreuseln-927436",
+        "text": "Versunkener Kirschkuchen mit Schokostreuseln recipes: information powered by Yummly",
+        "logo": "https://static.yummly.co/api-logo.png"
+    },
+    "numberOfServings": 12,
+    "totalTimeInSeconds": 5400,
+    "attributes": {
+        "course": [
+            "Desserts"
+        ]
+    },
+    "flavors": {},
+    "rating": 3
+}

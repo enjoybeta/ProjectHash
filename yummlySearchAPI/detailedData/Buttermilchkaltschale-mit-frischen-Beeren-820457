@@ -1,0 +1,46 @@
+{
+    "yield": "Zutaten f\u00fcr 4 Personen:",
+    "nutritionEstimates": [],
+    "totalTime": "15 min",
+    "images": [
+        {
+            "hostedSmallUrl": "http://lh3.googleusercontent.com/RGamt5QuQhFoNA7dYsdJ7wndh0E2DQ68pddiIHGgsNc5rIQxLVItKY-CIYpOU0136guVbTzuPYYxvEkGnkHvLpU=s90",
+            "hostedMediumUrl": "http://lh3.googleusercontent.com/RGamt5QuQhFoNA7dYsdJ7wndh0E2DQ68pddiIHGgsNc5rIQxLVItKY-CIYpOU0136guVbTzuPYYxvEkGnkHvLpU=s180",
+            "hostedLargeUrl": "http://lh3.googleusercontent.com/RGamt5QuQhFoNA7dYsdJ7wndh0E2DQ68pddiIHGgsNc5rIQxLVItKY-CIYpOU0136guVbTzuPYYxvEkGnkHvLpU=s360",
+            "imageUrlsBySize": {
+                "90": "http://lh3.googleusercontent.com/FVlPN6HAmQyE7sG3xZSmyVL66HnxhsBouAE-y20P7G00nsWZ081ojcAxrfkWKrXYtOVTsTXAzlKMMdEb5V0j7g=s90-c",
+                "360": "http://lh3.googleusercontent.com/FVlPN6HAmQyE7sG3xZSmyVL66HnxhsBouAE-y20P7G00nsWZ081ojcAxrfkWKrXYtOVTsTXAzlKMMdEb5V0j7g=s360-c"
+            }
+        }
+    ],
+    "name": "Buttermilchkaltschale mit frischen Beeren",
+    "source": {
+        "sourceDisplayName": "Lecker",
+        "sourceSiteUrl": "lecker.de",
+        "sourceRecipeUrl": "http://www.lecker.de/rezept/667312/Buttermilchkaltschale-mit-frischen-Beeren.html"
+    },
+    "id": "Buttermilchkaltschale-mit-frischen-Beeren-820457",
+    "ingredientLines": [
+        "500 g Beeren der Saison, z. B. Himbeeren, Heidelbeeren, Brombeeren und schwarze Johannisbeeren",
+        "1 l kalte Buttermilch",
+        "80-100 g Zucker",
+        "1 P\u00e4ckchen Vanillin-Zucker",
+        "abgeriebene Schale von 1/2 unbehandelten Zitrone",
+        "125 g Schlagsahne"
+    ],
+    "attribution": {
+        "html": "<a href='http://www.yummly.co/recipe/Buttermilchkaltschale-mit-frischen-Beeren-820457'>Buttermilchkaltschale mit frischen Beeren recipe</a> information powered by <img alt='Yummly' src='https://static.yummly.co/api-logo.png'/>",
+        "url": "http://www.yummly.co/recipe/Buttermilchkaltschale-mit-frischen-Beeren-820457",
+        "text": "Buttermilchkaltschale mit frischen Beeren recipes: information powered by Yummly",
+        "logo": "https://static.yummly.co/api-logo.png"
+    },
+    "numberOfServings": 4,
+    "totalTimeInSeconds": 900,
+    "attributes": {
+        "course": [
+            "Desserts"
+        ]
+    },
+    "flavors": {},
+    "rating": 3
+}

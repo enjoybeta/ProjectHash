@@ -1,0 +1,51 @@
+{
+    "criteria": {
+        "q": "p+o+n+z+u",
+        "allowedIngredient": null,
+        "excludedIngredient": null
+    },
+    "matches": [
+        {
+            "imageUrlsBySize": {
+                "90": "http://lh3.googleusercontent.com/jgAbsceaqrFUxyj-PdGHl2E0mxahN_F7vbdH9nPLH5XK4PTsrD8KRomfFGRVGaEnJoNysrCtqmRN5GpDO88J=s90-c"
+            },
+            "sourceDisplayName": "Lecker",
+            "ingredients": [
+                "Kirsche",
+                "Fett",
+                "weiche Butter",
+                "Zucker",
+                "Ei",
+                "Backpulver",
+                "Haselnuss",
+                "Schokotropfen",
+                "Schlabgobers",
+                "Sahnefestiger",
+                "Kuvert\u00fcre",
+                "Plattenfett",
+                "Konfit\u00fcre"
+            ],
+            "id": "Haselnuss-Donauwellen-mit-Kirschen-926751",
+            "smallImageUrls": [
+                "http://lh3.googleusercontent.com/Sxd7UiKON8Nduj5S2EOJyejijY0OjRkqIvlTdz6-0MwL3Ad31vOdxRz9OoRAIjrz11YSboBndMTeuM06mS0yDQ=s90"
+            ],
+            "recipeName": "Haselnuss-Donauwellen mit Kirschen",
+            "totalTimeInSeconds": 4500,
+            "attributes": {
+                "course": [
+                    "Desserts"
+                ]
+            },
+            "flavors": null,
+            "rating": 3
+        }
+    ],
+    "facetCounts": {},
+    "totalMatchCount": 1,
+    "attribution": {
+        "html": "Recipe search powered by <a href='http://www.yummly.co/recipes'><img alt='Yummly' src='https://static.yummly.co/api-logo.png'/></a>",
+        "url": "http://www.yummly.co/recipes/",
+        "text": "Recipe search powered by Yummly",
+        "logo": "https://static.yummly.co/api-logo.png"
+    }
+}

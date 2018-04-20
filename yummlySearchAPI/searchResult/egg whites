@@ -1,0 +1,309 @@
+{
+    "criteria": {
+        "q": "e+g+g+ +w+h+i+t+e+s",
+        "allowedIngredient": null,
+        "excludedIngredient": null
+    },
+    "matches": [
+        {
+            "imageUrlsBySize": {
+                "90": "https://lh3.googleusercontent.com/4p8oSUDUJ5q1E63_80Ptf3jLeqQbE_RaH7GUZXpRtjGqfatmFsoaDVOUbPB5RvOL286GG8GNUkSlV7CBUR1x6A=s90-c"
+            },
+            "sourceDisplayName": "delicious days",
+            "ingredients": [
+                "milk",
+                "all-purpose flour",
+                "fresh yeast",
+                "butter",
+                "sugar",
+                "fine sea salt",
+                "eggs",
+                "ground almonds",
+                "ground hazelnuts",
+                "ceylon cinnamon",
+                "ground cloves",
+                "grated nutmeg",
+                "marzipan",
+                "brown sugar",
+                "honey",
+                "rum",
+                "amaretto",
+                "lemon",
+                "hazelnuts",
+                "apricot jam",
+                "water"
+            ],
+            "id": "T-H-E-Nut-Braid-2186750",
+            "smallImageUrls": [
+                "https://lh3.googleusercontent.com/y2GvKmdzi68UlTf9vHCpyEHrwOSud01nA5g4PZk-IhCyXCXcUw2TLLE7a1dGbv7ZtoML1iWVDX83DI8140k=s90"
+            ],
+            "recipeName": "T-H-E Nut Braid",
+            "totalTimeInSeconds": 4800,
+            "attributes": {},
+            "flavors": {
+                "piquant": 0.0,
+                "meaty": 0.5,
+                "bitter": 0.16666666666666666,
+                "sweet": 0.6666666666666666,
+                "sour": 0.5,
+                "salty": 0.16666666666666666
+            },
+            "rating": 4
+        },
+        {
+            "imageUrlsBySize": {
+                "90": "https://lh3.googleusercontent.com/EfY2Uk8bLz8yB5Pj0GjAkyS3VC-YSw4rWe7oYj8iA9z5Q112bGnwgh4GpYw7o-uIMXmTLAu_Sgz_lfG_h8osFg=s90-c"
+            },
+            "sourceDisplayName": "Amanda Mackay",
+            "ingredients": [
+                "rolled oats",
+                "boiling water",
+                "salt",
+                "shortening",
+                "yeast",
+                "warm water",
+                "sugar",
+                "molasses",
+                "flour"
+            ],
+            "id": "Brown-Bread-Recipe-_-Oatmeal-Molasses-_-Heavy-Dense-Bread-2353673",
+            "smallImageUrls": [
+                "https://lh3.googleusercontent.com/olLp9Qc6fzm4bNBdkfHYgZDgbWnzoP6d8gWmne3VJh5Mt9Nnky4uBzuhyqRrGzl1Zrps5gpzI8Z9-kZIZ0_Lew=s90"
+            ],
+            "recipeName": "Brown Bread Recipe | Oatmeal Molasses | Heavy Dense Bread",
+            "totalTimeInSeconds": 5400,
+            "attributes": {
+                "course": [
+                    "Breads"
+                ]
+            },
+            "flavors": {
+                "piquant": 0.0,
+                "meaty": 0.16666666666666666,
+                "bitter": 0.16666666666666666,
+                "sweet": 0.5,
+                "sour": 0.16666666666666666,
+                "salty": 0.5
+            },
+            "rating": 4
+        },
+        {
+            "imageUrlsBySize": {
+                "90": "http://lh3.googleusercontent.com/b6uZ0DPXXJH4ggxuIBHYOp7aN5JrlYfQ75KR9tLU0V0G7j5TaomHhUcaZ27I-zFMYjRUH7DMYZAbQ09Ebevo=s90-c"
+            },
+            "sourceDisplayName": "Your Homebased Mom",
+            "ingredients": [
+                "flour",
+                "sugar",
+                "baking powder",
+                "baking soda",
+                "salt",
+                "unsalted butter",
+                "mashed banana",
+                "large eggs",
+                "vanilla extract",
+                "butter",
+                "cream cheese",
+                "powdered sugar",
+                "vanilla",
+                "cinnamon"
+            ],
+            "id": "Pretty-Bad-Day-Made-Better-Banana-Cupcakes-1223750",
+            "smallImageUrls": [
+                "http://lh3.googleusercontent.com/8441iQww1875DxZCdB2AV4GAsFfSiQg8KKonUQhFJ0cDcLhBvPNNB2bByO0aRplsOLQYVk6LpYWcAx4xy1s4xw=s90"
+            ],
+            "recipeName": "Pretty Bad Day Made Better \u2013 Banana Cupcakes",
+            "totalTimeInSeconds": 3000,
+            "attributes": {
+                "course": [
+                    "Desserts",
+                    "Afternoon Tea"
+                ]
+            },
+            "flavors": {
+                "piquant": 0.0,
+                "meaty": 0.5,
+                "bitter": 0.16666666666666666,
+                "sweet": 0.8333333333333334,
+                "sour": 0.16666666666666666,
+                "salty": 0.3333333333333333
+            },
+            "rating": 4
+        },
+        {
+            "imageUrlsBySize": {
+                "90": "http://lh3.ggpht.com/5zQTt-Kc61L4JSyaeCs8h4ZyNKFcHZbEty557U_bKfkUv8DVL0IR088lhFCPPqXYchJwozA-Y0JQMQMl2lLO=s90-c"
+            },
+            "sourceDisplayName": "Food52",
+            "ingredients": [
+                "water",
+                "semolina",
+                "butter",
+                "large eggs",
+                "granulated sugar",
+                "salt",
+                "chopped parsley",
+                "grated nutmeg"
+            ],
+            "id": "Semolina-dumplings-324506",
+            "smallImageUrls": [
+                "http://lh5.ggpht.com/SaggDnqTzv3qhx4a3dAS2p_i-67equ_xOVh4wndy0i41qY9xHPDyOxYRHDSBR-bPAyqUWBrVBQf5cpxMy35UmQ=s90"
+            ],
+            "recipeName": "Semolina Dumplings",
+            "totalTimeInSeconds": 1800,
+            "attributes": {
+                "course": [
+                    "Desserts"
+                ]
+            },
+            "flavors": {
+                "piquant": 0.0,
+                "meaty": 0.16666666666666666,
+                "bitter": 0.16666666666666666,
+                "sweet": 0.16666666666666666,
+                "sour": 0.16666666666666666,
+                "salty": 0.16666666666666666
+            },
+            "rating": 3
+        },
+        {
+            "imageUrlsBySize": {
+                "90": "http://lh3.googleusercontent.com/yaGaEjcAtq9hSFHSM9xT_D7W2dLd7a4cD1EycGO5oJtZRntgLGI1O-A61OpZZNgbWDfTwwM8mMRK_AWHODODpg=s90-c"
+            },
+            "sourceDisplayName": "Healthy Slow Cooking",
+            "ingredients": [
+                "sliced almonds",
+                "vodka",
+                "water",
+                "sugar",
+                "brandy",
+                "rosewater",
+                "orange",
+                "almond extract",
+                "xanthan gum",
+                "light rum",
+                "dark rum",
+                "fresh lime juice",
+                "orgeat syrup",
+                "orange cura\u00e7ao",
+                "mint sprigs",
+                "cocktail cherries",
+                "lime wedges"
+            ],
+            "id": "Orgeat-Syrup-from-Shake_-Stir_-Pour-1286726",
+            "smallImageUrls": [
+                "http://lh3.googleusercontent.com/UYnr8mTYzN1Hai4nS5uj_gJesX5zQmStMYR3BSglvNOxb5rhR3-i59-bBL2BKCFH6eIxzpm0Ab28tKrxyapitSo=s90"
+            ],
+            "recipeName": "Orgeat Syrup from Shake, Stir, Pour",
+            "totalTimeInSeconds": 1200,
+            "attributes": {
+                "course": [
+                    "Beverages",
+                    "Cocktails"
+                ]
+            },
+            "flavors": null,
+            "rating": 4
+        },
+        {
+            "imageUrlsBySize": {
+                "90": "http://lh3.googleusercontent.com/prEiKsURLe04QUMLaOR_XbjB8L5xLKQ1eSTSXcRF_9t4Xzd8D7Sy70YiwSQ3uLn_YWi7k2Zm87wWYJSHd-Z4=s90-c"
+            },
+            "sourceDisplayName": "Chefkoch",
+            "ingredients": [
+                "Kartoffel",
+                "Butter",
+                "Salz",
+                "Kr\u00e4uter",
+                "Gew\u00fcrz"
+            ],
+            "id": "Krauterkartoffeln-Gebacken-796289",
+            "smallImageUrls": [
+                "http://lh3.googleusercontent.com/AphSOz1eslnI5XkvsWP_rilHVPTscVbtVrBVDiELCT3YyH1XGPaFG9-4eF9jcNJ68iLPKoakK0ua9y1DAaj7Cw=s90"
+            ],
+            "recipeName": "Kra\u0308uterkartoffeln Gebacken",
+            "totalTimeInSeconds": 900,
+            "attributes": {},
+            "flavors": null,
+            "rating": 3
+        },
+        {
+            "recipeName": "H I M B E E R T O R T E",
+            "ingredients": [
+                "Ei",
+                "Puderzucker",
+                "Vanillezucker",
+                "Mehl",
+                "St\u00e4rke",
+                "Backpulver",
+                "F\u00fcllung",
+                "G\u00f6tterspeise",
+                "Zucker",
+                "K\u00e4se",
+                "Rahm",
+                "Himbeere"
+            ],
+            "totalTimeInSeconds": 7200,
+            "sourceDisplayName": "Lecker",
+            "id": "H-I-M-B-E-E-R-T-O-R-T-E-839122",
+            "rating": 3,
+            "flavors": {
+                "sweet": 0.8333333333333334,
+                "piquant": 0.0,
+                "sour": 0.6666666666666666,
+                "salty": 0.16666666666666666,
+                "meaty": 0.16666666666666666,
+                "bitter": 0.16666666666666666
+            },
+            "attributes": {
+                "course": [
+                    "Desserts"
+                ]
+            }
+        },
+        {
+            "imageUrlsBySize": {
+                "90": "https://lh3.googleusercontent.com/haIlQG0B0fBYiIrYpZJ7A1ySZdrY30bmcQHxrWCTG4wZdzoACRiQQkfX4LpbzAKlpG6HbOFoDtDF5UWlVhuGNQ=s90-c"
+            },
+            "sourceDisplayName": "One Handed Cooks Australia",
+            "ingredients": [
+                "bread",
+                "bananas",
+                "milk",
+                "cinnamon"
+            ],
+            "id": "Banana-Toast-for-Babies-1535994",
+            "smallImageUrls": [
+                "https://lh3.googleusercontent.com/MQ1l0i5RdlBwdZByTpkN2OnwH4Abcyag2l56cS3AuHUpVOKaS0EoJxjLG3572e0KikTIGBjyhAKss_z4lUGHrQ=s90"
+            ],
+            "recipeName": "Banana Toast for Babies",
+            "totalTimeInSeconds": 300,
+            "attributes": {
+                "course": [
+                    "Breakfast and Brunch",
+                    "Lunch"
+                ],
+                "cuisine": [
+                    "Kid-Friendly"
+                ]
+            },
+            "flavors": {
+                "piquant": 0.0,
+                "meaty": 0.16666666666666666,
+                "bitter": 0.16666666666666666,
+                "sweet": 0.5,
+                "sour": 0.3333333333333333,
+                "salty": 0.16666666666666666
+            },
+            "rating": 4
+        }
+    ],
+    "facetCounts": {},
+    "totalMatchCount": 8,
+    "attribution": {
+        "html": "Recipe search powered by <a href='http://www.yummly.co/recipes'><img alt='Yummly' src='https://static.yummly.co/api-logo.png'/></a>",
+        "url": "http://www.yummly.co/recipes/",
+        "text": "Recipe search powered by Yummly",
+        "logo": "https://static.yummly.co/api-logo.png"
+    }
+}

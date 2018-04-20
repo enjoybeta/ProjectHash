@@ -1,0 +1,114 @@
+{
+    "criteria": {
+        "q": "k+a+r+a+m+e+l",
+        "allowedIngredient": null,
+        "excludedIngredient": null
+    },
+    "matches": [
+        {
+            "imageUrlsBySize": {
+                "90": "http://lh3.googleusercontent.com/Y5Qs66LDClWLajVNTpmVdH4U_Osw5pP8DyOHSu9d7-up0jKzZEc3FuB5WvAub3KfM-91R2sBd6PuYtyy1R05Pw=s90-c"
+            },
+            "sourceDisplayName": "Lecker",
+            "ingredients": [
+                "Semmelbrot",
+                "Milch",
+                "Ei",
+                "Salz",
+                "Pfeffer",
+                "Musskatnuss",
+                "Mehl",
+                "Gans",
+                "Zwiebel",
+                "K\u00fcmmel",
+                "Wei\u00dfkohl",
+                "Kartoffel",
+                "\u00c4pfel",
+                "Weissweinessig",
+                "Petersile"
+            ],
+            "id": "Gans-auf-Weikohl-mit-Semmelknodel-824599",
+            "smallImageUrls": [
+                "http://lh3.googleusercontent.com/EIwayUI1ZKRJIclQMbVOM06tMNRk22f9QnIvRXOj8Jk7jAWrwgwc0mSK5Wq9CBE0bIcI1uQIxCmQPOD2C-ypzhM=s90"
+            ],
+            "recipeName": "Gans auf Wei\u00dfkohl mit Semmelkno\u0308del",
+            "totalTimeInSeconds": 5400,
+            "attributes": {},
+            "flavors": null,
+            "rating": 3
+        },
+        {
+            "imageUrlsBySize": {
+                "90": "http://lh3.googleusercontent.com/ZoMx5LjUdld1BjGsVHJimP6H6rxvjtdGI-RYJW62B2HwUZqoKdzQ7pu0e_kBt-rdISL9qum09E17okjg_vQHLdk=s90-c"
+            },
+            "sourceDisplayName": "Lecker",
+            "ingredients": [
+                "M\u00f6hre",
+                "Lauch",
+                "Zwiebel",
+                "\u00d6l",
+                "Schweinsgulasch",
+                "Tomatenkonzentrat",
+                "Mehl",
+                "Salz",
+                "Pfeffer",
+                "Kuttelkraut",
+                "Rotwein",
+                "boullion",
+                "Lorbeer",
+                "Ei",
+                "Petersile"
+            ],
+            "id": "Fleckerln-mit-Schweinepfeffer-816473",
+            "smallImageUrls": [
+                "http://lh3.googleusercontent.com/1or95QbGITHuPboqqUCJs6ISAdvFgefAWPzuT-qdbEyeEJDrXcaQY7iqO2ui6WkpsjdT1qgpDPblehXIrufTcg=s90"
+            ],
+            "recipeName": "Fleckerln mit Schweinepfeffer",
+            "totalTimeInSeconds": 12600,
+            "attributes": {},
+            "flavors": null,
+            "rating": 3
+        },
+        {
+            "imageUrlsBySize": {
+                "90": "http://lh3.googleusercontent.com/eDVHwgGgYxwmAYwpX1FVG88nTQdkvqyooIgTvPkTuXdByKRLs6wxa6e1dfXZGaof5IRYVm3mLsVpF9KBAjvP=s90-c"
+            },
+            "sourceDisplayName": "Lecker",
+            "ingredients": [
+                "Butter",
+                "Ei",
+                "Milch",
+                "Mehl",
+                "Zucker",
+                "Salz",
+                "Weichsel",
+                "Speisest\u00e4rke",
+                "Zitronenschale",
+                "\u00d6l",
+                "magerquark",
+                "Zitrone",
+                "Schmand",
+                "Eigelb",
+                "Mandelbl\u00e4tter",
+                "Puderzucker"
+            ],
+            "id": "Uberbackener-Palatschinken-823834",
+            "smallImageUrls": [
+                "http://lh3.googleusercontent.com/B_-fYqme2lj9-S9CzthtgIie-yKBK1lX-L01d1pjWUbb5wPpgQ7hmXQADAr3EOHZcR64axeLE-GNPJS3RLB7=s90"
+            ],
+            "recipeName": "U\u0308berbackener Palatschinken",
+            "totalTimeInSeconds": 4500,
+            "attributes": {},
+            "flavors": null,
+            "rating": 3
+        }
+    ],
+    "facetCounts": {},
+    "totalMatchCount": 3,
+    "attribution": {
+        "html": "Recipe search powered by <a href='http://www.yummly.co/recipes'><img alt='Yummly' src='https://static.yummly.co/api-logo.png'/></a>",
+        "url": "http://www.yummly.co/recipes/",
+        "text": "Recipe search powered by Yummly",
+        "logo": "https://static.yummly.co/api-logo.png"
+    }
+}

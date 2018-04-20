@@ -1,0 +1,49 @@
+{
+    "criteria": {
+        "q": "c+u+m+i+n+ +s+e+e+d",
+        "allowedIngredient": null,
+        "excludedIngredient": null
+    },
+    "matches": [
+        {
+            "recipeName": "Apfel-To\u0308rtchen mit Weinschaum",
+            "ingredients": [
+                "\u00c4pfel",
+                "Zitronensaft",
+                "Zucker",
+                "Mohn",
+                "Butter",
+                "Fett",
+                "Salz",
+                "Backpulver",
+                "Mehl",
+                "Wei\u00dfwein"
+            ],
+            "totalTimeInSeconds": 3600,
+            "sourceDisplayName": "Lecker",
+            "id": "Apfel-Tortchen-mit-Weinschaum-833525",
+            "rating": 3,
+            "flavors": {
+                "sweet": 0.8333333333333334,
+                "piquant": 0.0,
+                "sour": 0.16666666666666666,
+                "salty": 0.16666666666666666,
+                "meaty": 0.16666666666666666,
+                "bitter": 0.16666666666666666
+            },
+            "attributes": {
+                "course": [
+                    "Desserts"
+                ]
+            }
+        }
+    ],
+    "facetCounts": {},
+    "totalMatchCount": 1,
+    "attribution": {
+        "html": "Recipe search powered by <a href='http://www.yummly.co/recipes'><img alt='Yummly' src='https://static.yummly.co/api-logo.png'/></a>",
+        "url": "http://www.yummly.co/recipes/",
+        "text": "Recipe search powered by Yummly",
+        "logo": "https://static.yummly.co/api-logo.png"
+    }
+}

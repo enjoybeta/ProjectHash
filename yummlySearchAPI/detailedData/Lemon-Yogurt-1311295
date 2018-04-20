@@ -1,0 +1,44 @@
+{
+    "nutritionEstimates": [],
+    "totalTime": "45 min",
+    "images": [
+        {
+            "hostedSmallUrl": "http://lh3.googleusercontent.com/S7AbM7xxxbbEW7J_l_M-Ufm0n_-DYGSBCg8XuZwK-Z_ww6Q683jrNISTyfDAzgWYKHLQXod4WK3uYvhM98Tp=s90",
+            "hostedMediumUrl": "http://lh3.googleusercontent.com/S7AbM7xxxbbEW7J_l_M-Ufm0n_-DYGSBCg8XuZwK-Z_ww6Q683jrNISTyfDAzgWYKHLQXod4WK3uYvhM98Tp=s180",
+            "hostedLargeUrl": "http://lh3.googleusercontent.com/S7AbM7xxxbbEW7J_l_M-Ufm0n_-DYGSBCg8XuZwK-Z_ww6Q683jrNISTyfDAzgWYKHLQXod4WK3uYvhM98Tp=s360",
+            "imageUrlsBySize": {
+                "90": "http://lh3.googleusercontent.com/q-BD2P2cb5oFXGhkh9Ywpdcx5YGn0QCgaIB1BcvB4lvDc-6PYHwzm1tQ2Sl9hLQpFb3d1iVd-5ezqj3beVbSaA=s90-c",
+                "360": "http://lh3.googleusercontent.com/q-BD2P2cb5oFXGhkh9Ywpdcx5YGn0QCgaIB1BcvB4lvDc-6PYHwzm1tQ2Sl9hLQpFb3d1iVd-5ezqj3beVbSaA=s360-c"
+            }
+        }
+    ],
+    "name": "Lemon Yogurt",
+    "source": {
+        "sourceDisplayName": "HungryShots",
+        "sourceSiteUrl": "hungryshots.com",
+        "sourceRecipeUrl": "http://www.hungryshots.com/2015/09/lemon-yogurt.html"
+    },
+    "id": "Lemon-Yogurt-1311295",
+    "ingredientLines": [
+        "1l raw milk",
+        "125ml natural yogurt",
+        "the zest of 2 organic lemons or 2 tablespoons of conserved zest",
+        "4 tablespoons cane sugar",
+        "1 tablespoon lemon extract"
+    ],
+    "attribution": {
+        "html": "<a href='http://www.yummly.co/recipe/Lemon-Yogurt-1311295'>Lemon Yogurt recipe</a> information powered by <img alt='Yummly' src='https://static.yummly.co/api-logo.png'/>",
+        "url": "http://www.yummly.co/recipe/Lemon-Yogurt-1311295",
+        "text": "Lemon Yogurt recipes: information powered by Yummly",
+        "logo": "https://static.yummly.co/api-logo.png"
+    },
+    "numberOfServings": 4,
+    "totalTimeInSeconds": 2700,
+    "attributes": {
+        "course": [
+            "Desserts"
+        ]
+    },
+    "flavors": {},
+    "rating": 4
+}

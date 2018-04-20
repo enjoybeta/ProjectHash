@@ -1,0 +1,45 @@
+{
+    "yield": "16 pops",
+    "nutritionEstimates": [],
+    "totalTime": "30 min",
+    "images": [
+        {
+            "hostedSmallUrl": "http://lh3.googleusercontent.com/jQ73y6A4g51acNPzmls3k3NxT6y2sfL9nUBEn3l5GbNKTdJh4OkogpN791MZPfQ-p4FJw7nwiLNFD-_cd4iDlA=s90",
+            "hostedMediumUrl": "http://lh3.googleusercontent.com/jQ73y6A4g51acNPzmls3k3NxT6y2sfL9nUBEn3l5GbNKTdJh4OkogpN791MZPfQ-p4FJw7nwiLNFD-_cd4iDlA=s180",
+            "hostedLargeUrl": "http://lh3.googleusercontent.com/jQ73y6A4g51acNPzmls3k3NxT6y2sfL9nUBEn3l5GbNKTdJh4OkogpN791MZPfQ-p4FJw7nwiLNFD-_cd4iDlA=s360",
+            "imageUrlsBySize": {
+                "90": "http://lh3.googleusercontent.com/oEFjArEPEH_HeqTQulySpIhYYdPqC0joucT5Y4XdcEQyGUuWttBN-zg0-_yWRtG8W4B5dbp6pnN9z9C1QqYytHw=s90-c",
+                "360": "http://lh3.googleusercontent.com/oEFjArEPEH_HeqTQulySpIhYYdPqC0joucT5Y4XdcEQyGUuWttBN-zg0-_yWRtG8W4B5dbp6pnN9z9C1QqYytHw=s360-c"
+            }
+        }
+    ],
+    "name": "JELL-O Pudding Pops",
+    "source": {
+        "sourceDisplayName": "Deliciously Declassified",
+        "sourceSiteUrl": "deliciouslydeclassified.com",
+        "sourceRecipeUrl": "http://deliciouslydeclassified.com/2014/05/26/jell-o-pudding-pops/"
+    },
+    "id": "JELL-O-Pudding-Pops-1256871",
+    "ingredientLines": [
+        "Box of instant chocolate Jell-O Pudding",
+        "Box of instant vanilla Jello-O Pudding",
+        "Box of instant vanilla Jello-O Pudding",
+        "4 cups cold low-fat milk, divided",
+        "2 cups Cool Whip, divided (if you don't want to use Cool Whip, you can make your own whipped cream)"
+    ],
+    "attribution": {
+        "html": "<a href='http://www.yummly.co/recipe/JELL-O-Pudding-Pops-1256871'>JELL-O Pudding Pops recipe</a> information powered by <img alt='Yummly' src='https://static.yummly.co/api-logo.png'/>",
+        "url": "http://www.yummly.co/recipe/JELL-O-Pudding-Pops-1256871",
+        "text": "JELL-O Pudding Pops recipes: information powered by Yummly",
+        "logo": "https://static.yummly.co/api-logo.png"
+    },
+    "numberOfServings": 16,
+    "totalTimeInSeconds": 1800,
+    "attributes": {
+        "course": [
+            "Desserts"
+        ]
+    },
+    "flavors": {},
+    "rating": 4
+}

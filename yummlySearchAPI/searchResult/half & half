@@ -1,0 +1,392 @@
+{
+    "criteria": {
+        "q": "h+a+l+f+ +&+ +h+a+l+f",
+        "allowedIngredient": null,
+        "excludedIngredient": null
+    },
+    "matches": [
+        {
+            "imageUrlsBySize": {
+                "90": "https://lh3.googleusercontent.com/0k1e-FOgaXchdiaDdqGaIvdeFYTf3cbkBiJujjxN-9qvZxuetsv9i5CoQzG6EdjMFsebcRUt3G9sHUcB1y7XEQ=s90-c"
+            },
+            "sourceDisplayName": "BBQ Bastard",
+            "ingredients": [
+                "chicken",
+                "brine",
+                "lemon",
+                "rosemary"
+            ],
+            "id": "Apple-Cider-Brined-Spit-Roast-Chicken-2131029",
+            "smallImageUrls": [
+                "https://lh3.googleusercontent.com/WhWNqTDx00SFmMOrasql47l66TfChnjmU5aAb1qa88JriXj5S5d3GRYcj8JMnJm39swtkJXnBurxfD8Pt4cCVT0=s90"
+            ],
+            "recipeName": "Apple Cider Brined Spit Roast Chicken",
+            "totalTimeInSeconds": 6600,
+            "attributes": {
+                "course": [
+                    "Main Dishes"
+                ],
+                "cuisine": [
+                    "Barbecue",
+                    "Kid-Friendly"
+                ],
+                "holiday": [
+                    "Sunday Lunch"
+                ]
+            },
+            "flavors": null,
+            "rating": 4
+        },
+        {
+            "imageUrlsBySize": {
+                "90": "https://lh3.googleusercontent.com/GpicsS9x3SYW9GhRMAk9UFgc8ne7fHS2TpH9pnAJvCV4aybRgidzqYKz3el_QYRkVMo5LItS08BibFxb_e8Mzoc=s90-c"
+            },
+            "sourceDisplayName": "Coffee and Crayons",
+            "ingredients": [
+                "brown sugar",
+                "maple syrup",
+                "yogurt",
+                "applesauce",
+                "oil",
+                "eggs",
+                "rolled oats",
+                "flour",
+                "whole wheat flour",
+                "baking powder",
+                "baking soda",
+                "ground cinnamon",
+                "salt",
+                "apples",
+                "chopped pecans"
+            ],
+            "id": "Apple-Cinnamon-Oatmeal-Bread-1725218",
+            "smallImageUrls": [
+                "https://lh3.googleusercontent.com/URSHluUo5P3XjCRPOASXv-DFZxxcsl2HtBs19LtMbOXpSLqox4sngcXIDVPxubX8L8wKm6Dgy7fjMUK9qRKowg=s90"
+            ],
+            "recipeName": "Apple Cinnamon Oatmeal Bread",
+            "totalTimeInSeconds": 3300,
+            "attributes": {
+                "course": [
+                    "Breakfast and Brunch",
+                    "Breads"
+                ]
+            },
+            "flavors": {
+                "piquant": 0.0,
+                "meaty": 0.16666666666666666,
+                "bitter": 0.16666666666666666,
+                "sweet": 0.6666666666666666,
+                "sour": 0.16666666666666666,
+                "salty": 0.16666666666666666
+            },
+            "rating": 4
+        },
+        {
+            "imageUrlsBySize": {
+                "90": "https://lh3.googleusercontent.com/6-PACa_ranlDGnaGEVxzaXxmZkv4CeL7mNnm3IuojP2Mqb730ddQjplkffygvopJQYzykG3Tr8DBe1yGPvgGB00=s90-c"
+            },
+            "sourceDisplayName": "The First Year",
+            "ingredients": [
+                "flour",
+                "sugar",
+                "baking powder",
+                "salt",
+                "milk",
+                "eggs",
+                "vanilla",
+                "vegetables",
+                "candy melts",
+                "vegetable shortening",
+                "powdered sugar",
+                "meringue powder",
+                "water",
+                "food coloring"
+            ],
+            "id": "Valentines-Day-Donuts-1352346",
+            "smallImageUrls": [
+                "https://lh3.googleusercontent.com/nw-NsDQJwcFDGsFOM6uhA40R0NhoES50jg3UbX_ZxabK6rfxkRVwkkCKINww-gsHExVyYyEploG4IhwtQzqF=s90"
+            ],
+            "recipeName": "Valentine\u2019s Day Donuts",
+            "totalTimeInSeconds": 3000,
+            "attributes": {
+                "course": [
+                    "Desserts"
+                ]
+            },
+            "flavors": null,
+            "rating": 4
+        },
+        {
+            "imageUrlsBySize": {
+                "90": "http://lh3.googleusercontent.com/_LI_3jlK9ClmU1dVY_YTw3rKItHQfl38H6zCrr1OJsVIBtHplupHFbs8lYTqdS39gf_ZYFmTYySvZvk6fN3vMA=s90-c"
+            },
+            "sourceDisplayName": "Metro.ca",
+            "ingredients": [
+                "ham",
+                "maple syrup",
+                "garlic cloves",
+                "star anise",
+                "cinnamon sticks",
+                "bay leaves",
+                "hot pepper",
+                "coriander seeds",
+                "fennel seeds",
+                "olive oil",
+                "water"
+            ],
+            "id": "Ham-with-Maple-Syrup-1203319",
+            "smallImageUrls": [
+                "http://lh3.googleusercontent.com/ukfHum19z8bCJ-q76dAP0TQXe-ObCE9meXnYwGdU7DoI2mH9EIaWB9DiKZYEu3nu6ystefX3a0OTGW13vk8ZYg=s90"
+            ],
+            "recipeName": "Ham with Maple Syrup",
+            "totalTimeInSeconds": 7200,
+            "attributes": {
+                "course": [
+                    "Main Dishes"
+                ],
+                "holiday": [
+                    "Christmas"
+                ]
+            },
+            "flavors": null,
+            "rating": 3
+        },
+        {
+            "imageUrlsBySize": {
+                "90": "http://lh5.ggpht.com/RY2huGt9o6P1e38qXt4UDgsQsjt7XlX2fbOq5ijZ31pHzAwB3wXU22yMSNZXrLCoSB4cT1ML3f31aHnuf4BYSw=s90-c"
+            },
+            "sourceDisplayName": "Palachinka",
+            "ingredients": [
+                "pork ribs",
+                "coca-cola",
+                "cinnamon sticks",
+                "star anise",
+                "brown sugar",
+                "honey",
+                "ketchup",
+                "mustard",
+                "worcestershire sauce",
+                "soy sauce"
+            ],
+            "id": "Coca-Cola-Pork-Ribs-940008",
+            "smallImageUrls": [
+                "http://lh5.ggpht.com/V3ybfPPTHHWLEStZWmJ4F6qRgpf0cYi_lpkiyEGvcrQcjwO7YObMefe2PoQEi349OfFQV5LOopHvSQuErwp4=s90"
+            ],
+            "recipeName": "Coca-Cola Pork Ribs",
+            "totalTimeInSeconds": 3600,
+            "attributes": {
+                "course": [
+                    "Main Dishes"
+                ]
+            },
+            "flavors": null,
+            "rating": 4
+        },
+        {
+            "imageUrlsBySize": {
+                "90": "http://lh4.ggpht.com/5hMSUYkK0UK-HWzvMysev4HN6AL6CCs-I_F43gnGGrSx0pwDk1RkOAcgY1On_jFFUEijhxD-C6RvdAxxitewcA=s90-c"
+            },
+            "sourceDisplayName": "Culinary Concoctions by Peabody",
+            "ingredients": [
+                "peeled apples",
+                "brown sugar",
+                "buttermilk",
+                "vegetable oil",
+                "large eggs",
+                "all-purpose flour",
+                "baking soda",
+                "ground cinnamon",
+                "salt",
+                "ground nutmeg",
+                "unsalted butter",
+                "apple cider",
+                "powdered sugar"
+            ],
+            "id": "Mini-Caramel-Glazed-Honey-Crisp-Apple-Bread-685471",
+            "smallImageUrls": [
+                "http://lh4.ggpht.com/QuVFwanPzh8nWYQLkslC3aHhVkdIuIrWUGI7PWalB8o5DkaakgCVJqEzr6cyeWefsd3M_jAlWeq6JYWCX4ooVw=s90"
+            ],
+            "recipeName": "Mini Caramel-Glazed Honey Crisp Apple Bread",
+            "totalTimeInSeconds": 5100,
+            "attributes": {
+                "course": [
+                    "Breads"
+                ]
+            },
+            "flavors": {
+                "sweet": 0.8333333333333334,
+                "piquant": 0.0,
+                "sour": 0.16666666666666666,
+                "salty": 0.8333333333333334,
+                "meaty": 0.3333333333333333,
+                "bitter": 0.16666666666666666
+            },
+            "rating": 4
+        },
+        {
+            "imageUrlsBySize": {
+                "90": "http://lh4.ggpht.com/h7G54N37Ceoq4L6rAdTLPh4bc3upssJMBt7QWO1MrjrgT7OYKUULe6Hd-kjaxYFbFSQhocNy4Ol3Dk8NkU12-g=s90-c"
+            },
+            "sourceDisplayName": "Analida's Ethnic Spoon",
+            "ingredients": [
+                "quatre \u00e9pices",
+                "black peppercorns",
+                "whole cloves",
+                "ground cinnamon",
+                "ground nutmeg",
+                "turkey",
+                "turkey breast",
+                "white wine",
+                "salt",
+                "cognac",
+                "pork shoulder",
+                "eggs",
+                "chicken livers",
+                "chopped parsley",
+                "dried apricot"
+            ],
+            "id": "Terrine-de-Campagne-1011237",
+            "smallImageUrls": [
+                "http://lh5.ggpht.com/mMrtJwJLUmefcouBDr17wilnsQeo6RSFgVFzyL9Co1iPAo9bdt01TibTGL48ZmwcU-It_TR4gpgNHeKA3n7a=s90"
+            ],
+            "recipeName": "Terrine de Campagne",
+            "totalTimeInSeconds": 5400,
+            "attributes": {
+                "course": [
+                    "Appetizers",
+                    "Main Dishes"
+                ]
+            },
+            "flavors": null,
+            "rating": 4
+        },
+        {
+            "imageUrlsBySize": {
+                "90": "https://lh3.googleusercontent.com/TSm5w7XULcJNyWvb0ezR46s1Zh2a55QXpJAx85KhiO3QkK4p2e-PAECkbgHVFFG03_ydAUkIUp_xE1WQ5voJoA=s90-c"
+            },
+            "sourceDisplayName": "Sweet ReciPEAs",
+            "ingredients": [
+                "peeled apples",
+                "brown sugar",
+                "buttermilk",
+                "vegetable oil",
+                "large eggs",
+                "all-purpose flour",
+                "baking soda",
+                "ground cinnamon",
+                "salt",
+                "ground nutmeg",
+                "unsalted butter",
+                "apple cider",
+                "powdered sugar"
+            ],
+            "id": "Mini-Caramel-Glazed-Honey-Crisp-Apple-Bread-1840319",
+            "smallImageUrls": [
+                "https://lh3.googleusercontent.com/OhMKy0QtUdT7xINgKVqgS4Plzygw0pEiaAZBRJAnR_wBkflU0CxdHmv7_FA1dlxz7C7wn61jxFCfD6PWjxA4pw=s90"
+            ],
+            "recipeName": "Mini Caramel-Glazed Honey Crisp Apple Bread",
+            "totalTimeInSeconds": 5100,
+            "attributes": {
+                "course": [
+                    "Breads"
+                ]
+            },
+            "flavors": {
+                "sweet": 0.8333333333333334,
+                "piquant": 0.0,
+                "sour": 0.16666666666666666,
+                "salty": 0.8333333333333334,
+                "meaty": 0.3333333333333333,
+                "bitter": 0.16666666666666666
+            },
+            "rating": 4
+        },
+        {
+            "imageUrlsBySize": {
+                "90": "https://lh3.googleusercontent.com/LV1j-0i-ASeaq_UzAjgwLaUs7VgNFgesgooXrEvSlnkHEZB9rO7W4gKvSG63IFsc8cKo4KDZxIHd-B1t58C4cNk=s90-c"
+            },
+            "sourceDisplayName": "Breaking Bread",
+            "ingredients": [
+                "walnuts",
+                "unsalted almonds",
+                "honey",
+                "vanilla",
+                "eggs",
+                "baking soda",
+                "cinnamon",
+                "salt",
+                "dried cranberries",
+                "dark chocolate chips",
+                "chia seeds",
+                "rolled oats"
+            ],
+            "id": "Cranberry-Chocolate-Chip-Breakfast-Cookies-1791402",
+            "smallImageUrls": [
+                "https://lh3.googleusercontent.com/1Wm7PVBwuiE8ISTO3dqXg4OoxD8pRGeU6bWCOQ0a0v_bxUAxrwReF8Ah086yT-3ZYNLwbI5u-VlNPnTptFMbsA=s90"
+            ],
+            "recipeName": "Cranberry Chocolate Chip Breakfast Cookies",
+            "totalTimeInSeconds": 2280,
+            "attributes": {
+                "course": [
+                    "Desserts",
+                    "Breakfast and Brunch"
+                ]
+            },
+            "flavors": {
+                "piquant": 0.0,
+                "meaty": 0.8333333333333334,
+                "bitter": 0.8333333333333334,
+                "sweet": 0.6666666666666666,
+                "sour": 0.16666666666666666,
+                "salty": 0.6666666666666666
+            },
+            "rating": 4
+        },
+        {
+            "imageUrlsBySize": {
+                "90": "https://lh3.googleusercontent.com/kFGhE5A_GRK71-zYivUgb-xeE55RDkn2LOyEB2V2ow1gixZTTSB8rJA9Me8Sp9_7NTvk9an8lJXWUNMR_p_0gQ=s90-c"
+            },
+            "sourceDisplayName": "Narin's World of Taste",
+            "ingredients": [
+                "leeks",
+                "sweet potatoes",
+                "carrots",
+                "ginger root",
+                "homemade vegetable broth",
+                "coconut cream",
+                "coconut oil",
+                "red curry paste",
+                "salt",
+                "pepper",
+                "ground paprika",
+                "olive oil",
+                "cumin",
+                "chili powder"
+            ],
+            "id": "Asian-Crunchy-Leek-and-Sweet-Potato-Soup-2309024",
+            "smallImageUrls": [
+                "https://lh3.googleusercontent.com/Wh27sUsR1rWpBU13C4EDTMR6nORqJWTN1IpoDZecG816e68kRiHlrSBsYaFznXeiQRuEsZfyRSgGtqY32g4BOg=s90"
+            ],
+            "recipeName": "Asian Crunchy Leek and Sweet Potato Soup",
+            "totalTimeInSeconds": 4800,
+            "attributes": {
+                "course": [
+                    "Soups"
+                ],
+                "cuisine": [
+                    "Asian"
+                ]
+            },
+            "flavors": null,
+            "rating": 4
+        }
+    ],
+    "facetCounts": {},
+    "totalMatchCount": 21,
+    "attribution": {
+        "html": "Recipe search powered by <a href='http://www.yummly.co/recipes'><img alt='Yummly' src='https://static.yummly.co/api-logo.png'/></a>",
+        "url": "http://www.yummly.co/recipes/",
+        "text": "Recipe search powered by Yummly",
+        "logo": "https://static.yummly.co/api-logo.png"
+    }
+}

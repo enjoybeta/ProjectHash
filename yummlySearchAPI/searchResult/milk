@@ -85,8 +85,22 @@
             "sourceDisplayName": "Food.com",
             "id": "Moroccan-Tagine-With-Couscous-Recipezaar",
             "rating": 3,
-            "flavors": null,
-            "attributes": {}
+            "flavors": {
+                "piquant": 0.16666666666666666,
+                "meaty": 0.16666666666666666,
+                "bitter": 0.16666666666666666,
+                "sweet": 0.3333333333333333,
+                "sour": 0.6666666666666666,
+                "salty": 0.16666666666666666
+            },
+            "attributes": {
+                "course": [
+                    "Main Dishes"
+                ],
+                "cuisine": [
+                    "Moroccan"
+                ]
+            }
         },
         {
             "imageUrlsBySize": {
@@ -115,7 +129,11 @@
             ],
             "recipeName": "Erdbeer-Ka\u0308sekuchen",
             "totalTimeInSeconds": 7200,
-            "attributes": {},
+            "attributes": {
+                "course": [
+                    "Desserts"
+                ]
+            },
             "flavors": null,
             "rating": 3
         },
@@ -175,7 +193,11 @@
             ],
             "recipeName": "Cre\u0300me Caramel A\u0300 L'orange",
             "totalTimeInSeconds": 6300,
-            "attributes": {},
+            "attributes": {
+                "course": [
+                    "Desserts"
+                ]
+            },
             "flavors": null,
             "rating": 3
         },
@@ -200,7 +222,14 @@
             "recipeName": "Glu\u0308cks-Schleifchen",
             "totalTimeInSeconds": 8100,
             "attributes": {},
-            "flavors": null,
+            "flavors": {
+                "sweet": 0.16666666666666666,
+                "piquant": 0.0,
+                "sour": 0.16666666666666666,
+                "salty": 0.16666666666666666,
+                "meaty": 0.8333333333333334,
+                "bitter": 0.16666666666666666
+            },
             "rating": 3
         },
         {
@@ -222,8 +251,19 @@
             ],
             "recipeName": "Mini-Kopenhagener mit Kirschen",
             "totalTimeInSeconds": 4500,
-            "attributes": {},
-            "flavors": null,
+            "attributes": {
+                "course": [
+                    "Desserts"
+                ]
+            },
+            "flavors": {
+                "sweet": 0.8333333333333334,
+                "piquant": 0.0,
+                "sour": 0.16666666666666666,
+                "salty": 0.5,
+                "meaty": 0.16666666666666666,
+                "bitter": 0.3333333333333333
+            },
             "rating": 3
         },
         {
@@ -275,7 +315,14 @@
             "recipeName": "Knoblauch-Mayonnaise",
             "totalTimeInSeconds": 600,
             "attributes": {},
-            "flavors": null,
+            "flavors": {
+                "sweet": 0.16666666666666666,
+                "piquant": 0.6666666666666666,
+                "sour": 0.16666666666666666,
+                "salty": 0.6666666666666666,
+                "meaty": 0.8333333333333334,
+                "bitter": 0.16666666666666666
+            },
             "rating": 3
         }
     ],

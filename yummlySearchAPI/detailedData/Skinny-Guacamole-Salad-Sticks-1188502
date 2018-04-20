@@ -1,0 +1,48 @@
+{
+    "yield": "makes 4 serving. ",
+    "nutritionEstimates": [],
+    "prepTimeInSeconds": 900,
+    "totalTime": "15 min",
+    "images": [
+        {
+            "hostedSmallUrl": "http://lh3.googleusercontent.com/ENXQ-aYTsxZoaycySqeqXbeF13yUjKPHmhJPwjDWd-5FyNb3LnaRAzAEvHx-dIQSHgH3AVt81wrsQp2lVooy2A=s90",
+            "hostedMediumUrl": "http://lh3.googleusercontent.com/ENXQ-aYTsxZoaycySqeqXbeF13yUjKPHmhJPwjDWd-5FyNb3LnaRAzAEvHx-dIQSHgH3AVt81wrsQp2lVooy2A=s180",
+            "hostedLargeUrl": "http://lh3.googleusercontent.com/ENXQ-aYTsxZoaycySqeqXbeF13yUjKPHmhJPwjDWd-5FyNb3LnaRAzAEvHx-dIQSHgH3AVt81wrsQp2lVooy2A=s360",
+            "imageUrlsBySize": {
+                "90": "http://lh3.googleusercontent.com/PgP_O17E7BpC7aP3ogdomOVtPGRmv5O-FNehIERechte83dsc1MPM_pxcp4t6HE2uvmmlHoPVeMVvN67CDc50w=s90-c",
+                "360": "http://lh3.googleusercontent.com/PgP_O17E7BpC7aP3ogdomOVtPGRmv5O-FNehIERechte83dsc1MPM_pxcp4t6HE2uvmmlHoPVeMVvN67CDc50w=s360-c"
+            }
+        }
+    ],
+    "name": "Skinny Guacamole Salad Sticks",
+    "source": {
+        "sourceDisplayName": "Skinny Kitchen",
+        "sourceSiteUrl": "http://www.skinnykitchen.com",
+        "sourceRecipeUrl": "https://www.skinnykitchen.com/recipes/skinny-guacamole-salad-sticks/"
+    },
+    "prepTime": "15 minutes",
+    "id": "Skinny-Guacamole-Salad-Sticks-1188502",
+    "ingredientLines": [
+        "4 cups romaine lettuce, chopped into large chunks (a bag of chopped romaine lettuce will work)",
+        "12 small cherry tomatoes or grape tomatoes",
+        "1 ripe but firm avocado (1 cup)",
+        "4 tablespoons Skinny Ranch Dressing or store bought light ranch",
+        "Tabasco sauce or hot sauce, to taste",
+        "4 wooden, bamboo or other disposable skewers (such as plastic), see shopping tips"
+    ],
+    "attribution": {
+        "html": "<a href='http://www.yummly.co/recipe/Skinny-Guacamole-Salad-Sticks-1188502'>Skinny Guacamole Salad Sticks recipe</a> information powered by <img alt='Yummly' src='https://static.yummly.co/api-logo.png'/>",
+        "url": "http://www.yummly.co/recipe/Skinny-Guacamole-Salad-Sticks-1188502",
+        "text": "Skinny Guacamole Salad Sticks recipes: information powered by Yummly",
+        "logo": "https://static.yummly.co/api-logo.png"
+    },
+    "numberOfServings": 4,
+    "totalTimeInSeconds": 900,
+    "attributes": {
+        "course": [
+            "Salads"
+        ]
+    },
+    "flavors": {},
+    "rating": 4
+}

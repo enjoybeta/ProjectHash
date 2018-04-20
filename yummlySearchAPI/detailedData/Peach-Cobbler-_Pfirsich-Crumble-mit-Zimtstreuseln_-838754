@@ -1,0 +1,51 @@
+{
+    "yield": "Zutaten f\u00fcr 4 Personen:",
+    "nutritionEstimates": [],
+    "totalTime": "45 min",
+    "images": [
+        {
+            "hostedSmallUrl": "http://lh3.googleusercontent.com/0k4YUI69wpARbEqtxbhVwg5ct7OiaqIcWWGHfYRn2Mx8_uiRAudxTPrHz0Jz1-9EWalpNb-o3AoU2NloOUAzWvc=s90",
+            "hostedMediumUrl": "http://lh3.googleusercontent.com/0k4YUI69wpARbEqtxbhVwg5ct7OiaqIcWWGHfYRn2Mx8_uiRAudxTPrHz0Jz1-9EWalpNb-o3AoU2NloOUAzWvc=s180",
+            "hostedLargeUrl": "http://lh3.googleusercontent.com/0k4YUI69wpARbEqtxbhVwg5ct7OiaqIcWWGHfYRn2Mx8_uiRAudxTPrHz0Jz1-9EWalpNb-o3AoU2NloOUAzWvc=s360",
+            "imageUrlsBySize": {
+                "90": "http://lh3.googleusercontent.com/EnIovzV6tg7lHqaQbiI588zZTmHh6nuGvmwOdzxb1CaIGUFjFSK123cmesFWTrP-McADQ5Mw3Mwz4IfrEO9QsQ=s90-c",
+                "360": "http://lh3.googleusercontent.com/EnIovzV6tg7lHqaQbiI588zZTmHh6nuGvmwOdzxb1CaIGUFjFSK123cmesFWTrP-McADQ5Mw3Mwz4IfrEO9QsQ=s360-c"
+            }
+        }
+    ],
+    "name": "Peach-Cobbler (Pfirsich-Crumble mit Zimtstreuseln)",
+    "source": {
+        "sourceDisplayName": "Lecker",
+        "sourceSiteUrl": "lecker.de",
+        "sourceRecipeUrl": "http://www.lecker.de/rezept/1103728/Peach-Cobbler-Pfirsich-Crumble-mit-Zimtstreuseln.html"
+    },
+    "id": "Peach-Cobbler-_Pfirsich-Crumble-mit-Zimtstreuseln_-838754",
+    "ingredientLines": [
+        "100 g Mehl",
+        "1 Msp. Backpulver",
+        "50 g Zucker",
+        "1 P\u00e4ckchen Vanillin-Zucker",
+        "1 TL Zimt",
+        "1 Prise Salz",
+        "1 Eigelb (Gr\u00f6\u00dfe M)",
+        "50 g Butter oder Margarine",
+        "4 Pfirsiche (\u00e0 ca. 175 g)",
+        "1 TL Puderzucker",
+        "Fett f\u00fcr die Form"
+    ],
+    "attribution": {
+        "html": "<a href='http://www.yummly.co/recipe/Peach-Cobbler-_Pfirsich-Crumble-mit-Zimtstreuseln_-838754'>Peach-Cobbler (Pfirsich-Crumble mit Zimtstreuseln) recipe</a> information powered by <img alt='Yummly' src='https://static.yummly.co/api-logo.png'/>",
+        "url": "http://www.yummly.co/recipe/Peach-Cobbler-_Pfirsich-Crumble-mit-Zimtstreuseln_-838754",
+        "text": "Peach-Cobbler (Pfirsich-Crumble mit Zimtstreuseln) recipes: information powered by Yummly",
+        "logo": "https://static.yummly.co/api-logo.png"
+    },
+    "numberOfServings": 4,
+    "totalTimeInSeconds": 2700,
+    "attributes": {
+        "course": [
+            "Desserts"
+        ]
+    },
+    "flavors": {},
+    "rating": 3
+}

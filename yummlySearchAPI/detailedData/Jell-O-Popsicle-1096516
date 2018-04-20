@@ -1,0 +1,264 @@
+{
+    "nutritionEstimates": [
+        {
+            "attribute": "K",
+            "description": "Potassium, K",
+            "value": 0.01,
+            "unit": {
+                "id": "12485d26-6e69-102c-9a8a-0030485841f8",
+                "name": "gram",
+                "abbreviation": "g",
+                "plural": "grams",
+                "pluralAbbreviation": "grams",
+                "decimal": true
+            }
+        },
+        {
+            "attribute": "FLD",
+            "description": "Fluoride, F",
+            "value": 0.0,
+            "unit": {
+                "id": "12485d26-6e69-102c-9a8a-0030485841f8",
+                "name": "gram",
+                "abbreviation": "g",
+                "plural": "grams",
+                "pluralAbbreviation": "grams",
+                "decimal": true
+            }
+        },
+        {
+            "attribute": "GLUS",
+            "description": "Glucose (dextrose)",
+            "value": 2.83,
+            "unit": {
+                "id": "12485d26-6e69-102c-9a8a-0030485841f8",
+                "name": "gram",
+                "abbreviation": "g",
+                "plural": "grams",
+                "pluralAbbreviation": "grams",
+                "decimal": true
+            }
+        },
+        {
+            "attribute": "ENERC_KJ",
+            "description": "Energy",
+            "value": 544.37,
+            "unit": {
+                "id": "fea252f8-9888-4365-b005-e2c63ed3a776",
+                "name": "calorie",
+                "abbreviation": "kcal",
+                "plural": "calories",
+                "pluralAbbreviation": "kcal",
+                "decimal": true
+            }
+        },
+        {
+            "attribute": "FRUS",
+            "description": "Fructose",
+            "value": 2.27,
+            "unit": {
+                "id": "12485d26-6e69-102c-9a8a-0030485841f8",
+                "name": "gram",
+                "abbreviation": "g",
+                "plural": "grams",
+                "pluralAbbreviation": "grams",
+                "decimal": true
+            }
+        },
+        {
+            "attribute": "WATER",
+            "description": "Water",
+            "value": 594.15,
+            "unit": {
+                "id": "12485d26-6e69-102c-9a8a-0030485841f8",
+                "name": "gram",
+                "abbreviation": "g",
+                "plural": "grams",
+                "pluralAbbreviation": "grams",
+                "decimal": true
+            }
+        },
+        {
+            "attribute": "SUGAR",
+            "description": "Sugars, total",
+            "value": 30.3,
+            "unit": {
+                "id": "12485d26-6e69-102c-9a8a-0030485841f8",
+                "name": "gram",
+                "abbreviation": "g",
+                "plural": "grams",
+                "pluralAbbreviation": "grams",
+                "decimal": true
+            }
+        },
+        {
+            "attribute": "SE",
+            "description": "Selenium, Se",
+            "value": 0.0,
+            "unit": {
+                "id": "12485d26-6e69-102c-9a8a-0030485841f8",
+                "name": "gram",
+                "abbreviation": "g",
+                "plural": "grams",
+                "pluralAbbreviation": "grams",
+                "decimal": true
+            }
+        },
+        {
+            "attribute": "CHOCDF",
+            "description": "Carbohydrate, by difference",
+            "value": 33.14,
+            "unit": {
+                "id": "12485d26-6e69-102c-9a8a-0030485841f8",
+                "name": "gram",
+                "abbreviation": "g",
+                "plural": "grams",
+                "pluralAbbreviation": "grams",
+                "decimal": true
+            }
+        },
+        {
+            "attribute": "P",
+            "description": "Phosphorus, P",
+            "value": 0.0,
+            "unit": {
+                "id": "12485d26-6e69-102c-9a8a-0030485841f8",
+                "name": "gram",
+                "abbreviation": "g",
+                "plural": "grams",
+                "pluralAbbreviation": "grams",
+                "decimal": true
+            }
+        },
+        {
+            "attribute": "CA",
+            "description": "Calcium, Ca",
+            "value": 0.02,
+            "unit": {
+                "id": "12485d26-6e69-102c-9a8a-0030485841f8",
+                "name": "gram",
+                "abbreviation": "g",
+                "plural": "grams",
+                "pluralAbbreviation": "grams",
+                "decimal": true
+            }
+        },
+        {
+            "attribute": "MG",
+            "description": "Magnesium, Mg",
+            "value": 0.01,
+            "unit": {
+                "id": "12485d26-6e69-102c-9a8a-0030485841f8",
+                "name": "gram",
+                "abbreviation": "g",
+                "plural": "grams",
+                "pluralAbbreviation": "grams",
+                "decimal": true
+            }
+        },
+        {
+            "attribute": "SUCS",
+            "description": "Sucrose",
+            "value": 25.2,
+            "unit": {
+                "id": "12485d26-6e69-102c-9a8a-0030485841f8",
+                "name": "gram",
+                "abbreviation": "g",
+                "plural": "grams",
+                "pluralAbbreviation": "grams",
+                "decimal": true
+            }
+        },
+        {
+            "attribute": "ENERC_KCAL",
+            "description": "Energy",
+            "value": 130.29,
+            "unit": {
+                "id": "fea252f8-9888-4365-b005-e2c63ed3a776",
+                "name": "calorie",
+                "abbreviation": "kcal",
+                "plural": "calories",
+                "pluralAbbreviation": "kcal",
+                "decimal": true
+            }
+        },
+        {
+            "attribute": "VITC",
+            "description": "Vitamin C, total ascorbic acid",
+            "value": 0.0,
+            "unit": {
+                "id": "12485d26-6e69-102c-9a8a-0030485841f8",
+                "name": "gram",
+                "abbreviation": "g",
+                "plural": "grams",
+                "pluralAbbreviation": "grams",
+                "decimal": true
+            }
+        },
+        {
+            "attribute": "MALS",
+            "description": "Maltose",
+            "value": 0.57,
+            "unit": {
+                "id": "12485d26-6e69-102c-9a8a-0030485841f8",
+                "name": "gram",
+                "abbreviation": "g",
+                "plural": "grams",
+                "pluralAbbreviation": "grams",
+                "decimal": true
+            }
+        },
+        {
+            "attribute": "NA",
+            "description": "Sodium, Na",
+            "value": 0.03,
+            "unit": {
+                "id": "12485d26-6e69-102c-9a8a-0030485841f8",
+                "name": "gram",
+                "abbreviation": "g",
+                "plural": "grams",
+                "pluralAbbreviation": "grams",
+                "decimal": true
+            }
+        }
+    ],
+    "images": [
+        {
+            "hostedSmallUrl": "http://lh3.googleusercontent.com/65unx86XH2zkeQaZhK7y7hTAR9a71yuKz1O9-08ygWWC7Ujw1v1HgEiAc0Ys7n8ai-1qwOmiQLRi3tfxVCW9WA=s90",
+            "hostedMediumUrl": "http://lh3.googleusercontent.com/65unx86XH2zkeQaZhK7y7hTAR9a71yuKz1O9-08ygWWC7Ujw1v1HgEiAc0Ys7n8ai-1qwOmiQLRi3tfxVCW9WA=s180",
+            "hostedLargeUrl": "http://lh3.googleusercontent.com/65unx86XH2zkeQaZhK7y7hTAR9a71yuKz1O9-08ygWWC7Ujw1v1HgEiAc0Ys7n8ai-1qwOmiQLRi3tfxVCW9WA=s360",
+            "imageUrlsBySize": {
+                "90": "http://lh3.googleusercontent.com/V3KBM8wZOmJfPberQKlYgFnZ-Yr-f_33SjZqdPeHywRAZY50ZF448w-W1_auPgVtnUympgwaWqZv3QyEMGrY2g=s90-c",
+                "360": "http://lh3.googleusercontent.com/V3KBM8wZOmJfPberQKlYgFnZ-Yr-f_33SjZqdPeHywRAZY50ZF448w-W1_auPgVtnUympgwaWqZv3QyEMGrY2g=s360-c"
+            }
+        }
+    ],
+    "name": "Jell-O Popsicle",
+    "source": {
+        "sourceDisplayName": "Poofy Cheeks",
+        "sourceSiteUrl": "poofycheeks.com",
+        "sourceRecipeUrl": "http://www.poofycheeks.com/2014/06/jell-o-popsicle-recipe.html"
+    },
+    "id": "Jell-O-Popsicle-1096516",
+    "ingredientLines": [
+        "**Affiliate link to the exact mold I purchased and used** This made about 40 ounces and we had 8 ounces left after filling our 10 slot popsicle mold. I put the remaining mix into the fridge and my boys ate it after it set.",
+        "(1) 3oz package of Jell-O",
+        "4 cups of water",
+        "1/3 cup granulated sugar (optional)",
+        "Bring 2 cups of water to a boil. In a medium bowl mix sugar and Jell-O powder. Stir in boiling water, stirring constantly until Jell-O and sugar are completely dissolved (about 2 minutes).",
+        "Bring 2 cups of water to a boil. In a medium bowl mix sugar and Jell-O powder. Stir in boiling water, stirring constantly until Jell-O and sugar are completely dissolved (about 2 minutes).",
+        "Bring 2 cups of water to a boil. In a medium bowl mix sugar and Jell-O powder. Stir in boiling water, stirring constantly until Jell-O and sugar are completely dissolved (about 2 minutes).",
+        "Stir 2 cups of cold water into bowl and then pour mixture into popsicle molds."
+    ],
+    "attribution": {
+        "html": "<a href='http://www.yummly.co/recipe/Jell-O-Popsicle-1096516'>Jell-O Popsicle recipe</a> information powered by <img alt='Yummly' src='https://static.yummly.co/api-logo.png'/>",
+        "url": "http://www.yummly.co/recipe/Jell-O-Popsicle-1096516",
+        "text": "Jell-O Popsicle recipes: information powered by Yummly",
+        "logo": "https://static.yummly.co/api-logo.png"
+    },
+    "numberOfServings": 4,
+    "totalTimeInSeconds": null,
+    "attributes": {},
+    "flavors": {},
+    "rating": 4
+}

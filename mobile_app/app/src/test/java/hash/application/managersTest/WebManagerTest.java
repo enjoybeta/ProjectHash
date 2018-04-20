@@ -2,8 +2,13 @@ package hash.application.managersTest;
 
 import org.junit.Test;
 
+import java.util.ArrayList;
+
+import hash.application.dataType.SearchCoarse;
+import hash.application.dataType.SearchPrecise;
 import hash.application.managers.WebManager;
 
+import static java.util.Arrays.asList;
 import static org.junit.Assert.*;
 
 public class WebManagerTest {
@@ -47,19 +52,19 @@ public class WebManagerTest {
      */
     @Test
     public void searchPreciseTest() {
-        String data1 = manager.searchPrecise({"keyword": "beef"});
-        String data2 = manager.searchPrecise({"keyword": "beef"});
-        String data3 = manager.searchPrecise({"keyword": "milk"});
+        String data1 = manager.searchPrecise(new SearchPrecise("beef"));
+        String data2 = manager.searchPrecise(new SearchPrecise("beef"));
+        String data3 = manager.searchPrecise(new SearchPrecise("milk"));
         assertTrue(data1.equals(data2));
         assertFalse(data1.equals(data3));
     }
 
      @Test
     public void searchCoarseTest() {
-        String data1 = manager.searchCoarse({"numberofserving": 4, "having": ["onion", "beef"], "not_having": ["egg"]});
-        String data2 = manager.searchCoarse({"numberofserving": 4, "having": ["onion", "beef"], "not_having": ["egg"]});
-        String data3 = manager.searchCoarse({"numberofserving": 6, "having": ["onion", "beef"], "not_having": ["egg"]});
-        String data4 = manager.searchCoarse({"numberofserving": 6, "having": ["pepper", "chicken"], "not_having": ["peanut"]});
+        String data1 = manager.searchCoarse(new SearchCoarse(4, new ArrayList<String>(asList("onion", "beef")), new ArrayList<String>(asList("egg"))));
+        String data2 = manager.searchCoarse(new SearchCoarse(4, new ArrayList<String>(asList("onion", "beef")), new ArrayList<String>(asList("egg"))));
+        String data3 = manager.searchCoarse(new SearchCoarse(6, new ArrayList<String>(asList("onion", "beef")), new ArrayList<String>(asList("egg"))));
+        String data4 = manager.searchCoarse(new SearchCoarse(6, new ArrayList<String>(asList("pepper", "chicken")), new ArrayList<String>(asList("peanut"))));
         assertTrue(data1.equals(data2));
         assertFalse(data1.equals(data3));
         assertFalse(data3.equals(data4));

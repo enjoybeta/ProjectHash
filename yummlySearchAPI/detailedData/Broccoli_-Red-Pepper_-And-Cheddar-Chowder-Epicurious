@@ -1240,7 +1240,18 @@
     },
     "numberOfServings": 6,
     "totalTimeInSeconds": 3000,
-    "attributes": {},
-    "flavors": {},
+    "attributes": {
+        "course": [
+            "Soups"
+        ]
+    },
+    "flavors": {
+        "Piquant": 0.1667,
+        "Meaty": 0.1667,
+        "Bitter": 0.8333,
+        "Sweet": 0.1667,
+        "Sour": 0.8333,
+        "Salty": 0.5
+    },
     "rating": 5
 }

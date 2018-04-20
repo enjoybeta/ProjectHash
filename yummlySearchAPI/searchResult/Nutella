@@ -1,0 +1,76 @@
+{
+    "criteria": {
+        "q": "N+u+t+e+l+l+a",
+        "allowedIngredient": null,
+        "excludedIngredient": null
+    },
+    "matches": [
+        {
+            "imageUrlsBySize": {
+                "90": "https://lh3.googleusercontent.com/MSNgN7s8kgVameNlbVabe0e5BDf7x-9HNBFOWKxHLk4Hhl5130KN4an7iRzor0oc2aVA0mVn5v3aG5e3wge_Xg=s90-c"
+            },
+            "sourceDisplayName": "I Should Be Mopping the Floor",
+            "ingredients": [
+                "sandwiches",
+                "cool whip",
+                "caramel ice cream topping",
+                "ice cream"
+            ],
+            "id": "10-Minute-Layered-Ice-Cream-Cake-_easydessert-1914028",
+            "smallImageUrls": [
+                "https://lh3.googleusercontent.com/t9uQksw-8vAc7i8sB2RiuybQLR-JYEt-LA3HgZHHsVITAFLuQplS9aJpBCa39DNiyLt7xsgn9JF4cnfNifgWMg=s90"
+            ],
+            "recipeName": "10-Minute Layered Ice Cream Cake #easydessert",
+            "totalTimeInSeconds": 1500,
+            "attributes": {
+                "course": [
+                    "Desserts"
+                ]
+            },
+            "flavors": null,
+            "rating": 4
+        },
+        {
+            "imageUrlsBySize": {
+                "90": "https://lh3.googleusercontent.com/5dVXIbYd_bGJ5wjRm-qiykAAW10aM46JPv67YFykR8YaleXaEzxn5SoIxuoslzfK5u-DpIAHPPESG1Tu_yRulQ=s90-c"
+            },
+            "sourceDisplayName": "The Mommypotamus",
+            "ingredients": [
+                "water",
+                "apple cider vinegar",
+                "sea salt",
+                "warm water",
+                "gluten",
+                "maple syrup",
+                "eggs",
+                "cassava root flour",
+                "psyllium husks",
+                "coconut flour",
+                "ghee",
+                "baking soda",
+                "coarse sea salt"
+            ],
+            "id": "Soft-Pretzel-Recipe-_Gluten-Free_-Paleo_-1712013",
+            "smallImageUrls": [
+                "https://lh3.googleusercontent.com/GUF4EIbYJZ7pyYwNo-kOrF-6V3fAaLPi0Wlyf6bOL3ATJgwGdB7UJGkUeYgIvZObdft6JilHXaDuap_hxOLb=s90"
+            ],
+            "recipeName": "Soft Pretzel Recipe (Gluten-Free, Paleo)",
+            "totalTimeInSeconds": 3600,
+            "attributes": {
+                "course": [
+                    "Breads"
+                ]
+            },
+            "flavors": null,
+            "rating": 3
+        }
+    ],
+    "facetCounts": {},
+    "totalMatchCount": 2,
+    "attribution": {
+        "html": "Recipe search powered by <a href='http://www.yummly.co/recipes'><img alt='Yummly' src='https://static.yummly.co/api-logo.png'/></a>",
+        "url": "http://www.yummly.co/recipes/",
+        "text": "Recipe search powered by Yummly",
+        "logo": "https://static.yummly.co/api-logo.png"
+    }
+}

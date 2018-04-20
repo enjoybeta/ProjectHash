@@ -1,0 +1,55 @@
+{
+    "yield": "Zutaten f\u00fcr ca. 20 St\u00fccke:",
+    "nutritionEstimates": [],
+    "totalTime": "1 hr 45 min",
+    "images": [
+        {
+            "hostedSmallUrl": "http://lh3.googleusercontent.com/1aCMMPMjiLHxEQRynTcLeoiHGG5qC6fC-lT0BBe81E6k_hMsKRQWinUCGlBNO3wu7v-bMVv9MMF7pWnJ2LkP=s90",
+            "hostedMediumUrl": "http://lh3.googleusercontent.com/1aCMMPMjiLHxEQRynTcLeoiHGG5qC6fC-lT0BBe81E6k_hMsKRQWinUCGlBNO3wu7v-bMVv9MMF7pWnJ2LkP=s180",
+            "hostedLargeUrl": "http://lh3.googleusercontent.com/1aCMMPMjiLHxEQRynTcLeoiHGG5qC6fC-lT0BBe81E6k_hMsKRQWinUCGlBNO3wu7v-bMVv9MMF7pWnJ2LkP=s360",
+            "imageUrlsBySize": {
+                "90": "http://lh3.googleusercontent.com/F3xBdAbiA8v-zYSTJZ4ffRJEVunkzOqiByZLaNXN1VuWUiXvxqjMMotz60QtT9Z_Za8O2yMSHxT2nCx0lhfYzA=s90-c",
+                "360": "http://lh3.googleusercontent.com/F3xBdAbiA8v-zYSTJZ4ffRJEVunkzOqiByZLaNXN1VuWUiXvxqjMMotz60QtT9Z_Za8O2yMSHxT2nCx0lhfYzA=s360-c"
+            }
+        }
+    ],
+    "name": "Vanille-Schmand-Kranz mit Himbeeren",
+    "source": {
+        "sourceDisplayName": "Lecker",
+        "sourceSiteUrl": "lecker.de",
+        "sourceRecipeUrl": "http://www.lecker.de/rezept/865544/Vanille-Schmand-Kranz-mit-Himbeeren.html"
+    },
+    "id": "Vanille-Schmand-Kranz-mit-Himbeeren-833362",
+    "ingredientLines": [
+        "500 g TK-Himbeeren",
+        "Fett und Paniermehl f\u00fcr die Form",
+        "150 g weiche Butter/Margarine",
+        "200 g + 75 g + 50 g Zucker",
+        "2 P\u00e4ckchen Vanillin-Zucker",
+        "abgeriebene Schale von",
+        "1 unbehandelten Zitrone, 1 Pr. Salz",
+        "5 Eier (Gr. M), 225 g Mehl",
+        "75 g + 50 g Speisest\u00e4rke",
+        "1 Pckch. Backpulver, 4-5 EL Milch",
+        "2 EL Zitronensaft",
+        "200 g Mandelbl\u00e4ttchen",
+        "500 g Schmand, 500 g Schlagsahne",
+        "2 P\u00e4ckchen So\u00dfenpulver \"Vanille\" (ohne Kochen; f\u00fcr 1/4 l Fl\u00fcssigkeit)",
+        "evtl. Himbeeren u. Minze zum Verzieren"
+    ],
+    "attribution": {
+        "html": "<a href='http://www.yummly.co/recipe/Vanille-Schmand-Kranz-mit-Himbeeren-833362'>Vanille-Schmand-Kranz mit Himbeeren recipe</a> information powered by <img alt='Yummly' src='https://static.yummly.co/api-logo.png'/>",
+        "url": "http://www.yummly.co/recipe/Vanille-Schmand-Kranz-mit-Himbeeren-833362",
+        "text": "Vanille-Schmand-Kranz mit Himbeeren recipes: information powered by Yummly",
+        "logo": "https://static.yummly.co/api-logo.png"
+    },
+    "numberOfServings": 20,
+    "totalTimeInSeconds": 6300,
+    "attributes": {
+        "course": [
+            "Desserts"
+        ]
+    },
+    "flavors": {},
+    "rating": 3
+}

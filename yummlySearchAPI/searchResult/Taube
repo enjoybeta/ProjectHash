@@ -1,0 +1,124 @@
+{
+    "criteria": {
+        "q": "T+a+u+b+e",
+        "allowedIngredient": null,
+        "excludedIngredient": null
+    },
+    "matches": [
+        {
+            "imageUrlsBySize": {
+                "90": "https://lh3.googleusercontent.com/MSNgN7s8kgVameNlbVabe0e5BDf7x-9HNBFOWKxHLk4Hhl5130KN4an7iRzor0oc2aVA0mVn5v3aG5e3wge_Xg=s90-c"
+            },
+            "sourceDisplayName": "I Should Be Mopping the Floor",
+            "ingredients": [
+                "sandwiches",
+                "cool whip",
+                "caramel ice cream topping",
+                "ice cream"
+            ],
+            "id": "10-Minute-Layered-Ice-Cream-Cake-_easydessert-1914028",
+            "smallImageUrls": [
+                "https://lh3.googleusercontent.com/t9uQksw-8vAc7i8sB2RiuybQLR-JYEt-LA3HgZHHsVITAFLuQplS9aJpBCa39DNiyLt7xsgn9JF4cnfNifgWMg=s90"
+            ],
+            "recipeName": "10-Minute Layered Ice Cream Cake #easydessert",
+            "totalTimeInSeconds": 1500,
+            "attributes": {
+                "course": [
+                    "Desserts"
+                ]
+            },
+            "flavors": null,
+            "rating": 4
+        },
+        {
+            "imageUrlsBySize": {
+                "90": "https://lh3.googleusercontent.com/8WoxPfOKGhWAhcTu4x2ThZlSN76E-TVVrI70IEu_aIk4L64ominZ-rsi9qrLo3cid3oMlwWyaPMar0S9AutAAA=s90-c"
+            },
+            "sourceDisplayName": "uTry.it",
+            "ingredients": [
+                "toasted sesame seeds",
+                "Japanese Mayonnaise",
+                "rice vinegar",
+                "soy sauce",
+                "sesame oil",
+                "honey",
+                "dijon mustard",
+                "ground white pepper",
+                "noodles",
+                "deli ham",
+                "carrots",
+                "cucumber",
+                "orange",
+                "green onions",
+                "fresh chili"
+            ],
+            "id": "Asian-Summer-Noodle-With-Dijon-Sesame-Dressing-__-1760731",
+            "smallImageUrls": [
+                "https://lh3.googleusercontent.com/c-nAaU56nrHXKLFTsOPtz1zb6l4l-OcfgU6l_NeB7-NnQAi07V0Mj2o9V2U0Kou8iNxi-3ALHevSnlLpDifxqw=s90"
+            ],
+            "recipeName": "Asian Summer Noodle With Dijon Sesame Dressing (\u590f\u306e\u4e2d\u83ef\u51b7\u9eb5\u914d\u829d\u9ebb\u82a5\u672b\u91ac\u6c41)",
+            "totalTimeInSeconds": 1800,
+            "attributes": {
+                "course": [
+                    "Salads",
+                    "Lunch"
+                ],
+                "cuisine": [
+                    "Kid-Friendly",
+                    "Asian"
+                ]
+            },
+            "flavors": {
+                "piquant": 0.16666666666666666,
+                "meaty": 0.16666666666666666,
+                "bitter": 0.16666666666666666,
+                "sweet": 0.16666666666666666,
+                "sour": 0.5,
+                "salty": 0.3333333333333333
+            },
+            "rating": 4
+        },
+        {
+            "recipeName": "H I M B E E R T O R T E",
+            "ingredients": [
+                "Ei",
+                "Puderzucker",
+                "Vanillezucker",
+                "Mehl",
+                "St\u00e4rke",
+                "Backpulver",
+                "F\u00fcllung",
+                "G\u00f6tterspeise",
+                "Zucker",
+                "K\u00e4se",
+                "Rahm",
+                "Himbeere"
+            ],
+            "totalTimeInSeconds": 7200,
+            "sourceDisplayName": "Lecker",
+            "id": "H-I-M-B-E-E-R-T-O-R-T-E-839122",
+            "rating": 3,
+            "flavors": {
+                "sweet": 0.8333333333333334,
+                "piquant": 0.0,
+                "sour": 0.6666666666666666,
+                "salty": 0.16666666666666666,
+                "meaty": 0.16666666666666666,
+                "bitter": 0.16666666666666666
+            },
+            "attributes": {
+                "course": [
+                    "Desserts"
+                ]
+            }
+        }
+    ],
+    "facetCounts": {},
+    "totalMatchCount": 3,
+    "attribution": {
+        "html": "Recipe search powered by <a href='http://www.yummly.co/recipes'><img alt='Yummly' src='https://static.yummly.co/api-logo.png'/></a>",
+        "url": "http://www.yummly.co/recipes/",
+        "text": "Recipe search powered by Yummly",
+        "logo": "https://static.yummly.co/api-logo.png"
+    }
+}

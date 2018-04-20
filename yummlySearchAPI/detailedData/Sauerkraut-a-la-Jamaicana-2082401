@@ -1,0 +1,43 @@
+{
+    "nutritionEstimates": [],
+    "totalTime": "55 min",
+    "images": [
+        {
+            "hostedSmallUrl": "https://lh3.googleusercontent.com/ThYbZtppqX-uIZCEicTkLtGwbB2XZh63u9LgrgtDdenJrePQsQ5UkzGsj6QDcVRiym6wJi2BmJUiONAfNI3o=s90",
+            "hostedMediumUrl": "https://lh3.googleusercontent.com/ThYbZtppqX-uIZCEicTkLtGwbB2XZh63u9LgrgtDdenJrePQsQ5UkzGsj6QDcVRiym6wJi2BmJUiONAfNI3o=s180",
+            "hostedLargeUrl": "https://lh3.googleusercontent.com/ThYbZtppqX-uIZCEicTkLtGwbB2XZh63u9LgrgtDdenJrePQsQ5UkzGsj6QDcVRiym6wJi2BmJUiONAfNI3o=s360",
+            "imageUrlsBySize": {
+                "90": "https://lh3.googleusercontent.com/9svtExcN05IwUg9G1ztB97EKaC_iMmT9xB55N0DzIiTHURRBf3Uc1NJkquqam9KSrbB5bTQAzusxUk9kGDFEV_s=s90-c",
+                "360": "https://lh3.googleusercontent.com/9svtExcN05IwUg9G1ztB97EKaC_iMmT9xB55N0DzIiTHURRBf3Uc1NJkquqam9KSrbB5bTQAzusxUk9kGDFEV_s=s360-c"
+            }
+        }
+    ],
+    "name": "Sauerkraut a la Jamaicana",
+    "source": {
+        "sourceDisplayName": "Leckerbiss",
+        "sourceSiteUrl": "leckerbiss.com",
+        "sourceRecipeUrl": "https://leckerbiss.com/2015/01/22/sauerkraut-a-la-jamaicana/"
+    },
+    "id": "Sauerkraut-a-la-Jamaicana-2082401",
+    "ingredientLines": [
+        "1 cane of kidney beans",
+        "110g Corn flour",
+        "20g spelt flour",
+        "4 tea spoons carob tree flour",
+        "5 tea spoons salt",
+        "1 zucchini",
+        "2 medium sized onions",
+        "around 80mL water"
+    ],
+    "attribution": {
+        "html": "<a href='http://www.yummly.co/recipe/Sauerkraut-a-la-Jamaicana-2082401'>Sauerkraut a la Jamaicana recipe</a> information powered by <img alt='Yummly' src='https://static.yummly.co/api-logo.png'/>",
+        "url": "http://www.yummly.co/recipe/Sauerkraut-a-la-Jamaicana-2082401",
+        "text": "Sauerkraut a la Jamaicana recipes: information powered by Yummly",
+        "logo": "https://static.yummly.co/api-logo.png"
+    },
+    "numberOfServings": 4,
+    "totalTimeInSeconds": 3300,
+    "attributes": {},
+    "flavors": {},
+    "rating": 4
+}

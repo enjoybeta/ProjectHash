@@ -1,0 +1,46 @@
+{
+    "nutritionEstimates": [],
+    "totalTime": "35 min",
+    "images": [
+        {
+            "hostedSmallUrl": "http://lh3.ggpht.com/kWcA-mO2DXRV52j71lgbzk8GiiBJSgt4qveb4TCFTxj7Lil3pi0uY3n13_BjqzzG45Q6EUhG4-IxA2J9E8iW8w=s90",
+            "hostedMediumUrl": "http://lh3.ggpht.com/kWcA-mO2DXRV52j71lgbzk8GiiBJSgt4qveb4TCFTxj7Lil3pi0uY3n13_BjqzzG45Q6EUhG4-IxA2J9E8iW8w=s180",
+            "hostedLargeUrl": "http://lh3.ggpht.com/kWcA-mO2DXRV52j71lgbzk8GiiBJSgt4qveb4TCFTxj7Lil3pi0uY3n13_BjqzzG45Q6EUhG4-IxA2J9E8iW8w=s360",
+            "imageUrlsBySize": {
+                "90": "http://lh6.ggpht.com/krcmu5JynWH3ghFlKSLm5-0f1qVsifvoD904nsA89QGIXy_C703omP2jFLlH4k7OiIzg3HDUNQVa7yjEkmxBvFM=s90-c",
+                "360": "http://lh6.ggpht.com/krcmu5JynWH3ghFlKSLm5-0f1qVsifvoD904nsA89QGIXy_C703omP2jFLlH4k7OiIzg3HDUNQVa7yjEkmxBvFM=s360-c"
+            }
+        }
+    ],
+    "name": "Easy Homemade Soft Pretzels",
+    "source": {
+        "sourceDisplayName": "The Fountain Avenue Kitchen",
+        "sourceSiteUrl": "http://fountainavenuekitchen.com",
+        "sourceRecipeUrl": "http://fountainavenuekitchen.com/easy-homemade-soft-pretzels/"
+    },
+    "id": "Easy-Homemade-Soft-Pretzels-601662",
+    "ingredientLines": [
+        "Frozen dinner rolls (the dough, not the pre-cooked rolls)",
+        "10 cups water",
+        "2/3 cup baking soda",
+        "1 large egg yolk beaten with 1 tablespoon water",
+        "Pretzel salt (coarse sea salt works well, too)",
+        "Mustard for serving, if desired"
+    ],
+    "attribution": {
+        "html": "<a href='http://www.yummly.co/recipe/Easy-Homemade-Soft-Pretzels-601662'>Easy Homemade Soft Pretzels recipe</a> information powered by <img alt='Yummly' src='https://static.yummly.co/api-logo.png'/>",
+        "url": "http://www.yummly.co/recipe/Easy-Homemade-Soft-Pretzels-601662",
+        "text": "Easy Homemade Soft Pretzels recipes: information powered by Yummly",
+        "logo": "https://static.yummly.co/api-logo.png"
+    },
+    "numberOfServings": 4,
+    "totalTimeInSeconds": 2100,
+    "attributes": {
+        "course": [
+            "Snacks",
+            "Lunch"
+        ]
+    },
+    "flavors": {},
+    "rating": 3
+}

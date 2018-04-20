@@ -1,0 +1,258 @@
+{
+    "criteria": {
+        "q": "G+e+m+\u00fc+s+e+s+u+d",
+        "allowedIngredient": null,
+        "excludedIngredient": null
+    },
+    "matches": [
+        {
+            "imageUrlsBySize": {
+                "90": "http://lh3.googleusercontent.com/OE2PMDHWqL8wGKNhPWQ-UVNSEFB0bxPNMV_EocMzRpHM6FJaPwDZzHTkVZCHGeemp8dc1wI0XjZ-P3AoZqdSAA=s90-c"
+            },
+            "sourceDisplayName": "Lecker",
+            "ingredients": [
+                "Schlabgobers",
+                "Kuvert\u00fcre",
+                "Semmelbr\u00f6sel",
+                "Mandel",
+                "Butter",
+                "Rahm",
+                "Ei",
+                "Demerarazucker",
+                "Mehl",
+                "Backpulver"
+            ],
+            "id": "Brownies-mit-weier-Schokosahne-833492",
+            "smallImageUrls": [
+                "http://lh3.googleusercontent.com/pJ1SLDCnwasYzQKJWOLQh0eGkHeok7kl8iT7kEPbnCjYK8dWX19lDS0oUtbJjQ3KmabnLmVSBcb5mdbTrfhfswc=s90"
+            ],
+            "recipeName": "Brownies mit wei\u00dfer Schokosahne",
+            "totalTimeInSeconds": 5400,
+            "attributes": {
+                "course": [
+                    "Desserts"
+                ]
+            },
+            "flavors": {
+                "sweet": 0.8333333333333334,
+                "piquant": 0.0,
+                "sour": 0.0,
+                "salty": 0.16666666666666666,
+                "meaty": 0.8333333333333334,
+                "bitter": 0.6666666666666666
+            },
+            "rating": 3
+        },
+        {
+            "imageUrlsBySize": {
+                "90": "http://lh3.googleusercontent.com/66Qh4-pHuC9PE0UKRiPMPGU_GCW6R6oWsZL5nAQKEckP_uSO3VfCnI_KzlAGi9K1B786GU7aWneQwYa9YZR0=s90-c"
+            },
+            "sourceDisplayName": "Lecker",
+            "ingredients": [
+                "Mehl",
+                "Backpulver",
+                "Ei",
+                "Butter",
+                "Semmelbr\u00f6sel",
+                "Haselnuss",
+                "Milch",
+                "Kuvert\u00fcre",
+                "Rahm"
+            ],
+            "id": "Viertage-Haselnuss-Torte-833757",
+            "smallImageUrls": [
+                "http://lh3.googleusercontent.com/Xl-6h-22THyD5F0LOY0xYJ6mvhHq_3qscXk2QFcBEHZVdZsdn1JGM4nh7MJQPPAD6uAAi05La-ypxI0Hd4ecJNs=s90"
+            ],
+            "recipeName": "Viertage-Haselnuss-Torte",
+            "totalTimeInSeconds": 4500,
+            "attributes": {
+                "course": [
+                    "Desserts"
+                ]
+            },
+            "flavors": {
+                "sweet": 0.8333333333333334,
+                "piquant": 0.0,
+                "sour": 0.16666666666666666,
+                "salty": 0.16666666666666666,
+                "meaty": 0.8333333333333334,
+                "bitter": 0.16666666666666666
+            },
+            "rating": 3
+        },
+        {
+            "imageUrlsBySize": {
+                "90": "http://lh3.googleusercontent.com/IEVa56x1vVP1Zo_NsLbREdgJkY0WxFmu6xc7VGFXxowMyJnJZW7Pz_WBJDQzTb9kDPLkafkkc9JbB8Su9Bry=s90-c"
+            },
+            "sourceDisplayName": "Lecker",
+            "ingredients": [
+                "Fett",
+                "Schokolade",
+                "Schlabgobers",
+                "Ei",
+                "Zucker",
+                "Salz",
+                "Mehl",
+                "Backpulver",
+                "Sahnefestiger",
+                "Bourbon-Vanillezucker",
+                "Kakao",
+                "Moccabohnen"
+            ],
+            "id": "Latte-Macchiato-Torte-927283",
+            "smallImageUrls": [
+                "http://lh3.googleusercontent.com/mox7YlW0Zg6obwMtwfATLII3CVfaQMdqFJPpNkCvzeEpbj82QiWcqm_k84v4_HsCuPJ5BkmjS8PfkePljSPJexU=s90"
+            ],
+            "recipeName": "Latte-Macchiato-Torte",
+            "totalTimeInSeconds": 1800,
+            "attributes": {
+                "course": [
+                    "Desserts"
+                ]
+            },
+            "flavors": null,
+            "rating": 3
+        },
+        {
+            "imageUrlsBySize": {
+                "90": "http://lh3.googleusercontent.com/mnU5s1PLZDkL78pL-y2T6z2mjeWrOtXz4VEcgZmS0m6OKzf1CluH8_r7KM-roQhShf0EvKPJ6JOQwBBD6wtVpw8=s90-c"
+            },
+            "sourceDisplayName": "Lecker",
+            "ingredients": [
+                "Haselnuss",
+                "Nu\u00dfnougat",
+                "Marzipan",
+                "weiche Butter",
+                "Zucker",
+                "Salz",
+                "aroma",
+                "Ei",
+                "Mehl",
+                "Backpulver",
+                "Schlabgobers",
+                "Fett",
+                "Haselnussblattchen",
+                "Konfit\u00fcre",
+                "Puderzucker"
+            ],
+            "id": "Knusper-Nougat-Kranz-926655",
+            "smallImageUrls": [
+                "http://lh3.googleusercontent.com/BHRu9mng5V1YnA_8rEut9iMY9iSTIKkjvg7vIA6TShaGHvtrwae9v04JXY8nwbrufYRqn4HWkRQxB7PDrL4_=s90"
+            ],
+            "recipeName": "Knusper-Nougat-Kranz",
+            "totalTimeInSeconds": 5400,
+            "attributes": {
+                "course": [
+                    "Desserts"
+                ]
+            },
+            "flavors": null,
+            "rating": 3
+        },
+        {
+            "imageUrlsBySize": {
+                "90": "http://lh3.googleusercontent.com/jeaM-jd69GtGaj3MhYdM9NFsTdH3eheFfxxy9Pxr0oi02-VyIrxCIORGiV_xS-00XSp1wFt1P3bxAGeE__DYww=s90-c"
+            },
+            "sourceDisplayName": "Lecker",
+            "ingredients": [
+                "Semmelbr\u00f6sel",
+                "Ei",
+                "Zucker",
+                "Butter",
+                "Kirsche",
+                "Speisest\u00e4rke",
+                "Milch",
+                "Puddingpulver",
+                "Rahm",
+                "Schlabgobers",
+                "Puderzucker"
+            ],
+            "id": "Knusprige-Karamell-Torteletts-832309",
+            "smallImageUrls": [
+                "http://lh3.googleusercontent.com/5TPxI2fJYiJGSZk5Ff8aGpVEjtPGGEN1-cDutJw0NXYJFuuMJGi8VzYT4tP8CLLv-bzxtpn0OkJLCtRj-Bq2=s90"
+            ],
+            "recipeName": "Knusprige Karamell-Torteletts",
+            "totalTimeInSeconds": 5400,
+            "attributes": {
+                "course": [
+                    "Desserts"
+                ]
+            },
+            "flavors": null,
+            "rating": 3
+        },
+        {
+            "imageUrlsBySize": {
+                "90": "http://lh3.googleusercontent.com/frEsy6xWD7DUog3TpyIJSH3jWrwAFHuXqLdqX6Kpo4piUJO6U1HoV2QJ5BAYPCJp7VvE_-Fm_9kH82YJp3b8Xx8=s90-c"
+            },
+            "sourceDisplayName": "Lecker",
+            "ingredients": [
+                "Semmelbr\u00f6sel",
+                "Marille",
+                "Ei",
+                "Zucker",
+                "Salz",
+                "magerquark",
+                "Mascarpone",
+                "Obersk\u00e4se",
+                "Puddingpulver",
+                "Mandelbl\u00e4tter",
+                "Konfit\u00fcre",
+                "Puderzucker"
+            ],
+            "id": "Aprikosen-Quark-Schnitten-927006",
+            "smallImageUrls": [
+                "http://lh3.googleusercontent.com/G8zEeUacbTgkjE9mUlxQmquzFXl3Dihd2BvF43jltAdNv4h8gRS4k4ixvldNI7tX-G6gWGGHIUGOmqpsTX6jgQ=s90"
+            ],
+            "recipeName": "Aprikosen-Quark-Schnitten",
+            "totalTimeInSeconds": 6300,
+            "attributes": {
+                "course": [
+                    "Desserts"
+                ]
+            },
+            "flavors": null,
+            "rating": 3
+        },
+        {
+            "recipeName": "Apfel-To\u0308rtchen mit Weinschaum",
+            "ingredients": [
+                "\u00c4pfel",
+                "Zitronensaft",
+                "Zucker",
+                "Mohn",
+                "Butter",
+                "Fett",
+                "Salz",
+                "Backpulver",
+                "Mehl",
+                "Wei\u00dfwein"
+            ],
+            "totalTimeInSeconds": 3600,
+            "sourceDisplayName": "Lecker",
+            "id": "Apfel-Tortchen-mit-Weinschaum-833525",
+            "rating": 3,
+            "flavors": {
+                "sweet": 0.8333333333333334,
+                "piquant": 0.0,
+                "sour": 0.16666666666666666,
+                "salty": 0.16666666666666666,
+                "meaty": 0.16666666666666666,
+                "bitter": 0.16666666666666666
+            },
+            "attributes": {
+                "course": [
+                    "Desserts"
+                ]
+            }
+        }
+    ],
+    "facetCounts": {},
+    "totalMatchCount": 7,
+    "attribution": {
+        "html": "Recipe search powered by <a href='http://www.yummly.co/recipes'><img alt='Yummly' src='https://static.yummly.co/api-logo.png'/></a>",
+        "url": "http://www.yummly.co/recipes/",
+        "text": "Recipe search powered by Yummly",
+        "logo": "https://static.yummly.co/api-logo.png"
+    }
+}

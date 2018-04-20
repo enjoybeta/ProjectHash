@@ -1,0 +1,50 @@
+{
+    "yield": "4 servings",
+    "nutritionEstimates": [],
+    "totalTime": "25 min",
+    "images": [
+        {
+            "hostedSmallUrl": "https://lh3.googleusercontent.com/kMOAkuKqkOVxWEEhD2ySY6BRI46ObxSxFfAPOLPU_cs6wVzcNG6J9Q0lFUhoKRldpCzhmIqD_F_1JIAlMz_44Q=s90",
+            "hostedMediumUrl": "https://lh3.googleusercontent.com/kMOAkuKqkOVxWEEhD2ySY6BRI46ObxSxFfAPOLPU_cs6wVzcNG6J9Q0lFUhoKRldpCzhmIqD_F_1JIAlMz_44Q=s180",
+            "hostedLargeUrl": "https://lh3.googleusercontent.com/kMOAkuKqkOVxWEEhD2ySY6BRI46ObxSxFfAPOLPU_cs6wVzcNG6J9Q0lFUhoKRldpCzhmIqD_F_1JIAlMz_44Q=s360",
+            "imageUrlsBySize": {
+                "90": "https://lh3.googleusercontent.com/dQmVgZClGlTmtRQb0O1TRD4baEDU5O5ftg62CgacUfIAHtdGe6Cllo0BaK5cO_7ufvP-LuOvAQtk0n2U_uxE=s90-c",
+                "360": "https://lh3.googleusercontent.com/dQmVgZClGlTmtRQb0O1TRD4baEDU5O5ftg62CgacUfIAHtdGe6Cllo0BaK5cO_7ufvP-LuOvAQtk0n2U_uxE=s360-c"
+            }
+        }
+    ],
+    "name": "Roasted Broccoli with Garlic",
+    "source": {
+        "sourceDisplayName": "Kalyn's Kitchen",
+        "sourceSiteUrl": "http://www.kalynskitchen.com",
+        "sourceRecipeUrl": "https://kalynskitchen.com/weekend-herb-blogging-21-garlicroasted/"
+    },
+    "prepTime": "",
+    "id": "Roasted-Broccoli-with-Garlic-2209449",
+    "ingredientLines": [
+        "1 bunch broccoli, about 1 1/2 pounds, cut into bite sized flowerets",
+        "1 bunch broccoli, about 1 1/2 pounds, cut into bite sized flowerets",
+        "3 T extra virgin olive oil",
+        "6-8 cloves fresh garlic (or more, I used about 12 cloves)",
+        "salt and fresh ground black pepper to taste",
+        "salt and fresh ground black pepper to taste"
+    ],
+    "attribution": {
+        "html": "<a href='http://www.yummly.co/recipe/Roasted-Broccoli-with-Garlic-2209449'>Roasted Broccoli with Garlic recipe</a> information powered by <img alt='Yummly' src='https://static.yummly.co/api-logo.png'/>",
+        "url": "http://www.yummly.co/recipe/Roasted-Broccoli-with-Garlic-2209449",
+        "text": "Roasted Broccoli with Garlic recipes: information powered by Yummly",
+        "logo": "https://static.yummly.co/api-logo.png"
+    },
+    "numberOfServings": 4,
+    "totalTimeInSeconds": 1500,
+    "attributes": {
+        "course": [
+            "Side Dishes"
+        ],
+        "holiday": [
+            "Sunday Lunch"
+        ]
+    },
+    "flavors": {},
+    "rating": 4
+}

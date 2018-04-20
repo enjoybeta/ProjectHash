@@ -1,0 +1,54 @@
+{
+    "nutritionEstimates": [],
+    "totalTime": "1 hr 30 min",
+    "images": [
+        {
+            "hostedSmallUrl": "https://lh3.googleusercontent.com/6f4iOCM2RGmZEIJV_-I3WRge4JrBYvHZwJ95BVw7sg8ypCMaw2dWNLXt2rgefR1aL7yd7MjYJFq0AgaOy2KiHA=s90",
+            "hostedMediumUrl": "https://lh3.googleusercontent.com/6f4iOCM2RGmZEIJV_-I3WRge4JrBYvHZwJ95BVw7sg8ypCMaw2dWNLXt2rgefR1aL7yd7MjYJFq0AgaOy2KiHA=s180",
+            "hostedLargeUrl": "https://lh3.googleusercontent.com/6f4iOCM2RGmZEIJV_-I3WRge4JrBYvHZwJ95BVw7sg8ypCMaw2dWNLXt2rgefR1aL7yd7MjYJFq0AgaOy2KiHA=s360",
+            "imageUrlsBySize": {
+                "90": "https://lh3.googleusercontent.com/t0t4XKBzTJIB_TUGLbp2n7JrmrnYYT0KlkLaVhwe3H3Sq3-MEPbKW9z6_8wezWv2DKqXe3iOznliWpYWcFTX=s90-c",
+                "360": "https://lh3.googleusercontent.com/t0t4XKBzTJIB_TUGLbp2n7JrmrnYYT0KlkLaVhwe3H3Sq3-MEPbKW9z6_8wezWv2DKqXe3iOznliWpYWcFTX=s360-c"
+            }
+        }
+    ],
+    "name": "Ingredients Authentic Apple Strudel",
+    "source": {
+        "sourceDisplayName": "My Best German Recipes",
+        "sourceSiteUrl": "mybestgermanrecipes.com",
+        "sourceRecipeUrl": "http://mybestgermanrecipes.com/how-make-authentic-apple-strudel/"
+    },
+    "id": "Ingredients-Authentic-Apple-Strudel-1736690",
+    "ingredientLines": [
+        "250g flour",
+        "1 pinch salt",
+        "1 egg",
+        "20g butter",
+        "some warm water",
+        "1,5 kg apples",
+        "80 g bread crumbs (natural, no spices)",
+        "125 g sugar",
+        "65 g raisins",
+        "65 g chopped or ground almonds",
+        "1 package vanilla sugar Dr Oetker - How to make Vanilla Sugar Recipe -",
+        "cinnamon to taste",
+        "40 g butter",
+        "1 tbsp organic lemon zest",
+        "1/8 l heavy cream"
+    ],
+    "attribution": {
+        "html": "<a href='http://www.yummly.co/recipe/Ingredients-Authentic-Apple-Strudel-1736690'>Ingredients Authentic Apple Strudel recipe</a> information powered by <img alt='Yummly' src='https://static.yummly.co/api-logo.png'/>",
+        "url": "http://www.yummly.co/recipe/Ingredients-Authentic-Apple-Strudel-1736690",
+        "text": "Ingredients Authentic Apple Strudel recipes: information powered by Yummly",
+        "logo": "https://static.yummly.co/api-logo.png"
+    },
+    "numberOfServings": 4,
+    "totalTimeInSeconds": 5400,
+    "attributes": {
+        "course": [
+            "Desserts"
+        ]
+    },
+    "flavors": {},
+    "rating": 4
+}

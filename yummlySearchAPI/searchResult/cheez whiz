@@ -1,0 +1,65 @@
+{
+    "criteria": {
+        "q": "c+h+e+e+z+ +w+h+i+z",
+        "allowedIngredient": null,
+        "excludedIngredient": null
+    },
+    "matches": [
+        {
+            "imageUrlsBySize": {
+                "90": "http://lh3.googleusercontent.com/o93jsscJYda1jHjgQiFv5STc7zChaOrreQkg0PEFx6so2X1GHIuGqKs30NZXn1SCNYAxVnbKHDJRzqqx-QWfeQ=s90-c"
+            },
+            "sourceDisplayName": "Chefkoch",
+            "ingredients": [
+                "Taube",
+                "Schweinenetz",
+                "Butter",
+                "So\u00dfe",
+                "Oliven\u00f6l",
+                "M\u00f6hre",
+                "Selleriestange",
+                "Lauch",
+                "Schalotte",
+                "Rotwein",
+                "Portwein",
+                "H\u00fchnerfond",
+                "Balsamicoessig",
+                "Orangensaft",
+                "Kuttelkraut",
+                "Nelke",
+                "Wacholderbeeren",
+                "Sternanis",
+                "Pfefferkorn",
+                "Pfeffer",
+                "Farce",
+                "Fleisch",
+                "Rahm",
+                "Ente",
+                "Cognac",
+                "Tr\u00fcffeln",
+                "Eigelb",
+                "Wirsingkopf",
+                "Kartoffel",
+                "Gem\u00fcsesud",
+                "Wasser"
+            ],
+            "id": "Crepinette-von-der-Etouffee-Taubenbrust-auf-geschmortem-Wirsing-mit-Wurzelgemuse-806953",
+            "smallImageUrls": [
+                "http://lh3.googleusercontent.com/mDaeyNoacbrJ1frkPN_kXb_wbhifBszPJ_n4bHOZZM9U2iQFSTsr9-cQbf07zXZcqgVzJgrxWbjvCr--gsk8ij8=s90"
+            ],
+            "recipeName": "Cre\u0301pinette von der E\u0301touffe\u0301e Taubenbrust auf geschmortem Wirsing mit Wurzelgemu\u0308se",
+            "totalTimeInSeconds": 7200,
+            "attributes": {},
+            "flavors": null,
+            "rating": 3
+        }
+    ],
+    "facetCounts": {},
+    "totalMatchCount": 1,
+    "attribution": {
+        "html": "Recipe search powered by <a href='http://www.yummly.co/recipes'><img alt='Yummly' src='https://static.yummly.co/api-logo.png'/></a>",
+        "url": "http://www.yummly.co/recipes/",
+        "text": "Recipe search powered by Yummly",
+        "logo": "https://static.yummly.co/api-logo.png"
+    }
+}

@@ -920,7 +920,12 @@
     },
     "numberOfServings": 6,
     "totalTimeInSeconds": 1200,
-    "attributes": {},
+    "attributes": {
+        "course": [
+            "Cocktails",
+            "Beverages"
+        ]
+    },
     "flavors": {},
     "rating": 4
 }

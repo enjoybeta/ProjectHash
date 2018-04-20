@@ -1,0 +1,208 @@
+{
+    "criteria": {
+        "q": "s+p+i+c+e+ +m+i+x",
+        "allowedIngredient": null,
+        "excludedIngredient": null
+    },
+    "matches": [
+        {
+            "imageUrlsBySize": {
+                "90": "https://lh3.googleusercontent.com/4p8oSUDUJ5q1E63_80Ptf3jLeqQbE_RaH7GUZXpRtjGqfatmFsoaDVOUbPB5RvOL286GG8GNUkSlV7CBUR1x6A=s90-c"
+            },
+            "sourceDisplayName": "delicious days",
+            "ingredients": [
+                "milk",
+                "all-purpose flour",
+                "fresh yeast",
+                "butter",
+                "sugar",
+                "fine sea salt",
+                "eggs",
+                "ground almonds",
+                "ground hazelnuts",
+                "ceylon cinnamon",
+                "ground cloves",
+                "grated nutmeg",
+                "marzipan",
+                "brown sugar",
+                "honey",
+                "rum",
+                "amaretto",
+                "lemon",
+                "hazelnuts",
+                "apricot jam",
+                "water"
+            ],
+            "id": "T-H-E-Nut-Braid-2186750",
+            "smallImageUrls": [
+                "https://lh3.googleusercontent.com/y2GvKmdzi68UlTf9vHCpyEHrwOSud01nA5g4PZk-IhCyXCXcUw2TLLE7a1dGbv7ZtoML1iWVDX83DI8140k=s90"
+            ],
+            "recipeName": "T-H-E Nut Braid",
+            "totalTimeInSeconds": 4800,
+            "attributes": {},
+            "flavors": {
+                "piquant": 0.0,
+                "meaty": 0.5,
+                "bitter": 0.16666666666666666,
+                "sweet": 0.6666666666666666,
+                "sour": 0.5,
+                "salty": 0.16666666666666666
+            },
+            "rating": 4
+        },
+        {
+            "imageUrlsBySize": {
+                "90": "https://lh3.googleusercontent.com/heyMT9yeXHO1RZNbesYr6hSu-B8RBaD9LisvWFMpL89SBGNcRLCOZ0q0ZUbDqnEi1JKd_ax2Db6bbiM-MpkUJwo=s90-c"
+            },
+            "sourceDisplayName": "Bear Naked Food",
+            "ingredients": [
+                "caster sugar",
+                "all-purpose flour",
+                "unsweetened cocoa powder",
+                "baking powder",
+                "baking soda",
+                "salt",
+                "large eggs",
+                "bananas",
+                "warm water",
+                "milk",
+                "vegetable oil",
+                "pure vanilla extract",
+                "chocolate ganache",
+                "bittersweet chocolate chips",
+                "heavy whipping cream",
+                "unsalted butter"
+            ],
+            "id": "Easy-Banana-Chocolate-Sheet-Cake-1785892",
+            "smallImageUrls": [
+                "https://lh3.googleusercontent.com/ptLlLYQqQ-CHX-G_fagXzm2mOHBOliJRcV5csQtr6mk8W2UOGQ9EUdT2U1kvVhd03ZfzJYqtd8aaGT_CHrC1IRc=s90"
+            ],
+            "recipeName": "Easy Banana Chocolate Sheet Cake",
+            "totalTimeInSeconds": 2400,
+            "attributes": {
+                "course": [
+                    "Desserts",
+                    "Afternoon Tea"
+                ]
+            },
+            "flavors": {
+                "piquant": 0.0,
+                "meaty": 0.5,
+                "bitter": 0.16666666666666666,
+                "sweet": 0.8333333333333334,
+                "sour": 0.16666666666666666,
+                "salty": 0.3333333333333333
+            },
+            "rating": 4
+        },
+        {
+            "recipeName": "Mary's Zucchini Bread (There's Non Better)",
+            "ingredients": [
+                "zucchini",
+                "all-purpose flour",
+                "sugar",
+                "canola oil",
+                "pure vanilla extract",
+                "cinnamon",
+                "salt",
+                "baking soda",
+                "ground cloves",
+                "baking powder",
+                "chopped walnuts"
+            ],
+            "totalTimeInSeconds": 4800,
+            "sourceDisplayName": "Food.com",
+            "id": "Mary_s-Zucchini-Bread-_there_s-Non-Better_-Recipezaar",
+            "rating": 4,
+            "flavors": {
+                "piquant": 0.0,
+                "meaty": 0.6666666666666666,
+                "bitter": 0.16666666666666666,
+                "sweet": 0.8333333333333334,
+                "sour": 0.3333333333333333,
+                "salty": 0.6666666666666666
+            },
+            "attributes": {
+                "course": [
+                    "Breads"
+                ]
+            }
+        },
+        {
+            "imageUrlsBySize": {
+                "90": "http://lh3.googleusercontent.com/uaXWbAyL--E3QBh4URph_LM8-fsItlNwO0Yhi6y-o6hJMvowi_335v_SB_7ftbYY0Et0tu09Y6F14udQhU_yqA=s90-c"
+            },
+            "sourceDisplayName": "Lecker",
+            "ingredients": [
+                "M\u00fcrbteig",
+                "Mehl",
+                "Butter",
+                "Zucker",
+                "Salz",
+                "Eigelb",
+                "Rahm",
+                "Pflaumenmus",
+                "Zimt",
+                "Puderzucker"
+            ],
+            "id": "Prassel-Platzchen-835163",
+            "smallImageUrls": [
+                "http://lh3.googleusercontent.com/cAH3mEr85E0mBmwK0edyajVwexjkvrEKpNoA-bs_vlfTJbmPsCefPxbko3W78s0UHhYxiY2Ze18oxbw9YbLJegI=s90"
+            ],
+            "recipeName": "Prassel-Pla\u0308tzchen",
+            "totalTimeInSeconds": 1200,
+            "attributes": {
+                "course": [
+                    "Desserts"
+                ]
+            },
+            "flavors": null,
+            "rating": 3
+        },
+        {
+            "imageUrlsBySize": {
+                "90": "http://lh3.googleusercontent.com/jbtWCtONIHyc1UGNu6HQzlm_Flgms4t8iC0Qqm-57udIlm9a7ykpy70RnMT3GzLZCLmShiIM3uK0QwJt1K6D8A=s90-c"
+            },
+            "sourceDisplayName": "Lecker",
+            "ingredients": [
+                "Fett",
+                "Mehl",
+                "Zucker",
+                "Salz",
+                "Bourbon-Vanillezucker",
+                "weiche Butter",
+                "Eigelb",
+                "Backpulver",
+                "Vanillezucker",
+                "magerquark",
+                "Mascarpone",
+                "Himbeermark",
+                "Puderzucker"
+            ],
+            "id": "Streusel--Rosenkuchen-844285",
+            "smallImageUrls": [
+                "http://lh3.googleusercontent.com/xUwk9NPxauFI0MFVi07V0yZFzNU1HKNnxr-D0Ble4B0ZK8ykmY_rQG7rJjvQLTY5L-IFAAqeE6s2AukRVSwX65s=s90"
+            ],
+            "recipeName": "Streusel- Rosenkuchen",
+            "totalTimeInSeconds": 4500,
+            "attributes": {},
+            "flavors": {
+                "sweet": 0.8333333333333334,
+                "piquant": 0.0,
+                "sour": 0.16666666666666666,
+                "salty": 0.3333333333333333,
+                "meaty": 0.5,
+                "bitter": 0.16666666666666666
+            },
+            "rating": 3
+        }
+    ],
+    "facetCounts": {},
+    "totalMatchCount": 5,
+    "attribution": {
+        "html": "Recipe search powered by <a href='http://www.yummly.co/recipes'><img alt='Yummly' src='https://static.yummly.co/api-logo.png'/></a>",
+        "url": "http://www.yummly.co/recipes/",
+        "text": "Recipe search powered by Yummly",
+        "logo": "https://static.yummly.co/api-logo.png"
+    }
+}

@@ -1,0 +1,371 @@
+{
+    "criteria": {
+        "q": "S+a+m+e+n",
+        "allowedIngredient": null,
+        "excludedIngredient": null
+    },
+    "matches": [
+        {
+            "imageUrlsBySize": {
+                "90": "http://lh5.ggpht.com/y1j5c0N5ylO4vju4WV49n2KPvrWvRMN4sXbYLhX_XSFSAlH3UcDKIQUhTh8aVG1wgkxB5oqannGlljfe8f3gFA=s90-c"
+            },
+            "sourceDisplayName": "Delightful E Made",
+            "ingredients": [
+                "melted butter",
+                "large marshmallows",
+                "rice cereal",
+                "M&M's Candy",
+                "candy"
+            ],
+            "id": "Spring-Krispie-Cake-with-M_M_s-and-Candy-Drizzle-1037693",
+            "smallImageUrls": [
+                "http://lh4.ggpht.com/emhcR2GLG9YFxwfjFX9bBU-fgQO-Eja91u1us6Ljn0zT7TZTNteR_gUz9N5ksXM9X6QDubWNzxq3Axij5H53XJg=s90"
+            ],
+            "recipeName": "Spring Krispie Cake with M&M's and Candy Drizzle",
+            "totalTimeInSeconds": 900,
+            "attributes": {
+                "course": [
+                    "Desserts"
+                ]
+            },
+            "flavors": {
+                "piquant": 0.0,
+                "meaty": 0.5,
+                "bitter": 0.8333333333333334,
+                "sweet": 0.8333333333333334,
+                "sour": 0.5,
+                "salty": 0.8333333333333334
+            },
+            "rating": 4
+        },
+        {
+            "imageUrlsBySize": {
+                "90": "https://lh3.googleusercontent.com/JkmeszhIXPePuECNEzt0vKnNBe36PNMyGlJ9HiVtJuvRUthy9YBUMQpOE3JXHD8qN3--23S0o0bE1e9Qv-sWFps=s90-c"
+            },
+            "sourceDisplayName": "Simply Serina",
+            "ingredients": [
+                "ground coffee",
+                "water",
+                "cinnamon",
+                "Truv\u00eda\u00ae natural sweetener"
+            ],
+            "id": "Magical-Coffee_-Trim-Healthy-Mama-Style-1938917",
+            "smallImageUrls": [
+                "https://lh3.googleusercontent.com/-f_29WTW7GR1VA7eiurVpkmOCrJFgpwUhCgAgophW88DZpzVb8X6owrX1pIA-aUtBAaehmVE2szy4qNtov5J=s90"
+            ],
+            "recipeName": "Magical Coffee, Trim Healthy Mama Style",
+            "totalTimeInSeconds": 1800,
+            "attributes": {
+                "course": [
+                    "Beverages"
+                ]
+            },
+            "flavors": null,
+            "rating": 4
+        },
+        {
+            "imageUrlsBySize": {
+                "90": "https://lh3.googleusercontent.com/3d7HceeyQyCWq2NH0rzsF8MfYi6Gq4bAuDHRI-DNfXx6Yuzku4TkjUzLtv60_Dvb00ZBluF1nzydCsEJRpxO=s90-c"
+            },
+            "sourceDisplayName": "Just Putzing Around the Kitchen",
+            "ingredients": [
+                "eggplant",
+                "ragu",
+                "eggs",
+                "grated parmesan cheese",
+                "shredded mozzarella cheese",
+                "olive oil",
+                "salt",
+                "pepper"
+            ],
+            "id": "Eggplant-Parmesan-1760604",
+            "smallImageUrls": [
+                "https://lh3.googleusercontent.com/DOT7K9aNbAQk2IEm_I_XyYjjZGIjJDD8PjUQFLv0MFKZvZCTR3b4IXaui3dPnWChm6xIkiGMsAxWqwYqoxkt=s90"
+            ],
+            "recipeName": "Eggplant Parmesan",
+            "totalTimeInSeconds": 3600,
+            "attributes": {
+                "course": [
+                    "Main Dishes"
+                ]
+            },
+            "flavors": null,
+            "rating": 4
+        },
+        {
+            "imageUrlsBySize": {
+                "90": "https://lh3.googleusercontent.com/EKAkJtQTK9QBXBzJqSKGAsINCRgz0fcRyGSvnMUTfgId_ZST05tVMMK5OjlnD4J15KsHWvvAg0P5TUVcPGYfp1Q=s90-c"
+            },
+            "sourceDisplayName": "E.D.SMITH",
+            "ingredients": [
+                "canola oil",
+                "onions",
+                "carrots",
+                "garlic",
+                "gingerroot",
+                "salt",
+                "freshly ground pepper",
+                "tomato paste",
+                "curry paste",
+                "curry powder",
+                "diced tomatoes",
+                "pure pumpkin",
+                "vegetable broth",
+                "chickpeas",
+                "cauliflower florets",
+                "baby spinach",
+                "chopped fresh cilantro",
+                "plain yogurt",
+                "naan"
+            ],
+            "id": "Easy-Pumpkin-Chickpea-Curry-2385709",
+            "smallImageUrls": [
+                "https://lh3.googleusercontent.com/8yZmgyxx7tal13UesUusgnFBgi1qHvmsmUKZURrXS7UDERVL9TplOkfSlADv7TV9m0ssia2E9udQnYEeHC4m=s90"
+            ],
+            "recipeName": "Easy Pumpkin Chickpea Curry",
+            "totalTimeInSeconds": 3300,
+            "attributes": {
+                "course": [
+                    "Main Dishes"
+                ],
+                "cuisine": [
+                    "Indian"
+                ]
+            },
+            "flavors": {
+                "piquant": 0.16666666666666666,
+                "meaty": 0.16666666666666666,
+                "bitter": 0.5,
+                "sweet": 0.16666666666666666,
+                "sour": 0.6666666666666666,
+                "salty": 0.5
+            },
+            "rating": 3
+        },
+        {
+            "imageUrlsBySize": {
+                "90": "https://lh3.googleusercontent.com/_eL8o0fwKSKxm_xkeDfwbIr090XV1mqo1y4ULH0X_nI75TVa28f7M01obDJFuYwJwy1mgfNrT3xfEEifOj-v9FI=s90-c"
+            },
+            "sourceDisplayName": "Delightful E Made",
+            "ingredients": [
+                "chocolate cake mix",
+                "melted butter",
+                "milk",
+                "chocolate chips",
+                "chocolate candy"
+            ],
+            "id": "Double-Chocolate-M_M-Bars-2190656",
+            "smallImageUrls": [
+                "https://lh3.googleusercontent.com/1wdL7btgDxS4SHu4JbPP7VbJLfVb8la1bkaCw5TjHQ89z3YsOMNxyP-b8xpGLbHcV76TVuCbAgXWrB2CAjkMxQ=s90"
+            ],
+            "recipeName": "Double Chocolate M&M Bars",
+            "totalTimeInSeconds": 2400,
+            "attributes": {
+                "course": [
+                    "Desserts"
+                ],
+                "cuisine": [
+                    "Kid-Friendly"
+                ]
+            },
+            "flavors": {
+                "piquant": 0.0,
+                "meaty": 0.8333333333333334,
+                "bitter": 0.8333333333333334,
+                "sweet": 0.8333333333333334,
+                "sour": 0.16666666666666666,
+                "salty": 0.8333333333333334
+            },
+            "rating": 4
+        },
+        {
+            "imageUrlsBySize": {
+                "90": "http://lh3.googleusercontent.com/jJvuUAvFDJlEmsSv3dolpJnnxFe92VjMHElB7r__DBF8ICTylUs0q5D3o92O5f-_VYuiSCi70ImHFy9lOAw1=s90-c"
+            },
+            "sourceDisplayName": "Delightful E Made",
+            "ingredients": [
+                "flour",
+                "brown sugar",
+                "sugar",
+                "unsweetened cocoa powder",
+                "baking powder",
+                "salt",
+                "semi-sweet chocolate morsels",
+                "M&M's Candy",
+                "brownies",
+                "eggs",
+                "vegetable oil",
+                "vanilla extract"
+            ],
+            "id": "M_M-Brownies-in-a-Jar-with-FREE-Printable-1107555",
+            "smallImageUrls": [
+                "http://lh3.googleusercontent.com/qqKgVwfxEGDyrBK5ZuSHB70bwU1G3jR_gRsuxQp1y_88U3UjsjgK87PgK7H9QpQYt7McRaj-7BH5xqEjU4vF9A=s90"
+            ],
+            "recipeName": "M&M Brownies in a Jar with FREE Printable",
+            "totalTimeInSeconds": 3300,
+            "attributes": {
+                "course": [
+                    "Desserts"
+                ]
+            },
+            "flavors": {
+                "piquant": 0.0,
+                "meaty": 0.8333333333333334,
+                "bitter": 0.8333333333333334,
+                "sweet": 0.8333333333333334,
+                "sour": 0.16666666666666666,
+                "salty": 0.8333333333333334
+            },
+            "rating": 4
+        },
+        {
+            "imageUrlsBySize": {
+                "90": "https://lh3.googleusercontent.com/Oa2KC2JdZ7t0QCC5_mqGb1sQp80l6d7pzbIZF4-VAXbWtDJA35jNR9OsBE6HD3GbdzsyW2k9a6UoeP_BFHY3zA=s90-c"
+            },
+            "sourceDisplayName": "Delightful E Made",
+            "ingredients": [
+                "butter",
+                "brown sugar",
+                "granulated sugar",
+                "applesauce",
+                "creamy peanut butter",
+                "vanilla",
+                "oatmeal",
+                "salt",
+                "mini chocolate chips",
+                "mini m&ms",
+                "peanut butter chips"
+            ],
+            "id": "Monster-Cookie-Dough-Bites-1338047",
+            "smallImageUrls": [
+                "https://lh3.googleusercontent.com/M32MzgX2Vlo6NJ7YZhCWZDuqPwlVgy6r5KWb4J6Paafpg64At8XSqK2Xh6zt4qYx_UBU89Suofmk6MFqSRct=s90"
+            ],
+            "recipeName": "Monster Cookie Dough Bites",
+            "totalTimeInSeconds": 1200,
+            "attributes": {
+                "course": [
+                    "Desserts"
+                ],
+                "cuisine": [
+                    "Kid-Friendly"
+                ]
+            },
+            "flavors": {
+                "piquant": 0.0,
+                "meaty": 0.8333333333333334,
+                "bitter": 0.8333333333333334,
+                "sweet": 0.8333333333333334,
+                "sour": 0.16666666666666666,
+                "salty": 0.8333333333333334
+            },
+            "rating": 4
+        },
+        {
+            "imageUrlsBySize": {
+                "90": "https://lh3.googleusercontent.com/U400hgqfOnJLUDlFUJDxHy08tabcJkzZ9-RlH6LmOFA2z7S6ZlfFvfglXmR1SBYXAs6eDSM-xRzrPf2TQStJ=s90-c"
+            },
+            "sourceDisplayName": "Fairy Burger Blog",
+            "ingredients": [
+                "full fat coconut milk",
+                "sugar",
+                "ginger",
+                "pure vanilla extract",
+                "jam",
+                "mint"
+            ],
+            "id": "Coconut-Ginger-Ice-Cream-with-Mango-_-Passionfruit-1720531",
+            "smallImageUrls": [
+                "https://lh3.googleusercontent.com/Rs77WmTmiquCK_FxzX042UjDAtfiLH8hW17fSbIG3z-CLWKz2XtEM_KPQvMMM0SJQStgkgVT89CuBoqh_8ZmzqE=s90"
+            ],
+            "recipeName": "Coconut Ginger Ice Cream with Mango & Passionfruit",
+            "totalTimeInSeconds": 1800,
+            "attributes": {
+                "course": [
+                    "Desserts"
+                ]
+            },
+            "flavors": null,
+            "rating": 4
+        },
+        {
+            "imageUrlsBySize": {
+                "90": "http://lh3.googleusercontent.com/d7HPIlg5foODG3CvhXduE5-n-1N5YCBivQsXvuZ9szMsE5Gmed6JFw74gILn5TKDzWnIMKvxm_6bYIprsbdVUg=s90-c"
+            },
+            "sourceDisplayName": "Canada.com",
+            "ingredients": [
+                "cooked chicken",
+                "natural peanut butter",
+                "tomatoes",
+                "curry powder",
+                "cayenne",
+                "broth",
+                "salt",
+                "peanuts"
+            ],
+            "id": "PEANUT-CHICKEN-STEW-1108788",
+            "smallImageUrls": [
+                "http://lh3.googleusercontent.com/DgGJ7JXu4U75rn9NrxB22651goB3zVSss_km7SjFbca4U9ysoRzdwkrbKIVC5OiN9rKvbyW1c_2OTTYm9a9gyg=s90"
+            ],
+            "recipeName": "PEANUT CHICKEN STEW",
+            "totalTimeInSeconds": 4500,
+            "attributes": {
+                "course": [
+                    "Soups",
+                    "Main Dishes"
+                ]
+            },
+            "flavors": {
+                "piquant": 0.8333333333333334,
+                "meaty": 0.8333333333333334,
+                "bitter": 0.8333333333333334,
+                "sweet": 0.16666666666666666,
+                "sour": 0.3333333333333333,
+                "salty": 0.5
+            },
+            "rating": 3
+        },
+        {
+            "imageUrlsBySize": {
+                "90": "https://lh3.googleusercontent.com/SNKEI1qeFwyoLdnpMefK9UikExwMvJjCI-jIrS4b3ddgkmcff2knlNb8xzgab8k7eOmNCqNydosHQK0iaQqF=s90-c"
+            },
+            "sourceDisplayName": "Brown Eyed Baker",
+            "ingredients": [
+                "orange",
+                "lemon",
+                "granulated sugar",
+                "Grand Marnier",
+                "white wine",
+                "ice cubes"
+            ],
+            "id": "White-Sangria-BB",
+            "smallImageUrls": [
+                "https://lh3.googleusercontent.com/ZasRKXokOHsHfC8cPOX7FRmwZyyn4qhMFi7w1jl6rq0Tq8N_fiixJDOwHezs2MCdAeXj8M9zfte3tXZypP7s1_A=s90"
+            ],
+            "recipeName": "White Sangria",
+            "totalTimeInSeconds": 900,
+            "attributes": {
+                "course": [
+                    "Cocktails",
+                    "Beverages"
+                ]
+            },
+            "flavors": {
+                "piquant": 0.0,
+                "meaty": 0.0,
+                "bitter": 0.16666666666666666,
+                "sweet": 0.3333333333333333,
+                "sour": 0.8333333333333334,
+                "salty": 0.0
+            },
+            "rating": 4
+        }
+    ],
+    "facetCounts": {},
+    "totalMatchCount": 13465,
+    "attribution": {
+        "html": "Recipe search powered by <a href='http://www.yummly.co/recipes'><img alt='Yummly' src='https://static.yummly.co/api-logo.png'/></a>",
+        "url": "http://www.yummly.co/recipes/",
+        "text": "Recipe search powered by Yummly",
+        "logo": "https://static.yummly.co/api-logo.png"
+    }
+}

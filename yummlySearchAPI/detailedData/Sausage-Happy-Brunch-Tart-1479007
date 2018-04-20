@@ -51,7 +51,12 @@
     },
     "numberOfServings": 1,
     "totalTimeInSeconds": 5100,
-    "attributes": {},
+    "attributes": {
+        "course": [
+            "Main Dishes",
+            "Breakfast and Brunch"
+        ]
+    },
     "flavors": {},
     "rating": 3
 }

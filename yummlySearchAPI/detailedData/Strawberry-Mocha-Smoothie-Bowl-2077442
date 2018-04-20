@@ -1,0 +1,58 @@
+{
+    "yield": "2",
+    "nutritionEstimates": [],
+    "prepTimeInSeconds": 0,
+    "totalTime": "15 min",
+    "images": [
+        {
+            "hostedSmallUrl": "https://lh3.googleusercontent.com/4Dtkh4vACUTw0uqswTd1PgoXl7ErNRgDfKrWpJl71AhIBzWzNaN_tP9cdL-Vh-7wDkpCexf2YWxFsHj44pAPsA=s90",
+            "hostedMediumUrl": "https://lh3.googleusercontent.com/4Dtkh4vACUTw0uqswTd1PgoXl7ErNRgDfKrWpJl71AhIBzWzNaN_tP9cdL-Vh-7wDkpCexf2YWxFsHj44pAPsA=s180",
+            "hostedLargeUrl": "https://lh3.googleusercontent.com/4Dtkh4vACUTw0uqswTd1PgoXl7ErNRgDfKrWpJl71AhIBzWzNaN_tP9cdL-Vh-7wDkpCexf2YWxFsHj44pAPsA=s360",
+            "imageUrlsBySize": {
+                "90": "https://lh3.googleusercontent.com/CQexShjA2Ur7c7HcuWqSYyvWibg4qBSDcdVQEqm5PN-udO6dHDJMpBiLpGgIiLYRj9N2vWX50sPrO3Fhsgu1=s90-c",
+                "360": "https://lh3.googleusercontent.com/CQexShjA2Ur7c7HcuWqSYyvWibg4qBSDcdVQEqm5PN-udO6dHDJMpBiLpGgIiLYRj9N2vWX50sPrO3Fhsgu1=s360-c"
+            }
+        }
+    ],
+    "name": "Strawberry Mocha Smoothie Bowl",
+    "source": {
+        "sourceDisplayName": "Lemons for Lulu",
+        "sourceSiteUrl": "lemonsforlulu.com",
+        "sourceRecipeUrl": "https://www.lemonsforlulu.com/strawberry-mocha-smoothie-bowl/"
+    },
+    "prepTime": "2017-04-28T00:10:00+00:00",
+    "id": "Strawberry-Mocha-Smoothie-Bowl-2077442",
+    "ingredientLines": [
+        "Strawberry Mocha Smoothie Bowl",
+        "Strawberry Mocha Smoothie Bowl",
+        "5.3 oz container Dannon Oikos plain yogurt 8 oz silken tofu",
+        "5.3 oz container Dannon Oikos plain yogurt 8 oz silken tofu",
+        "12 cup almond milk",
+        "34 cup crushed ice",
+        "1 tablespoon cocoa powder 1\u20442 teaspoon vanilla",
+        "1 tablespoon cocoa powder 1\u20442 teaspoon vanilla",
+        "14 teaspoon espresso powder 1 cup fresh raspberries",
+        "14 teaspoon espresso powder 1 cup fresh raspberries",
+        "1 banana, sliced",
+        "14 sliced almonds",
+        "14 cup chopped chocolate covered espresso beans",
+        "24 tablespoons Smucker\u2019s Strawberry Fruit and Honey Spread"
+    ],
+    "cookTime": "2017-04-28T00:00:00+00:00",
+    "attribution": {
+        "html": "<a href='http://www.yummly.co/recipe/Strawberry-Mocha-Smoothie-Bowl-2077442'>Strawberry Mocha Smoothie Bowl recipe</a> information powered by <img alt='Yummly' src='https://static.yummly.co/api-logo.png'/>",
+        "url": "http://www.yummly.co/recipe/Strawberry-Mocha-Smoothie-Bowl-2077442",
+        "text": "Strawberry Mocha Smoothie Bowl recipes: information powered by Yummly",
+        "logo": "https://static.yummly.co/api-logo.png"
+    },
+    "numberOfServings": 2,
+    "totalTimeInSeconds": 900,
+    "attributes": {
+        "course": [
+            "Beverages"
+        ]
+    },
+    "cookTimeInSeconds": 0,
+    "flavors": {},
+    "rating": 4
+}

@@ -1,0 +1,340 @@
+{
+    "criteria": {
+        "q": "b+e+e+t+s",
+        "allowedIngredient": null,
+        "excludedIngredient": null
+    },
+    "matches": [
+        {
+            "imageUrlsBySize": {
+                "90": "https://lh3.googleusercontent.com/HgdP9aqvIvNXVDM6M0-2F4X2gFIM0Nc1YRcy016eQumZtyO0ZMMqeNX12lzn8N8vZr56pn62stXpdUxevVh7VeY=s90-c"
+            },
+            "sourceDisplayName": "Gigi Eats Celebrities",
+            "ingredients": [
+                "sweet potatoes",
+                "sugar",
+                "hickory smoke",
+                "beef brisket",
+                "bbq sauce",
+                "spinach"
+            ],
+            "id": "Nacho-Average-B_R_I_S_K_E_T_-1952403",
+            "smallImageUrls": [
+                "https://lh3.googleusercontent.com/MrXnL83XjSwGVTFf2xMbAMU45DSUoC6Ti5Aws3HW0k_1DXt5ZpEhn-QiyyHKafCLKQOJxwr6PvUjDjrpNJEhWw=s90"
+            ],
+            "recipeName": "Nacho Average B.R.I.S.K.E.T.",
+            "totalTimeInSeconds": 1800,
+            "attributes": {
+                "course": [
+                    "Main Dishes"
+                ]
+            },
+            "flavors": null,
+            "rating": 4
+        },
+        {
+            "imageUrlsBySize": {
+                "90": "https://lh3.googleusercontent.com/AyQZOwfYVUki5wINDypDrVsF-uf7CQ6L5wHGMGuoL3lVpUtgNH7DQwPsgH6oJrZkWHJEGS1rjdf3Gw7A6-GNRA=s90-c"
+            },
+            "sourceDisplayName": "Cookie Dough and Oven Mitt",
+            "ingredients": [
+                "granulated sugar",
+                "unsweetened cocoa powder",
+                "soy milk",
+                "silken tofu",
+                "caramels",
+                "salt"
+            ],
+            "id": "Chocolate-Ice-Cream-with-Salted-Caramel-2146874",
+            "smallImageUrls": [
+                "https://lh3.googleusercontent.com/26Go4sr67zaRncKsp40yiROl4PchBShI3FObUoD6CqlDXN2FQZfJNPvSNLo59CcJ2DgfhfOCKvoAs-Qd_jcgumY=s90"
+            ],
+            "recipeName": "Chocolate Ice Cream with Salted Caramel",
+            "totalTimeInSeconds": 9900,
+            "attributes": {
+                "course": [
+                    "Desserts"
+                ]
+            },
+            "flavors": {
+                "piquant": 0.0,
+                "meaty": 0.16666666666666666,
+                "bitter": 0.5,
+                "sweet": 0.8333333333333334,
+                "sour": 0.16666666666666666,
+                "salty": 0.3333333333333333
+            },
+            "rating": 4
+        },
+        {
+            "imageUrlsBySize": {
+                "90": "https://lh3.googleusercontent.com/LZOaQ_6iR__PJ6og4aOWjqhX4vDwJMYE2hnBGawGgI48XJbDBbxo1dQy12vNxhst2fksS2MF5cT2wFwibRlDKvk=s90-c"
+            },
+            "sourceDisplayName": "Diethood",
+            "ingredients": [
+                "Pillsbury\u00ae Moist Supreme\u00ae Funfetti\u00ae Cake Mix",
+                "baking powder",
+                "eggs",
+                "canola oil",
+                "vanilla",
+                "sprinkles"
+            ],
+            "id": "Cake-Batter-Funfetti-Cookies-2364954",
+            "smallImageUrls": [
+                "https://lh3.googleusercontent.com/b-rz2fYoK9chszeG2sc1W1a0JUj_FDyJKywB319-wfp3btWqkowwV0OCbwXoE4H-dL1UpHl0ihjNF0REu-3I=s90"
+            ],
+            "recipeName": "Cake Batter Funfetti Cookies",
+            "totalTimeInSeconds": 1140,
+            "attributes": {
+                "course": [
+                    "Desserts"
+                ]
+            },
+            "flavors": {
+                "piquant": 0.0,
+                "meaty": 0.8333333333333334,
+                "bitter": 0.8333333333333334,
+                "sweet": 0.3333333333333333,
+                "sour": 0.16666666666666666,
+                "salty": 0.8333333333333334
+            },
+            "rating": 4
+        },
+        {
+            "imageUrlsBySize": {
+                "90": "https://lh3.googleusercontent.com/MSNgN7s8kgVameNlbVabe0e5BDf7x-9HNBFOWKxHLk4Hhl5130KN4an7iRzor0oc2aVA0mVn5v3aG5e3wge_Xg=s90-c"
+            },
+            "sourceDisplayName": "I Should Be Mopping the Floor",
+            "ingredients": [
+                "sandwiches",
+                "cool whip",
+                "caramel ice cream topping",
+                "ice cream"
+            ],
+            "id": "10-Minute-Layered-Ice-Cream-Cake-_easydessert-1914028",
+            "smallImageUrls": [
+                "https://lh3.googleusercontent.com/t9uQksw-8vAc7i8sB2RiuybQLR-JYEt-LA3HgZHHsVITAFLuQplS9aJpBCa39DNiyLt7xsgn9JF4cnfNifgWMg=s90"
+            ],
+            "recipeName": "10-Minute Layered Ice Cream Cake #easydessert",
+            "totalTimeInSeconds": 1500,
+            "attributes": {
+                "course": [
+                    "Desserts"
+                ]
+            },
+            "flavors": null,
+            "rating": 4
+        },
+        {
+            "imageUrlsBySize": {
+                "90": "http://lh3.googleusercontent.com/gS412zvKjcg37roCC5wyLfvJsBBcRf8289rhEpPUn5RLNAe2OlF_n8uwfX2j4mDe9P_rJ0t15sA2JvTS0saLpQ=s90-c"
+            },
+            "sourceDisplayName": "Dont Mess with Mama",
+            "ingredients": [
+                "cumin",
+                "garlic powder",
+                "paprika",
+                "onion powder",
+                "dried oregano",
+                "white pepper",
+                "cayenne pepper",
+                "Himalayan salt"
+            ],
+            "id": "Homemade-Taco-Seasoning-1168728",
+            "smallImageUrls": [
+                "http://lh3.googleusercontent.com/enBZ-WgY7AcxC_RY6u5RldaTgmvWT8LFaOvMWHyaqrWEDF3eHxoGOBqzTs4ORSWRnTuiHpCcs0tZoC-0J3CrbA=s90"
+            ],
+            "recipeName": "Homemade Taco Seasoning",
+            "totalTimeInSeconds": 300,
+            "attributes": {},
+            "flavors": null,
+            "rating": 4
+        },
+        {
+            "imageUrlsBySize": {
+                "90": "https://lh3.googleusercontent.com/tpHY9ZJOt5vZYypvAcgHw-Z9-73UahfueiBpXtTXFJuglmYCBzsGFSTeFPQlVDRTxwOU3zJh0SS9_HsdpBGdqPA=s90-c"
+            },
+            "sourceDisplayName": "All Our Way",
+            "ingredients": [
+                "lacinato kale",
+                "crimini mushrooms",
+                "extra-virgin olive oil",
+                "garlic",
+                "red pepper flakes",
+                "sea salt",
+                "chicken broth",
+                "lemon",
+                "parmesan cheese"
+            ],
+            "id": "Tuscan-Kale-with-Mushrooms-and-Garlic-_Cavolo-Nero-con-Funghi-e-Aglio-2353963",
+            "smallImageUrls": [
+                "https://lh3.googleusercontent.com/4kfFwYxugo8YUEb7ZG4UyM4wu0sSqeZiAwk2b2m0lbL_7d2MPnt_K0MOXR2Yy_rphysGNzHaAb56BUcza_AGgA=s90"
+            ],
+            "recipeName": "Tuscan Kale with Mushrooms and Garlic {Cavolo Nero con Funghi e Aglio",
+            "totalTimeInSeconds": 1500,
+            "attributes": {
+                "course": [
+                    "Side Dishes"
+                ],
+                "cuisine": [
+                    "Italian"
+                ]
+            },
+            "flavors": {
+                "piquant": 0.16666666666666666,
+                "meaty": 0.16666666666666666,
+                "bitter": 0.6666666666666666,
+                "sweet": 0.16666666666666666,
+                "sour": 0.8333333333333334,
+                "salty": 0.16666666666666666
+            },
+            "rating": 4
+        },
+        {
+            "imageUrlsBySize": {
+                "90": "http://lh3.googleusercontent.com/9Ix2L0gTbEgHWrr2rEBgNQRFD4cR5rkgloBOIz5uvetD0-5M7wfxYJsOEXyNqoj2Pfcm7itTdpG12nWLzY066Q=s90-c"
+            },
+            "sourceDisplayName": "TheYummyJourney",
+            "ingredients": [
+                "flour",
+                "butter",
+                "sugar",
+                "baking powder",
+                "baking soda",
+                "salt",
+                "greek yogurt",
+                "eggs",
+                "cold water",
+                "cheddar cheese",
+                "parmesan cheese",
+                "dried parsley",
+                "garlic powder"
+            ],
+            "id": "Cheese-Bomb-Make-10-1253005",
+            "smallImageUrls": [
+                "http://lh3.googleusercontent.com/YDZSSbIPvEoAiCf_65yHF8rq0rRgOkCZl29UdUfG9uVQTBtyQZfxFeF6qvMrfIR6_mRwA22GiVmJIdl0rsWlsw=s90"
+            ],
+            "recipeName": "Cheese Bomb Make 10",
+            "totalTimeInSeconds": 2100,
+            "attributes": {},
+            "flavors": {
+                "sweet": 0.16666666666666666,
+                "piquant": 0.0,
+                "sour": 0.16666666666666666,
+                "salty": 0.8333333333333334,
+                "meaty": 0.8333333333333334,
+                "bitter": 0.8333333333333334
+            },
+            "rating": 4
+        },
+        {
+            "imageUrlsBySize": {
+                "90": "https://lh3.googleusercontent.com/EfY2Uk8bLz8yB5Pj0GjAkyS3VC-YSw4rWe7oYj8iA9z5Q112bGnwgh4GpYw7o-uIMXmTLAu_Sgz_lfG_h8osFg=s90-c"
+            },
+            "sourceDisplayName": "Amanda Mackay",
+            "ingredients": [
+                "rolled oats",
+                "boiling water",
+                "salt",
+                "shortening",
+                "yeast",
+                "warm water",
+                "sugar",
+                "molasses",
+                "flour"
+            ],
+            "id": "Brown-Bread-Recipe-_-Oatmeal-Molasses-_-Heavy-Dense-Bread-2353673",
+            "smallImageUrls": [
+                "https://lh3.googleusercontent.com/olLp9Qc6fzm4bNBdkfHYgZDgbWnzoP6d8gWmne3VJh5Mt9Nnky4uBzuhyqRrGzl1Zrps5gpzI8Z9-kZIZ0_Lew=s90"
+            ],
+            "recipeName": "Brown Bread Recipe | Oatmeal Molasses | Heavy Dense Bread",
+            "totalTimeInSeconds": 5400,
+            "attributes": {
+                "course": [
+                    "Breads"
+                ]
+            },
+            "flavors": {
+                "piquant": 0.0,
+                "meaty": 0.16666666666666666,
+                "bitter": 0.16666666666666666,
+                "sweet": 0.5,
+                "sour": 0.16666666666666666,
+                "salty": 0.5
+            },
+            "rating": 4
+        },
+        {
+            "imageUrlsBySize": {
+                "90": "http://lh3.ggpht.com/6BbycCBOwEMlzZpAEInu0IKVpW3C7Oz235eKKy04XI-5cAiCTn0JWAUoWH7t8VFnihPVzHX8xLxnL-df5FxsIPk=s90-c"
+            },
+            "sourceDisplayName": "Meaningful Eats",
+            "ingredients": [
+                "quinoa",
+                "water",
+                "salt",
+                "eggs",
+                "vanilla almondmilk",
+                "maple syrup",
+                "coconut oil",
+                "vanilla extract",
+                "cinnamon",
+                "turbinado"
+            ],
+            "id": "Spiceandmore-576784",
+            "smallImageUrls": [
+                "http://lh3.ggpht.com/2NYvhKWuuMjWwlt0uM4Mt-y6kxKtIRahBnQ7CJo8MI5wAusYDFL2zaUMf0EiXH-AQOIHIBNjy2Fmqav9OGS_3w=s90"
+            ],
+            "recipeName": "Spiceandmore",
+            "totalTimeInSeconds": 2400,
+            "attributes": {
+                "course": [
+                    "Desserts",
+                    "Breakfast and Brunch"
+                ]
+            },
+            "flavors": null,
+            "rating": 4
+        },
+        {
+            "imageUrlsBySize": {
+                "90": "http://lh6.ggpht.com/rK6Au6feyvSqhhON2BOVUsp0VZ2_itArHntnstQpr35gPvcUVa8jQ1fc53u0CYp8rZ4Hy5pVePWJ4sWo0qqkMw=s90-c"
+            },
+            "sourceDisplayName": "She Simmers",
+            "ingredients": [
+                "water",
+                "tapioca pearls",
+                "sugar",
+                "coconut milk (lowfat)",
+                "salt",
+                "cantaloupe",
+                "crushed ice"
+            ],
+            "id": "Chilled-Tapioca-Cantaloupe-Coconut-Milk-Dessert-Soup-__-895123",
+            "smallImageUrls": [
+                "http://lh6.ggpht.com/8UgBv3biqJnCCEokchgmO_pq3bM3KoQY-Y4nGop2-OswLUan1wsDSfvhAOUtfZRSdiETG8lh6ZR6QoJxkpQe7g=s90"
+            ],
+            "recipeName": "Chilled Tapioca-Cantaloupe-Coconut Milk Dessert Soup (\u0e2a\u0e32\u0e04\u0e39\u0e41\u0e04\u0e19\u0e15\u0e32\u0e25\u0e39\u0e1b)",
+            "totalTimeInSeconds": 1500,
+            "attributes": {
+                "course": [
+                    "Desserts",
+                    "Soups"
+                ],
+                "holiday": [
+                    "Summer"
+                ]
+            },
+            "flavors": null,
+            "rating": 4
+        }
+    ],
+    "facetCounts": {},
+    "totalMatchCount": 82,
+    "attribution": {
+        "html": "Recipe search powered by <a href='http://www.yummly.co/recipes'><img alt='Yummly' src='https://static.yummly.co/api-logo.png'/></a>",
+        "url": "http://www.yummly.co/recipes/",
+        "text": "Recipe search powered by Yummly",
+        "logo": "https://static.yummly.co/api-logo.png"
+    }
+}

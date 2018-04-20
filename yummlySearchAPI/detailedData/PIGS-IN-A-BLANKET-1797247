@@ -1,0 +1,53 @@
+{
+    "nutritionEstimates": [],
+    "prepTimeInSeconds": 1500,
+    "totalTime": "2 hr 25 min",
+    "images": [
+        {
+            "hostedSmallUrl": "https://lh3.googleusercontent.com/YalHd5YAUkMzV-6le4xmn9WdawQLcc7h2BpILRzP5A-VNfd2jJNAFcmrst_M9uRW0tEUmiNdaQM16ZM_z2Kh2w=s90",
+            "hostedMediumUrl": "https://lh3.googleusercontent.com/YalHd5YAUkMzV-6le4xmn9WdawQLcc7h2BpILRzP5A-VNfd2jJNAFcmrst_M9uRW0tEUmiNdaQM16ZM_z2Kh2w=s180",
+            "hostedLargeUrl": "https://lh3.googleusercontent.com/YalHd5YAUkMzV-6le4xmn9WdawQLcc7h2BpILRzP5A-VNfd2jJNAFcmrst_M9uRW0tEUmiNdaQM16ZM_z2Kh2w=s360",
+            "imageUrlsBySize": {
+                "90": "https://lh3.googleusercontent.com/I872N9pKkGUtlgbipYuHr3a-0Eu4_jA36OojHQX_Ux7Iew8fZh7eh9xp_3HqpKARb28cXVDhcbxTYiOoVjrzI4A=s90-c",
+                "360": "https://lh3.googleusercontent.com/I872N9pKkGUtlgbipYuHr3a-0Eu4_jA36OojHQX_Ux7Iew8fZh7eh9xp_3HqpKARb28cXVDhcbxTYiOoVjrzI4A=s360-c"
+            }
+        }
+    ],
+    "name": "PIGS IN A BLANKET",
+    "source": {
+        "sourceDisplayName": "Chefjar",
+        "sourceSiteUrl": "chefjar.com",
+        "sourceRecipeUrl": "http://chefjar.com/2016/02/24/pigs-in-a-blanket/"
+    },
+    "prepTime": "25 Min",
+    "id": "PIGS-IN-A-BLANKET-1797247",
+    "ingredientLines": [
+        "Chicken sausages- 15 ( medium size)",
+        "All purpose Flour - 300 gm / 2\u00bd cup",
+        "Butter- 30 gm / 2 tbsp",
+        "Eggs -2",
+        "Egg yolk -1",
+        "Milk-180 ml",
+        "Active dry yeast - 5 gm",
+        "Sugar- \u00bd tbsp",
+        "Salt- 1 tsp",
+        "Sesame seeds- 1 tbsp"
+    ],
+    "cookTime": "2 Hr",
+    "attribution": {
+        "html": "<a href='http://www.yummly.co/recipe/PIGS-IN-A-BLANKET-1797247'>PIGS IN A BLANKET recipe</a> information powered by <img alt='Yummly' src='https://static.yummly.co/api-logo.png'/>",
+        "url": "http://www.yummly.co/recipe/PIGS-IN-A-BLANKET-1797247",
+        "text": "PIGS IN A BLANKET recipes: information powered by Yummly",
+        "logo": "https://static.yummly.co/api-logo.png"
+    },
+    "numberOfServings": 4,
+    "totalTimeInSeconds": 8700,
+    "attributes": {
+        "course": [
+            "Breads"
+        ]
+    },
+    "cookTimeInSeconds": 7200,
+    "flavors": {},
+    "rating": 4
+}

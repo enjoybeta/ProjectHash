@@ -1,0 +1,54 @@
+{
+    "yield": "4",
+    "nutritionEstimates": [],
+    "totalTime": "20 min",
+    "images": [
+        {
+            "hostedSmallUrl": "https://lh3.googleusercontent.com/hnkJMqShAZgfieW6jCnoOPIt_Xx6ubRINFzaUdJ1ZxMRz77dW-vQG3wCGIQDDaB615vWHSaKRr8-7S9HrZjG=s90",
+            "hostedMediumUrl": "https://lh3.googleusercontent.com/hnkJMqShAZgfieW6jCnoOPIt_Xx6ubRINFzaUdJ1ZxMRz77dW-vQG3wCGIQDDaB615vWHSaKRr8-7S9HrZjG=s180",
+            "hostedLargeUrl": "https://lh3.googleusercontent.com/hnkJMqShAZgfieW6jCnoOPIt_Xx6ubRINFzaUdJ1ZxMRz77dW-vQG3wCGIQDDaB615vWHSaKRr8-7S9HrZjG=s360",
+            "imageUrlsBySize": {
+                "90": "https://lh3.googleusercontent.com/fxmD2IDERDrDFzZL4q0_C3ZZBHtgPlkVV-hyxxVzvpTB_ShoW6w3eOv6HGzxCg0pzO5RNhN_r2Vcqs7W__4fYQ=s90-c",
+                "360": "https://lh3.googleusercontent.com/fxmD2IDERDrDFzZL4q0_C3ZZBHtgPlkVV-hyxxVzvpTB_ShoW6w3eOv6HGzxCg0pzO5RNhN_r2Vcqs7W__4fYQ=s360-c"
+            }
+        }
+    ],
+    "name": "Broccoli and Red Lentil Detox Soup",
+    "source": {
+        "sourceDisplayName": "Beauty Bites",
+        "sourceSiteUrl": "beautybites.org",
+        "sourceRecipeUrl": "http://www.beautybites.org/broccoli-red-lentil-detox-soup/"
+    },
+    "id": "Broccoli-and-Red-Lentil-Detox-Soup-2035176",
+    "ingredientLines": [
+        "1 medium onion",
+        "1 garlic clove",
+        "1/2 tsp ground cumin",
+        "1/2 tsp ground turmeric",
+        "1/2 tsp ground ginger",
+        "1/3 tsp ground cardamom (optional)",
+        "1,5 cups broccoli",
+        "1/2 cup red lentils",
+        "some mint leaves (5-10)",
+        "some cilantro (optional)",
+        "1 red chili pepper (optional!)",
+        "2 tbsp olive oil"
+    ],
+    "cookTime": "20 Min",
+    "attribution": {
+        "html": "<a href='http://www.yummly.co/recipe/Broccoli-and-Red-Lentil-Detox-Soup-2035176'>Broccoli and Red Lentil Detox Soup recipe</a> information powered by <img alt='Yummly' src='https://static.yummly.co/api-logo.png'/>",
+        "url": "http://www.yummly.co/recipe/Broccoli-and-Red-Lentil-Detox-Soup-2035176",
+        "text": "Broccoli and Red Lentil Detox Soup recipes: information powered by Yummly",
+        "logo": "https://static.yummly.co/api-logo.png"
+    },
+    "numberOfServings": 4,
+    "totalTimeInSeconds": 1200,
+    "attributes": {
+        "course": [
+            "Soups"
+        ]
+    },
+    "cookTimeInSeconds": 1200,
+    "flavors": {},
+    "rating": 3
+}

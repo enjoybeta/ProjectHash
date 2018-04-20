@@ -1,0 +1,56 @@
+{
+    "yield": "Zutaten f\u00fcr ca. 16 St\u00fccke:",
+    "nutritionEstimates": [],
+    "totalTime": "2 hr",
+    "images": [
+        {
+            "hostedSmallUrl": "http://lh3.googleusercontent.com/dKEIJMM7uylINVytF5cdadiLzJZjti8LOXJQ8ECiLcZSyhTTb4iDr-Qby1xoX8QYINWDUz8hkX1zMPAhzUhnsA=s90",
+            "hostedMediumUrl": "http://lh3.googleusercontent.com/dKEIJMM7uylINVytF5cdadiLzJZjti8LOXJQ8ECiLcZSyhTTb4iDr-Qby1xoX8QYINWDUz8hkX1zMPAhzUhnsA=s180",
+            "hostedLargeUrl": "http://lh3.googleusercontent.com/dKEIJMM7uylINVytF5cdadiLzJZjti8LOXJQ8ECiLcZSyhTTb4iDr-Qby1xoX8QYINWDUz8hkX1zMPAhzUhnsA=s360",
+            "imageUrlsBySize": {
+                "90": "http://lh3.googleusercontent.com/Jr8ogVmf6KfL6NjxlcoXIeanuhUiz3QO_scnGhz5slMNeVZlkjV6o1xoOsM0Ju2_z76YVG3VKqGLd99hOBZJ00I=s90-c",
+                "360": "http://lh3.googleusercontent.com/Jr8ogVmf6KfL6NjxlcoXIeanuhUiz3QO_scnGhz5slMNeVZlkjV6o1xoOsM0Ju2_z76YVG3VKqGLd99hOBZJ00I=s360-c"
+            }
+        }
+    ],
+    "name": "Apfel-Mohn-Torte",
+    "source": {
+        "sourceDisplayName": "Lecker",
+        "sourceSiteUrl": "lecker.de",
+        "sourceRecipeUrl": "http://www.lecker.de/rezept/877266/Apfel-Mohn-Torte.html"
+    },
+    "id": "Apfel-Mohn-Torte-927297",
+    "ingredientLines": [
+        "Fett f\u00fcr den Formboden",
+        "3 Eier (Gr. M), 1 Prise Salz",
+        "275 g + 2 EL + 2 TL Zucker",
+        "50 g Mehl, 25 g Speisest\u00e4rke",
+        "1 TL Backpulver, 5-7 EL Milch",
+        "60 g gemahlener Mohn",
+        "2 P\u00e4ckchen Vanillin-Zucker",
+        "1,25 kg s\u00e4uerliche \u00c4pfel(zum B. Cox Orange oder Jonagold)",
+        "1/4 l + 1/8 l Apfelsaft",
+        "2 1/2 EL Zitronensaft",
+        "1 P\u00e4ckchen Puddingpulver \"Vanille\" (zum Kochen; f\u00fcr 1/2 l Milch)",
+        "250 g Mascarpone (ital. Frischk\u00e4se)",
+        "500 g Magerquark",
+        "250 g + 400 g Schlagsahne",
+        "2 P\u00e4ckchen Sahnefestiger",
+        "evtl. Melisse u. Mohn zum Verzieren"
+    ],
+    "attribution": {
+        "html": "<a href='http://www.yummly.co/recipe/Apfel-Mohn-Torte-927297'>Apfel-Mohn-Torte recipe</a> information powered by <img alt='Yummly' src='https://static.yummly.co/api-logo.png'/>",
+        "url": "http://www.yummly.co/recipe/Apfel-Mohn-Torte-927297",
+        "text": "Apfel-Mohn-Torte recipes: information powered by Yummly",
+        "logo": "https://static.yummly.co/api-logo.png"
+    },
+    "numberOfServings": 16,
+    "totalTimeInSeconds": 7200,
+    "attributes": {
+        "course": [
+            "Desserts"
+        ]
+    },
+    "flavors": {},
+    "rating": 3
+}

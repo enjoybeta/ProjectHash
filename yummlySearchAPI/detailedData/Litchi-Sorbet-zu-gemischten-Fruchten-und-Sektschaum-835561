@@ -1,0 +1,50 @@
+{
+    "yield": "Zutaten f\u00fcr 4 Personen (Sorbetmasse ca. 1 Liter):",
+    "nutritionEstimates": [],
+    "totalTime": "5 hr",
+    "images": [
+        {
+            "hostedSmallUrl": "http://lh3.googleusercontent.com/kk_usHnDk0pz6UY7Ledy19bnAlmdfEWCUqyWpx7vjGoOt_g4hxAr1qVAC24Cv0etm7yCdy5dMqrH8ARqGxPZaxc=s90",
+            "hostedMediumUrl": "http://lh3.googleusercontent.com/kk_usHnDk0pz6UY7Ledy19bnAlmdfEWCUqyWpx7vjGoOt_g4hxAr1qVAC24Cv0etm7yCdy5dMqrH8ARqGxPZaxc=s180",
+            "hostedLargeUrl": "http://lh3.googleusercontent.com/kk_usHnDk0pz6UY7Ledy19bnAlmdfEWCUqyWpx7vjGoOt_g4hxAr1qVAC24Cv0etm7yCdy5dMqrH8ARqGxPZaxc=s360",
+            "imageUrlsBySize": {
+                "90": "http://lh3.googleusercontent.com/Be0k3Br0-wAOoteAcKPIzGPSuaPm-v__aSr8f82gWe0yUnXEcr7FGsJj_kU8xRZ6C69j_XxrmwhcSWFWsivhG2s=s90-c",
+                "360": "http://lh3.googleusercontent.com/Be0k3Br0-wAOoteAcKPIzGPSuaPm-v__aSr8f82gWe0yUnXEcr7FGsJj_kU8xRZ6C69j_XxrmwhcSWFWsivhG2s=s360-c"
+            }
+        }
+    ],
+    "name": "Litchi-Sorbet zu gemischten Fru\u0308chten und Sektschaum",
+    "source": {
+        "sourceDisplayName": "Lecker",
+        "sourceSiteUrl": "lecker.de",
+        "sourceRecipeUrl": "http://www.lecker.de/rezept/1086000/Litchi-Sorbet-zu-gemischten-Fruechten-und-Sektschaum.html"
+    },
+    "id": "Litchi-Sorbet-zu-gemischten-Fruchten-und-Sektschaum-835561",
+    "ingredientLines": [
+        "350 g Zucker",
+        "1 1/2 EL schwarzer Tee (z. B Darjeeling)",
+        "1 kg Litchis",
+        "2\u20133 EL Zitronensaft",
+        "2 Kiwis",
+        "125 g Erdbeeren",
+        "3 Eigelb",
+        "1/8 l trockener Sekt",
+        "1 EL gemahlene Pistazien",
+        "Minze verzieren"
+    ],
+    "attribution": {
+        "html": "<a href='http://www.yummly.co/recipe/Litchi-Sorbet-zu-gemischten-Fruchten-und-Sektschaum-835561'>Litchi-Sorbet zu gemischten Fru\u0308chten und Sektschaum recipe</a> information powered by <img alt='Yummly' src='https://static.yummly.co/api-logo.png'/>",
+        "url": "http://www.yummly.co/recipe/Litchi-Sorbet-zu-gemischten-Fruchten-und-Sektschaum-835561",
+        "text": "Litchi-Sorbet zu gemischten Fru\u0308chten und Sektschaum recipes: information powered by Yummly",
+        "logo": "https://static.yummly.co/api-logo.png"
+    },
+    "numberOfServings": 4,
+    "totalTimeInSeconds": 18000,
+    "attributes": {
+        "course": [
+            "Desserts"
+        ]
+    },
+    "flavors": {},
+    "rating": 3
+}

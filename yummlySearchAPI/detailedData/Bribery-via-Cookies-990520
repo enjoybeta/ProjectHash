@@ -1184,7 +1184,21 @@
     },
     "numberOfServings": 4,
     "totalTimeInSeconds": 2400,
-    "attributes": {},
-    "flavors": {},
+    "attributes": {
+        "course": [
+            "Desserts"
+        ],
+        "cuisine": [
+            "Kid-Friendly"
+        ]
+    },
+    "flavors": {
+        "Piquant": 0.0,
+        "Meaty": 0.8333,
+        "Bitter": 0.5,
+        "Sweet": 0.8333,
+        "Sour": 0.0,
+        "Salty": 0.1667
+    },
     "rating": 4
 }

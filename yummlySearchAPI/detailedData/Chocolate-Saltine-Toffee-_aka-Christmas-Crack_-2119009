@@ -1,0 +1,50 @@
+{
+    "yield": "yield: one 9x13 pan",
+    "nutritionEstimates": [],
+    "prepTimeInSeconds": 900,
+    "totalTime": "1 hr",
+    "images": [
+        {
+            "hostedSmallUrl": "https://lh3.googleusercontent.com/7KNRorlioBKCwsZb4cJ2sRYWzPIOy_BPWJYBwPj744WAARxeq02ExWLFTsTS8wFQHVDluhQivqzlsilQ4r2Hv-8=s90",
+            "hostedMediumUrl": "https://lh3.googleusercontent.com/7KNRorlioBKCwsZb4cJ2sRYWzPIOy_BPWJYBwPj744WAARxeq02ExWLFTsTS8wFQHVDluhQivqzlsilQ4r2Hv-8=s180",
+            "hostedLargeUrl": "https://lh3.googleusercontent.com/7KNRorlioBKCwsZb4cJ2sRYWzPIOy_BPWJYBwPj744WAARxeq02ExWLFTsTS8wFQHVDluhQivqzlsilQ4r2Hv-8=s360",
+            "imageUrlsBySize": {
+                "90": "https://lh3.googleusercontent.com/QpjrGHpLYe_G20rnL15okOXYJeJlMBWjOf9nGpKmC4xOzSCKmpUr7xMpx2g1NJfgCtLWY-bLomJEy0pw6WTM=s90-c",
+                "360": "https://lh3.googleusercontent.com/QpjrGHpLYe_G20rnL15okOXYJeJlMBWjOf9nGpKmC4xOzSCKmpUr7xMpx2g1NJfgCtLWY-bLomJEy0pw6WTM=s360-c"
+            }
+        }
+    ],
+    "name": "Chocolate Saltine Toffee (aka Christmas Crack)",
+    "source": {
+        "sourceDisplayName": "Averie Cooks",
+        "sourceSiteUrl": "http://www.averiecooks.com",
+        "sourceRecipeUrl": "https://www.averiecooks.com/2011/12/chocolate-saltine-toffee.html"
+    },
+    "prepTime": "15 minutes",
+    "id": "Chocolate-Saltine-Toffee-_aka-Christmas-Crack_-2119009",
+    "ingredientLines": [
+        "30 to 40 saltine crackers (I used about 32 crackers)",
+        "1 cup unsalted butter (2 sticks)",
+        "1 cup brown sugar, packed (I used half light and half dark because that's what I had)",
+        "1/2 teaspoon vanilla extract",
+        "1 1/2 to 2 cups semi-sweet chocolate chips (I used one 12-ounce bag of TJ's semi sweet morsels, also see optional note below)"
+    ],
+    "attribution": {
+        "html": "<a href='http://www.yummly.co/recipe/Chocolate-Saltine-Toffee-_aka-Christmas-Crack_-2119009'>Chocolate Saltine Toffee (aka Christmas Crack) recipe</a> information powered by <img alt='Yummly' src='https://static.yummly.co/api-logo.png'/>",
+        "url": "http://www.yummly.co/recipe/Chocolate-Saltine-Toffee-_aka-Christmas-Crack_-2119009",
+        "text": "Chocolate Saltine Toffee (aka Christmas Crack) recipes: information powered by Yummly",
+        "logo": "https://static.yummly.co/api-logo.png"
+    },
+    "numberOfServings": 1,
+    "totalTimeInSeconds": 3600,
+    "attributes": {
+        "holiday": [
+            "Christmas"
+        ],
+        "course": [
+            "Desserts"
+        ]
+    },
+    "flavors": {},
+    "rating": 4
+}

@@ -1,0 +1,55 @@
+{
+    "yield": "4-8",
+    "nutritionEstimates": [],
+    "prepTimeInSeconds": 600,
+    "totalTime": "26 min",
+    "images": [
+        {
+            "imageUrlsBySize": {
+                "90": "null=s90-c",
+                "360": "null=s360-c"
+            }
+        }
+    ],
+    "name": "Steak Marinade M L V",
+    "source": {
+        "sourceDisplayName": "Food.com",
+        "sourceSiteUrl": "http://www.food.com",
+        "sourceRecipeUrl": "http://www.food.com/recipe/steak-marinade-m-l-v-55066"
+    },
+    "prepTime": "10 Min",
+    "id": "Steak-Marinade-M-L-V-Recipezaar",
+    "ingredientLines": [
+        "2 steaks, well marbled",
+        "2 -4 chicken breasts (optional to steak if it is not your thing)",
+        "4 portabella mushrooms (optional to meat if you are a vegetarian)",
+        "0.5 (8 ounce) bottle Braggs liquid aminos (optional if hard to obtain)",
+        "1 (12 ounce) bottle red wine vinegar",
+        "2 -3 ground dried habanero peppers (optional if spicy is not your thing)",
+        "1 tablespoon extra virgin olive oil",
+        "2 tablespoons any mustard (I like stone ground mustard)",
+        "3 garlic cloves, minced",
+        "3 -4 scallions, chopped",
+        "1 teaspoon ginger, grated",
+        "2 teaspoons white pepper",
+        "2 -3 tablespoons dried Italian seasoning, made by blending equal parts of Oregano, Marjoram, Thyme, Rosemary, Basil, and Sage",
+        "2 sprigs dried rosemary (4-5 inches each)"
+    ],
+    "cookTime": "16 Min",
+    "attribution": {
+        "html": "<a href='http://www.yummly.co/recipe/Steak-Marinade-M-L-V-Recipezaar'>Steak Marinade M L V recipe</a> information powered by <img alt='Yummly' src='https://static.yummly.co/api-logo.png'/>",
+        "url": "http://www.yummly.co/recipe/Steak-Marinade-M-L-V-Recipezaar",
+        "text": "Steak Marinade M L V recipes: information powered by Yummly",
+        "logo": "https://static.yummly.co/api-logo.png"
+    },
+    "numberOfServings": 6,
+    "totalTimeInSeconds": 1560,
+    "attributes": {
+        "course": [
+            "Main Dishes"
+        ]
+    },
+    "cookTimeInSeconds": 960,
+    "flavors": {},
+    "rating": 3
+}

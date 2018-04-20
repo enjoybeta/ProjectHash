@@ -1,0 +1,57 @@
+{
+    "yield": "Zutaten f\u00fcr 6-7 St\u00fcck:",
+    "nutritionEstimates": [],
+    "totalTime": "1 hr 45 min",
+    "images": [
+        {
+            "hostedSmallUrl": "http://lh3.googleusercontent.com/TQQIiGcBiZ-xQkJ2RsWDt8ukz9YTaZBkaIjl3z9XB-TKktUDbXPyTQE3Osgvj7Hyh3G5uVisxi1gDuiqAE6B=s90",
+            "hostedMediumUrl": "http://lh3.googleusercontent.com/TQQIiGcBiZ-xQkJ2RsWDt8ukz9YTaZBkaIjl3z9XB-TKktUDbXPyTQE3Osgvj7Hyh3G5uVisxi1gDuiqAE6B=s180",
+            "hostedLargeUrl": "http://lh3.googleusercontent.com/TQQIiGcBiZ-xQkJ2RsWDt8ukz9YTaZBkaIjl3z9XB-TKktUDbXPyTQE3Osgvj7Hyh3G5uVisxi1gDuiqAE6B=s360",
+            "imageUrlsBySize": {
+                "90": "http://lh3.googleusercontent.com/-6iOWm7KBEeXV0qzQ-YnfEzgma3AMZxzNPx1dOttV7I-e0704wzQ2Bu32EVLttyKcotvUt7cv5em2PgbOAWgiA=s90-c",
+                "360": "http://lh3.googleusercontent.com/-6iOWm7KBEeXV0qzQ-YnfEzgma3AMZxzNPx1dOttV7I-e0704wzQ2Bu32EVLttyKcotvUt7cv5em2PgbOAWgiA=s360-c"
+            }
+        }
+    ],
+    "name": "Kopenhagener mit Vanillepudding und Rhabarber",
+    "source": {
+        "sourceDisplayName": "Lecker",
+        "sourceSiteUrl": "lecker.de",
+        "sourceRecipeUrl": "http://www.lecker.de/rezept/810857/Kopenhagener-mit-Vanillepudding-und-Rhabarber.html"
+    },
+    "id": "Kopenhagener-mit-Vanillepudding-und-Rhabarber-926667",
+    "ingredientLines": [
+        "200 g Rhabarber",
+        "150 ml roten Johannisbeersaft \u00a9gibt es nicht mehr im Handel",
+        "2 P\u00e4ckchen Vanillin-Zucker",
+        "125 g Zucker",
+        "1 P\u00e4ckchen So\u00dfenpulver \"Vanille-Geschmack\" (f\u00fcr 500 ml Fl\u00fcssigkeit, zum Kochen)",
+        "250 g Mehl",
+        "1 T\u00fcte Trockenhefe (Inhalt entspricht 1/2 W\u00fcrfel Frischhefe)",
+        "1 Prise Salz",
+        "25 g Butter",
+        "1 Ei (Gr\u00f6\u00dfe M)",
+        "125 ml Milch",
+        "1 Eigelb (Gr\u00f6\u00dfe M)",
+        "1 EL Schlagsahne",
+        "150 g Vanille-Sahne-Pudding mit Bourbon-Vanille",
+        "50 g Mandelbl\u00e4ttchen",
+        "Mehl f\u00fcr H\u00e4nde und Arbeitsfl\u00e4che",
+        "nach Belieben gemahlene Pistazien, Puderzucker und Minze"
+    ],
+    "attribution": {
+        "html": "<a href='http://www.yummly.co/recipe/Kopenhagener-mit-Vanillepudding-und-Rhabarber-926667'>Kopenhagener mit Vanillepudding und Rhabarber recipe</a> information powered by <img alt='Yummly' src='https://static.yummly.co/api-logo.png'/>",
+        "url": "http://www.yummly.co/recipe/Kopenhagener-mit-Vanillepudding-und-Rhabarber-926667",
+        "text": "Kopenhagener mit Vanillepudding und Rhabarber recipes: information powered by Yummly",
+        "logo": "https://static.yummly.co/api-logo.png"
+    },
+    "numberOfServings": 6,
+    "totalTimeInSeconds": 6300,
+    "attributes": {
+        "course": [
+            "Desserts"
+        ]
+    },
+    "flavors": {},
+    "rating": 3
+}

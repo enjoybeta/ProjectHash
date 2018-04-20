@@ -1,0 +1,311 @@
+{
+    "criteria": {
+        "q": "s+a+g+e",
+        "allowedIngredient": null,
+        "excludedIngredient": null
+    },
+    "matches": [
+        {
+            "imageUrlsBySize": {
+                "90": "http://lh3.googleusercontent.com/ix9DgH1VWQNxJN53saFjOZot8kn369YHahWcEkpxgu88G3umBWTZfHk-o5StCq-g99pSeX0WA1kE1X5kzBqw=s90-c"
+            },
+            "sourceDisplayName": "Amuse Your Bouche",
+            "ingredients": [
+                "brown rice",
+                "sunflower oil",
+                "spring onions",
+                "garlic",
+                "bell pepper",
+                "cherry tomatoes",
+                "hot chili powder",
+                "smoked paprika",
+                "black beans",
+                "salt",
+                "black pepper",
+                "cheddar cheese",
+                "fresh coriander"
+            ],
+            "id": "Veggie-Burrito-Bowls-978324",
+            "smallImageUrls": [
+                "http://lh3.googleusercontent.com/Xjkk6qnp3KKnOSGJuadprZtADxkfoNGF0ryRs8m-HbYqfYxxvrDhn1jPmqjpXz8mR1JH98dW0m0v0lvUi8mT=s90"
+            ],
+            "recipeName": "Veggie Burrito Bowls",
+            "totalTimeInSeconds": 1500,
+            "attributes": {
+                "course": [
+                    "Main Dishes",
+                    "Lunch"
+                ]
+            },
+            "flavors": {
+                "piquant": 0.16666666666666666,
+                "meaty": 0.16666666666666666,
+                "bitter": 0.3333333333333333,
+                "sweet": 0.16666666666666666,
+                "sour": 0.8333333333333334,
+                "salty": 0.6666666666666666
+            },
+            "rating": 4
+        },
+        {
+            "imageUrlsBySize": {
+                "90": "http://lh3.googleusercontent.com/w0kw23ZBMhE6Wdiq3sMhD0lkAuO0AVMQxTaHcCo2msCpNU64JI-hc1QlIwai-lCnE3bzrteu4-LvvbZ9REo0=s90-c"
+            },
+            "sourceDisplayName": "Paleo Leap",
+            "ingredients": [
+                "egg yolks",
+                "oil",
+                "dijon",
+                "fresh lemon juice",
+                "salt"
+            ],
+            "id": "Mayonnaise-1103488",
+            "smallImageUrls": [
+                "http://lh3.googleusercontent.com/3zoOltqhEj9b82-pMXQhja_yxwbjGurrmSLdMel-nkEf7-F0Gn6nZpOuPjrb9efljwX1ECVJl9-Unk_8cZE=s90"
+            ],
+            "recipeName": "Mayonnaise",
+            "totalTimeInSeconds": 900,
+            "attributes": {},
+            "flavors": null,
+            "rating": 3
+        },
+        {
+            "imageUrlsBySize": {
+                "90": "https://lh3.googleusercontent.com/hELS4jpTj8psLCRPy-2XlzQZVlx3EuTsEM5fMk5CAvqciJBrb7COVZnwfoYiDFqmreBTF8XOdBOYGtGlP9lb=s90-c"
+            },
+            "sourceDisplayName": "Wake Up And Eat",
+            "ingredients": [
+                "coconut chips",
+                "soy sauce",
+                "liquid smoke",
+                "pure maple syrup"
+            ],
+            "id": "Coconut-Bacon-Delivers-Flavor-2396401",
+            "smallImageUrls": [
+                "https://lh3.googleusercontent.com/sBcgijmkxnNg1FwbbVrwvqMN4jfMukH7kTXxUlo73_kKcLMmQQgbuRnjMo7YQkvAoLTHK9WmcCE8wBKzmvtI=s90"
+            ],
+            "recipeName": "Coconut \u201cBacon\u201d Delivers Flavor",
+            "totalTimeInSeconds": 1500,
+            "attributes": {},
+            "flavors": null,
+            "rating": 4
+        },
+        {
+            "imageUrlsBySize": {
+                "90": "http://lh3.googleusercontent.com/dsnZNwmQMDh5xKYpPltz6cz8AG_4oyIG875byBOGVE51PwQm9bLEoGgq7y92TulNjQKpbl1xqgObjF9WZiRHzA=s90-c"
+            },
+            "sourceDisplayName": "The Fitness Recipes.com",
+            "ingredients": [
+                "sweet potatoes",
+                "olive oil",
+                "black pepper",
+                "sea salt",
+                "garlic"
+            ],
+            "id": "Easy-Crispy-Ovenbaked-Sweet-Potatoes-_Better-Than-Fries_-1266696",
+            "smallImageUrls": [
+                "http://lh3.googleusercontent.com/7q9dhpERajl5clUiE2NrxdIEtJYKUO7Eo6AMk4p8v8QrdJCFwG9VYylX-DQiGSy-L3uhFvbvHd7m2cRpOD5kKOY=s90"
+            ],
+            "recipeName": "Easy Crispy Ovenbaked Sweet Potatoes (Better Than Fries)",
+            "totalTimeInSeconds": 3000,
+            "attributes": {
+                "course": [
+                    "Side Dishes"
+                ]
+            },
+            "flavors": {
+                "piquant": 0.0,
+                "meaty": 0.16666666666666666,
+                "bitter": 0.8333333333333334,
+                "sweet": 0.3333333333333333,
+                "sour": 0.3333333333333333,
+                "salty": 0.8333333333333334
+            },
+            "rating": 4
+        },
+        {
+            "imageUrlsBySize": {
+                "90": "https://lh3.googleusercontent.com/noYNNDEV9vhtJHVHPKO1OqDNKEMLd99qc5nVKucoBbJKPol1Dsiqd8mCjczdxoX-054y2YMMM-1OpGiCL9TEp_8=s90-c"
+            },
+            "sourceDisplayName": "Sigrilina",
+            "ingredients": [
+                "vegetable oil",
+                "warm water",
+                "plain flour",
+                "Himalayan salt"
+            ],
+            "id": "Vegan-Empanada-Dough-2234975",
+            "smallImageUrls": [
+                "https://lh3.googleusercontent.com/NNtJjcu_ZQXa46TqfjIOB48nTIlAOcGGX5-yjNMRCTigs_ubbPepsfIGMmcrqT2nEQYgPGxaCOFOAVFh3uiYDQ=s90"
+            ],
+            "recipeName": "Vegan Empanada Dough",
+            "totalTimeInSeconds": 900,
+            "attributes": {},
+            "flavors": null,
+            "rating": 4
+        },
+        {
+            "imageUrlsBySize": {
+                "90": "https://lh3.googleusercontent.com/JRun7CHys55BZXsDS7Cblvxs3CxBv7CaL_0G5OM88qux3bjHa0aU5utHaz5MslZ4pNuUHrMrnGqW2yJ52qv0Hg=s90-c"
+            },
+            "sourceDisplayName": "Love Foodies",
+            "ingredients": [
+                "softened butter",
+                "milk",
+                "regular sugar",
+                "eggs",
+                "strawberries",
+                "all-purpose flour",
+                "baking powder",
+                "salt",
+                "vanilla extract"
+            ],
+            "id": "Strawberry-Pound-Cake-2161706",
+            "smallImageUrls": [
+                "https://lh3.googleusercontent.com/Z-FK3Emwk1tPG_pZXi-SVmhp_2UxnkeoTQIy9_hPTucsUGP_5VkZf_iFcnfmLfw52PCS1s9uPMTIxctcg7x9=s90"
+            ],
+            "recipeName": "Strawberry Pound Cake",
+            "totalTimeInSeconds": 5400,
+            "attributes": {
+                "course": [
+                    "Desserts",
+                    "Afternoon Tea"
+                ]
+            },
+            "flavors": {
+                "piquant": 0.0,
+                "meaty": 0.3333333333333333,
+                "bitter": 0.16666666666666666,
+                "sweet": 0.6666666666666666,
+                "sour": 0.8333333333333334,
+                "salty": 0.6666666666666666
+            },
+            "rating": 4
+        },
+        {
+            "imageUrlsBySize": {
+                "90": "http://lh6.ggpht.com/TWHuhGaIN5Vo8NCgDRxWeJl2EDFPNJl_EVlnTpRNnWmNnAh9lgs5IeymmiB1yLeqd_dArMDgp0MMU2wrWaQITQ=s90-c"
+            },
+            "sourceDisplayName": "Love Foodies",
+            "ingredients": [
+                "butter",
+                "milk",
+                "regular sugar",
+                "eggs",
+                "poppy seeds",
+                "zest",
+                "plain flour",
+                "baking powder",
+                "salt"
+            ],
+            "id": "Lemon-and-Poppy-Seed-Loaf-969583",
+            "smallImageUrls": [
+                "http://lh3.ggpht.com/hBJyDSQArU9IA-kc4HCEDAp9UMcXL0h4UUZOImOrWgcKFyK0xYjCDsghsUH8mleuSTVDj3esPieI0KRlwQEddg=s90"
+            ],
+            "recipeName": "Lemon and Poppy Seed Loaf",
+            "totalTimeInSeconds": 4500,
+            "attributes": {
+                "course": [
+                    "Desserts",
+                    "Breads"
+                ]
+            },
+            "flavors": {
+                "sweet": 0.8333333333333334,
+                "piquant": 0.0,
+                "sour": 0.16666666666666666,
+                "salty": 0.6666666666666666,
+                "meaty": 0.6666666666666666,
+                "bitter": 0.5
+            },
+            "rating": 4
+        },
+        {
+            "imageUrlsBySize": {
+                "90": "http://lh4.ggpht.com/f5652mqJZlbXMARDgVvUanI2CGEwCfMGuIvrnkUB-4VIwy0tvD6jIsIVaGdCV_tSCZf57KILS8hmgm4-sb3GaA=s90-c"
+            },
+            "sourceDisplayName": "Love Foodies",
+            "ingredients": [
+                "softened butter",
+                "milk",
+                "regular sugar",
+                "eggs",
+                "vanilla extract",
+                "all-purpose flour",
+                "baking powder",
+                "salt"
+            ],
+            "id": "Moist-Vanilla-Pound-_-Loaf-Cake-975612",
+            "smallImageUrls": [
+                "http://lh5.ggpht.com/GQ83QroEIzh9Z6Lm9ykEoVeay7-P1W5PKdLluOM4DS5wbuW0NEB0T7A4j768SpiSRf02drpEgQDuLcEm3e_xNA=s90"
+            ],
+            "recipeName": "Moist Vanilla Pound / Loaf Cake",
+            "totalTimeInSeconds": 4500,
+            "attributes": {
+                "course": [
+                    "Afternoon Tea",
+                    "Desserts"
+                ]
+            },
+            "flavors": null,
+            "rating": 4
+        },
+        {
+            "imageUrlsBySize": {
+                "90": "https://lh3.googleusercontent.com/XYiRFyszsWXcSnovQtkrlKvRaXQ-pVSK513CRG71KxjgxfSDaBh6ygDOqhvh3T_tf0ngVgYNZHzMi5uURrAEIw=s90-c"
+            },
+            "sourceDisplayName": "Cooking Channel",
+            "ingredients": [
+                "all-purpose flour",
+                "virgin olive oil",
+                "red wine",
+                "luke warm water"
+            ],
+            "id": "Taralli-1961544",
+            "smallImageUrls": [
+                "https://lh3.googleusercontent.com/u7OhSAzabIK8QaMp_Vw5D0fpQldsI84tNuInZQ3VWb7wjNRWrgjfirdkV-2Ij2hg0FtcVKsLWN4l87mTKfUgBw=s90"
+            ],
+            "recipeName": "Taralli",
+            "totalTimeInSeconds": 2700,
+            "attributes": {},
+            "flavors": null,
+            "rating": 3
+        },
+        {
+            "imageUrlsBySize": {
+                "90": "https://lh3.googleusercontent.com/olad8lO0Y9ouBkKpRLf7XIntNy3M4Um1yvfZhvm74eXOln18vbbb2d-A7S22VurD9aV_5rQVaqcsIMJZThlI=s90-c"
+            },
+            "sourceDisplayName": "A Tasty Love Story",
+            "ingredients": [
+                "medium carrot",
+                "lemon",
+                "orange",
+                "apples",
+                "ginger",
+                "oil",
+                "crushed ice"
+            ],
+            "id": "Immune-Boosting-and-Anti-Inflammatory-Juice-1772459",
+            "smallImageUrls": [
+                "https://lh3.googleusercontent.com/bk10tYSkWd53040sRM2726tZqemWbycsipiHIuFRWujRQeth3ww6-ZwAkA5_Q5-z_NmSwWL_3Y5cIWXrNAMRHA=s90"
+            ],
+            "recipeName": "Immune Boosting and Anti Inflammatory Juice",
+            "totalTimeInSeconds": 600,
+            "attributes": {
+                "course": [
+                    "Beverages"
+                ]
+            },
+            "flavors": null,
+            "rating": 4
+        }
+    ],
+    "facetCounts": {},
+    "totalMatchCount": 39504,
+    "attribution": {
+        "html": "Recipe search powered by <a href='http://www.yummly.co/recipes'><img alt='Yummly' src='https://static.yummly.co/api-logo.png'/></a>",
+        "url": "http://www.yummly.co/recipes/",
+        "text": "Recipe search powered by Yummly",
+        "logo": "https://static.yummly.co/api-logo.png"
+    }
+}

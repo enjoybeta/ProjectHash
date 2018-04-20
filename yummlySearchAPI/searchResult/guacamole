@@ -1,0 +1,349 @@
+{
+    "criteria": {
+        "q": "g+u+a+c+a+m+o+l+e",
+        "allowedIngredient": null,
+        "excludedIngredient": null
+    },
+    "matches": [
+        {
+            "imageUrlsBySize": {
+                "90": "http://lh3.googleusercontent.com/PvG6fdRDPXgTuFtxfbtWCOgDTlB571_fusjCZ_S0DeYKI8aEwyKnYScvEInHhN-ES8dO5YXlixQSDyJFpzcG=s90-c"
+            },
+            "sourceDisplayName": "Lecker",
+            "ingredients": [
+                "Semmelbr\u00f6sel",
+                "weiche Butter",
+                "Zucker",
+                "Salz",
+                "Mehl",
+                "Backpulver",
+                "Cognac",
+                "Puderzucker"
+            ],
+            "id": "Getrankter-Congnac-Kuchen-832118",
+            "smallImageUrls": [
+                "http://lh3.googleusercontent.com/NSFmsrzIBfg0E2wmAE2oW8T2K5ZY0t0BCPXdmsAQSOuDTStSJrGNZCCBD9Xx8kg6lZqfqKqLmfwkLN27SBgOXK0=s90"
+            ],
+            "recipeName": "Getra\u0308nkter Congnac-Kuchen",
+            "totalTimeInSeconds": 5400,
+            "attributes": {
+                "course": [
+                    "Desserts"
+                ]
+            },
+            "flavors": null,
+            "rating": 3
+        },
+        {
+            "imageUrlsBySize": {
+                "90": "http://lh3.googleusercontent.com/MoaKNU2Oq_y8exn4VEtWR-czHzM9P2sGYa7W2uRBVYMwzhnZ4-QYdoDGJ9z7-XNocuHipH031NoRYjRdnd6LHg=s90-c"
+            },
+            "sourceDisplayName": "Lecker",
+            "ingredients": [
+                "Semmelbr\u00f6sel",
+                "Nu\u00dfnougat",
+                "weiche Butter",
+                "Mascarpone",
+                "Zucker",
+                "aroma",
+                "Salz",
+                "Mehl",
+                "Mandel",
+                "Milch",
+                "Kakao",
+                "Puderzucker"
+            ],
+            "id": "Mascarpone-Marmorkuchen-834243",
+            "smallImageUrls": [
+                "http://lh3.googleusercontent.com/bQOD3IhwcC1CZ_6ChO4LhVxsQR1Av6QhxV7b4b-g3XwhoanTA0bze-X3h3UUbun2IdYhoZUkL_ZNIL9x-m7OnA=s90"
+            ],
+            "recipeName": "Mascarpone-Marmorkuchen",
+            "totalTimeInSeconds": 4500,
+            "attributes": {
+                "course": [
+                    "Desserts"
+                ]
+            },
+            "flavors": null,
+            "rating": 3
+        },
+        {
+            "imageUrlsBySize": {
+                "90": "http://lh3.googleusercontent.com/6SCP1BVN-jl4pYsPGHJfsMAVpvUPZlJjVo1thQdWXvK7ttloFmDNcns2_YYt_SYk2K555rSxYpLCvOSbSVsvOTw=s90-c"
+            },
+            "sourceDisplayName": "Lecker",
+            "ingredients": [
+                "Semmelbr\u00f6sel",
+                "magerquark",
+                "\u00d6l",
+                "Zucker",
+                "Mehl",
+                "Backpulver",
+                "Gelatine",
+                "Erdbeere",
+                "Ricotta",
+                "Schlabgobers",
+                "Mandelbl\u00e4tter",
+                "Tortenguss",
+                "Puderzucker"
+            ],
+            "id": "Ricotta-Erdbeermousse-Torte-927914",
+            "smallImageUrls": [
+                "http://lh3.googleusercontent.com/kluYzYoX5iBQ0uEACbkM0COGjA84nIhSjIwx-uJRKeMLbZgxB3mSG9NvUzuITdBskVsWVX7cGf3LDecJw6cxAA=s90"
+            ],
+            "recipeName": "Ricotta-Erdbeermousse-Torte",
+            "totalTimeInSeconds": 3600,
+            "attributes": {
+                "course": [
+                    "Desserts"
+                ]
+            },
+            "flavors": null,
+            "rating": 3
+        },
+        {
+            "imageUrlsBySize": {
+                "90": "http://lh3.googleusercontent.com/Qd6mJrFDqdTcgYPoaCnxXh_VVnh8ysgyqGoYFiQqGIXNcR7c6LKj3hn_LMvv9kt1mXwQPIsEUCrMYWfMdJWytA=s90-c"
+            },
+            "sourceDisplayName": "Lecker",
+            "ingredients": [
+                "Espressopulver",
+                "Marzipan",
+                "Moccabohnen",
+                "Semmelbr\u00f6sel",
+                "weiche Butter",
+                "Zucker",
+                "Salz",
+                "Ei",
+                "Mehl",
+                "Backpulver",
+                "Kakao",
+                "Puderzucker"
+            ],
+            "id": "Espresso-Schoko-Gugelhupf-834577",
+            "smallImageUrls": [
+                "http://lh3.googleusercontent.com/f-E8VTkqLqS_L1rHNFa_VcxBQwechMwGcZFBFiBv7bIaMYOw4W0mpNuJa_86S5lymghveMuEMWICKiNOvX7Aje4=s90"
+            ],
+            "recipeName": "Espresso-Schoko-Gugelhupf",
+            "totalTimeInSeconds": 1800,
+            "attributes": {
+                "course": [
+                    "Desserts"
+                ]
+            },
+            "flavors": null,
+            "rating": 3
+        },
+        {
+            "imageUrlsBySize": {
+                "90": "http://lh3.googleusercontent.com/E23OVlDTsj5qode0bqko2fHxUqL4i3cbgs4UMnlbVinW-S6xgGjHrv_0WVoGSaPNS-JxGCxrGkeUmPaJtq28kJY=s90-c"
+            },
+            "sourceDisplayName": "Lecker",
+            "ingredients": [
+                "Himbeere",
+                "Ei",
+                "Zucker",
+                "Speisest\u00e4rke",
+                "Backpulver",
+                "Schlabgobers",
+                "Rahm",
+                "magerquark",
+                "Tortenguss"
+            ],
+            "id": "Kasesahne-Torte-mit-Himbeermark-926948",
+            "smallImageUrls": [
+                "http://lh3.googleusercontent.com/CDaC6hgNmLYFc4RanmWqPJCtXhNh-Rl9dgaARPA-vvNbqC_ELMfui89mIn_N0_gxAsUiNiHzOnkGsrpyCm0R_g=s90"
+            ],
+            "recipeName": "Ka\u0308sesahne-Torte mit Himbeermark",
+            "totalTimeInSeconds": 4500,
+            "attributes": {
+                "course": [
+                    "Desserts"
+                ]
+            },
+            "flavors": null,
+            "rating": 3
+        },
+        {
+            "imageUrlsBySize": {
+                "90": "http://lh3.googleusercontent.com/gn6auuv3ZaR10A6WurPgLK8O7yTyZoX9PotXDBcc9PuBw_YMgnEZ1h4uOwnu8emNmJl0xn7K428KHDEbzib0ng=s90-c"
+            },
+            "sourceDisplayName": "Lecker",
+            "ingredients": [
+                "Kaffee",
+                "Semmelbr\u00f6sel",
+                "Schokolade",
+                "weiche Butter",
+                "Zucker",
+                "Salz",
+                "Ei",
+                "Backpulver",
+                "Kakao",
+                "Kuvert\u00fcre",
+                "Puderzucker"
+            ],
+            "id": "Schoko-Kaffeekuchen-mit-Mandeln-831562",
+            "smallImageUrls": [
+                "http://lh3.googleusercontent.com/Kb9NMujayov8P2bXg1REpjAeYz-FnYtvC07lWLT-92AoDPd1Eu5pGJS6OyX4-uJhnYBPO3_qgEiTP90P21zruA=s90"
+            ],
+            "recipeName": "Schoko-Kaffeekuchen mit Mandeln",
+            "totalTimeInSeconds": 7200,
+            "attributes": {
+                "course": [
+                    "Desserts"
+                ]
+            },
+            "flavors": {
+                "sweet": 0.8333333333333334,
+                "piquant": 0.0,
+                "sour": 0.0,
+                "salty": 0.16666666666666666,
+                "meaty": 0.16666666666666666,
+                "bitter": 0.16666666666666666
+            },
+            "rating": 3
+        },
+        {
+            "imageUrlsBySize": {
+                "90": "http://lh3.googleusercontent.com/F3xBdAbiA8v-zYSTJZ4ffRJEVunkzOqiByZLaNXN1VuWUiXvxqjMMotz60QtT9Z_Za8O2yMSHxT2nCx0lhfYzA=s90-c"
+            },
+            "sourceDisplayName": "Lecker",
+            "ingredients": [
+                "Himbeere",
+                "Fett",
+                "weiche Butter",
+                "Zucker",
+                "ale",
+                "Salz",
+                "Ei",
+                "Speisest\u00e4rke",
+                "Backpulver",
+                "Zitronensaft",
+                "Mandelbl\u00e4tter",
+                "Schmand",
+                "Saucenpulver",
+                "Minze"
+            ],
+            "id": "Vanille-Schmand-Kranz-mit-Himbeeren-833362",
+            "smallImageUrls": [
+                "http://lh3.googleusercontent.com/1aCMMPMjiLHxEQRynTcLeoiHGG5qC6fC-lT0BBe81E6k_hMsKRQWinUCGlBNO3wu7v-bMVv9MMF7pWnJ2LkP=s90"
+            ],
+            "recipeName": "Vanille-Schmand-Kranz mit Himbeeren",
+            "totalTimeInSeconds": 6300,
+            "attributes": {
+                "course": [
+                    "Desserts"
+                ]
+            },
+            "flavors": null,
+            "rating": 3
+        },
+        {
+            "imageUrlsBySize": {
+                "90": "http://lh3.googleusercontent.com/vVEwmODHJvc4YAbLbffjElLPryBKYafq8nPWBsL8EoElUw9oG60NXCvxVJlnnB5rz2g-NnR8EYkFws8FNDIg7w=s90-c"
+            },
+            "sourceDisplayName": "Lecker",
+            "ingredients": [
+                "Fett",
+                "Ei",
+                "Zucker",
+                "Speisest\u00e4rke",
+                "Backpulver",
+                "Erdbeere",
+                "Mascarpone",
+                "magerquark",
+                "Schlabgobers",
+                "Tortenguss",
+                "Sahnefestiger",
+                "Kakao"
+            ],
+            "id": "Erdbeer-Tiramisu-Schnitten-927582",
+            "smallImageUrls": [
+                "http://lh3.googleusercontent.com/Q6qKy0S5VoRdpv8Ox-sXeTMbI0VdK7NwscFdARs8swxnNBrUKV7H-Nq26eZlI-yOmYAhGWCHL-v-dNkh-ilzzA=s90"
+            ],
+            "recipeName": "Erdbeer-Tiramisu-Schnitten",
+            "totalTimeInSeconds": 4500,
+            "attributes": {
+                "course": [
+                    "Desserts"
+                ]
+            },
+            "flavors": null,
+            "rating": 3
+        },
+        {
+            "imageUrlsBySize": {
+                "90": "http://lh3.googleusercontent.com/jeaM-jd69GtGaj3MhYdM9NFsTdH3eheFfxxy9Pxr0oi02-VyIrxCIORGiV_xS-00XSp1wFt1P3bxAGeE__DYww=s90-c"
+            },
+            "sourceDisplayName": "Lecker",
+            "ingredients": [
+                "Semmelbr\u00f6sel",
+                "Ei",
+                "Zucker",
+                "Butter",
+                "Kirsche",
+                "Speisest\u00e4rke",
+                "Milch",
+                "Puddingpulver",
+                "Rahm",
+                "Schlabgobers",
+                "Puderzucker"
+            ],
+            "id": "Knusprige-Karamell-Torteletts-832309",
+            "smallImageUrls": [
+                "http://lh3.googleusercontent.com/5TPxI2fJYiJGSZk5Ff8aGpVEjtPGGEN1-cDutJw0NXYJFuuMJGi8VzYT4tP8CLLv-bzxtpn0OkJLCtRj-Bq2=s90"
+            ],
+            "recipeName": "Knusprige Karamell-Torteletts",
+            "totalTimeInSeconds": 5400,
+            "attributes": {
+                "course": [
+                    "Desserts"
+                ]
+            },
+            "flavors": null,
+            "rating": 3
+        },
+        {
+            "imageUrlsBySize": {
+                "90": "http://lh3.googleusercontent.com/fnkMoDxLRIKaox2ibrLdLQY6HWmMZiic9-fx9QL-z5I9Vqj6cqrH357e3kJF3Vy6cv26ZXQ_-E4YZi9sh3aQ=s90-c"
+            },
+            "sourceDisplayName": "Lecker",
+            "ingredients": [
+                "Mehl",
+                "Bourbon-Vanillezucker",
+                "Backpulver",
+                "Salz",
+                "Limone",
+                "Puddingpulver",
+                "Wei\u00dfwein",
+                "Zimt",
+                "Weintraube",
+                "Mandelbl\u00e4tter",
+                "Kuvert\u00fcre",
+                "Wein",
+                "Puderzucker"
+            ],
+            "id": "Traubentorte-_Schone-Winzerin_-833377",
+            "smallImageUrls": [
+                "http://lh3.googleusercontent.com/_lg6J49JW7u0MM61C2rmp16CZd152v8fWDd8aEsR9f7Gqj1RxEvpE3kA6pPW1U2tkP9XltNxXxLWe9WJdqf3rA=s90"
+            ],
+            "recipeName": "Traubentorte \"Scho\u0308ne Winzerin\"",
+            "totalTimeInSeconds": 5400,
+            "attributes": {
+                "course": [
+                    "Desserts"
+                ]
+            },
+            "flavors": null,
+            "rating": 3
+        }
+    ],
+    "facetCounts": {},
+    "totalMatchCount": 20,
+    "attribution": {
+        "html": "Recipe search powered by <a href='http://www.yummly.co/recipes'><img alt='Yummly' src='https://static.yummly.co/api-logo.png'/></a>",
+        "url": "http://www.yummly.co/recipes/",
+        "text": "Recipe search powered by Yummly",
+        "logo": "https://static.yummly.co/api-logo.png"
+    }
+}

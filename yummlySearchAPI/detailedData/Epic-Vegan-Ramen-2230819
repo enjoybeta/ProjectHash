@@ -1,0 +1,61 @@
+{
+    "yield": "Serves 4 to 6",
+    "nutritionEstimates": [],
+    "totalTime": "30 min",
+    "images": [
+        {
+            "hostedSmallUrl": "https://lh3.googleusercontent.com/_F-bgN_vVuLdMzT76FZLyp5s7h_V1r47QLZI1fcW4M7_BV_fCGswUVBmZOa6SSFeivVWf4hAqhDfM9Xc3IeH=s90",
+            "hostedMediumUrl": "https://lh3.googleusercontent.com/_F-bgN_vVuLdMzT76FZLyp5s7h_V1r47QLZI1fcW4M7_BV_fCGswUVBmZOa6SSFeivVWf4hAqhDfM9Xc3IeH=s180",
+            "hostedLargeUrl": "https://lh3.googleusercontent.com/_F-bgN_vVuLdMzT76FZLyp5s7h_V1r47QLZI1fcW4M7_BV_fCGswUVBmZOa6SSFeivVWf4hAqhDfM9Xc3IeH=s360",
+            "imageUrlsBySize": {
+                "90": "https://lh3.googleusercontent.com/Z2jKDUDUdUkPmdg53ODy4d3GBh4ABH3isKWY4KxVUrclfD6W6UyVAj-ka3W4E5CfHs2WqMbk0GelkhWzdnjq=s90-c",
+                "360": "https://lh3.googleusercontent.com/Z2jKDUDUdUkPmdg53ODy4d3GBh4ABH3isKWY4KxVUrclfD6W6UyVAj-ka3W4E5CfHs2WqMbk0GelkhWzdnjq=s360-c"
+            }
+        }
+    ],
+    "name": "Epic Vegan Ramen",
+    "source": {
+        "sourceDisplayName": "The Blender Girl",
+        "sourceSiteUrl": "healthyblenderrecipes.com",
+        "sourceRecipeUrl": "https://healthyblenderrecipes.com/recipes/epic_vegan_ramen"
+    },
+    "id": "Epic-Vegan-Ramen-2230819",
+    "ingredientLines": [
+        "1/2 (8oz/227g) pack linguini-style rice stick noodles (or ramen noodles)",
+        "1/4 cup (60ml) toasted sesame oil",
+        "3 bunches baby bok choy, leaves separated, and cut lengthways into thirds",
+        "7oz/200g shiitake mushrooms, sliced",
+        "1 (160z/454g) pack firm silken tofu, cut into 32 equal squares",
+        "1 (160z/454g) pack firm silken tofu, cut into 32 equal squares",
+        "1/2 cup (40g) finely chopped green onion (white and green parts)",
+        "8 cups (1.9l) Massel beef-flavored broth (see **note)",
+        "1 cup (240ml) full-fat canned coconut milk (shake, then pour)",
+        "1/3 cup (80ml) wheat-free tamari",
+        "2 tablespoons dried shiitake mushroom powder, plus more to taste (see *note)",
+        "1 tablespoon minced fresh garlic",
+        "1 tablespoon minced fresh ginger, plus more to taste",
+        "1 teaspoon beef-flavored seasoning powder (see ***note)",
+        "1 teaspoon mirin, plus more to taste",
+        "1/8 teaspoon red pepper flakes, plus more to serve",
+        "Lime wedges, to serve"
+    ],
+    "attribution": {
+        "html": "<a href='http://www.yummly.co/recipe/Epic-Vegan-Ramen-2230819'>Epic Vegan Ramen recipe</a> information powered by <img alt='Yummly' src='https://static.yummly.co/api-logo.png'/>",
+        "url": "http://www.yummly.co/recipe/Epic-Vegan-Ramen-2230819",
+        "text": "Epic Vegan Ramen recipes: information powered by Yummly",
+        "logo": "https://static.yummly.co/api-logo.png"
+    },
+    "numberOfServings": 5,
+    "totalTimeInSeconds": 1800,
+    "attributes": {
+        "course": [
+            "Soups",
+            "Main Dishes"
+        ],
+        "cuisine": [
+            "Asian"
+        ]
+    },
+    "flavors": {},
+    "rating": 4
+}

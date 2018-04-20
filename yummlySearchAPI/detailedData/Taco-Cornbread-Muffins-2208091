@@ -1,0 +1,64 @@
+{
+    "nutritionEstimates": [],
+    "totalTime": "40 min",
+    "images": [
+        {
+            "hostedSmallUrl": "https://lh3.googleusercontent.com/YSjULv2vc7GV3qu4jmKowdFKSzD3nXdiKrEKn8qGuVeV4oTmPIYUBIV69N6bPieU9ztxZRm5IRHjHxb5PvEwfg=s90",
+            "hostedMediumUrl": "https://lh3.googleusercontent.com/YSjULv2vc7GV3qu4jmKowdFKSzD3nXdiKrEKn8qGuVeV4oTmPIYUBIV69N6bPieU9ztxZRm5IRHjHxb5PvEwfg=s180",
+            "hostedLargeUrl": "https://lh3.googleusercontent.com/YSjULv2vc7GV3qu4jmKowdFKSzD3nXdiKrEKn8qGuVeV4oTmPIYUBIV69N6bPieU9ztxZRm5IRHjHxb5PvEwfg=s360",
+            "imageUrlsBySize": {
+                "90": "https://lh3.googleusercontent.com/L3AwgSV5VT-ZQCWeAjas0rcMQQIRKTKGp8X7S45pAPGPhiJNSXy_7Pk09vCHU_cpgao9ReZCHgIM8A-yRAmBsi4=s90-c",
+                "360": "https://lh3.googleusercontent.com/L3AwgSV5VT-ZQCWeAjas0rcMQQIRKTKGp8X7S45pAPGPhiJNSXy_7Pk09vCHU_cpgao9ReZCHgIM8A-yRAmBsi4=s360-c"
+            }
+        }
+    ],
+    "name": "Taco Cornbread Muffins",
+    "source": {
+        "sourceDisplayName": "Plain Chicken",
+        "sourceSiteUrl": "plainchicken.com",
+        "sourceRecipeUrl": "http://www.plainchicken.com/2015/04/taco-cornbread-muffins.html?m=1"
+    },
+    "id": "Taco-Cornbread-Muffins-2208091",
+    "ingredientLines": [
+        "1998 Grand Prize Winner  Karen S. (Knoxville, TN) \u2013 Festive Good Luck Cornbread Skillet",
+        "2003 Grand Prize Winner  Gaynell L. (Maryville, TN) \u2013 White Chicken Chili with Cheddar Hush Puppy Crust",
+        "2006 Grand Prize Winner  Janice E. (Charlotte, NC) \u2013 Monte Cristo Cornbread Skillet Supper",
+        "2009 Grand Prize Winner  Sonya G. (Moorhead, MN) \u2013 Buffalo Chicken Cornbread with Bleu Cheese Salad",
+        "2010 Grand Prize Winner  Lori S. (Hendersonville, TN) \u2013 Bacon and Gorgonzola Cornbread Sliders",
+        "2011 Grand Prize Winner  Jennifer B. (Falls Church, VA) \u2013 Tennessee Onion Soup Gratin",
+        "2012 Grand Prize Winner  Melanie M. (Knoxville, TN) \u2013 Sweet Cornbread Shrimp Cakes with Mango Salsa",
+        "2013 Grand Prize Winner  Lorie R. (Buckatunna, MS) \u2013 Roasted Poblano Chicken Posole",
+        "2014 Grand Prize Winner  Andria G. (Matthews, NC) \u2013 Roasted Tomato and Bacon Cobbler",
+        "2 (7oz) packages Martha White Sweet Yellow Cornbread and Muffin Mix",
+        "1 cup milk",
+        "2 eggs",
+        "1 cup shredded cheddar cheese",
+        "1 lb lean ground beef or turkey",
+        "1 packet taco seasoning, plus water called for on package",
+        "1/4 cup salsa",
+        "sour cream",
+        "shredded cheddar cheese",
+        "sliced green onions",
+        "salsa"
+    ],
+    "attribution": {
+        "html": "<a href='http://www.yummly.co/recipe/Taco-Cornbread-Muffins-2208091'>Taco Cornbread Muffins recipe</a> information powered by <img alt='Yummly' src='https://static.yummly.co/api-logo.png'/>",
+        "url": "http://www.yummly.co/recipe/Taco-Cornbread-Muffins-2208091",
+        "text": "Taco Cornbread Muffins recipes: information powered by Yummly",
+        "logo": "https://static.yummly.co/api-logo.png"
+    },
+    "numberOfServings": 4,
+    "totalTimeInSeconds": 2400,
+    "attributes": {
+        "cuisine": [
+            "Mexican",
+            "Kid-Friendly"
+        ],
+        "course": [
+            "Main Dishes",
+            "Breads"
+        ]
+    },
+    "flavors": {},
+    "rating": 4
+}

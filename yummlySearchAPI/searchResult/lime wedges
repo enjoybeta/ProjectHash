@@ -29,7 +29,14 @@
             "recipeName": "Pain D'e\u0301pices",
             "totalTimeInSeconds": 2700,
             "attributes": {},
-            "flavors": null,
+            "flavors": {
+                "sweet": 0.8333333333333334,
+                "piquant": 0.0,
+                "sour": 0.16666666666666666,
+                "salty": 0.3333333333333333,
+                "meaty": 0.16666666666666666,
+                "bitter": 0.16666666666666666
+            },
             "rating": 3
         },
         {
@@ -50,8 +57,19 @@
             "sourceDisplayName": "Lecker",
             "id": "Apfel-Tortchen-mit-Weinschaum-833525",
             "rating": 3,
-            "flavors": null,
-            "attributes": {}
+            "flavors": {
+                "sweet": 0.8333333333333334,
+                "piquant": 0.0,
+                "sour": 0.16666666666666666,
+                "salty": 0.16666666666666666,
+                "meaty": 0.16666666666666666,
+                "bitter": 0.16666666666666666
+            },
+            "attributes": {
+                "course": [
+                    "Desserts"
+                ]
+            }
         }
     ],
     "facetCounts": {},

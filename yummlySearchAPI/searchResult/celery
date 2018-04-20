@@ -1,0 +1,47 @@
+{
+    "criteria": {
+        "q": "c+e+l+e+r+y",
+        "allowedIngredient": null,
+        "excludedIngredient": null
+    },
+    "matches": [
+        {
+            "imageUrlsBySize": {
+                "90": "http://lh3.ggpht.com/PHEdhp3vEBL03DR87dhrELeLOr6EkXNqnnYGgmNp8YBiqLqNtSeRuU46hE--mvksRF3JMUlcLaoQ4QWv2YWhdA=s90-c"
+            },
+            "sourceDisplayName": "AllRecipes",
+            "ingredients": [
+                "white sugar",
+                "heavy cream",
+                "baking soda",
+                "butter",
+                "vanilla extract",
+                "pecan halves"
+            ],
+            "id": "Aunt-Bill_s-Brown-Candy-Allrecipes",
+            "smallImageUrls": [
+                "http://lh3.ggpht.com/0nno8jMU3PHuSx6t7BE0q1k1soA6OGe1nAIe7c4-CqDc4na9Ji7COVRWDqxFlhAR0hM5uNOdFkLGEGIa1R4tAN0=s90"
+            ],
+            "recipeName": "Aunt Bill's Brown Candy",
+            "totalTimeInSeconds": 7200,
+            "attributes": {
+                "course": [
+                    "Desserts"
+                ],
+                "holiday": [
+                    "Christmas"
+                ]
+            },
+            "flavors": null,
+            "rating": 5
+        }
+    ],
+    "facetCounts": {},
+    "totalMatchCount": 1,
+    "attribution": {
+        "html": "Recipe search powered by <a href='http://www.yummly.co/recipes'><img alt='Yummly' src='https://static.yummly.co/api-logo.png'/></a>",
+        "url": "http://www.yummly.co/recipes/",
+        "text": "Recipe search powered by Yummly",
+        "logo": "https://static.yummly.co/api-logo.png"
+    }
+}

@@ -1,0 +1,367 @@
+{
+    "criteria": {
+        "q": "h+a+m",
+        "allowedIngredient": null,
+        "excludedIngredient": null
+    },
+    "matches": [
+        {
+            "imageUrlsBySize": {
+                "90": "https://lh3.googleusercontent.com/Y5ZwMHPkePifBJX39N0f7YU1Jm1SSgADKJU9AI_oubup0Ng4CIr9fDoLfLBPtATlUHj6Wn6sY9ncB08gcJPPCg=s90-c"
+            },
+            "sourceDisplayName": "Eazy Peazy Mealz",
+            "ingredients": [
+                "milk",
+                "bananas",
+                "peanut butter",
+                "maple syrup",
+                "dark chocolate chips",
+                "peanuts"
+            ],
+            "id": "Peanut-Butter-Banana-Popsicles-1815637",
+            "smallImageUrls": [
+                "https://lh3.googleusercontent.com/jVplPcuB65lNhN_2M7jVvRCygoPRR-xB_CTflF8CoHDlsyLBaIJcgoanYgzmQ9rdLz7SmBlRV7Nvc9DU0vyHGw=s90"
+            ],
+            "recipeName": "Peanut Butter Banana Popsicles",
+            "totalTimeInSeconds": 2400,
+            "attributes": {
+                "course": [
+                    "Desserts"
+                ],
+                "cuisine": [
+                    "Kid-Friendly"
+                ]
+            },
+            "flavors": {
+                "sweet": 0.6666666666666666,
+                "piquant": 0.0,
+                "sour": 0.16666666666666666,
+                "salty": 0.16666666666666666,
+                "meaty": 0.16666666666666666,
+                "bitter": 0.3333333333333333
+            },
+            "rating": 4
+        },
+        {
+            "imageUrlsBySize": {
+                "90": "https://lh3.googleusercontent.com/4p8oSUDUJ5q1E63_80Ptf3jLeqQbE_RaH7GUZXpRtjGqfatmFsoaDVOUbPB5RvOL286GG8GNUkSlV7CBUR1x6A=s90-c"
+            },
+            "sourceDisplayName": "delicious days",
+            "ingredients": [
+                "milk",
+                "all-purpose flour",
+                "fresh yeast",
+                "butter",
+                "sugar",
+                "fine sea salt",
+                "eggs",
+                "ground almonds",
+                "ground hazelnuts",
+                "ceylon cinnamon",
+                "ground cloves",
+                "grated nutmeg",
+                "marzipan",
+                "brown sugar",
+                "honey",
+                "rum",
+                "amaretto",
+                "lemon",
+                "hazelnuts",
+                "apricot jam",
+                "water"
+            ],
+            "id": "T-H-E-Nut-Braid-2186750",
+            "smallImageUrls": [
+                "https://lh3.googleusercontent.com/y2GvKmdzi68UlTf9vHCpyEHrwOSud01nA5g4PZk-IhCyXCXcUw2TLLE7a1dGbv7ZtoML1iWVDX83DI8140k=s90"
+            ],
+            "recipeName": "T-H-E Nut Braid",
+            "totalTimeInSeconds": 4800,
+            "attributes": {},
+            "flavors": {
+                "piquant": 0.0,
+                "meaty": 0.5,
+                "bitter": 0.16666666666666666,
+                "sweet": 0.6666666666666666,
+                "sour": 0.5,
+                "salty": 0.16666666666666666
+            },
+            "rating": 4
+        },
+        {
+            "imageUrlsBySize": {
+                "90": "https://lh3.googleusercontent.com/3dawoV7mHA9w6A3NqTCUrzEn6qdzEQm-Rl8Chtx3mGbHP6lAQ7Yg9Wqk6dGnp4fFnO4Qrb__fSkg76V4JhBO=s90-c"
+            },
+            "sourceDisplayName": "What's Cooking America",
+            "ingredients": [
+                "mini marshmallows",
+                "water",
+                "powdered sugar",
+                "crisco shortening"
+            ],
+            "id": "MM-_Marshmallow_-Fondant-Icing-2110952",
+            "smallImageUrls": [
+                "https://lh3.googleusercontent.com/MmFS5ik1if3lR5PylkkZrQPIBZT9RPA6cTfSVG7e12fASqZQjFbbgVwltWb9ZjwWU2WBZPAjmeqtqNwwQVRqjQ=s90"
+            ],
+            "recipeName": "MM (Marshmallow) Fondant Icing",
+            "totalTimeInSeconds": 1500,
+            "attributes": {
+                "course": [
+                    "Desserts"
+                ]
+            },
+            "flavors": null,
+            "rating": 4
+        },
+        {
+            "imageUrlsBySize": {
+                "90": "https://lh3.googleusercontent.com/zCIBqMhOqZMBHrmIwrPuWu1gfV0bA3nYP7vhLRIr0nVnB5eGDQ7GA0qFzF4py9551ZBCj2249NFCWEHcbyOGeg=s90-c"
+            },
+            "sourceDisplayName": "C&H Sugar brand",
+            "ingredients": [
+                "orange juice",
+                "lemon juice",
+                "C&H\u00ae Granulated Sugar",
+                "cranberry raspberry juice cocktail",
+                "champagne",
+                "lemon slices"
+            ],
+            "id": "Gala-Champagne-Punch-2129772",
+            "smallImageUrls": [
+                "https://lh3.googleusercontent.com/dPcLVZYg6g6Zfd9spEzAT3pAw7hB_tiqbmUx3QxO1f7ou6VWq0V4dDjjC4-Oupl0XnFonz7vQeFqDGMPB855Xg=s90"
+            ],
+            "recipeName": "Gala Champagne Punch",
+            "totalTimeInSeconds": 1800,
+            "attributes": {
+                "course": [
+                    "Beverages",
+                    "Cocktails"
+                ],
+                "holiday": [
+                    "Christmas",
+                    "New Year"
+                ]
+            },
+            "flavors": null,
+            "rating": 3
+        },
+        {
+            "imageUrlsBySize": {
+                "90": "http://lh3.googleusercontent.com/_bA2L9K_14xK9RoTYi2T76EuzuWIfbwRJrxsg9wcGlWtoPqXjsREgzLT8JD8zfDnck5LfpsEmwRrcnnj06m-hg=s90-c"
+            },
+            "sourceDisplayName": "Travel For Taste",
+            "ingredients": [
+                "flour",
+                "milk",
+                "eggs",
+                "dry yeast",
+                "melted butter",
+                "vanilla sugar"
+            ],
+            "id": "_-_-with-Strawberries-1189571",
+            "smallImageUrls": [
+                "http://lh3.googleusercontent.com/qVg1dlAUASHCLQ4wFVpwZ0D7pK-4K0f9X0xx7Pm7rR8XDY3C9mlBDGUl2cw8C8l5w3bMPeDsqpDE7ZT7hyFOJQ=s90"
+            ],
+            "recipeName": ") ) with Strawberries",
+            "totalTimeInSeconds": 3300,
+            "attributes": {
+                "course": [
+                    "Breads"
+                ]
+            },
+            "flavors": null,
+            "rating": 4
+        },
+        {
+            "imageUrlsBySize": {
+                "90": "https://lh3.googleusercontent.com/Ivl7x8uZigeRjx1p7TIMRiMIJM3eKGW6A1i8Ir-nO-UKMVbUVIvM0_CxPiQCUyBTm8OXwXzoVMTfJZiActhGKmI=s90-c"
+            },
+            "sourceDisplayName": "Can't Stay Out of the Kitchen",
+            "ingredients": [
+                "unbleached all-purpose flour",
+                "sugar",
+                "baking powder",
+                "salt",
+                "milk",
+                "eggs",
+                "vanilla",
+                "butter",
+                "sour cream",
+                "jam",
+                "jelly",
+                "preserves",
+                "powdered sugar",
+                "strawberries",
+                "corn starch",
+                "water"
+            ],
+            "id": "STRAWBERRY-BREAKFAST-CREPES-1977153",
+            "smallImageUrls": [
+                "https://lh3.googleusercontent.com/p_IbnxKd2QhanyL6DjHiAHc_pj-eONC6SFglWIpaIv8iBX7cH_HcPv60zLKxJ_b7UCbTO2NxJna-HBdY20UGqg=s90"
+            ],
+            "recipeName": "STRAWBERRY BREAKFAST CRE\u0302PES",
+            "totalTimeInSeconds": 2700,
+            "attributes": {
+                "course": [
+                    "Breakfast and Brunch"
+                ]
+            },
+            "flavors": {
+                "piquant": 0.0,
+                "meaty": 0.16666666666666666,
+                "bitter": 0.16666666666666666,
+                "sweet": 0.6666666666666666,
+                "sour": 0.6666666666666666,
+                "salty": 0.16666666666666666
+            },
+            "rating": 4
+        },
+        {
+            "imageUrlsBySize": {
+                "90": "http://lh3.googleusercontent.com/_LI_3jlK9ClmU1dVY_YTw3rKItHQfl38H6zCrr1OJsVIBtHplupHFbs8lYTqdS39gf_ZYFmTYySvZvk6fN3vMA=s90-c"
+            },
+            "sourceDisplayName": "Metro.ca",
+            "ingredients": [
+                "ham",
+                "maple syrup",
+                "garlic cloves",
+                "star anise",
+                "cinnamon sticks",
+                "bay leaves",
+                "hot pepper",
+                "coriander seeds",
+                "fennel seeds",
+                "olive oil",
+                "water"
+            ],
+            "id": "Ham-with-Maple-Syrup-1203319",
+            "smallImageUrls": [
+                "http://lh3.googleusercontent.com/ukfHum19z8bCJ-q76dAP0TQXe-ObCE9meXnYwGdU7DoI2mH9EIaWB9DiKZYEu3nu6ystefX3a0OTGW13vk8ZYg=s90"
+            ],
+            "recipeName": "Ham with Maple Syrup",
+            "totalTimeInSeconds": 7200,
+            "attributes": {
+                "course": [
+                    "Main Dishes"
+                ],
+                "holiday": [
+                    "Christmas"
+                ]
+            },
+            "flavors": null,
+            "rating": 3
+        },
+        {
+            "imageUrlsBySize": {
+                "90": "https://lh3.googleusercontent.com/XCSFLuMUJ7y7is2bJJeCYYg9SQWrmoguV4NHZoVdvvCg1EqHhKEjR69sHqu07T1ZcbMUQIyENJHxWxEQ6E2ijqE=s90-c"
+            },
+            "sourceDisplayName": "My Year Cooking With Chris Kimball",
+            "ingredients": [
+                "unsalted butter",
+                "grated lemon zest",
+                "fresh parsley",
+                "garlic cloves",
+                "salt",
+                "ground black pepper",
+                "boneless strip steak",
+                "kosher salt",
+                "pepper"
+            ],
+            "id": "Ultimate-Charcoal-Grilled-Steaks-2002960",
+            "smallImageUrls": [
+                "https://lh3.googleusercontent.com/LW1i7cMxGhrYDUzPcqcm5oV1IoXlS3m_C0zSNiM0tODuO1vxy96SccxNagINEhv3uFKyeuGg8TsV-w4F3FfOsQ=s90"
+            ],
+            "recipeName": "Ultimate Charcoal-Grilled Steaks",
+            "totalTimeInSeconds": 3600,
+            "attributes": {
+                "course": [
+                    "Main Dishes"
+                ]
+            },
+            "flavors": null,
+            "rating": 4
+        },
+        {
+            "imageUrlsBySize": {
+                "90": "https://lh3.googleusercontent.com/ggYMkK8UUGneLG_8myPEM-RHhPkjVul1HLWdKjad38skKC40em54iSv97bO7ylwhgr847PlPyQTpz8E1CAPf=s90-c"
+            },
+            "sourceDisplayName": "Pardon Your French",
+            "ingredients": [
+                "egg yolks",
+                "white sugar",
+                "salt",
+                "lemon",
+                "flour",
+                "baking powder",
+                "butter",
+                "red grapes",
+                "egg whites",
+                "vanilla extract",
+                "sugar",
+                "corn starch",
+                "sour cream"
+            ],
+            "id": "Grape-Harvest-Cake-from-Moissac-2244212",
+            "smallImageUrls": [
+                "https://lh3.googleusercontent.com/7VSeDe9sq-Z15PntkYF0ZFv_Ufi23awphn-9h3NzI_IBlvFDu74ITGAQ109Qx8Zfx2pLt52uifLL5D618n41Yg=s90"
+            ],
+            "recipeName": "Grape Harvest Cake from Moissac",
+            "totalTimeInSeconds": 1200,
+            "attributes": {
+                "course": [
+                    "Desserts",
+                    "Afternoon Tea"
+                ]
+            },
+            "flavors": {
+                "piquant": 0.0,
+                "meaty": 0.16666666666666666,
+                "bitter": 0.3333333333333333,
+                "sweet": 0.6666666666666666,
+                "sour": 0.3333333333333333,
+                "salty": 0.16666666666666666
+            },
+            "rating": 4
+        },
+        {
+            "imageUrlsBySize": {
+                "90": "https://lh3.googleusercontent.com/fxmD2IDERDrDFzZL4q0_C3ZZBHtgPlkVV-hyxxVzvpTB_ShoW6w3eOv6HGzxCg0pzO5RNhN_r2Vcqs7W__4fYQ=s90-c"
+            },
+            "sourceDisplayName": "Beauty Bites",
+            "ingredients": [
+                "onions",
+                "garlic cloves",
+                "ground cumin",
+                "ground turmeric",
+                "ground ginger",
+                "ground cardamom",
+                "broccoli",
+                "red lentils",
+                "mint leaves",
+                "cilantro",
+                "red chili peppers",
+                "olive oil"
+            ],
+            "id": "Broccoli-and-Red-Lentil-Detox-Soup-2035176",
+            "smallImageUrls": [
+                "https://lh3.googleusercontent.com/hnkJMqShAZgfieW6jCnoOPIt_Xx6ubRINFzaUdJ1ZxMRz77dW-vQG3wCGIQDDaB615vWHSaKRr8-7S9HrZjG=s90"
+            ],
+            "recipeName": "Broccoli and Red Lentil Detox Soup",
+            "totalTimeInSeconds": 1200,
+            "attributes": {
+                "course": [
+                    "Soups"
+                ]
+            },
+            "flavors": null,
+            "rating": 3
+        }
+    ],
+    "facetCounts": {},
+    "totalMatchCount": 77,
+    "attribution": {
+        "html": "Recipe search powered by <a href='http://www.yummly.co/recipes'><img alt='Yummly' src='https://static.yummly.co/api-logo.png'/></a>",
+        "url": "http://www.yummly.co/recipes/",
+        "text": "Recipe search powered by Yummly",
+        "logo": "https://static.yummly.co/api-logo.png"
+    }
+}

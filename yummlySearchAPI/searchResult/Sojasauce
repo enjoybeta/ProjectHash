@@ -1,0 +1,130 @@
+{
+    "criteria": {
+        "q": "S+o+j+a+s+a+u+c+e",
+        "allowedIngredient": null,
+        "excludedIngredient": null
+    },
+    "matches": [
+        {
+            "imageUrlsBySize": {
+                "90": "http://lh3.googleusercontent.com/g8IuAKh0lzFQQLkV9PUX5rFcOirC5ku2WBaXZZbTjEjJN1kWGcbTCD0__SAWnjs_47CubePpsgqG-PsNSUU9dQ=s90-c"
+            },
+            "sourceDisplayName": "Lecker",
+            "ingredients": [
+                "Waldmeister",
+                "Zucker",
+                "G\u00f6tterspeise",
+                "Butter",
+                "Mehl",
+                "Zitrone",
+                "Obersk\u00e4se",
+                "Zitronensaft",
+                "Schlabgobers",
+                "Zitronenmelisse",
+                "Fett"
+            ],
+            "id": "Frischkasetorte-mit-bunter-Gotterspeise-814858",
+            "smallImageUrls": [
+                "http://lh3.googleusercontent.com/9fcFq6nTFhkpYs8SlDQVwhlRKQFMK7XbWo7mVvrL8J6pC0VU3fpevLDvPgAqvS0EhN9apHy_3E57wdE7J0zo=s90"
+            ],
+            "recipeName": "Frischka\u0308setorte mit bunter Go\u0308tterspeise",
+            "totalTimeInSeconds": 4500,
+            "attributes": {
+                "course": [
+                    "Desserts"
+                ]
+            },
+            "flavors": null,
+            "rating": 3
+        },
+        {
+            "imageUrlsBySize": {
+                "90": "http://lh3.googleusercontent.com/lK6l2Z2u-pJYXG6QbnygJk-54wKc1VGNCVXunF-6OpYqDNScuyo8wPRlnhKh2TZhOM6uqIKrxBmTxTCV-_y7ZFE=s90-c"
+            },
+            "sourceDisplayName": "Lecker",
+            "ingredients": [
+                "Mozzarella",
+                "Parikaschote",
+                "Zucchini",
+                "Schweinsschnitzerl",
+                "Butterschmalz",
+                "Zwiebel",
+                "Knoblaucknolle",
+                "Ingwer",
+                "Chilischote",
+                "Butter",
+                "Mehl",
+                "Gem\u00fcsebr\u00fche",
+                "Kokosmilch",
+                "Eigelb",
+                "Lasagnebl\u00e4ter",
+                "Koriander"
+            ],
+            "id": "Asia-Lasagne-mit-Schweinefleisch-824129",
+            "smallImageUrls": [
+                "http://lh3.googleusercontent.com/6mVVJdXMn8eXQ7lyhfS9xBuMLlIaNVUU2iyb0Nbgbqoc14MAGSM8Fr5U1CzU2KkM_ujzbE_wqv2MIr0RIre-KG0=s90"
+            ],
+            "recipeName": "Asia-Lasagne mit Schweinefleisch",
+            "totalTimeInSeconds": 4500,
+            "attributes": {},
+            "flavors": {
+                "sweet": 0.16666666666666666,
+                "piquant": 0.6666666666666666,
+                "sour": 0.8333333333333334,
+                "salty": 0.16666666666666666,
+                "meaty": 0.5,
+                "bitter": 0.16666666666666666
+            },
+            "rating": 3
+        },
+        {
+            "imageUrlsBySize": {
+                "90": "http://lh3.googleusercontent.com/uLYbj5y4EFS09yJgG3ALCmrUB5Xh9mGB4h3hIIzIzWtmvb-RPDxLVdCsLQBEKGVSaMp3NscUnTrGUROdUx61IQ=s90-c"
+            },
+            "sourceDisplayName": "Lecker",
+            "ingredients": [
+                "Semmelbr\u00f6sel",
+                "M\u00f6hre",
+                "Butter",
+                "Ei",
+                "Zucker",
+                "Mandel",
+                "Zimt",
+                "Zitrone",
+                "Salz",
+                "Mehl",
+                "Backpulver",
+                "Kuvert\u00fcre",
+                "Fingerm\u00f6hrchen"
+            ],
+            "id": "Mandel-Mohrenkuchen-mit-Schokoguss-842955",
+            "smallImageUrls": [
+                "http://lh3.googleusercontent.com/dtoLbZkFlVA8VkFJzr0voq7J5Rk4b5kfg2XnciKNVtS3qGsFye5P_p7BjtgPoccE1MIbApcRmxGxDOgOflILi6M=s90"
+            ],
+            "recipeName": "Mandel-Mo\u0308hrenkuchen mit Schokoguss",
+            "totalTimeInSeconds": 6300,
+            "attributes": {
+                "course": [
+                    "Desserts"
+                ]
+            },
+            "flavors": {
+                "sweet": 0.8333333333333334,
+                "piquant": 0.0,
+                "sour": 0.16666666666666666,
+                "salty": 0.16666666666666666,
+                "meaty": 0.16666666666666666,
+                "bitter": 0.16666666666666666
+            },
+            "rating": 3
+        }
+    ],
+    "facetCounts": {},
+    "totalMatchCount": 3,
+    "attribution": {
+        "html": "Recipe search powered by <a href='http://www.yummly.co/recipes'><img alt='Yummly' src='https://static.yummly.co/api-logo.png'/></a>",
+        "url": "http://www.yummly.co/recipes/",
+        "text": "Recipe search powered by Yummly",
+        "logo": "https://static.yummly.co/api-logo.png"
+    }
+}

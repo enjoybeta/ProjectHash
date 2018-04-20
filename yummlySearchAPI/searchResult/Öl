@@ -1,0 +1,358 @@
+{
+    "criteria": {
+        "q": "\u00d6+l",
+        "allowedIngredient": null,
+        "excludedIngredient": null
+    },
+    "matches": [
+        {
+            "imageUrlsBySize": {
+                "90": "https://lh3.googleusercontent.com/iL7LiSAYxpOqfjohO5V07PglOesRttBq-1VrbIsfn1mVLNpp1VSNiXL3URP5-cbq8UYxioXl-qOv8ItQ85DV=s90-c"
+            },
+            "sourceDisplayName": "Tasting Table",
+            "ingredients": [
+                "unsalted butter",
+                "white onion",
+                "kosher salt",
+                "large eggs",
+                "lox",
+                "chives",
+                "aleppo pepper",
+                "salt"
+            ],
+            "id": "L_E_O_-_Lox_-Eggs-and-Onions_-1396488",
+            "smallImageUrls": [
+                "https://lh3.googleusercontent.com/b93GfsugkYWWt2W1gDO6cfBdqF6xmI6YCY6pj8Yia4AtUlkzxGRPv5Svp5manupo_gSNvlMlhF7usnJAd7BH3Q=s90"
+            ],
+            "recipeName": "L.E.O. (Lox, Eggs and Onions)",
+            "totalTimeInSeconds": 1200,
+            "attributes": {
+                "course": [
+                    "Breakfast and Brunch"
+                ]
+            },
+            "flavors": null,
+            "rating": 3
+        },
+        {
+            "imageUrlsBySize": {
+                "90": "http://lh3.googleusercontent.com/RFif7uUkjcIZPINRUnKaVfVPTJkS2NsD7aMw78K5VPKhHK2q0jJbULpXQHDwgw4_R0tuhjzHAxZI-UmmhiOG8w=s90-c"
+            },
+            "sourceDisplayName": "A Pretty Life in the Suburbs",
+            "ingredients": [
+                "white cake mix",
+                "jello",
+                "boiling water",
+                "whipping cream"
+            ],
+            "id": "Rainbow-J-E-L-L-O-Cake_-1097534",
+            "smallImageUrls": [
+                "http://lh3.googleusercontent.com/jh2Fi7sGyL1mefx6DcYuJEhNhO6oDZSWjbNnIXga9BE_6W6qhcM8fvH9QW0e8yti6AbYWASElA1fZyk6aonxEcA=s90"
+            ],
+            "recipeName": "Rainbow J-E-L-L-O Cake!",
+            "totalTimeInSeconds": 2700,
+            "attributes": {
+                "course": [
+                    "Desserts"
+                ]
+            },
+            "flavors": null,
+            "rating": 4
+        },
+        {
+            "imageUrlsBySize": {
+                "90": "https://lh3.googleusercontent.com/VCT0UBPUDCDq7cpVAYNyowQ-IEydGQLUfTCFBEH1N3aOBectSvRXnlYuHaR_X2PzDFivFNdRerI-Ws7BJ9KXiA=s90-c"
+            },
+            "sourceDisplayName": "MyRecipes",
+            "ingredients": [
+                "large eggs",
+                "large egg whites",
+                "canola oil",
+                "sliced green onions",
+                "smoked salmon",
+                "reduced fat cream cheese",
+                "freshly ground black pepper",
+                "pumpernickel bread"
+            ],
+            "id": "L_E_O_-Scramble-1469388",
+            "smallImageUrls": [
+                "https://lh3.googleusercontent.com/U7VegREZzuxl7x4acfZwEIYX7BUiTWvsYhjLfqveIKqbsLsovXeAmWLOtd2_6KflMUby9IksrvBdqFZXlBb-=s90"
+            ],
+            "recipeName": "L.E.O. Scramble",
+            "totalTimeInSeconds": 660,
+            "attributes": {
+                "course": [
+                    "Breakfast and Brunch"
+                ]
+            },
+            "flavors": {
+                "piquant": 0.0,
+                "meaty": 0.5,
+                "bitter": 0.6666666666666666,
+                "sweet": 0.16666666666666666,
+                "sour": 0.16666666666666666,
+                "salty": 0.8333333333333334
+            },
+            "rating": 3
+        },
+        {
+            "imageUrlsBySize": {
+                "90": "https://lh3.googleusercontent.com/AyQZOwfYVUki5wINDypDrVsF-uf7CQ6L5wHGMGuoL3lVpUtgNH7DQwPsgH6oJrZkWHJEGS1rjdf3Gw7A6-GNRA=s90-c"
+            },
+            "sourceDisplayName": "Cookie Dough and Oven Mitt",
+            "ingredients": [
+                "granulated sugar",
+                "unsweetened cocoa powder",
+                "soy milk",
+                "silken tofu",
+                "caramels",
+                "salt"
+            ],
+            "id": "Chocolate-Ice-Cream-with-Salted-Caramel-2146874",
+            "smallImageUrls": [
+                "https://lh3.googleusercontent.com/26Go4sr67zaRncKsp40yiROl4PchBShI3FObUoD6CqlDXN2FQZfJNPvSNLo59CcJ2DgfhfOCKvoAs-Qd_jcgumY=s90"
+            ],
+            "recipeName": "Chocolate Ice Cream with Salted Caramel",
+            "totalTimeInSeconds": 9900,
+            "attributes": {
+                "course": [
+                    "Desserts"
+                ]
+            },
+            "flavors": {
+                "piquant": 0.0,
+                "meaty": 0.16666666666666666,
+                "bitter": 0.5,
+                "sweet": 0.8333333333333334,
+                "sour": 0.16666666666666666,
+                "salty": 0.3333333333333333
+            },
+            "rating": 4
+        },
+        {
+            "imageUrlsBySize": {
+                "90": "https://lh3.googleusercontent.com/LZOaQ_6iR__PJ6og4aOWjqhX4vDwJMYE2hnBGawGgI48XJbDBbxo1dQy12vNxhst2fksS2MF5cT2wFwibRlDKvk=s90-c"
+            },
+            "sourceDisplayName": "Diethood",
+            "ingredients": [
+                "Pillsbury\u00ae Moist Supreme\u00ae Funfetti\u00ae Cake Mix",
+                "baking powder",
+                "eggs",
+                "canola oil",
+                "vanilla",
+                "sprinkles"
+            ],
+            "id": "Cake-Batter-Funfetti-Cookies-2364954",
+            "smallImageUrls": [
+                "https://lh3.googleusercontent.com/b-rz2fYoK9chszeG2sc1W1a0JUj_FDyJKywB319-wfp3btWqkowwV0OCbwXoE4H-dL1UpHl0ihjNF0REu-3I=s90"
+            ],
+            "recipeName": "Cake Batter Funfetti Cookies",
+            "totalTimeInSeconds": 1140,
+            "attributes": {
+                "course": [
+                    "Desserts"
+                ]
+            },
+            "flavors": {
+                "piquant": 0.0,
+                "meaty": 0.8333333333333334,
+                "bitter": 0.8333333333333334,
+                "sweet": 0.3333333333333333,
+                "sour": 0.16666666666666666,
+                "salty": 0.8333333333333334
+            },
+            "rating": 4
+        },
+        {
+            "imageUrlsBySize": {
+                "90": "https://lh3.googleusercontent.com/qMOpta9QT-Bco7CcSjfK7FthDy1hbc2Z5wNdCXvTn3Rxs_fV0cu3iRABt0z4aksMwn4b13Zy7KrTwT5leINg=s90-c"
+            },
+            "sourceDisplayName": "Baking A Moment",
+            "ingredients": [
+                "large egg whites",
+                "granulated sugar",
+                "kosher salt",
+                "blackberries",
+                "water",
+                "heavy cream",
+                "lemon curd",
+                "powdered sugar"
+            ],
+            "id": "Blackberry-Lemon-Pavlova-2071150",
+            "smallImageUrls": [
+                "https://lh3.googleusercontent.com/hlVIZYe2T4LJNvH2W_5oaPLzKFTufHO7LLvgWJgs1fep7d99wQ7vxuxUKx4frDsDJE_6Ju8cN8BvNJNHrZSDkQ=s90"
+            ],
+            "recipeName": "Blackberry Lemon Pavlova",
+            "totalTimeInSeconds": 6300,
+            "attributes": {
+                "course": [
+                    "Desserts"
+                ]
+            },
+            "flavors": {
+                "piquant": 0.0,
+                "meaty": 0.3333333333333333,
+                "bitter": 0.16666666666666666,
+                "sweet": 0.8333333333333334,
+                "sour": 0.16666666666666666,
+                "salty": 0.16666666666666666
+            },
+            "rating": 4
+        },
+        {
+            "imageUrlsBySize": {
+                "90": "https://lh3.googleusercontent.com/NgNJ60bgAqXvBZqHeIUF_DAg1GuSqrM3IB_a9HcEFNElyosJtqtyeFBMzq6P8sHuXkfl4PLRf1KCfNeVqUtN=s90-c"
+            },
+            "sourceDisplayName": "Baking A Moment",
+            "ingredients": [
+                "egg whites",
+                "granulated sugar",
+                "strawberries",
+                "balsamic vinegar",
+                "heavy cream",
+                "vanilla bean paste",
+                "fresh basil"
+            ],
+            "id": "Pavlovas-with-Strawberries-and-Balsamic-1771383",
+            "smallImageUrls": [
+                "https://lh3.googleusercontent.com/kiFqmE0zAt4lJyg0D0oFZCt-eV2UjHNMUxYx7TOf2FSKd2W2FSNCCNloQ_i3gMqCbWHwfuuA5NRDegr_bl76EKM=s90"
+            ],
+            "recipeName": "Pavlovas with Strawberries and Balsamic",
+            "totalTimeInSeconds": 5400,
+            "attributes": {
+                "course": [
+                    "Desserts"
+                ]
+            },
+            "flavors": {
+                "sweet": 0.8333333333333334,
+                "piquant": 0.0,
+                "sour": 0.8333333333333334,
+                "salty": 0.16666666666666666,
+                "meaty": 0.16666666666666666,
+                "bitter": 0.16666666666666666
+            },
+            "rating": 4
+        },
+        {
+            "imageUrlsBySize": {
+                "90": "https://lh3.googleusercontent.com/ZaYQflPF44zvf-fdMvlHu1yGuvZQw0dmgr3Rn1Yr6JkvwzPdUvsX6Matqf5fdFzv-iInjqKCKWrZOb9zX6MOTg=s90-c"
+            },
+            "sourceDisplayName": "The Pampered Chef",
+            "ingredients": [
+                "refrigerated sugar cookie dough",
+                "cream cheese",
+                "sugar",
+                "fruit"
+            ],
+            "id": "Dessert-Pizza-1564642",
+            "smallImageUrls": [
+                "https://lh3.googleusercontent.com/hdbExbaFYZ54zK-JMi8Hp7R-LRFNeluX5cYf6ieik--Y5cfef7s2BC0RodxaSMT4z8kkvomBsYfS4203Qisgkg=s90"
+            ],
+            "recipeName": "Dessert Pizza",
+            "totalTimeInSeconds": 3000,
+            "attributes": {
+                "course": [
+                    "Desserts"
+                ]
+            },
+            "flavors": {
+                "piquant": 0.0,
+                "meaty": 0.16666666666666666,
+                "bitter": 0.16666666666666666,
+                "sweet": 0.6666666666666666,
+                "sour": 0.16666666666666666,
+                "salty": 0.16666666666666666
+            },
+            "rating": 3
+        },
+        {
+            "imageUrlsBySize": {
+                "90": "https://lh3.googleusercontent.com/3pd9PHb1K2CIr3WrZmemdYfFM-XXLyWqBxaYLaujjZrP7Oq-X55BZHhZ_k2tx9QZmKmsK6MbLIV8iCN0OTK1FA=s90-c"
+            },
+            "sourceDisplayName": "Bon App\u00e9tit",
+            "ingredients": [
+                "all-purpose flour",
+                "cornmeal",
+                "garlic powder",
+                "onion powder",
+                "cayenne pepper",
+                "kosher salt",
+                "freshly ground pepper",
+                "oysters",
+                "thick-cut bacon",
+                "vegetable oil",
+                "brioche bread",
+                "mayonnaise",
+                "bibb lettuce",
+                "sliced tomatoes"
+            ],
+            "id": "B_O_L_T-_Bacon_-Oyster_-Lettuce_-Tomato_-1495964",
+            "smallImageUrls": [
+                "https://lh3.googleusercontent.com/4DPL9zdD9wIuVlbanFJZ2iefTQCBrQXidvLNmOeG69k9suRMthAKUyAv_Y3KWvdDA9xMRxkxgRjWM2xgxeD7=s90"
+            ],
+            "recipeName": "B.O.L.T (Bacon, Oyster, Lettuce, Tomato)",
+            "totalTimeInSeconds": 2100,
+            "attributes": {
+                "course": [
+                    "Lunch"
+                ],
+                "cuisine": [
+                    "Southern & Soul Food"
+                ]
+            },
+            "flavors": {
+                "piquant": 0.5,
+                "meaty": 0.5,
+                "bitter": 0.8333333333333334,
+                "sweet": 0.16666666666666666,
+                "sour": 0.16666666666666666,
+                "salty": 0.8333333333333334
+            },
+            "rating": 3
+        },
+        {
+            "imageUrlsBySize": {
+                "90": "https://lh3.googleusercontent.com/5JJcmFOHEg7IdaJnpsaaAsqEE0f-wGjfct9ybnPFIoZmk9yfFiSqhjZTFI3b25d9tBvoYrEal4BN6X41FIM8Kg=s90-c"
+            },
+            "sourceDisplayName": "Baking A Moment",
+            "ingredients": [
+                "egg whites",
+                "granulated sugar",
+                "strawberries",
+                "balsamic vinegar",
+                "heavy cream",
+                "vanilla bean paste",
+                "fresh basil"
+            ],
+            "id": "Pavlovas-with-Strawberries-and-Balsamic-_-Mouthmelting-2022920",
+            "smallImageUrls": [
+                "https://lh3.googleusercontent.com/-wycEuo8X8g07rLsSmvZI3JYMeg5y3GBmxlrPsCd-eHdK0tioyimpMEMmvk-iqMqfukd35WvGiWfIGV8BpzK=s90"
+            ],
+            "recipeName": "Pavlovas with Strawberries and Balsamic | Mouthmelting",
+            "totalTimeInSeconds": 5400,
+            "attributes": {
+                "course": [
+                    "Desserts"
+                ]
+            },
+            "flavors": {
+                "piquant": 0.0,
+                "meaty": 0.16666666666666666,
+                "bitter": 0.16666666666666666,
+                "sweet": 0.8333333333333334,
+                "sour": 0.8333333333333334,
+                "salty": 0.16666666666666666
+            },
+            "rating": 4
+        }
+    ],
+    "facetCounts": {},
+    "totalMatchCount": 1461,
+    "attribution": {
+        "html": "Recipe search powered by <a href='http://www.yummly.co/recipes'><img alt='Yummly' src='https://static.yummly.co/api-logo.png'/></a>",
+        "url": "http://www.yummly.co/recipes/",
+        "text": "Recipe search powered by Yummly",
+        "logo": "https://static.yummly.co/api-logo.png"
+    }
+}

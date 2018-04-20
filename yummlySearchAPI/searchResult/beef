@@ -1,0 +1,350 @@
+{
+    "criteria": {
+        "q": "b+e+e+f",
+        "allowedIngredient": null,
+        "excludedIngredient": null
+    },
+    "matches": [
+        {
+            "imageUrlsBySize": {
+                "90": "https://lh3.googleusercontent.com/ice_fMPiDmacQUyAQqCahVLrTIScRqWs-nC29JKdmhfgItsltNDbrFwPQD6h9zXTfUkGGZYhhGWAbCV-VBmy-Q=s90-c"
+            },
+            "sourceDisplayName": "Muscle and Strength",
+            "ingredients": [
+                "cooked white rice",
+                "lime",
+                "cilantro",
+                "chicken breasts",
+                "Mexican seasoning mix",
+                "no-salt-added black beans",
+                "pico de gallo",
+                "guacamole",
+                "nonfat greek yogurt",
+                "shredded cheddar cheese",
+                "shredded lettuce"
+            ],
+            "id": "High-Protein-Chicken-Burrito-Bowl-2141603",
+            "smallImageUrls": [
+                "https://lh3.googleusercontent.com/D4Zf9FnFZ_TVWrbQrsLANq3C2vOyaou89wu0Uq3k0wJ5UCnFNsXEsvkgtrfYQIADAlNte7An6Se6Elw7SImJAg=s90"
+            ],
+            "recipeName": "High Protein Chicken Burrito Bowl",
+            "totalTimeInSeconds": 3000,
+            "attributes": {
+                "course": [
+                    "Main Dishes"
+                ]
+            },
+            "flavors": null,
+            "rating": 4
+        },
+        {
+            "imageUrlsBySize": {
+                "90": "http://lh3.ggpht.com/ypi4hUQYx_g1PQZ-Vl49MwkXXADdtsaddwM07CizPGQPBUqdDjsxVrzkccoOvhTP1yd51o4a5sCQnSpbRvug-w=s90-c"
+            },
+            "sourceDisplayName": "Skinny Kitchen",
+            "ingredients": [
+                "romaine lettuce",
+                "cherry tomatoes",
+                "caesar salad dressing",
+                "parmesan cheese"
+            ],
+            "id": "Super-Low-Calorie-Caesar-Salad-on-a-Stick-999421",
+            "smallImageUrls": [
+                "http://lh4.ggpht.com/wVKau_I2niW6Y6KDpSeujgDtVaq0VLCPunzhrAktSpO49RXatN0QbWRJeRHvIMqkAeHJIg1BqQFC_fT3fvj3=s90"
+            ],
+            "recipeName": "Super Low Calorie Caesar Salad on a Stick",
+            "totalTimeInSeconds": 900,
+            "attributes": {
+                "course": [
+                    "Salads"
+                ]
+            },
+            "flavors": {
+                "piquant": 0.0,
+                "meaty": 0.16666666666666666,
+                "bitter": 0.16666666666666666,
+                "sweet": 0.16666666666666666,
+                "sour": 0.8333333333333334,
+                "salty": 0.16666666666666666
+            },
+            "rating": 4
+        },
+        {
+            "imageUrlsBySize": {
+                "90": "http://lh3.googleusercontent.com/PgP_O17E7BpC7aP3ogdomOVtPGRmv5O-FNehIERechte83dsc1MPM_pxcp4t6HE2uvmmlHoPVeMVvN67CDc50w=s90-c"
+            },
+            "sourceDisplayName": "Skinny Kitchen",
+            "ingredients": [
+                "romaine lettuce",
+                "cherry tomatoes",
+                "avocado",
+                "ranch dressing",
+                "Tabasco Pepper Sauce",
+                "bamboo shoots"
+            ],
+            "id": "Skinny-Guacamole-Salad-Sticks-1188502",
+            "smallImageUrls": [
+                "http://lh3.googleusercontent.com/ENXQ-aYTsxZoaycySqeqXbeF13yUjKPHmhJPwjDWd-5FyNb3LnaRAzAEvHx-dIQSHgH3AVt81wrsQp2lVooy2A=s90"
+            ],
+            "recipeName": "Skinny Guacamole Salad Sticks",
+            "totalTimeInSeconds": 900,
+            "attributes": {
+                "course": [
+                    "Salads"
+                ]
+            },
+            "flavors": null,
+            "rating": 4
+        },
+        {
+            "imageUrlsBySize": {
+                "90": "http://lh4.ggpht.com/URkACOk1C3IX7aMdW6QKwuGIujc3IIgZev1RZlkJ-Gg3EGWqikBUVKnu-DQ9xEF7OS8DZM1170nkd9MtCPNUTQ=s90-c"
+            },
+            "sourceDisplayName": "Memorie di Angelina",
+            "ingredients": [
+                "potatoes",
+                "onions",
+                "tomatoes",
+                "fresh oregano",
+                "garlic",
+                "salt",
+                "pepper",
+                "bread crumbs",
+                "olive oil"
+            ],
+            "id": "Tiella-di-patate_-cipolle-e-pomodori-_Potato_-Onion-and-Tomato-Casserole_-1010889",
+            "smallImageUrls": [
+                "http://lh4.ggpht.com/p-A-AqqlC_JTMN0ETTQOS3ens8oVlKKb6Fnk71WKvNGQRKf_DJEaX2ASkpuHxI1Mytw4d7Ain-bBdVLk7QdH=s90"
+            ],
+            "recipeName": "Tiella di patate, cipolle e pomodori (Potato, Onion and Tomato Casserole)",
+            "totalTimeInSeconds": 3600,
+            "attributes": {
+                "course": [
+                    "Side Dishes"
+                ]
+            },
+            "flavors": {
+                "piquant": 0.0,
+                "meaty": 0.16666666666666666,
+                "bitter": 0.16666666666666666,
+                "sweet": 0.16666666666666666,
+                "sour": 0.8333333333333334,
+                "salty": 0.16666666666666666
+            },
+            "rating": 4
+        },
+        {
+            "imageUrlsBySize": {
+                "90": "http://lh3.googleusercontent.com/9Ix2L0gTbEgHWrr2rEBgNQRFD4cR5rkgloBOIz5uvetD0-5M7wfxYJsOEXyNqoj2Pfcm7itTdpG12nWLzY066Q=s90-c"
+            },
+            "sourceDisplayName": "TheYummyJourney",
+            "ingredients": [
+                "flour",
+                "butter",
+                "sugar",
+                "baking powder",
+                "baking soda",
+                "salt",
+                "greek yogurt",
+                "eggs",
+                "cold water",
+                "cheddar cheese",
+                "parmesan cheese",
+                "dried parsley",
+                "garlic powder"
+            ],
+            "id": "Cheese-Bomb-Make-10-1253005",
+            "smallImageUrls": [
+                "http://lh3.googleusercontent.com/YDZSSbIPvEoAiCf_65yHF8rq0rRgOkCZl29UdUfG9uVQTBtyQZfxFeF6qvMrfIR6_mRwA22GiVmJIdl0rsWlsw=s90"
+            ],
+            "recipeName": "Cheese Bomb Make 10",
+            "totalTimeInSeconds": 2100,
+            "attributes": {},
+            "flavors": {
+                "sweet": 0.16666666666666666,
+                "piquant": 0.0,
+                "sour": 0.16666666666666666,
+                "salty": 0.8333333333333334,
+                "meaty": 0.8333333333333334,
+                "bitter": 0.8333333333333334
+            },
+            "rating": 4
+        },
+        {
+            "imageUrlsBySize": {
+                "90": "https://lh3.googleusercontent.com/EfY2Uk8bLz8yB5Pj0GjAkyS3VC-YSw4rWe7oYj8iA9z5Q112bGnwgh4GpYw7o-uIMXmTLAu_Sgz_lfG_h8osFg=s90-c"
+            },
+            "sourceDisplayName": "Amanda Mackay",
+            "ingredients": [
+                "rolled oats",
+                "boiling water",
+                "salt",
+                "shortening",
+                "yeast",
+                "warm water",
+                "sugar",
+                "molasses",
+                "flour"
+            ],
+            "id": "Brown-Bread-Recipe-_-Oatmeal-Molasses-_-Heavy-Dense-Bread-2353673",
+            "smallImageUrls": [
+                "https://lh3.googleusercontent.com/olLp9Qc6fzm4bNBdkfHYgZDgbWnzoP6d8gWmne3VJh5Mt9Nnky4uBzuhyqRrGzl1Zrps5gpzI8Z9-kZIZ0_Lew=s90"
+            ],
+            "recipeName": "Brown Bread Recipe | Oatmeal Molasses | Heavy Dense Bread",
+            "totalTimeInSeconds": 5400,
+            "attributes": {
+                "course": [
+                    "Breads"
+                ]
+            },
+            "flavors": {
+                "piquant": 0.0,
+                "meaty": 0.16666666666666666,
+                "bitter": 0.16666666666666666,
+                "sweet": 0.5,
+                "sour": 0.16666666666666666,
+                "salty": 0.5
+            },
+            "rating": 4
+        },
+        {
+            "imageUrlsBySize": {
+                "90": "https://lh3.googleusercontent.com/YmePseYOtRYQZaRtZNo8-kgCYbziIDo0IeBOjZnvfXkKhH9241HV07pU5YJmux7Jas5ys6kOH5LT1k0TAeOaAw=s90-c"
+            },
+            "sourceDisplayName": "Flair Project",
+            "ingredients": [
+                "strawberries",
+                "white sugar",
+                "pink peppercorns",
+                "water"
+            ],
+            "id": "STRAWBERRY-PINK-PEPPERCORN-VIRGIN-SHRUB-2124361",
+            "smallImageUrls": [
+                "https://lh3.googleusercontent.com/o2ghmiTOZz3f8iDuFKJXSlrDzbnsDJ9M0xKN6_n4ChF2KiPwBI8WM9rlv3Y1v572izrtVi_JPBbMWF43RLVY=s90"
+            ],
+            "recipeName": "STRAWBERRY-PINK PEPPERCORN VIRGIN SHRUB",
+            "totalTimeInSeconds": 2400,
+            "attributes": {
+                "course": [
+                    "Beverages"
+                ]
+            },
+            "flavors": {
+                "piquant": 0.6666666666666666,
+                "meaty": 0.0,
+                "bitter": 0.0,
+                "sweet": 0.6666666666666666,
+                "sour": 0.8333333333333334,
+                "salty": 0.0
+            },
+            "rating": 3
+        },
+        {
+            "imageUrlsBySize": {
+                "90": "http://lh3.ggpht.com/6BbycCBOwEMlzZpAEInu0IKVpW3C7Oz235eKKy04XI-5cAiCTn0JWAUoWH7t8VFnihPVzHX8xLxnL-df5FxsIPk=s90-c"
+            },
+            "sourceDisplayName": "Meaningful Eats",
+            "ingredients": [
+                "quinoa",
+                "water",
+                "salt",
+                "eggs",
+                "vanilla almondmilk",
+                "maple syrup",
+                "coconut oil",
+                "vanilla extract",
+                "cinnamon",
+                "turbinado"
+            ],
+            "id": "Spiceandmore-576784",
+            "smallImageUrls": [
+                "http://lh3.ggpht.com/2NYvhKWuuMjWwlt0uM4Mt-y6kxKtIRahBnQ7CJo8MI5wAusYDFL2zaUMf0EiXH-AQOIHIBNjy2Fmqav9OGS_3w=s90"
+            ],
+            "recipeName": "Spiceandmore",
+            "totalTimeInSeconds": 2400,
+            "attributes": {
+                "course": [
+                    "Desserts",
+                    "Breakfast and Brunch"
+                ]
+            },
+            "flavors": null,
+            "rating": 4
+        },
+        {
+            "imageUrlsBySize": {
+                "90": "https://lh3.googleusercontent.com/XLk-QkDkqGL4OqIzkq1F7Ez496LH4h8YeABb8eujvpLmZziY-oNnTQw7czhjJDIif6wCXjlXjWTwn-90ZiYo=s90-c"
+            },
+            "sourceDisplayName": "We Have a Lovely Home",
+            "ingredients": [
+                "sticky rice",
+                "water",
+                "coconut milk",
+                "sugar",
+                "mango",
+                "salt",
+                "corn starch"
+            ],
+            "id": "Classic-Scrumptious-Thai-Sticky-Rice-With-Mango-1482599",
+            "smallImageUrls": [
+                "https://lh3.googleusercontent.com/XraFjSTO3nPlnLETheAy3-GEKisB6KC8Wz_9NNS-pDHWtim1Jou6FNPmLLTg8XMD4AqUs381EgQAPrbOBZDmQxk=s90"
+            ],
+            "recipeName": "Classic Scrumptious Thai Sticky Rice With Mango",
+            "totalTimeInSeconds": 2100,
+            "attributes": {
+                "course": [
+                    "Desserts"
+                ]
+            },
+            "flavors": {
+                "sweet": 0.5,
+                "piquant": 0.0,
+                "sour": 0.3333333333333333,
+                "salty": 0.16666666666666666,
+                "meaty": 0.16666666666666666,
+                "bitter": 0.16666666666666666
+            },
+            "rating": 3
+        },
+        {
+            "imageUrlsBySize": {
+                "90": "http://lh5.ggpht.com/2dC_JBm6IzJaj1cs0Fls-nGIUJhc4RwcrSJDg4SW4Xw86H3VJ_X7kKUL6-Wb3IW91AuD0aS14J1AKEugl-qxPIk=s90-c"
+            },
+            "sourceDisplayName": "Skinny Kitchen",
+            "ingredients": [
+                "romaine lettuce",
+                "black olives",
+                "cherry tomatoes",
+                "salami",
+                "dressing",
+                "parmesan cheese",
+                "bamboo shoots"
+            ],
+            "id": "Low-Carb-Salad-on-a-Stick_-Italian-Style-1009758",
+            "smallImageUrls": [
+                "http://lh4.ggpht.com/vzu67Tha--b_pi3WCNgpBFrGf6opb4Z4zGTDfQs3IQEwDouHxwWp9KZD8eI1BYDqVWC3TzvraONQoIb7hL0QIQ=s90"
+            ],
+            "recipeName": "Low Carb Salad on a Stick, Italian-Style",
+            "totalTimeInSeconds": 900,
+            "attributes": {
+                "course": [
+                    "Lunch",
+                    "Salads"
+                ],
+                "cuisine": [
+                    "Italian"
+                ]
+            },
+            "flavors": null,
+            "rating": 4
+        }
+    ],
+    "facetCounts": {},
+    "totalMatchCount": 2433,
+    "attribution": {
+        "html": "Recipe search powered by <a href='http://www.yummly.co/recipes'><img alt='Yummly' src='https://static.yummly.co/api-logo.png'/></a>",
+        "url": "http://www.yummly.co/recipes/",
+        "text": "Recipe search powered by Yummly",
+        "logo": "https://static.yummly.co/api-logo.png"
+    }
+}

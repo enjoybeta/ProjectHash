@@ -1,0 +1,221 @@
+{
+    "criteria": {
+        "q": "a+p+p+l+e+s+a+u+c+e",
+        "allowedIngredient": null,
+        "excludedIngredient": null
+    },
+    "matches": [
+        {
+            "imageUrlsBySize": {
+                "90": "http://lh3.googleusercontent.com/MoaKNU2Oq_y8exn4VEtWR-czHzM9P2sGYa7W2uRBVYMwzhnZ4-QYdoDGJ9z7-XNocuHipH031NoRYjRdnd6LHg=s90-c"
+            },
+            "sourceDisplayName": "Lecker",
+            "ingredients": [
+                "Semmelbr\u00f6sel",
+                "Nu\u00dfnougat",
+                "weiche Butter",
+                "Mascarpone",
+                "Zucker",
+                "aroma",
+                "Salz",
+                "Mehl",
+                "Mandel",
+                "Milch",
+                "Kakao",
+                "Puderzucker"
+            ],
+            "id": "Mascarpone-Marmorkuchen-834243",
+            "smallImageUrls": [
+                "http://lh3.googleusercontent.com/bQOD3IhwcC1CZ_6ChO4LhVxsQR1Av6QhxV7b4b-g3XwhoanTA0bze-X3h3UUbun2IdYhoZUkL_ZNIL9x-m7OnA=s90"
+            ],
+            "recipeName": "Mascarpone-Marmorkuchen",
+            "totalTimeInSeconds": 4500,
+            "attributes": {
+                "course": [
+                    "Desserts"
+                ]
+            },
+            "flavors": null,
+            "rating": 3
+        },
+        {
+            "imageUrlsBySize": {
+                "90": "http://lh3.googleusercontent.com/_-J7JD5W9-4eaXa-68zUQnd6o0oPkK4im4zuw9Jj1c7L_-ba1d4AkK5XJpW6-IOBOVw5ouHL-OrJc_kgnnRirm0=s90-c"
+            },
+            "sourceDisplayName": "Lecker",
+            "ingredients": [
+                "Puddingpulver",
+                "Zucker",
+                "Milch",
+                "Pflaume",
+                "Fett",
+                "weiche Butter",
+                "Salz",
+                "Ei",
+                "Mehl",
+                "Speisest\u00e4rke",
+                "Backpulver",
+                "Schlabgobers",
+                "Mandelbl\u00e4tter",
+                "Puderzucker"
+            ],
+            "id": "Pflaumen-Blechkuchen-mit-Mandelkruste-832418",
+            "smallImageUrls": [
+                "http://lh3.googleusercontent.com/PJOHkPqqLSIEGcngVY1n9ef8zKSHLZlOntusHSmQ2mxLGZgpqJobb4jeughTsml3DpSV8A4oSChQzslvmJJwPg=s90"
+            ],
+            "recipeName": "Pflaumen-Blechkuchen mit Mandelkruste",
+            "totalTimeInSeconds": 3600,
+            "attributes": {
+                "course": [
+                    "Desserts"
+                ]
+            },
+            "flavors": {
+                "sweet": 0.8333333333333334,
+                "piquant": 0.0,
+                "sour": 0.16666666666666666,
+                "salty": 0.16666666666666666,
+                "meaty": 0.16666666666666666,
+                "bitter": 0.16666666666666666
+            },
+            "rating": 3
+        },
+        {
+            "imageUrlsBySize": {
+                "90": "http://lh3.googleusercontent.com/mLrwHvEFiSRQETehJodqJX6ZLXG95kIXdEHqlV35P54gDXuygiY6QZZJFzqLUHC0XBeCuKEHIPcDdmnpW-_vog=s90-c"
+            },
+            "sourceDisplayName": "Lecker",
+            "ingredients": [
+                "Mandarinen-Orangen",
+                "Fett",
+                "halbfettbutter",
+                "Zucker",
+                "Salz",
+                "Saft",
+                "Ei",
+                "Mehl",
+                "Backpulver",
+                "magerquark",
+                "Puddingpulver"
+            ],
+            "id": "Baiser-Kasekuchen-mit-Mandarinen-834109",
+            "smallImageUrls": [
+                "http://lh3.googleusercontent.com/GSZK6uTLNd_yqUwvWrnqqrbpR2yeQnXmvWVcMHthTO4Q9ML6RZnhD2_om3E_jufmlygRf-_Q35B91DnuE-hf2w=s90"
+            ],
+            "recipeName": "Baiser-Ka\u0308sekuchen mit Mandarinen",
+            "totalTimeInSeconds": 2700,
+            "attributes": {
+                "course": [
+                    "Desserts"
+                ]
+            },
+            "flavors": {
+                "sweet": 0.8333333333333334,
+                "piquant": 0.0,
+                "sour": 0.6666666666666666,
+                "salty": 0.16666666666666666,
+                "meaty": 0.16666666666666666,
+                "bitter": 0.16666666666666666
+            },
+            "rating": 3
+        },
+        {
+            "imageUrlsBySize": {
+                "90": "http://lh3.googleusercontent.com/Jr8ogVmf6KfL6NjxlcoXIeanuhUiz3QO_scnGhz5slMNeVZlkjV6o1xoOsM0Ju2_z76YVG3VKqGLd99hOBZJ00I=s90-c"
+            },
+            "sourceDisplayName": "Lecker",
+            "ingredients": [
+                "Fett",
+                "Ei",
+                "Zucker",
+                "Speisest\u00e4rke",
+                "Backpulver",
+                "Mohn",
+                "\u00c4pfel",
+                "Apelsaft",
+                "Zitronensaft",
+                "Puddingpulver",
+                "Mascarpone",
+                "magerquark",
+                "Schlabgobers",
+                "Sahnefestiger",
+                "Zitronenmelisse"
+            ],
+            "id": "Apfel-Mohn-Torte-927297",
+            "smallImageUrls": [
+                "http://lh3.googleusercontent.com/dKEIJMM7uylINVytF5cdadiLzJZjti8LOXJQ8ECiLcZSyhTTb4iDr-Qby1xoX8QYINWDUz8hkX1zMPAhzUhnsA=s90"
+            ],
+            "recipeName": "Apfel-Mohn-Torte",
+            "totalTimeInSeconds": 7200,
+            "attributes": {
+                "course": [
+                    "Desserts"
+                ]
+            },
+            "flavors": null,
+            "rating": 3
+        },
+        {
+            "recipeName": "Apfel-Streusel-Muffins",
+            "ingredients": [
+                "Fett",
+                "Butter",
+                "Backpulver",
+                "Mandel",
+                "Haferflocken",
+                "Zucker",
+                "\u00c4pfel",
+                "Speisest\u00e4rke",
+                "Apelsaft",
+                "Zitrone",
+                "Minze"
+            ],
+            "totalTimeInSeconds": 4500,
+            "sourceDisplayName": "Lecker",
+            "id": "Apfel-Streusel-Muffins-836182",
+            "rating": 3,
+            "flavors": null,
+            "attributes": {
+                "course": [
+                    "Desserts"
+                ]
+            }
+        },
+        {
+            "recipeName": "Amaretto-Kuppeltorte",
+            "ingredients": [
+                "Ei",
+                "Zucker",
+                "Backpulver",
+                "Mandel",
+                "Gelatine",
+                "Schokolade",
+                "Pistazienkern",
+                "Mascarpone",
+                "Rahm",
+                "Haselnuss",
+                "Lik\u00f6r",
+                "Schlabgobers",
+                "Schokoriegel"
+            ],
+            "totalTimeInSeconds": 5400,
+            "sourceDisplayName": "Lecker",
+            "id": "Amaretto-Kuppeltorte-835612",
+            "rating": 3,
+            "flavors": null,
+            "attributes": {
+                "course": [
+                    "Desserts"
+                ]
+            }
+        }
+    ],
+    "facetCounts": {},
+    "totalMatchCount": 6,
+    "attribution": {
+        "html": "Recipe search powered by <a href='http://www.yummly.co/recipes'><img alt='Yummly' src='https://static.yummly.co/api-logo.png'/></a>",
+        "url": "http://www.yummly.co/recipes/",
+        "text": "Recipe search powered by Yummly",
+        "logo": "https://static.yummly.co/api-logo.png"
+    }
+}

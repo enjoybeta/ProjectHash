@@ -1,0 +1,339 @@
+{
+    "criteria": {
+        "q": "K+e+r+b+e+l",
+        "allowedIngredient": null,
+        "excludedIngredient": null
+    },
+    "matches": [
+        {
+            "imageUrlsBySize": {
+                "90": "http://lh3.googleusercontent.com/Jjgpg7in6esckLUOpe1STKaEXH4lJhVO2pl4gctG8bbuTdcxXjY1oca2o3VR3yHx3mpTSLMukLgv0Yjc9SmEeA=s90-c"
+            },
+            "sourceDisplayName": "Lecker",
+            "ingredients": [
+                "Himbeere",
+                "Limone",
+                "Zucker",
+                "Sekt",
+                "Minze"
+            ],
+            "id": "Himbeersorbet-817216",
+            "smallImageUrls": [
+                "http://lh3.googleusercontent.com/R5CKuudjzfFP_EWxTNcXlyX7cO0ymcof1kQiqOWDuZ1KgolI4C-RfMSeEtJ0fdD86_pNv4H8fI8QGk_Lgz09Ww=s90"
+            ],
+            "recipeName": "Himbeersorbet",
+            "totalTimeInSeconds": 1800,
+            "attributes": {
+                "course": [
+                    "Desserts"
+                ]
+            },
+            "flavors": {
+                "sweet": 0.5,
+                "piquant": 0.0,
+                "sour": 0.8333333333333334,
+                "salty": 0.0,
+                "meaty": 0.16666666666666666,
+                "bitter": 0.16666666666666666
+            },
+            "rating": 3
+        },
+        {
+            "imageUrlsBySize": {
+                "90": "http://lh3.googleusercontent.com/ufwDdL1vBT90Y1_-pG6HumAG_cNiavXgYiHjCPTjWjfflWi7HQ79PIS21ILQpX-16SrK0eHwLpDWXUN7XJhu1so=s90-c"
+            },
+            "sourceDisplayName": "Lecker",
+            "ingredients": [
+                "Ente",
+                "Salz",
+                "Pfeffer wei\u00df",
+                "Apfelsine",
+                "Orangenkonfit\u00fcre",
+                "H\u00fchnerfond",
+                "Zucker",
+                "Zitronensaft",
+                "Speisest\u00e4rke",
+                "Butter",
+                "Petersile"
+            ],
+            "id": "Ente-a-l_Orange-818534",
+            "smallImageUrls": [
+                "http://lh3.googleusercontent.com/Rs4504I3Iwn1T2My_jXZalIN-eReAIC2NWIEx6ypFRcqxgD0h3DG_bQjEdFG4aHvpHLJ_aHN2Htdv22PzCmYKCk=s90"
+            ],
+            "recipeName": "Ente a\u0300 l`Orange",
+            "totalTimeInSeconds": 7200,
+            "attributes": {},
+            "flavors": null,
+            "rating": 3
+        },
+        {
+            "imageUrlsBySize": {
+                "90": "http://lh3.googleusercontent.com/MFpb_vLc8iBZRoICuM4CjXgLkExTGNouUsrq_BYS6dTFRK6xwv429llCi6OoNMhuGPh2w1lhjPP0sB_cV9fMVg=s90-c"
+            },
+            "sourceDisplayName": "Lecker",
+            "ingredients": [
+                "Bratenfleisch",
+                "Salz",
+                "Pfeffer",
+                "Schalotte",
+                "Zucker",
+                "Essig",
+                "Rosmarin",
+                "Lorbeer",
+                "Petersile"
+            ],
+            "id": "Roastbeef-mit-su-sauren-Schalotten-823689",
+            "smallImageUrls": [
+                "http://lh3.googleusercontent.com/YXZ3w_Ijg8aEg36o4PdxNSKuF_n4d9k6C4ZWSrN1s2_QIlcU1g_2f1kMl2OayOUcJrsPBauxRtlY90d9ywTD2Q=s90"
+            ],
+            "recipeName": "Roastbeef mit su\u0308\u00df-sauren Schalotten",
+            "totalTimeInSeconds": 3600,
+            "attributes": {},
+            "flavors": {
+                "sweet": 0.6666666666666666,
+                "piquant": 0.0,
+                "sour": 0.16666666666666666,
+                "salty": 0.8333333333333334,
+                "meaty": 0.16666666666666666,
+                "bitter": 0.16666666666666666
+            },
+            "rating": 3
+        },
+        {
+            "imageUrlsBySize": {
+                "90": "http://lh3.googleusercontent.com/f0VQfHp5gfnG8PfFXKT5k_ShwZZIWt3a1FrCBTqfSCpYYq1uny9qcieWQJjef6YtnIWQF5McgziMH0nEhT-HtA=s90-c"
+            },
+            "sourceDisplayName": "Lecker",
+            "ingredients": [
+                "Dorschfilet",
+                "Zitronensaft",
+                "Salz",
+                "Pfeffer",
+                "M\u00f6hre",
+                "Selleriegr\u00fcn",
+                "Zwiebel",
+                "Butter",
+                "Tomatenkonzentrat",
+                "Mehl",
+                "Gem\u00fcsebr\u00fche",
+                "Wei\u00dfwein",
+                "semolina",
+                "Petersile"
+            ],
+            "id": "Winzer-Fischsuppe-822888",
+            "smallImageUrls": [
+                "http://lh3.googleusercontent.com/NAhYYRqvz_IX0RyaNB8FDN86C_BWfTZKspxXea4J_MUWA3WCVBKY6SStUdSASh9jmnkolh6ZZo369G_u7ilpcg=s90"
+            ],
+            "recipeName": "Winzer-Fischsuppe",
+            "totalTimeInSeconds": 2400,
+            "attributes": {},
+            "flavors": {
+                "sweet": 0.16666666666666666,
+                "piquant": 0.0,
+                "sour": 0.16666666666666666,
+                "salty": 0.5,
+                "meaty": 0.16666666666666666,
+                "bitter": 0.16666666666666666
+            },
+            "rating": 3
+        },
+        {
+            "imageUrlsBySize": {
+                "90": "http://lh3.googleusercontent.com/Y5Qs66LDClWLajVNTpmVdH4U_Osw5pP8DyOHSu9d7-up0jKzZEc3FuB5WvAub3KfM-91R2sBd6PuYtyy1R05Pw=s90-c"
+            },
+            "sourceDisplayName": "Lecker",
+            "ingredients": [
+                "Semmelbrot",
+                "Milch",
+                "Ei",
+                "Salz",
+                "Pfeffer",
+                "Musskatnuss",
+                "Mehl",
+                "Gans",
+                "Zwiebel",
+                "K\u00fcmmel",
+                "Wei\u00dfkohl",
+                "Kartoffel",
+                "\u00c4pfel",
+                "Weissweinessig",
+                "Petersile"
+            ],
+            "id": "Gans-auf-Weikohl-mit-Semmelknodel-824599",
+            "smallImageUrls": [
+                "http://lh3.googleusercontent.com/EIwayUI1ZKRJIclQMbVOM06tMNRk22f9QnIvRXOj8Jk7jAWrwgwc0mSK5Wq9CBE0bIcI1uQIxCmQPOD2C-ypzhM=s90"
+            ],
+            "recipeName": "Gans auf Wei\u00dfkohl mit Semmelkno\u0308del",
+            "totalTimeInSeconds": 5400,
+            "attributes": {},
+            "flavors": null,
+            "rating": 3
+        },
+        {
+            "imageUrlsBySize": {
+                "90": "http://lh3.googleusercontent.com/DEWescHLT84tV9gGlVbanCDLg39iDG98yCsXJSYgsPuoz0dai0395HVEasqBvRB4e7fydq6XNM8FZZ9Eq0jp1w=s90-c"
+            },
+            "sourceDisplayName": "Lecker",
+            "ingredients": [
+                "Zwiebel",
+                "Knoblaucknolle",
+                "Parikaschote",
+                "\u00d6l",
+                "boullion",
+                "Tomate",
+                "Oregano",
+                "Salz",
+                "Schwarzpfeffer"
+            ],
+            "id": "Paprika-Tomatensoe-812874",
+            "smallImageUrls": [
+                "http://lh3.googleusercontent.com/BDreE7HrU6mYeE7jW1AGbs00p_tIljnLs2wooOBvgzMQsa9f2JwOOU527T3HXFPUkmzY2OqywZgAelAMdtW09Q=s90"
+            ],
+            "recipeName": "Paprika-Tomatenso\u00dfe",
+            "totalTimeInSeconds": 1800,
+            "attributes": {},
+            "flavors": {
+                "sweet": 0.16666666666666666,
+                "piquant": 0.16666666666666666,
+                "sour": 0.8333333333333334,
+                "salty": 0.16666666666666666,
+                "meaty": 0.16666666666666666,
+                "bitter": 0.16666666666666666
+            },
+            "rating": 3
+        },
+        {
+            "imageUrlsBySize": {
+                "90": "http://lh3.googleusercontent.com/tpDqw7H0-Cd-N9j81zfTaghlWvG2V5mrFqBr5335aAPNP9vL4xfkOJxfjGT9pBy-rJHyKfDDHZBo6PO5cSlU5WY=s90-c"
+            },
+            "sourceDisplayName": "Lecker",
+            "ingredients": [
+                "H\u00fchnerfilet",
+                "Sojasauce",
+                "Blumenkohlkopf",
+                "M\u00f6hre",
+                "Lauch",
+                "Chilischote",
+                "\u00d6l",
+                "boullion",
+                "Koriander",
+                "Salz",
+                "Pfeffer",
+                "Petersile"
+            ],
+            "id": "Blumenkohl-Porree-Pfanne-826326",
+            "smallImageUrls": [
+                "http://lh3.googleusercontent.com/9oZbww58heLrF1T9PfThHI-sS5tn7WwiI0xTN05i1aQu5cPG5cGc5hpE4JEadYJJEnQjFdM7pWyctm10Y9aE_rE=s90"
+            ],
+            "recipeName": "Blumenkohl-Porree-Pfanne",
+            "totalTimeInSeconds": 3600,
+            "attributes": {},
+            "flavors": null,
+            "rating": 3
+        },
+        {
+            "imageUrlsBySize": {
+                "90": "http://lh3.googleusercontent.com/ZoMx5LjUdld1BjGsVHJimP6H6rxvjtdGI-RYJW62B2HwUZqoKdzQ7pu0e_kBt-rdISL9qum09E17okjg_vQHLdk=s90-c"
+            },
+            "sourceDisplayName": "Lecker",
+            "ingredients": [
+                "M\u00f6hre",
+                "Lauch",
+                "Zwiebel",
+                "\u00d6l",
+                "Schweinsgulasch",
+                "Tomatenkonzentrat",
+                "Mehl",
+                "Salz",
+                "Pfeffer",
+                "Kuttelkraut",
+                "Rotwein",
+                "boullion",
+                "Lorbeer",
+                "Ei",
+                "Petersile"
+            ],
+            "id": "Fleckerln-mit-Schweinepfeffer-816473",
+            "smallImageUrls": [
+                "http://lh3.googleusercontent.com/1or95QbGITHuPboqqUCJs6ISAdvFgefAWPzuT-qdbEyeEJDrXcaQY7iqO2ui6WkpsjdT1qgpDPblehXIrufTcg=s90"
+            ],
+            "recipeName": "Fleckerln mit Schweinepfeffer",
+            "totalTimeInSeconds": 12600,
+            "attributes": {},
+            "flavors": null,
+            "rating": 3
+        },
+        {
+            "imageUrlsBySize": {
+                "90": "http://lh3.googleusercontent.com/tQYogKzFhZRdB4BNYz-m9agEF6SKc2F_bjflNhRWRwpm0tj8izGLcynXUXDozHwxK1nZNVxhDsw3qOiucXoeAQ=s90-c"
+            },
+            "sourceDisplayName": "Lecker",
+            "ingredients": [
+                "Vanilleschote",
+                "Milch",
+                "Speisest\u00e4rke",
+                "Eigelb",
+                "Zucker",
+                "\u00c4pfel",
+                "Weintraube",
+                "Pflaume",
+                "Zitrone",
+                "Joghurt",
+                "Zitronenmelisse"
+            ],
+            "id": "Obstsalat-mit-Joghurt-Vanille-Soe-825335",
+            "smallImageUrls": [
+                "http://lh3.googleusercontent.com/TO4fZfI-IqV-OFhwwrGUyMfmc2RHpR5c6bE8QLotmHdfq6Uah0T3uqB3Fw1-sw2RhwMjlYaFwPRjP9nWRLUqsA=s90"
+            ],
+            "recipeName": "Obstsalat mit Joghurt-Vanille-So\u00dfe",
+            "totalTimeInSeconds": 1500,
+            "attributes": {
+                "course": [
+                    "Desserts"
+                ]
+            },
+            "flavors": null,
+            "rating": 3
+        },
+        {
+            "imageUrlsBySize": {
+                "90": "http://lh3.googleusercontent.com/VpbYMUXU8c2TOazY4CL8AH0xpHiE0EpP8_y41FXd0RhHhscKyGGzvf2YHv8BhwFWoWPzjgPCCcO8HYuyVdS4Tg=s90-c"
+            },
+            "sourceDisplayName": "Lecker",
+            "ingredients": [
+                "Schmorgurke",
+                "\u00d6l",
+                "Gem\u00fcsebr\u00fche",
+                "Erbsen",
+                "Champignon",
+                "Zwiebel",
+                "Kasselerkotelett",
+                "Tomate",
+                "Butter",
+                "Salz",
+                "Pfeffer",
+                "Mehl",
+                "Schlabgobers",
+                "gouda",
+                "Niere"
+            ],
+            "id": "Gefullte-uberbackene-Schmorgurken-827310",
+            "smallImageUrls": [
+                "http://lh3.googleusercontent.com/r4Y0ToIQoT6IqhIWmlAn5KnHZxzkI9CW8CWkqOpojeqe_C2-bGqEjscjsckmQoBacAJPAVxCYn5IGMfCXzeLyhw=s90"
+            ],
+            "recipeName": "Gefu\u0308llte u\u0308berbackene Schmorgurken",
+            "totalTimeInSeconds": 2700,
+            "attributes": {},
+            "flavors": null,
+            "rating": 3
+        }
+    ],
+    "facetCounts": {},
+    "totalMatchCount": 20,
+    "attribution": {
+        "html": "Recipe search powered by <a href='http://www.yummly.co/recipes'><img alt='Yummly' src='https://static.yummly.co/api-logo.png'/></a>",
+        "url": "http://www.yummly.co/recipes/",
+        "text": "Recipe search powered by Yummly",
+        "logo": "https://static.yummly.co/api-logo.png"
+    }
+}

@@ -1128,7 +1128,18 @@
     },
     "numberOfServings": 6,
     "totalTimeInSeconds": 2700,
-    "attributes": {},
-    "flavors": {},
+    "attributes": {
+        "course": [
+            "Main Dishes"
+        ]
+    },
+    "flavors": {
+        "Piquant": 0.8333,
+        "Meaty": 0.3333,
+        "Bitter": 0.1667,
+        "Sweet": 0.1667,
+        "Sour": 0.6667,
+        "Salty": 0.1667
+    },
     "rating": 4
 }

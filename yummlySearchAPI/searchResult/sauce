@@ -1,0 +1,367 @@
+{
+    "criteria": {
+        "q": "s+a+u+c+e",
+        "allowedIngredient": null,
+        "excludedIngredient": null
+    },
+    "matches": [
+        {
+            "imageUrlsBySize": {
+                "90": "https://lh3.googleusercontent.com/dmnG48hwy6EKpBjxRMpo25_c8vXqF3kKpTKru5oQGSfZ9CebEdCDEul3t4sVx6GOLq9MVj2hG1YR0mWx53VN=s90-c"
+            },
+            "sourceDisplayName": "C it Nutritionally",
+            "ingredients": [
+                "quinoa",
+                "sweet potatoes",
+                "zucchini",
+                "corn",
+                "raisins",
+                "spinach",
+                "fresh parsley",
+                "freshly ground black pepper",
+                "sea salt",
+                "dried oregano",
+                "pesto",
+                "extra-virgin olive oil",
+                "lemon juice"
+            ],
+            "id": "Summer-Quinoa-Salad-with-Arugula-Pesto-Dressing-1809067",
+            "smallImageUrls": [
+                "https://lh3.googleusercontent.com/bB7Qr16FXdWhedixP8PyUlRXKoZ0m-EOzKMQbkyPPvVQpYv5rN7BoBw-S8txIyzMabw67BjL5XxN-8C9xs3H9A=s90"
+            ],
+            "recipeName": "Summer Quinoa Salad with Arugula Pesto Dressing",
+            "totalTimeInSeconds": 1800,
+            "attributes": {
+                "course": [
+                    "Salads"
+                ]
+            },
+            "flavors": {
+                "piquant": 0.0,
+                "meaty": 0.16666666666666666,
+                "bitter": 0.8333333333333334,
+                "sweet": 0.3333333333333333,
+                "sour": 0.8333333333333334,
+                "salty": 0.16666666666666666
+            },
+            "rating": 4
+        },
+        {
+            "imageUrlsBySize": {
+                "90": "https://lh3.googleusercontent.com/4gvJvqRechZyaI86Idm-s7eQCi5n2yQacnwd0cA89-9_6mEJmJPNqGyTLd1WJGbMcjpDw6X1VNT2k7CZAz9vFQ=s90-c"
+            },
+            "sourceDisplayName": "Queen Keto",
+            "ingredients": [
+                "minced beef",
+                "small eggs",
+                "Himalayan salt",
+                "freshly ground black pepper",
+                "spice mix",
+                "mayonnaise",
+                "ketchup",
+                "dijon mustard",
+                "snack chips",
+                "extra-virgin olive oil",
+                "cheddar cheese",
+                "avocado",
+                "back bacon rashers",
+                "kale leaves"
+            ],
+            "id": "ULTIMATE-KETO-LOW-CARB-BACON-CHEESE-BURGER-AND-CHIPS-2280499",
+            "smallImageUrls": [
+                "https://lh3.googleusercontent.com/zX1K8H90n1BBw52dPJ3PV-HbyOIpF16AIflsqx6p6DL0SNUYivgfHDoovw2gdM1a7MUA-2c10XtZUBMURgmeRw=s90"
+            ],
+            "recipeName": "ULTIMATE KETO LOW CARB BACON CHEESE BURGER AND CHIPS",
+            "totalTimeInSeconds": 3600,
+            "attributes": {
+                "course": [
+                    "Main Dishes",
+                    "Lunch",
+                    "Snacks"
+                ],
+                "cuisine": [
+                    "Barbecue"
+                ]
+            },
+            "flavors": null,
+            "rating": 4
+        },
+        {
+            "imageUrlsBySize": {
+                "90": "https://lh3.googleusercontent.com/5dVXIbYd_bGJ5wjRm-qiykAAW10aM46JPv67YFykR8YaleXaEzxn5SoIxuoslzfK5u-DpIAHPPESG1Tu_yRulQ=s90-c"
+            },
+            "sourceDisplayName": "The Mommypotamus",
+            "ingredients": [
+                "water",
+                "apple cider vinegar",
+                "sea salt",
+                "warm water",
+                "gluten",
+                "maple syrup",
+                "eggs",
+                "cassava root flour",
+                "psyllium husks",
+                "coconut flour",
+                "ghee",
+                "baking soda",
+                "coarse sea salt"
+            ],
+            "id": "Soft-Pretzel-Recipe-_Gluten-Free_-Paleo_-1712013",
+            "smallImageUrls": [
+                "https://lh3.googleusercontent.com/GUF4EIbYJZ7pyYwNo-kOrF-6V3fAaLPi0Wlyf6bOL3ATJgwGdB7UJGkUeYgIvZObdft6JilHXaDuap_hxOLb=s90"
+            ],
+            "recipeName": "Soft Pretzel Recipe (Gluten-Free, Paleo)",
+            "totalTimeInSeconds": 3600,
+            "attributes": {
+                "course": [
+                    "Breads"
+                ]
+            },
+            "flavors": null,
+            "rating": 3
+        },
+        {
+            "imageUrlsBySize": {
+                "90": "https://lh3.googleusercontent.com/8WoxPfOKGhWAhcTu4x2ThZlSN76E-TVVrI70IEu_aIk4L64ominZ-rsi9qrLo3cid3oMlwWyaPMar0S9AutAAA=s90-c"
+            },
+            "sourceDisplayName": "uTry.it",
+            "ingredients": [
+                "toasted sesame seeds",
+                "Japanese Mayonnaise",
+                "rice vinegar",
+                "soy sauce",
+                "sesame oil",
+                "honey",
+                "dijon mustard",
+                "ground white pepper",
+                "noodles",
+                "deli ham",
+                "carrots",
+                "cucumber",
+                "orange",
+                "green onions",
+                "fresh chili"
+            ],
+            "id": "Asian-Summer-Noodle-With-Dijon-Sesame-Dressing-__-1760731",
+            "smallImageUrls": [
+                "https://lh3.googleusercontent.com/c-nAaU56nrHXKLFTsOPtz1zb6l4l-OcfgU6l_NeB7-NnQAi07V0Mj2o9V2U0Kou8iNxi-3ALHevSnlLpDifxqw=s90"
+            ],
+            "recipeName": "Asian Summer Noodle With Dijon Sesame Dressing (\u590f\u306e\u4e2d\u83ef\u51b7\u9eb5\u914d\u829d\u9ebb\u82a5\u672b\u91ac\u6c41)",
+            "totalTimeInSeconds": 1800,
+            "attributes": {
+                "course": [
+                    "Salads",
+                    "Lunch"
+                ],
+                "cuisine": [
+                    "Kid-Friendly",
+                    "Asian"
+                ]
+            },
+            "flavors": {
+                "piquant": 0.16666666666666666,
+                "meaty": 0.16666666666666666,
+                "bitter": 0.16666666666666666,
+                "sweet": 0.16666666666666666,
+                "sour": 0.5,
+                "salty": 0.3333333333333333
+            },
+            "rating": 4
+        },
+        {
+            "recipeName": "Asian Cajun Shellfish Boil",
+            "ingredients": [
+                "shellfish",
+                "crab boil",
+                "margarine",
+                "garlic",
+                "old bay seasoning",
+                "paprika",
+                "cayenne pepper",
+                "lemon pepper",
+                "chicken",
+                "garlic powder"
+            ],
+            "totalTimeInSeconds": 2700,
+            "sourceDisplayName": "MyRecipes",
+            "id": "Asian-Cajun-Shellfish-Boil-1310337",
+            "rating": 3,
+            "flavors": null,
+            "attributes": {
+                "course": [
+                    "Main Dishes"
+                ]
+            }
+        },
+        {
+            "imageUrlsBySize": {
+                "90": "http://lh3.googleusercontent.com/spLEK24HqOJSiRCZsRpwPS-POj4ozbB_4EsTgW2kx8vVaG_Y7-LuOAIbSUoO-ZD5cyHaB7z3H60afRy93TMHqLM=s90-c"
+            },
+            "sourceDisplayName": "Lecker",
+            "ingredients": [
+                "Milch",
+                "Butter",
+                "vanillearoma",
+                "Mehl",
+                "Zucker",
+                "Ei",
+                "Rum",
+                "Erdbeere",
+                "Rahm",
+                "Bourbon-Vanillezucker"
+            ],
+            "id": "Canneles-de-Bordeaux-847903",
+            "smallImageUrls": [
+                "http://lh3.googleusercontent.com/okKxwm4KJauSZ5YHy1Jr4Jnp88o9gvGcLWXsoJfN6bWjIrkhXAX50g2HA9vbcxAFW3IOWeQuTKc7egQewPhMmg=s90"
+            ],
+            "recipeName": "Cannele\u0301s de Bordeaux",
+            "totalTimeInSeconds": 4500,
+            "attributes": {},
+            "flavors": {
+                "sweet": 0.5,
+                "piquant": 0.0,
+                "sour": 0.8333333333333334,
+                "salty": 0.16666666666666666,
+                "meaty": 0.16666666666666666,
+                "bitter": 0.16666666666666666
+            },
+            "rating": 3
+        },
+        {
+            "imageUrlsBySize": {
+                "90": "http://lh3.googleusercontent.com/2iNQmhqxqJ3ffKDmUmgC-bpl5iuyhO7hwxVF4t5x-PYksTRQU8TGj20VSv7lWB9m4opTyRzPj6efxJdMq1Fr=s90-c"
+            },
+            "sourceDisplayName": "Lecker",
+            "ingredients": [
+                "Fr\u00fchlingszwiebelgr\u00fcn",
+                "Knoblaucknolle",
+                "Petersile",
+                "M\u00f6hre",
+                "Oregano",
+                "Lorbeer",
+                "Salz",
+                "Pfeffer",
+                "Kreuzk\u00fcmmel",
+                "Weissweinessig",
+                "\u00d6l",
+                "Kartoffel",
+                "Steakfleisch",
+                "Salatbl\u00e4ttchen"
+            ],
+            "id": "Ribeye-Steak-mit-Krautersoe-842038",
+            "smallImageUrls": [
+                "http://lh3.googleusercontent.com/Nti4kxCL0VfW_HQTFdNNXI6eeYv51IHJ5Zk77zGpik_-lhspechAkWv816r_T6Hxh7b2ZDIkXDTKwnECTsgA=s90"
+            ],
+            "recipeName": "Ribeye-Steak mit Kra\u0308uterso\u00dfe",
+            "totalTimeInSeconds": 3600,
+            "attributes": {},
+            "flavors": null,
+            "rating": 3
+        },
+        {
+            "imageUrlsBySize": {
+                "90": "http://lh3.googleusercontent.com/jCS0um_WT4adciQx8Rxz5PohigPyaLlXrmUJDEU6D_EVsStsncb7kzPMAxq4IKPLr-8jab581ledyPdn8CLe=s90-c"
+            },
+            "sourceDisplayName": "Lecker",
+            "ingredients": [
+                "Filoteig",
+                "\u00d6l",
+                "Fleisch",
+                "Kuttelkraut",
+                "feta",
+                "Ei",
+                "Sesam"
+            ],
+            "id": "Gyros-Taschen-mit-Feta-833390",
+            "smallImageUrls": [
+                "http://lh3.googleusercontent.com/xtk7p5UJ3tCkPlNePXPNKcghxTpCphOdu7uwSK5lEXIEX9M_YbkkloeHKAJLhuvoYBbG8VUfqKcE1KTdKuvXLB8=s90"
+            ],
+            "recipeName": "Gyros-Taschen mit Feta",
+            "totalTimeInSeconds": 5400,
+            "attributes": {},
+            "flavors": {
+                "sweet": 0.16666666666666666,
+                "piquant": 0.0,
+                "sour": 0.16666666666666666,
+                "salty": 0.8333333333333334,
+                "meaty": 0.8333333333333334,
+                "bitter": 0.8333333333333334
+            },
+            "rating": 3
+        },
+        {
+            "imageUrlsBySize": {
+                "90": "http://lh3.googleusercontent.com/rapUKFj9J3L3fRKa8fp2bkUzMwt5eMsH2q2vuTDJS1B0sAEMI8uL_7b8quUKpYd-d5WGBsUneHLuPnJycoBh=s90-c"
+            },
+            "sourceDisplayName": "Lecker",
+            "ingredients": [
+                "gouda",
+                "B\u00f6hnchen",
+                "M\u00f6hre",
+                "Champignon",
+                "Butterschmalz",
+                "B\u00e4rlauch",
+                "Butter",
+                "Mehl",
+                "Gem\u00fcsebr\u00fche",
+                "Schlabgobers",
+                "Eigelb",
+                "Lasagnebl\u00e4ter"
+            ],
+            "id": "Bunte-Gemuse-Lasagne-826424",
+            "smallImageUrls": [
+                "http://lh3.googleusercontent.com/kmPL2g0SeDGe9Qf_CpKrsYCXA9AY8DARIEn-6zmG2OyJSipfO5d7LIl5Hmll-Oj1MYfZxWoplromNgyI5_JK=s90"
+            ],
+            "recipeName": "Bunte Gemu\u0308se-Lasagne",
+            "totalTimeInSeconds": 4800,
+            "attributes": {},
+            "flavors": {
+                "sweet": 0.16666666666666666,
+                "piquant": 0.0,
+                "sour": 0.16666666666666666,
+                "salty": 0.5,
+                "meaty": 0.16666666666666666,
+                "bitter": 0.16666666666666666
+            },
+            "rating": 3
+        },
+        {
+            "imageUrlsBySize": {
+                "90": "http://lh3.googleusercontent.com/QwOmZpVP_zbUDbs_lsFX6I8gXWK-q-UGR7EyZ7xgCKOhpGHRUZ6gQPYV2tbMwEPHTemQi0gM472J4EyDOJfsMNo=s90-c"
+            },
+            "sourceDisplayName": "Lecker",
+            "ingredients": [
+                "weiche Butter",
+                "Zucker",
+                "Backrum",
+                "Ei",
+                "Weizenmehl",
+                "Backpulver",
+                "Haselnuss",
+                "Schokoladenstreusel",
+                "Puderzucker"
+            ],
+            "id": "Napoleonskuchen-845338",
+            "smallImageUrls": [
+                "http://lh3.googleusercontent.com/uTcjqwXr1DbMGwYmlm6xh-WBBY_DJZ78O2lha3Hy8WMr3yk5YbIM-XvuaXqNBw8SZqrahg471hLqblGpK7PV=s90"
+            ],
+            "recipeName": "Napoleonskuchen",
+            "totalTimeInSeconds": 2400,
+            "attributes": {
+                "course": [
+                    "Desserts"
+                ]
+            },
+            "flavors": null,
+            "rating": 3
+        }
+    ],
+    "facetCounts": {},
+    "totalMatchCount": 165,
+    "attribution": {
+        "html": "Recipe search powered by <a href='http://www.yummly.co/recipes'><img alt='Yummly' src='https://static.yummly.co/api-logo.png'/></a>",
+        "url": "http://www.yummly.co/recipes/",
+        "text": "Recipe search powered by Yummly",
+        "logo": "https://static.yummly.co/api-logo.png"
+    }
+}

@@ -1,0 +1,365 @@
+{
+    "criteria": {
+        "q": "f+a+l+a+f+e+l",
+        "allowedIngredient": null,
+        "excludedIngredient": null
+    },
+    "matches": [
+        {
+            "imageUrlsBySize": {
+                "90": "http://lh6.ggpht.com/8D7RxcJio3BSQV5RniG6FFyNapY9i-yHvOtGkKgm-EWUm0sRR0B9y2QexZRnUohvkIFQMdLgBPtvkJP2ETOd6g=s90-c"
+            },
+            "sourceDisplayName": "ZWilling J.A. Henckels",
+            "ingredients": [
+                "white onion",
+                "garlic",
+                "lime",
+                "olive oil",
+                "white wine",
+                "black pepper",
+                "coarse salt",
+                "fresh parsley"
+            ],
+            "id": "Oven-Braised-Salmon-with-Lime-and-Garlic-970009",
+            "smallImageUrls": [
+                "http://lh6.ggpht.com/YaYX1wdr47WVSrtGK48UkC9bK36W6sZ-W9zr72crMCXlvMsa9wDLBab_HZwgcBRe-R0bozszIrKSjZIg-VsZVA=s90"
+            ],
+            "recipeName": "Oven Braised Salmon with Lime and Garlic",
+            "totalTimeInSeconds": 3000,
+            "attributes": {
+                "course": [
+                    "Main Dishes"
+                ]
+            },
+            "flavors": null,
+            "rating": 3
+        },
+        {
+            "imageUrlsBySize": {
+                "90": "https://lh3.googleusercontent.com/AJVwGdQOG82dnUsFNEv2vrBj-xrnVijn7doW9hssrd8IxyFyyUpYLTke0D8s4O9boKN2AojFM2WEv-CcRyDfVHI=s90-c"
+            },
+            "sourceDisplayName": "Melissa's Southern Style Kitchen",
+            "ingredients": [
+                "flour",
+                "gorgonzola",
+                "dried beef",
+                "chives",
+                "garlic powder",
+                "sugar",
+                "paprika",
+                "heavy cream"
+            ],
+            "id": "Beef-And-Bleu-Cheese-Biscuits-1814629",
+            "smallImageUrls": [
+                "https://lh3.googleusercontent.com/sr4_NSmDGwZJcnueCc3buCVDMOCqpGNwfFM5uQDcE6a9KqdOHUleu3oWPmaamKPm_ea9ke-WTwQqnjzQh1BiBw=s90"
+            ],
+            "recipeName": "Beef And Bleu Cheese Biscuits",
+            "totalTimeInSeconds": 2100,
+            "attributes": {},
+            "flavors": {
+                "sweet": 0.16666666666666666,
+                "piquant": 0.16666666666666666,
+                "sour": 0.16666666666666666,
+                "salty": 0.16666666666666666,
+                "meaty": 0.8333333333333334,
+                "bitter": 0.16666666666666666
+            },
+            "rating": 4
+        },
+        {
+            "imageUrlsBySize": {
+                "90": "https://lh3.googleusercontent.com/4ZsJj334LbiDGkE8zpAs8GzRr3wb9NtguBvp32JYsXkJjsD6obUtKTzHa1kuqHP0yTOxO3_Yw9Vjz0wUZy2sFg=s90-c"
+            },
+            "sourceDisplayName": "Think Beef",
+            "ingredients": [
+                "beef",
+                "garlic",
+                "ground pepper",
+                "sea salt"
+            ],
+            "id": "Wine-_n-Dine-Peppercorn-Roast-Beef-2309665",
+            "smallImageUrls": [
+                "https://lh3.googleusercontent.com/3eEb6KlKlYw4ntuWZPj0ysQD4o2NpIwehaND7rKWTpEDRBNIY6lhQ8VKAA_xk3eS_rCagxqyJ7eEaAM62nZW=s90"
+            ],
+            "recipeName": "Wine 'n Dine Peppercorn Roast Beef",
+            "totalTimeInSeconds": 8400,
+            "attributes": {
+                "course": [
+                    "Main Dishes"
+                ],
+                "holiday": [
+                    "Sunday Lunch"
+                ]
+            },
+            "flavors": {
+                "piquant": 0.3333333333333333,
+                "meaty": 0.8333333333333334,
+                "bitter": 0.16666666666666666,
+                "sweet": 0.0,
+                "sour": 0.16666666666666666,
+                "salty": 0.16666666666666666
+            },
+            "rating": 4
+        },
+        {
+            "imageUrlsBySize": {
+                "90": "http://lh3.googleusercontent.com/nnD01y-PZXFBzBG2e59AEhqpXrc6AckW1M8ZAxqgAzV8BcpXiBXoWY39fWWNliYdEMoLwhofmlUYG2RylvV_I5Q=s90-c"
+            },
+            "sourceDisplayName": "Jam Hands",
+            "ingredients": [
+                "hot dogs",
+                "bbq sauce",
+                "american cheese slices",
+                "biscuits"
+            ],
+            "id": "Halloweenie-BBQ-Cheese-Pockets-1323519",
+            "smallImageUrls": [
+                "https://lh3.googleusercontent.com/r4o0ZNFvifCkTi7hR_EMTHs1nGmj3rZjGRgMiFudtgpsAsja2NRuxqoucg8o-ksqV5fHfwL8oCAJdEpOmRPQRtY=s90"
+            ],
+            "recipeName": "Halloweenie BBQ Cheese Pockets",
+            "totalTimeInSeconds": 2100,
+            "attributes": {
+                "course": [
+                    "Lunch"
+                ],
+                "cuisine": [
+                    "Kid-Friendly"
+                ],
+                "holiday": [
+                    "Halloween"
+                ]
+            },
+            "flavors": {
+                "piquant": 0.6666666666666666,
+                "meaty": 0.6666666666666666,
+                "bitter": 0.8333333333333334,
+                "sweet": 0.5,
+                "sour": 0.16666666666666666,
+                "salty": 0.8333333333333334
+            },
+            "rating": 4
+        },
+        {
+            "imageUrlsBySize": {
+                "90": "http://lh3.googleusercontent.com/aNt4YANJHukbFf5koryQZb2t3K36nXvv4u-CoL5QvUFyL1q_AKDoRSxXnhOs2F6_v9nnMX51ew1uAi7-QwDD=s90-c"
+            },
+            "sourceDisplayName": "Win-Win Food",
+            "ingredients": [
+                "salad",
+                "spelt berries",
+                "water",
+                "salt",
+                "orange",
+                "cranberries",
+                "feta cheese",
+                "scallions",
+                "almonds",
+                "dressing",
+                "tahini",
+                "lemon juice",
+                "garlic"
+            ],
+            "id": "Spelt-Salad-with-Oranges_-Cranberries-_-Vegan-Feta-1269463",
+            "smallImageUrls": [
+                "http://lh3.googleusercontent.com/IzMRGK3S6MOlf1MGS8aDPK0icpY7M6AFwAV7PAL9YN1AijlxTQXMpKBma8-Kehapl5tgWSxHZ0ujGsuq2qY764Y=s90"
+            ],
+            "recipeName": "Spelt Salad with Oranges, Cranberries & Vegan Feta",
+            "totalTimeInSeconds": 4500,
+            "attributes": {
+                "course": [
+                    "Salads"
+                ]
+            },
+            "flavors": null,
+            "rating": 4
+        },
+        {
+            "imageUrlsBySize": {
+                "90": "http://lh3.googleusercontent.com/gMGtOvMfHktHwLQBi3zL1O783wClsaqnvZWt8PD5m5BdRQCNvvEzbawzkQBuaaB6mNy4gsNNFZi3hja9GLaYgg=s90-c"
+            },
+            "sourceDisplayName": "My Utensil Crock",
+            "ingredients": [
+                "boneless skinless chicken breasts",
+                "lemon",
+                "extra-virgin olive oil",
+                "minced garlic",
+                "cumin",
+                "pepper",
+                "paprika",
+                "chile powder"
+            ],
+            "id": "Shish-Taouk-Chicken-Kabobs-1165922",
+            "smallImageUrls": [
+                "http://lh3.googleusercontent.com/TiMPwSwcLX6lMMb0CmQUsBVMeEUCJYvZnpAkCbNO4lQnRvtQZyCSr-BYp_1NXLl9gL3Fzw1uTh1LQR_YNWjKeA=s90"
+            ],
+            "recipeName": "Shish Taouk \u2013 Chicken Kabobs",
+            "totalTimeInSeconds": 1200,
+            "attributes": {
+                "course": [
+                    "Main Dishes"
+                ]
+            },
+            "flavors": null,
+            "rating": 4
+        },
+        {
+            "imageUrlsBySize": {
+                "90": "https://lh3.googleusercontent.com/x6qjkSDXWK1TTo3g4OudupjlplOWMS-q-PBM1AVOtnJSUW55oZIX9opAWw8irEFvAYjKmstgzJkpOyo-aauPqQ=s90-c"
+            },
+            "sourceDisplayName": "Splendid Low-Carbing by Jennifer Eloff",
+            "ingredients": [
+                "mozzarella cheese",
+                "monterey jack",
+                "cheddar cheese",
+                "gluten",
+                "baking powder",
+                "bacon",
+                "onions",
+                "almond milk",
+                "eggs",
+                "dijon mustard"
+            ],
+            "id": "BACON-AND-ONION-CHEESE-PUFFS-1990916",
+            "smallImageUrls": [
+                "https://lh3.googleusercontent.com/F3bOWHlFWRF8hirlWZJejvh1_VEsqKSGr3Vbxpy16L7zL2Tlv2pvFCLpF8QGZDVd2WVmmAfbrFC1-ldPZHED=s90"
+            ],
+            "recipeName": "BACON AND ONION CHEESE PUFFS",
+            "totalTimeInSeconds": 2400,
+            "attributes": {
+                "course": [
+                    "Lunch"
+                ]
+            },
+            "flavors": {
+                "piquant": 0.3333333333333333,
+                "meaty": 0.8333333333333334,
+                "bitter": 0.6666666666666666,
+                "sweet": 0.16666666666666666,
+                "sour": 0.16666666666666666,
+                "salty": 0.5
+            },
+            "rating": 4
+        },
+        {
+            "imageUrlsBySize": {
+                "90": "http://lh3.ggpht.com/PHEdhp3vEBL03DR87dhrELeLOr6EkXNqnnYGgmNp8YBiqLqNtSeRuU46hE--mvksRF3JMUlcLaoQ4QWv2YWhdA=s90-c"
+            },
+            "sourceDisplayName": "AllRecipes",
+            "ingredients": [
+                "white sugar",
+                "heavy cream",
+                "baking soda",
+                "butter",
+                "vanilla extract",
+                "pecan halves"
+            ],
+            "id": "Aunt-Bill_s-Brown-Candy-Allrecipes",
+            "smallImageUrls": [
+                "http://lh3.ggpht.com/0nno8jMU3PHuSx6t7BE0q1k1soA6OGe1nAIe7c4-CqDc4na9Ji7COVRWDqxFlhAR0hM5uNOdFkLGEGIa1R4tAN0=s90"
+            ],
+            "recipeName": "Aunt Bill's Brown Candy",
+            "totalTimeInSeconds": 7200,
+            "attributes": {
+                "course": [
+                    "Desserts"
+                ],
+                "holiday": [
+                    "Christmas"
+                ]
+            },
+            "flavors": null,
+            "rating": 5
+        },
+        {
+            "imageUrlsBySize": {
+                "90": "https://lh3.googleusercontent.com/HzV_yPNC-fGYt9_JPRD4nRWGGIqMg7d_ctNv-cdWnBmeJ7zhE5Ct3VqbMl9y-CuoCVVkgrYvrwVNoHDLYjf3=s90-c"
+            },
+            "sourceDisplayName": "A Garden for the House",
+            "ingredients": [
+                "yellow apples",
+                "lemon",
+                "ground cinnamon",
+                "sugar",
+                "flour",
+                "baking powder",
+                "salt",
+                "nutmeg",
+                "unsalted butter",
+                "large eggs",
+                "vegetable oil",
+                "pure vanilla extract"
+            ],
+            "id": "Rustic-Apple-Cake-1344770",
+            "smallImageUrls": [
+                "https://lh3.googleusercontent.com/k_n1_zGD1NXDkD7eQOK_tOZeAlKQSEeVtjlGCJtJnROtSJmQ8JFhD6U_rnGgLGTUwOX8sZY3YQum7ZCLfiDhiw4=s90"
+            ],
+            "recipeName": "Rustic Apple Cake",
+            "totalTimeInSeconds": 3900,
+            "attributes": {
+                "course": [
+                    "Desserts"
+                ]
+            },
+            "flavors": {
+                "piquant": 0.0,
+                "meaty": 0.16666666666666666,
+                "bitter": 0.16666666666666666,
+                "sweet": 0.8333333333333334,
+                "sour": 0.3333333333333333,
+                "salty": 0.16666666666666666
+            },
+            "rating": 4
+        },
+        {
+            "imageUrlsBySize": {
+                "90": "https://lh3.googleusercontent.com/n8WKLMQhKJqdMFS_NQQGIvSXMsan5nbRFC-t-659C5W8rx-cGUKhkCP-AteHihxdf1baXt26CBYlI6dqetICog=s90-c"
+            },
+            "sourceDisplayName": "Evergreen Kitchen",
+            "ingredients": [
+                "neutral oil",
+                "yellow onion",
+                "garlic",
+                "carrots",
+                "cremini mushrooms",
+                "leeks",
+                "brown rice flour",
+                "vegetable stock",
+                "almond milk",
+                "baby potatoes",
+                "fresh thyme",
+                "lacinato kale",
+                "frozen peas",
+                "salt",
+                "chickpeas"
+            ],
+            "id": "VEGGIE-POT-PIES-WITH-CRISPY-POTATOES-2313196",
+            "smallImageUrls": [
+                "https://lh3.googleusercontent.com/5p1GLnb54U5iW0D8P0KPpc29cMZ1D927AuGM5LVoEIMn4RXb101yx_thsQAz_MrgTltLl-BJ737Ci49ym9sDKT8=s90"
+            ],
+            "recipeName": "VEGGIE POT PIES WITH CRISPY POTATOES",
+            "totalTimeInSeconds": 5100,
+            "attributes": {
+                "course": [
+                    "Main Dishes"
+                ]
+            },
+            "flavors": {
+                "piquant": 0.0,
+                "meaty": 0.16666666666666666,
+                "bitter": 0.5,
+                "sweet": 0.16666666666666666,
+                "sour": 0.6666666666666666,
+                "salty": 0.5
+            },
+            "rating": 4
+        }
+    ],
+    "facetCounts": {},
+    "totalMatchCount": 5219,
+    "attribution": {
+        "html": "Recipe search powered by <a href='http://www.yummly.co/recipes'><img alt='Yummly' src='https://static.yummly.co/api-logo.png'/></a>",
+        "url": "http://www.yummly.co/recipes/",
+        "text": "Recipe search powered by Yummly",
+        "logo": "https://static.yummly.co/api-logo.png"
+    }
+}

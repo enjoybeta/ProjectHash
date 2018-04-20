@@ -1,0 +1,338 @@
+{
+    "criteria": {
+        "q": "n+u+t+s",
+        "allowedIngredient": null,
+        "excludedIngredient": null
+    },
+    "matches": [
+        {
+            "imageUrlsBySize": {
+                "90": "https://lh3.googleusercontent.com/x-sT0HBHbpnRSPBDE4d_X6oJZCLDDUI2yVhAsJN8fJOhm4iLshed8uYiAdZ-Tqflx51J3BGcarP_sMRz8ea_GQ=s90-c"
+            },
+            "sourceDisplayName": "Love and Lemons",
+            "ingredients": [
+                "maple syrup",
+                "active dry yeast",
+                "water",
+                "oil",
+                "white flour",
+                "salt",
+                "baking soda"
+            ],
+            "id": "Vegan-Soft-Baked-Pretzels-2118700",
+            "smallImageUrls": [
+                "https://lh3.googleusercontent.com/SZXhaj89SXDJug2qzRCuSkzSsLfpDiR8jl_cj-ISgEtczEd0ucWxbivI6sGGwO0fJaN8fauqlBW-iuCkIB8yMrU=s90"
+            ],
+            "recipeName": "Vegan Soft Baked Pretzels",
+            "totalTimeInSeconds": 4200,
+            "attributes": {
+                "course": [
+                    "Breads",
+                    "Lunch"
+                ]
+            },
+            "flavors": {
+                "piquant": 0.0,
+                "meaty": 0.16666666666666666,
+                "bitter": 0.16666666666666666,
+                "sweet": 0.16666666666666666,
+                "sour": 0.0,
+                "salty": 0.8333333333333334
+            },
+            "rating": 4
+        },
+        {
+            "imageUrlsBySize": {
+                "90": "https://lh3.googleusercontent.com/vIHB44GkfxfrPNWjVsVhPFZi0d_QZqEPB0XBZkZSQG3jeKh5AyIvxOKW5YRimcALZOwSJdjBZnjhuW-zXCEg=s90-c"
+            },
+            "sourceDisplayName": "4u1s",
+            "ingredients": [
+                "butter",
+                "honey",
+                "lemon juice",
+                "garlic",
+                "salmon fillets",
+                "lemon wedges",
+                "salt"
+            ],
+            "id": "Best-Ever-Browned-Butter-Honey-Garlic-Salmon-2240978",
+            "smallImageUrls": [
+                "https://lh3.googleusercontent.com/syYB0jyvmvBUKX2k3NNQqNKsuwnd4WP-6r3RZCvVc1lOYOjF66z0t4uxoUlRCZqyFNCiq8Gs757FVhTJ13vLaA=s90"
+            ],
+            "recipeName": "Best Ever Browned Butter Honey Garlic Salmon",
+            "totalTimeInSeconds": 1200,
+            "attributes": {
+                "course": [
+                    "Main Dishes"
+                ]
+            },
+            "flavors": {
+                "piquant": 0.0,
+                "meaty": 0.8333333333333334,
+                "bitter": 0.16666666666666666,
+                "sweet": 0.5,
+                "sour": 0.8333333333333334,
+                "salty": 0.3333333333333333
+            },
+            "rating": 4
+        },
+        {
+            "imageUrlsBySize": {
+                "90": "http://lh3.ggpht.com/ZpEyOZHAd4FtoQ3QlNzEtiT_3NFqUkpxMJEMamUStTevg-tzqGr_sYUfOUk-DzYA0JiB1ScHgniKE6a0XquwGLU=s90-c"
+            },
+            "sourceDisplayName": "AApplemint",
+            "ingredients": [
+                "egg whites",
+                "turkey salami",
+                "low-fat cheese",
+                "salt",
+                "pepper",
+                "Tabasco Pepper Sauce"
+            ],
+            "id": "Protein-Packed-Breakfast-623277",
+            "smallImageUrls": [
+                "http://lh5.ggpht.com/qLWGLVMff010QG6VwoIFDrenDTCTpBq-8lwDtegw6oxFz6H-hTsQ0LWNL2I9eNlqy_xsNN-xvd_KSHg3AJ3q-gM=s90"
+            ],
+            "recipeName": "Protein Packed Breakfast",
+            "totalTimeInSeconds": 1800,
+            "attributes": {
+                "course": [
+                    "Breakfast and Brunch"
+                ]
+            },
+            "flavors": null,
+            "rating": 3
+        },
+        {
+            "imageUrlsBySize": {
+                "90": "http://lh6.ggpht.com/krcmu5JynWH3ghFlKSLm5-0f1qVsifvoD904nsA89QGIXy_C703omP2jFLlH4k7OiIzg3HDUNQVa7yjEkmxBvFM=s90-c"
+            },
+            "sourceDisplayName": "The Fountain Avenue Kitchen",
+            "ingredients": [
+                "dinner rolls",
+                "water",
+                "baking soda",
+                "large egg yolks",
+                "pretzel salt",
+                "mustard"
+            ],
+            "id": "Easy-Homemade-Soft-Pretzels-601662",
+            "smallImageUrls": [
+                "http://lh3.ggpht.com/kWcA-mO2DXRV52j71lgbzk8GiiBJSgt4qveb4TCFTxj7Lil3pi0uY3n13_BjqzzG45Q6EUhG4-IxA2J9E8iW8w=s90"
+            ],
+            "recipeName": "Easy Homemade Soft Pretzels",
+            "totalTimeInSeconds": 2100,
+            "attributes": {
+                "course": [
+                    "Lunch",
+                    "Snacks"
+                ]
+            },
+            "flavors": null,
+            "rating": 3
+        },
+        {
+            "imageUrlsBySize": {
+                "90": "http://lh3.ggpht.com/uNCJWhHXcA6Ll2i3EfsrOwRX_e_OPkjefj0rBAbGIiRu_QAb74VKTs1hTiVUwvXrBUhLRqTfG7d7yPdigOJtF68=s90-c"
+            },
+            "sourceDisplayName": "Kalyn's Kitchen",
+            "ingredients": [
+                "sweet potatoes",
+                "olive oil",
+                "ground black pepper",
+                "truffle oil",
+                "truffle salt",
+                "grated parmesan cheese",
+                "sea salt"
+            ],
+            "id": "Roasted-sweet-potatoes-recipe-with-double-truffle-flavor-and-parmesan-309678",
+            "smallImageUrls": [
+                "http://lh5.ggpht.com/VaeHQTNkSYFPVhBbehkKzVJL-IYnY4OfOqdXq0Bwd-pjS3SRyVHxO-Holsff4qtH_sKYssr2knuYbPshjDMZ=s90"
+            ],
+            "recipeName": "Roasted Sweet Potatoes Recipe with Double Truffle Flavor and Parmesan",
+            "totalTimeInSeconds": 2400,
+            "attributes": {
+                "course": [
+                    "Side Dishes"
+                ],
+                "holiday": [
+                    "Sunday Lunch"
+                ]
+            },
+            "flavors": null,
+            "rating": 5
+        },
+        {
+            "imageUrlsBySize": {
+                "90": "https://lh3.googleusercontent.com/MCEJNX22c2clIvdEk0Ejri48oA3mLksBKVftEA-TLlCDWASx1IeOnvV_WnFIBbaZ7w1OGbgKs2ehlQEBMdGpZzc=s90-c"
+            },
+            "sourceDisplayName": "My Cooking Journey",
+            "ingredients": [
+                "all-purpose flour",
+                "active dry yeast",
+                "salt",
+                "sugar",
+                "olive oil",
+                "warm water",
+                "marinara sauce",
+                "oregano",
+                "red pepper flakes",
+                "mozzarella cheese",
+                "parmesan cheese",
+                "oil"
+            ],
+            "id": "Pizza-Swirl-Bread-1979715",
+            "smallImageUrls": [
+                "https://lh3.googleusercontent.com/BjrGDcxdaqb3R4a-svk-IH0jRnvSX6HVKVFEiTm60rfnXuMt0Woa1qntHGHmCTU0iGYjEYI48g_qjb6PpKqtuA=s90"
+            ],
+            "recipeName": "Pizza Swirl Bread",
+            "totalTimeInSeconds": 5400,
+            "attributes": {
+                "course": [
+                    "Breads"
+                ]
+            },
+            "flavors": {
+                "piquant": 0.6666666666666666,
+                "meaty": 0.16666666666666666,
+                "bitter": 0.8333333333333334,
+                "sweet": 0.16666666666666666,
+                "sour": 0.16666666666666666,
+                "salty": 0.8333333333333334
+            },
+            "rating": 4
+        },
+        {
+            "imageUrlsBySize": {
+                "90": "http://lh6.ggpht.com/7NfPA4Y4VyMLckeAHP2Oi-llNz4_kQJgllAX3T7H_GSfpaRJhkEWPfbBW7O09YLMFYes_2j1oCiaMX08LlIu-A=s90-c"
+            },
+            "sourceDisplayName": "Chitra's Food Book",
+            "ingredients": [
+                "coconut oil",
+                "cocoa powder",
+                "honey",
+                "salt"
+            ],
+            "id": "Easy-Homemade-Chocolate-607608",
+            "smallImageUrls": [
+                "http://lh3.ggpht.com/5js6uooOyYbdmp0Z3cKWrvS69RU5CGaTvDjWONwqw-FUFPawegmGEATUirF6kBu1cAHTx2PFmqkruMhUFsY6=s90"
+            ],
+            "recipeName": "Easy Homemade Chocolate",
+            "totalTimeInSeconds": 3900,
+            "attributes": {
+                "course": [
+                    "Desserts"
+                ]
+            },
+            "flavors": {
+                "sweet": 0.8333333333333334,
+                "piquant": 0.0,
+                "sour": 0.16666666666666666,
+                "salty": 0.8333333333333334,
+                "meaty": 0.8333333333333334,
+                "bitter": 0.8333333333333334
+            },
+            "rating": 3
+        },
+        {
+            "imageUrlsBySize": {
+                "90": "https://lh3.googleusercontent.com/zFzFQL36Cu_fikUg19IX5K-h1gmNZdfmZ8kum24dQJsASjuqijeYkBBOcnDf_nBKBmsOwkYA6qtDN3ygYFp6=s90-c"
+            },
+            "sourceDisplayName": "Recipe Just 4 U",
+            "ingredients": [
+                "white mushrooms",
+                "garlic",
+                "clarified butter",
+                "sea salt",
+                "cracked black pepper",
+                "baby spinach"
+            ],
+            "id": "Sauteed-Mushrooms-with-Spinach-and-Garlic-2098435",
+            "smallImageUrls": [
+                "https://lh3.googleusercontent.com/h0vwfuFAAZBwFnSEeTex1-Dw-J8Ax6Fgi5P3kaQegEj_vHoiwR6g7j0fKgMwvR5b7i3cYbbtn9BYogYDFdOt=s90"
+            ],
+            "recipeName": "Sauteed Mushrooms with Spinach and Garlic",
+            "totalTimeInSeconds": 900,
+            "attributes": {
+                "course": [
+                    "Side Dishes"
+                ]
+            },
+            "flavors": null,
+            "rating": 3
+        },
+        {
+            "imageUrlsBySize": {
+                "90": "https://lh3.googleusercontent.com/kDlP2ErQqgk7p9jxp_heM8MkWRACICYuL5lZcWbxBzFFA_mOqHndgbXNK8G1uEKc4QksmLNB2ResE0BldnZY=s90-c"
+            },
+            "sourceDisplayName": "Kalyn's Kitchen",
+            "ingredients": [
+                "persian cucumber",
+                "fresh tomatoes",
+                "green onions",
+                "sliced olives",
+                "low-fat cottage cheese",
+                "olive oil",
+                "za'atar"
+            ],
+            "id": "Effie_s-Easy-and-Amazing-Cottage-Cheese-Salad-with-Za_atar-1350790",
+            "smallImageUrls": [
+                "https://lh3.googleusercontent.com/RpSs1mcNZdQ5rrtInk6Fdsak8buA_Zxl0wcfAbYYZY642IMDzGd0IUVA6fa5KdWaG28NidBjhrYgU7QwbyDimg=s90"
+            ],
+            "recipeName": "Effie's Easy and Amazing Cottage Cheese Salad with Za'atar",
+            "totalTimeInSeconds": 1200,
+            "attributes": {
+                "course": [
+                    "Salads",
+                    "Lunch"
+                ]
+            },
+            "flavors": {
+                "piquant": 0.0,
+                "meaty": 0.16666666666666666,
+                "bitter": 0.16666666666666666,
+                "sweet": 0.16666666666666666,
+                "sour": 0.16666666666666666,
+                "salty": 0.16666666666666666
+            },
+            "rating": 4
+        },
+        {
+            "imageUrlsBySize": {
+                "90": "http://lh3.ggpht.com/VFrslGhcYSDWaHb1_RreXWTpubHWQ7je8FKl3dJ-dzCadkDMm0bFFvviFzCdo0XijA3pfVq6NdDGm90nkx0=s90-c"
+            },
+            "sourceDisplayName": "Kalyn's Kitchen",
+            "ingredients": [
+                "zucchini",
+                "golden zucchini",
+                "green onions",
+                "garlic",
+                "sea salt",
+                "extra-virgin olive oil",
+                "feta cheese",
+                "chiffonade"
+            ],
+            "id": "Roasted-zucchini-with-green-onions_-feta-cheese_-and-basil-309647",
+            "smallImageUrls": [
+                "http://lh3.ggpht.com/QCxfHdCXN05JwFbEwQPTGaBuzpqlTQ9WNw2xaKnWsHYSiYbeKYnH3RcTCM24NQZzzCqXaJ-mNDaXM1YMP3Z-aw=s90"
+            ],
+            "recipeName": "Roasted Zucchini with Green Onions, Feta Cheese, and Basil",
+            "totalTimeInSeconds": 3000,
+            "attributes": {
+                "course": [
+                    "Side Dishes"
+                ]
+            },
+            "flavors": null,
+            "rating": 5
+        }
+    ],
+    "facetCounts": {},
+    "totalMatchCount": 389,
+    "attribution": {
+        "html": "Recipe search powered by <a href='http://www.yummly.co/recipes'><img alt='Yummly' src='https://static.yummly.co/api-logo.png'/></a>",
+        "url": "http://www.yummly.co/recipes/",
+        "text": "Recipe search powered by Yummly",
+        "logo": "https://static.yummly.co/api-logo.png"
+    }
+}

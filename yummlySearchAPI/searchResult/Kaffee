@@ -1,0 +1,393 @@
+{
+    "criteria": {
+        "q": "K+a+f+f+e+e",
+        "allowedIngredient": null,
+        "excludedIngredient": null
+    },
+    "matches": [
+        {
+            "imageUrlsBySize": {
+                "90": "http://lh6.ggpht.com/NQXJ1yabwbvaOLFzlQxtiDqF3JC-QIrTg6m5yNkiwbiwmrgh0dXaOyypu_69Qea4ZOTBYTFzDhd7OeKHUzV4dg=s90-c"
+            },
+            "sourceDisplayName": "Chocolate & Zucchini",
+            "ingredients": [
+                "dark chocolate",
+                "almonds",
+                "candied ginger",
+                "puffed rice",
+                "sea salt"
+            ],
+            "id": "Ginger-and-almond-chocolate-clusters-357334",
+            "smallImageUrls": [
+                "http://lh6.ggpht.com/H8s9m3z6NiOJ80YbnX7b2B7uODP0KfEgSytjEd0CMTh7vAc1xiI0yL-wgM7xK9RqSH_lWvb9Z-nLQrbJZ6sC=s90"
+            ],
+            "recipeName": "Ginger and Almond Chocolate Clusters",
+            "totalTimeInSeconds": 21600,
+            "attributes": {
+                "course": [
+                    "Desserts"
+                ]
+            },
+            "flavors": {
+                "sweet": 0.8333333333333334,
+                "piquant": 0.0,
+                "sour": 0.5,
+                "salty": 0.16666666666666666,
+                "meaty": 0.8333333333333334,
+                "bitter": 0.8333333333333334
+            },
+            "rating": 5
+        },
+        {
+            "imageUrlsBySize": {
+                "90": "http://lh3.googleusercontent.com/RCC5cQg8RaUQCGqADybXQhTSe24QIEAmpRuDA56jKUXJSd9RRPpWQnUghld6Nv8gwzxkduzqylYvW7dal0hR=s90-c"
+            },
+            "sourceDisplayName": "The Daring Kitchen",
+            "ingredients": [
+                "water",
+                "whole milk",
+                "salt",
+                "caster sugar",
+                "butter",
+                "cake flour",
+                "medium eggs",
+                "slivered almonds",
+                "eggs",
+                "whole almonds",
+                "hazelnuts",
+                "egg yolks",
+                "caster",
+                "european style butter",
+                "praline",
+                "vanilla pods"
+            ],
+            "id": "Paris-Brest-1192943",
+            "smallImageUrls": [
+                "http://lh3.googleusercontent.com/u7iAzbJyycMgq4V7CrffzBY5VaVdAY1IBgZ4DnVUqbcV228-KcMrZ8IVNJ-7LcZnX5qr2C2tSMUYaw1dY08nBw=s90"
+            ],
+            "recipeName": "Paris-Brest",
+            "totalTimeInSeconds": 4800,
+            "attributes": {
+                "course": [
+                    "Desserts"
+                ],
+                "cuisine": [
+                    "French"
+                ]
+            },
+            "flavors": {
+                "piquant": 0.0,
+                "meaty": 0.8333333333333334,
+                "bitter": 0.3333333333333333,
+                "sweet": 0.5,
+                "sour": 0.16666666666666666,
+                "salty": 0.16666666666666666
+            },
+            "rating": 4
+        },
+        {
+            "imageUrlsBySize": {
+                "90": "https://lh3.googleusercontent.com/VDK_FpjdTjy1CM9epmRJ0QoETjjEJSJzerA7LP75oHWQL3Hl_f-CWTSYOOvj1jrZwFBN6k3YrOP-roHK3rG3rg=s90-c"
+            },
+            "sourceDisplayName": "Simple Seasonal",
+            "ingredients": [
+                "pork sirloin chops",
+                "flour",
+                "salt",
+                "eggs",
+                "whole wheat breadcrumbs",
+                "delicata squash",
+                "olive oil",
+                "pepper",
+                "greens",
+                "chopped pecans",
+                "shaved parmesan cheese",
+                "cranberry juice",
+                "vegetable oil",
+                "frozen cranberries",
+                "balsamic vinegar",
+                "pure maple syrup",
+                "dijon mustard",
+                "red onion"
+            ],
+            "id": "Spicy-Greens_-Delicata_-and-Crunchy-Pork-Salad-1428881",
+            "smallImageUrls": [
+                "https://lh3.googleusercontent.com/9kWhQ2YnQIVGTZP7HrgMIVBoasn22i74GwiYaNx3VxAobfZlpGibE9g0TwFZZU24ZOJzvjBkfrK_JalBFy6VjsU=s90"
+            ],
+            "recipeName": "Spicy Greens, Delicata, and Crunchy Pork Salad",
+            "totalTimeInSeconds": 2700,
+            "attributes": {
+                "course": [
+                    "Salads",
+                    "Main Dishes"
+                ]
+            },
+            "flavors": {
+                "piquant": 0.16666666666666666,
+                "meaty": 0.16666666666666666,
+                "bitter": 0.16666666666666666,
+                "sweet": 0.16666666666666666,
+                "sour": 0.8333333333333334,
+                "salty": 0.16666666666666666
+            },
+            "rating": 4
+        },
+        {
+            "imageUrlsBySize": {
+                "90": "http://lh3.googleusercontent.com/YwDUR9oDTeAr4X3zQ_4hmw5WAQ41yzYLSz9kLeFbofXc_poYxyLiJlRqIGyyUA7NiMk2e4EtB8rBVNd9FItY8A=s90-c"
+            },
+            "sourceDisplayName": "From Jessica's Kitchen",
+            "ingredients": [
+                "avocado",
+                "garlic cloves",
+                "kosher salt",
+                "cracked black pepper",
+                "cilantro stems",
+                "lime",
+                "jalapeno chilies",
+                "coconut oil",
+                "yellow onion",
+                "pinto beans",
+                "Great Northern Beans",
+                "sauce",
+                "ground cumin",
+                "garlic powder",
+                "tortillas",
+                "cilantro leaves",
+                "white onion"
+            ],
+            "id": "Easy-Green-Enchiladas-_gluten-free_-dairy-free_-soy-free_-vegan-optional_-1167862",
+            "smallImageUrls": [
+                "http://lh3.googleusercontent.com/SRx_F1e5r5XWuwT8aa0FE11JhjPgNAXEpziyZV0NNPcg2LV84L5pLgXIqw5l8qikWkygADtzE6dSlBl9gVfiOA=s90"
+            ],
+            "recipeName": "Easy Green Enchiladas {gluten free, dairy free, soy free, vegan optional}",
+            "totalTimeInSeconds": 1800,
+            "attributes": {
+                "course": [
+                    "Main Dishes"
+                ],
+                "cuisine": [
+                    "Mexican"
+                ]
+            },
+            "flavors": null,
+            "rating": 4
+        },
+        {
+            "imageUrlsBySize": {
+                "90": "https://lh3.googleusercontent.com/rVvLpSmGu4bls15W8O0T1el6vSNEbhwFClKhIH-VQ8wrybJtEfz3voCvZxI4zeecpleguUAv5QQjbv-1ICw3=s90-c"
+            },
+            "sourceDisplayName": "Bite By Michell",
+            "ingredients": [
+                "all-purpose flour",
+                "baking powder",
+                "salt",
+                "brown sugar",
+                "lard",
+                "eggs",
+                "white vinegar",
+                "ice water",
+                "pure pumpkin",
+                "ground cinnamon",
+                "ground nutmeg",
+                "ground ginger",
+                "evaporated milk",
+                "pie shell"
+            ],
+            "id": "Pumpkin-Pie-Or-Better-Yet-Grateful-Pie-1787568",
+            "smallImageUrls": [
+                "https://lh3.googleusercontent.com/y64B7wYvOmkCJcHM7eHwPRNA2Zo1U3mpndME6GUDHlGS5EqR-5ULBpP3lj-igmi0ENYxljf3QcJ-Q8W4AY38e4o=s90"
+            ],
+            "recipeName": "Pumpkin Pie Or Better Yet Grateful Pie",
+            "totalTimeInSeconds": 5400,
+            "attributes": {
+                "course": [
+                    "Desserts"
+                ],
+                "holiday": [
+                    "Halloween"
+                ]
+            },
+            "flavors": null,
+            "rating": 4
+        },
+        {
+            "imageUrlsBySize": {
+                "90": "https://lh3.googleusercontent.com/RzvHOOQWg2waGRrW_pF4tuAZWAidhs2lA5tzW2WBoTbLD6-syYVVjrkFb05uVbxKa_lFogoVQpwN3pjHbFVGzw=s90-c"
+            },
+            "sourceDisplayName": "Food52",
+            "ingredients": [
+                "pork sirloin chops",
+                "flour",
+                "salt",
+                "eggs",
+                "whole wheat breadcrumbs",
+                "delicata squash",
+                "olive oil",
+                "pepper",
+                "greens",
+                "chopped pecans",
+                "shaved parmesan cheese",
+                "cranberry juice",
+                "vegetable oil",
+                "frozen cranberries",
+                "balsamic vinegar",
+                "pure maple syrup",
+                "dijon mustard",
+                "red onion"
+            ],
+            "id": "Spicy-Greens_-Delicata_-and-Crunchy-Pork-Salad-1473583",
+            "smallImageUrls": [
+                "https://lh3.googleusercontent.com/Ku7QmbVjwLQCowCSYJCVttFZsyLqCy9O6UxPLd2QEvyhc-rZyPGT37IxTcb72g-_o-8AjQgzDAgJoCW2IGeXbQ=s90"
+            ],
+            "recipeName": "Spicy Greens, Delicata, and Crunchy Pork Salad",
+            "totalTimeInSeconds": 2700,
+            "attributes": {
+                "course": [
+                    "Salads"
+                ]
+            },
+            "flavors": {
+                "piquant": 0.16666666666666666,
+                "meaty": 0.16666666666666666,
+                "bitter": 0.16666666666666666,
+                "sweet": 0.16666666666666666,
+                "sour": 0.8333333333333334,
+                "salty": 0.16666666666666666
+            },
+            "rating": 3
+        },
+        {
+            "recipeName": "Gingerbread House",
+            "ingredients": [
+                "butter",
+                "dark brown sugar",
+                "light molasses",
+                "cinnamon",
+                "ground ginger",
+                "ground cloves",
+                "baking soda",
+                "all-purpose flour",
+                "water",
+                "white chocolate",
+                "gumdrops",
+                "peppermint",
+                "licorice",
+                "powdered sugar",
+                "large egg whites",
+                "almond extract"
+            ],
+            "totalTimeInSeconds": 5400,
+            "sourceDisplayName": "Food Network",
+            "id": "Gingerbread-House-Food-Network-284013",
+            "rating": 5,
+            "flavors": null,
+            "attributes": {
+                "course": [
+                    "Desserts"
+                ],
+                "holiday": [
+                    "Christmas"
+                ]
+            }
+        },
+        {
+            "imageUrlsBySize": {
+                "90": "http://lh3.googleusercontent.com/EnIovzV6tg7lHqaQbiI588zZTmHh6nuGvmwOdzxb1CaIGUFjFSK123cmesFWTrP-McADQ5Mw3Mwz4IfrEO9QsQ=s90-c"
+            },
+            "sourceDisplayName": "Lecker",
+            "ingredients": [
+                "Mehl",
+                "Backpulver",
+                "Zucker",
+                "Zimt",
+                "Salz",
+                "Eigelb",
+                "Butter",
+                "Pfirsich",
+                "Puderzucker",
+                "Fett"
+            ],
+            "id": "Peach-Cobbler-_Pfirsich-Crumble-mit-Zimtstreuseln_-838754",
+            "smallImageUrls": [
+                "http://lh3.googleusercontent.com/0k4YUI69wpARbEqtxbhVwg5ct7OiaqIcWWGHfYRn2Mx8_uiRAudxTPrHz0Jz1-9EWalpNb-o3AoU2NloOUAzWvc=s90"
+            ],
+            "recipeName": "Peach-Cobbler (Pfirsich-Crumble mit Zimtstreuseln)",
+            "totalTimeInSeconds": 2700,
+            "attributes": {
+                "course": [
+                    "Desserts"
+                ]
+            },
+            "flavors": null,
+            "rating": 3
+        },
+        {
+            "imageUrlsBySize": {
+                "90": "http://lh3.googleusercontent.com/yInHxhaupnIDrqFbfEif-XSoq7xuDHE0y5TXspCzpALuRJthD0J3j3O9Zo8CqLvWJQrfWUt4O_KUtVkuIfMi8Ik=s90-c"
+            },
+            "sourceDisplayName": "Lecker",
+            "ingredients": [
+                "Vanilleschote",
+                "Schlabgobers",
+                "Milch",
+                "Zucker",
+                "Ei",
+                "Eigelb",
+                "Erdbeere"
+            ],
+            "id": "Creme-Brulee-835565",
+            "smallImageUrls": [
+                "http://lh3.googleusercontent.com/pEcDBFC4HEgnEFoi_G3EHLhW-d0XiqJCxZh349W6sl4ogWMnFpMtKkKLNoskDy3kVwew_5KMR6Ax4T-7uRd5Y4c=s90"
+            ],
+            "recipeName": "Cre\u0300me Bru\u0302lee",
+            "totalTimeInSeconds": 5400,
+            "attributes": {
+                "course": [
+                    "Desserts"
+                ]
+            },
+            "flavors": {
+                "sweet": 0.8333333333333334,
+                "piquant": 0.0,
+                "sour": 0.3333333333333333,
+                "salty": 0.16666666666666666,
+                "meaty": 0.3333333333333333,
+                "bitter": 0.16666666666666666
+            },
+            "rating": 3
+        },
+        {
+            "imageUrlsBySize": {
+                "90": "http://lh3.googleusercontent.com/PxjXf99xIvJgzFObolQvrT0rp0v-vrdML6xA1k5y-2BCHnxwHb0t0wOmPdOG-cJzrJORXY53JdMSF8FA_b0o=s90-c"
+            },
+            "sourceDisplayName": "Lecker",
+            "ingredients": [
+                "Sushireis",
+                "Reisweinessig",
+                "Salz",
+                "Zucker",
+                "Lachsfilet",
+                "Seetang",
+                "Wasabipaste"
+            ],
+            "id": "Nigiri-Sushi-_Handgeformte-Reisballchen_-812630",
+            "smallImageUrls": [
+                "http://lh3.googleusercontent.com/ksMu7mOQ0Nk5I9xQSEwpVXgPYbI73M7TE09Dm0f_txyKH8BafEJV4Ih-QXqgFZjk0wLLe_IYJ8gOlpfZtZED=s90"
+            ],
+            "recipeName": "Nigiri-Sushi (Handgeformte Reisba\u0308llchen)",
+            "totalTimeInSeconds": 3600,
+            "attributes": {},
+            "flavors": null,
+            "rating": 3
+        }
+    ],
+    "facetCounts": {},
+    "totalMatchCount": 28751,
+    "attribution": {
+        "html": "Recipe search powered by <a href='http://www.yummly.co/recipes'><img alt='Yummly' src='https://static.yummly.co/api-logo.png'/></a>",
+        "url": "http://www.yummly.co/recipes/",
+        "text": "Recipe search powered by Yummly",
+        "logo": "https://static.yummly.co/api-logo.png"
+    }
+}

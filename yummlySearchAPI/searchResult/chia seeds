@@ -63,8 +63,19 @@
             ],
             "recipeName": "Semolina Dumplings",
             "totalTimeInSeconds": 1800,
-            "attributes": {},
-            "flavors": null,
+            "attributes": {
+                "course": [
+                    "Desserts"
+                ]
+            },
+            "flavors": {
+                "piquant": 0.0,
+                "meaty": 0.16666666666666666,
+                "bitter": 0.16666666666666666,
+                "sweet": 0.16666666666666666,
+                "sour": 0.16666666666666666,
+                "salty": 0.16666666666666666
+            },
             "rating": 3
         },
         {
@@ -97,7 +108,12 @@
             ],
             "recipeName": "Orgeat Syrup from Shake, Stir, Pour",
             "totalTimeInSeconds": 1200,
-            "attributes": {},
+            "attributes": {
+                "course": [
+                    "Beverages",
+                    "Cocktails"
+                ]
+            },
             "flavors": null,
             "rating": 4
         },
@@ -118,26 +134,11 @@
             "id": "Chicago-Style-Steak-With-Bleu-Cheese-Butter-Food_com-125744",
             "rating": 4,
             "flavors": null,
-            "attributes": {}
-        },
-        {
-            "recipeName": "Rillettes De Porc (Potted Pork)",
-            "ingredients": [
-                "pork belly",
-                "bay leaf",
-                "salt",
-                "ground pepper",
-                "water",
-                "garlic cloves",
-                "dried sage",
-                "dried thyme"
-            ],
-            "totalTimeInSeconds": 13500,
-            "sourceDisplayName": "Food.com",
-            "id": "Rillettes-De-Porc-_Potted-Pork_-Food_com-154961",
-            "rating": 3,
-            "flavors": null,
-            "attributes": {}
+            "attributes": {
+                "course": [
+                    "Main Dishes"
+                ]
+            }
         },
         {
             "recipeName": "ZUCCHINI ROLL UP WITH RISOTTO RICE",
@@ -175,6 +176,36 @@
             }
         },
         {
+            "recipeName": "Rillettes De Porc (Potted Pork)",
+            "ingredients": [
+                "pork belly",
+                "bay leaf",
+                "salt",
+                "ground pepper",
+                "water",
+                "garlic cloves",
+                "dried sage",
+                "dried thyme"
+            ],
+            "totalTimeInSeconds": 13500,
+            "sourceDisplayName": "Food.com",
+            "id": "Rillettes-De-Porc-_Potted-Pork_-Food_com-154961",
+            "rating": 3,
+            "flavors": {
+                "sweet": 0.0,
+                "piquant": 0.16666666666666666,
+                "sour": 0.16666666666666666,
+                "salty": 0.16666666666666666,
+                "meaty": 0.16666666666666666,
+                "bitter": 0.16666666666666666
+            },
+            "attributes": {
+                "cuisine": [
+                    "French"
+                ]
+            }
+        },
+        {
             "recipeName": "Gingerbread House",
             "ingredients": [
                 "butter",
@@ -199,7 +230,14 @@
             "id": "Gingerbread-House-Food-Network-284013",
             "rating": 5,
             "flavors": null,
-            "attributes": {}
+            "attributes": {
+                "course": [
+                    "Desserts"
+                ],
+                "holiday": [
+                    "Christmas"
+                ]
+            }
         },
         {
             "imageUrlsBySize": {
@@ -235,7 +273,14 @@
             "recipeName": "Chateaubriand mit Speckbohnen, Macaire - Kartoffeln und Sauce Be\u0301arnaise",
             "totalTimeInSeconds": 3600,
             "attributes": {},
-            "flavors": null,
+            "flavors": {
+                "sweet": 0.16666666666666666,
+                "piquant": 0.0,
+                "sour": 0.5,
+                "salty": 0.16666666666666666,
+                "meaty": 0.6666666666666666,
+                "bitter": 0.16666666666666666
+            },
             "rating": 3
         },
         {
@@ -277,7 +322,14 @@
             "recipeName": "Lammfilets im Bla\u0308tterteigmantel mit einer Steinpilzfu\u0308llung",
             "totalTimeInSeconds": 5400,
             "attributes": {},
-            "flavors": null,
+            "flavors": {
+                "sweet": 0.16666666666666666,
+                "piquant": 0.0,
+                "sour": 0.16666666666666666,
+                "salty": 0.8333333333333334,
+                "meaty": 0.5,
+                "bitter": 0.6666666666666666
+            },
             "rating": 3
         },
         {

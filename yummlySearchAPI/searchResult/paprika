@@ -1,0 +1,153 @@
+{
+    "criteria": {
+        "q": "p+a+p+r+i+k+a",
+        "allowedIngredient": null,
+        "excludedIngredient": null
+    },
+    "matches": [
+        {
+            "imageUrlsBySize": {
+                "90": "http://lh3.googleusercontent.com/xZNeEWO0LHnSHHfmQMq4BIj43j4ySBJi7H6x3pEJVF0gcORU_0OzlQrHXzXd346kWeeZg2WXIzV0pEZwUk-H_BE=s90-c"
+            },
+            "sourceDisplayName": "Carnal Dish",
+            "ingredients": [
+                "new york strip steaks",
+                "heavy cream",
+                "extra-virgin olive oil",
+                "worcestershire sauce",
+                "gruyere cheese",
+                "tomatoes",
+                "arugula",
+                "hamburger buns",
+                "Montr\u00e9al steak seasoning",
+                "cayenne pepper",
+                "granulated garlic",
+                "onion powder",
+                "kosher salt",
+                "jumbo shrimp",
+                "panko breadcrumbs",
+                "Italian style breadcrumbs",
+                "all-purpose flour",
+                "eggs",
+                "salt",
+                "black pepper",
+                "old bay seasoning",
+                "paprika",
+                "oil",
+                "yellow onion",
+                "low-fat cultured buttermilk",
+                "seasoning salt",
+                "dried parsley",
+                "mayonnaise",
+                "flat leaf parsley",
+                "prepar pesto",
+                "garlic",
+                "lemon juice",
+                "capers",
+                "crushed red pepper flakes",
+                "pepper"
+            ],
+            "id": "The-Big-K_R_I_T_-King-Burger-1058545",
+            "smallImageUrls": [
+                "http://lh3.googleusercontent.com/nAg143-KhKp6w4KxBvyADo3S_MSakLW0h7osELlyK4YBbyibxbovfE5HxC3hNyY7q_5KISj9bqGPPpf_wNJT-rE=s90"
+            ],
+            "recipeName": "The Big K.R.I.T. \u201cKing\u201d Burger",
+            "totalTimeInSeconds": 3300,
+            "attributes": {
+                "course": [
+                    "Lunch",
+                    "Main Dishes"
+                ]
+            },
+            "flavors": null,
+            "rating": 4
+        },
+        {
+            "imageUrlsBySize": {
+                "90": "https://lh3.googleusercontent.com/MsZxS0US0hfcaqaPAQCg13BUJj-C2Ptan5_AJpmA-CwdwemT55ubNMjRiPPsx4uibrkSi5xKYGhMXeYKQjg=s90-c"
+            },
+            "sourceDisplayName": "Food52",
+            "ingredients": [
+                "linguine",
+                "butter",
+                "garlic",
+                "crab meat",
+                "fresh lemon juice",
+                "olive oil",
+                "cooking wine",
+                "water",
+                "fish sauce"
+            ],
+            "id": "Garlic-crab-noodles-322468",
+            "smallImageUrls": [
+                "https://lh3.googleusercontent.com/_Go4LPbbNBv1ilJt2hW7X58j0lawyD3bxP8tTFpBjbG149Z0BCK28-DOPkt5FkjXmXm5VMxL4X68kuU6XoqbAg=s90"
+            ],
+            "recipeName": "Garlic Crab Noodles",
+            "totalTimeInSeconds": 1800,
+            "attributes": {
+                "course": [
+                    "Main Dishes"
+                ]
+            },
+            "flavors": {
+                "piquant": 0.0,
+                "meaty": 0.6666666666666666,
+                "bitter": 0.6666666666666666,
+                "sweet": 0.16666666666666666,
+                "sour": 0.16666666666666666,
+                "salty": 0.6666666666666666
+            },
+            "rating": 3
+        },
+        {
+            "imageUrlsBySize": {
+                "90": "http://lh4.ggpht.com/cdsBcUk9hoA6AugsEdUw2Xq51LnHC9lKxSTlO1OAqAWniRm6jeB2ePjvf_CMNba49rmH7ns8nL2ET2e606vl5w=s90-c"
+            },
+            "sourceDisplayName": "Epicurious",
+            "ingredients": [
+                "cooking spray",
+                "raw sugar",
+                "dark brown sugar",
+                "avocado",
+                "unsweetened applesauce",
+                "large egg whites",
+                "pure vanilla extract",
+                "unbleached flour",
+                "all-purpose flour",
+                "unsweetened cocoa powder",
+                "baking soda",
+                "kosher salt",
+                "semisweet chocolate chunks",
+                "chopped walnuts"
+            ],
+            "id": "Double-Chocolate-Chunk-Walnut-Cookies-1028684",
+            "smallImageUrls": [
+                "http://lh6.ggpht.com/L4PiYeFsssgnR5g6fL5lBFy25TZS3QUOVZw8bNqQiH9esNbk9AjxHVjg-Onhe6Ss8tpZYRLmvLRSsVfHst86eA=s90"
+            ],
+            "recipeName": "Double Chocolate Chunk Walnut Cookies",
+            "totalTimeInSeconds": 3000,
+            "attributes": {
+                "course": [
+                    "Desserts"
+                ]
+            },
+            "flavors": {
+                "piquant": 0.0,
+                "meaty": 0.6666666666666666,
+                "bitter": 0.3333333333333333,
+                "sweet": 0.8333333333333334,
+                "sour": 0.16666666666666666,
+                "salty": 0.16666666666666666
+            },
+            "rating": 3
+        }
+    ],
+    "facetCounts": {},
+    "totalMatchCount": 3,
+    "attribution": {
+        "html": "Recipe search powered by <a href='http://www.yummly.co/recipes'><img alt='Yummly' src='https://static.yummly.co/api-logo.png'/></a>",
+        "url": "http://www.yummly.co/recipes/",
+        "text": "Recipe search powered by Yummly",
+        "logo": "https://static.yummly.co/api-logo.png"
+    }
+}

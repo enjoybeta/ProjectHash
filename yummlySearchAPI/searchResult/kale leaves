@@ -1,0 +1,345 @@
+{
+    "criteria": {
+        "q": "k+a+l+e+ +l+e+a+v+e+s",
+        "allowedIngredient": null,
+        "excludedIngredient": null
+    },
+    "matches": [
+        {
+            "imageUrlsBySize": {
+                "90": "http://lh3.googleusercontent.com/W5iegrkr_eUZScrtHCUBNUasxlgSu92jYR-UU6jXv95-HnZoOPjB--iB5DGVQnyCqtAUVZ7x4duuGaYGDUn2AA=s90-c"
+            },
+            "sourceDisplayName": "Lecker",
+            "ingredients": [
+                "Pflaume",
+                "Rotwein",
+                "Gew\u00fcrz",
+                "Zucker",
+                "Zitrone"
+            ],
+            "id": "Pflaumenmus-827527",
+            "smallImageUrls": [
+                "http://lh3.googleusercontent.com/cJekPpoZek31JSpuDCRnIRkvR2z5mIAFQU50ITwgj1t2R5LjB5Ko1IexeHD5ESD6ern2VGecOEyl3efZbhqd=s90"
+            ],
+            "recipeName": "Pflaumenmus",
+            "totalTimeInSeconds": 10800,
+            "attributes": {},
+            "flavors": {
+                "sweet": 0.8333333333333334,
+                "piquant": 0.0,
+                "sour": 0.8333333333333334,
+                "salty": 0.0,
+                "meaty": 0.16666666666666666,
+                "bitter": 0.0
+            },
+            "rating": 3
+        },
+        {
+            "imageUrlsBySize": {
+                "90": "http://lh3.googleusercontent.com/ce-or78ZCi0WxC6XdQS3pYbrZOMkhFNO_rMFGzDu7Dkwum6Mabwz8Xz30OauDSsDuU-yKRJWNcuk4eTw4v4Cnso=s90-c"
+            },
+            "sourceDisplayName": "Lecker",
+            "ingredients": [
+                "Spinat",
+                "Knoblaucknolle",
+                "Basilikumblatt",
+                "Gem\u00fcsebr\u00fche",
+                "Buttermilch",
+                "Salz",
+                "Pfeffer"
+            ],
+            "id": "Spinat-Basilikum-Drink-824799",
+            "smallImageUrls": [
+                "http://lh3.googleusercontent.com/DC4PQQ-IFRtAScANIoa5h0jzE3oRKyoQ89AUh_mzbYSiUVTYHogdCaLYgAwGuvuT2UB97MNRrt8Ek8LTQP1q=s90"
+            ],
+            "recipeName": "Spinat-Basilikum-Drink",
+            "totalTimeInSeconds": 900,
+            "attributes": {},
+            "flavors": {
+                "sweet": 0.16666666666666666,
+                "piquant": 0.0,
+                "sour": 0.5,
+                "salty": 0.8333333333333334,
+                "meaty": 0.16666666666666666,
+                "bitter": 0.8333333333333334
+            },
+            "rating": 3
+        },
+        {
+            "imageUrlsBySize": {
+                "90": "http://lh3.googleusercontent.com/cOocC8wN7FYTHXa00ep80ti4ijljJB2SVrFIpBWxaL6FwZPPJ0opF7Nudu0u8ccNysvRyPs-nyuWqnqGvbGWtQ=s90-c"
+            },
+            "sourceDisplayName": "Lecker",
+            "ingredients": [
+                "Biskuit",
+                "Ei",
+                "Zucker",
+                "Mehl",
+                "Speisest\u00e4rke",
+                "Backpulver",
+                "Kakaopulver",
+                "F\u00fcllung",
+                "\u00c4pfel",
+                "Apelsaft",
+                "Zitrone",
+                "Kuvert\u00fcre",
+                "Schlabgobers",
+                "Kirsch\u00e4pfel"
+            ],
+            "id": "Sahnige-Apfeltorte-Schwarzwalder-Art-827795",
+            "smallImageUrls": [
+                "http://lh3.googleusercontent.com/sVC58VICTckiXpFOMEBQdpXRoQT0oV2TERsBh7msvc8eaWJGUHzfLHTjEY7qhBkaW3wXj-xKL_Rm8fZdQa_Hrw=s90"
+            ],
+            "recipeName": "Sahnige Apfeltorte Schwarzwa\u0308lder Art",
+            "totalTimeInSeconds": 5400,
+            "attributes": {
+                "course": [
+                    "Desserts"
+                ]
+            },
+            "flavors": null,
+            "rating": 3
+        },
+        {
+            "imageUrlsBySize": {
+                "90": "http://lh3.googleusercontent.com/4-z2F-5DOD3OhgKXvFOGxI7kn8aR0FkOxycYpZGL_hcfaF749DTDARVJBvhosZCBmBR8jdIDQqfr6u5OmUjh6A=s90-c"
+            },
+            "sourceDisplayName": "Lecker",
+            "ingredients": [
+                "Teig",
+                "Butter",
+                "Zucker",
+                "Salz",
+                "Ei",
+                "Mehl",
+                "Backpulver",
+                "Milch",
+                "Fett",
+                "Schlabgobers",
+                "Mandelbl\u00e4tter",
+                "F\u00fcllung",
+                "Marille",
+                "Saucenpulver",
+                "Zitronenmelisse"
+            ],
+            "id": "Bienenstich-826075",
+            "smallImageUrls": [
+                "http://lh3.googleusercontent.com/IIjfNdESVu3kFWSNYE5O99rwDtJy195hCsHrGSo8qNX4Btl4an0Zsn1Fav50SX5G9pNQGsDGe45JFp9F2uhQT-Q=s90"
+            ],
+            "recipeName": "Bienenstich",
+            "totalTimeInSeconds": 5400,
+            "attributes": {
+                "course": [
+                    "Desserts"
+                ]
+            },
+            "flavors": null,
+            "rating": 3
+        },
+        {
+            "imageUrlsBySize": {
+                "90": "http://lh3.googleusercontent.com/A-VQ2OtpwvcXRq4YziVJhiokIfrhsBUB4Z68gujLvc1QEGyFx95B0kVikATn9j_jFN9kq_KszARlvj9-VP0w7w=s90-c"
+            },
+            "sourceDisplayName": "Lecker",
+            "ingredients": [
+                "H\u00fchnchenbrust",
+                "H\u00fchnerbouillon",
+                "M\u00f6hre",
+                "Kohlrabi",
+                "Erbsen",
+                "Petersile",
+                "Salz",
+                "Pfeffer",
+                "Rahm"
+            ],
+            "id": "Fruhlingseintopf-827043",
+            "smallImageUrls": [
+                "http://lh3.googleusercontent.com/rz8u7-37i1i1wXGVG9EHHKq5UxBVsW81gBKdnYv3vq9f0xenQXkufUTv8cfcOyVK2kGiCE0Po05798ZX_ZEl=s90"
+            ],
+            "recipeName": "Fru\u0308hlingseintopf",
+            "totalTimeInSeconds": 2100,
+            "attributes": {},
+            "flavors": null,
+            "rating": 3
+        },
+        {
+            "imageUrlsBySize": {
+                "90": "http://lh3.googleusercontent.com/tkV12bRVLU8Y0xqSNMjwIoLFexE1Yw55ICPHuVOyABrVhev_PT_vO8FetexpSV2qxpoX-uAi5kQP6Gt7VPqGNJ4=s90-c"
+            },
+            "sourceDisplayName": "Lecker",
+            "ingredients": [
+                "\u00d6l",
+                "Bulgur",
+                "Gem\u00fcsebr\u00fche",
+                "Fr\u00fchlingszwiebelgr\u00fcn",
+                "Tomate",
+                "K\u00e4se",
+                "Salz",
+                "Pfeffer",
+                "Majoran",
+                "Melanzani"
+            ],
+            "id": "Gefullte-Auberginen-in-Tomatensoe-824304",
+            "smallImageUrls": [
+                "http://lh3.googleusercontent.com/9BBFX9TpqMMjcBmKSz_8CiMPeLP4FTQETKWZM7FC5X0u9J9mSNvdpmkaJFUmuJIDQPUxBUvW-4w2Kpwgc-wjlw=s90"
+            ],
+            "recipeName": "Gefu\u0308llte Auberginen in Tomatenso\u00dfe",
+            "totalTimeInSeconds": 4500,
+            "attributes": {},
+            "flavors": {
+                "sweet": 0.16666666666666666,
+                "piquant": 0.0,
+                "sour": 0.5,
+                "salty": 0.16666666666666666,
+                "meaty": 0.16666666666666666,
+                "bitter": 0.5
+            },
+            "rating": 3
+        },
+        {
+            "imageUrlsBySize": {
+                "90": "http://lh3.googleusercontent.com/C06c7PLceTXp_ftznp4_qFEepQlEG3N3OS5T1wLzXdGPgVyuzfPGTCEa_Iis8Lz4STyttgJXSmSAx-24Un07=s90-c"
+            },
+            "sourceDisplayName": "Lecker",
+            "ingredients": [
+                "broccoli",
+                "Salz",
+                "Zwiebel",
+                "Knoblaucknolle",
+                "Oliven\u00f6l",
+                "Reis",
+                "Wei\u00dfwein",
+                "Erbsen",
+                "Kr\u00e4uter",
+                "Pfeffer",
+                "Schlabgobers",
+                "Parmesank\u00e4se"
+            ],
+            "id": "Schnelles-Risotto-818749",
+            "smallImageUrls": [
+                "http://lh3.googleusercontent.com/MPFeHSdAc-qfSK1P8K1-raNih7dwlgK6qdtLfPBL-lIC0-bdCpqrsL6tKPkpKFcit2J7Arf8TUfulPxhDOkdXg=s90"
+            ],
+            "recipeName": "Schnelles Risotto",
+            "totalTimeInSeconds": 1800,
+            "attributes": {},
+            "flavors": {
+                "sweet": 0.3333333333333333,
+                "piquant": 0.0,
+                "sour": 0.8333333333333334,
+                "salty": 0.3333333333333333,
+                "meaty": 0.16666666666666666,
+                "bitter": 0.16666666666666666
+            },
+            "rating": 3
+        },
+        {
+            "imageUrlsBySize": {
+                "90": "http://lh3.googleusercontent.com/JdKtY1W8xF1uyX8H0ISnEc8EcOzfDpjwFpFomKeEm_8jcnU5J7DMv4Jjkv4ybASF6dEnX1oRCXAwIHKSrk8G=s90-c"
+            },
+            "sourceDisplayName": "Lecker",
+            "ingredients": [
+                "Walnuss",
+                "Petersile",
+                "Obersk\u00e4se",
+                "Braten",
+                "Salz",
+                "Pfeffer",
+                "Zwiebel",
+                "M\u00f6hre",
+                "Champignon",
+                "Butter",
+                "Fleischbr\u00fche",
+                "Schlabgobers",
+                "Sossenpulver"
+            ],
+            "id": "Schweinerollbraten-mit-Gemuse-823530",
+            "smallImageUrls": [
+                "http://lh3.googleusercontent.com/GJf6IAh-0Q-fF7KAzNrfHpMd_9hHq5Al7X1muKkYkhbgjRFgXF1_TohZgDw5VWe0ESEZe3wffYcKHJ4v7Ixt-A=s90"
+            ],
+            "recipeName": "Schweinerollbraten mit Gemu\u0308se",
+            "totalTimeInSeconds": 7200,
+            "attributes": {},
+            "flavors": null,
+            "rating": 3
+        },
+        {
+            "imageUrlsBySize": {
+                "90": "http://lh3.googleusercontent.com/FrLxWdjEJ227tVkCZ5jrG36tP45e18ERCYUchkcfTI8l_5ilg8YqEglkzBo46g8l5pOF5CIL0mOQlD5h1RRPNwE=s90-c"
+            },
+            "sourceDisplayName": "Lecker",
+            "ingredients": [
+                "Blumenkohlkopf",
+                "Salz",
+                "Semmelbrot",
+                "Zwiebel",
+                "Rindergehacktes",
+                "Ei",
+                "Senf",
+                "Pfeffer",
+                "\u00d6l",
+                "Erbsen",
+                "M\u00f6hre",
+                "Butter",
+                "Mehl",
+                "Milch",
+                "Petersile",
+                "Schnittlauch"
+            ],
+            "id": "Blumenkohl-Hackbraten-926382",
+            "smallImageUrls": [
+                "http://lh3.googleusercontent.com/NU432j8LVMHpa5yYs6L9jP2vltbpsJbawGg5BSIR_1iT4Osn5U8i7-53-zuF1os3M-NxOrLAJrjrx0HvdTiM6Cc=s90"
+            ],
+            "recipeName": "Blumenkohl-Hackbraten",
+            "totalTimeInSeconds": 5400,
+            "attributes": {},
+            "flavors": {
+                "sweet": 0.3333333333333333,
+                "piquant": 0.16666666666666666,
+                "sour": 0.8333333333333334,
+                "salty": 0.16666666666666666,
+                "meaty": 0.3333333333333333,
+                "bitter": 0.5
+            },
+            "rating": 3
+        },
+        {
+            "imageUrlsBySize": {
+                "90": "http://lh3.googleusercontent.com/6xsXPpi2TaBAZe0SZ3tsTHDXN8s4J_URlu70hy9mM2U7ptCRHdX2thK47DFBQE12a_KiLpOE22Xuzx0HIKdCEQ=s90-c"
+            },
+            "sourceDisplayName": "Lecker",
+            "ingredients": [
+                "Hendl",
+                "Salz",
+                "Butter",
+                "Kohlrabi",
+                "M\u00f6hre",
+                "Erbsen",
+                "Mehl",
+                "Milch",
+                "Pfeffer wei\u00df",
+                "Gem\u00fcsebr\u00fche",
+                "Kerbel",
+                "Honig",
+                "Senf",
+                "Cayennepfeffer"
+            ],
+            "id": "Honig-Senf-Hahnchen-mit-jungem-Gemuse-817044",
+            "smallImageUrls": [
+                "http://lh3.googleusercontent.com/OsA6MG_FREdvNgttCJpnVgm79fLX2WStGX7G2caYkxmbRs_TCU0NIiaG820mmAiXgQZTlB_UBVmVaF04cgowag=s90"
+            ],
+            "recipeName": "Honig-Senf-Ha\u0308hnchen mit jungem Gemu\u0308se",
+            "totalTimeInSeconds": 5400,
+            "attributes": {},
+            "flavors": null,
+            "rating": 3
+        }
+    ],
+    "facetCounts": {},
+    "totalMatchCount": 20,
+    "attribution": {
+        "html": "Recipe search powered by <a href='http://www.yummly.co/recipes'><img alt='Yummly' src='https://static.yummly.co/api-logo.png'/></a>",
+        "url": "http://www.yummly.co/recipes/",
+        "text": "Recipe search powered by Yummly",
+        "logo": "https://static.yummly.co/api-logo.png"
+    }
+}

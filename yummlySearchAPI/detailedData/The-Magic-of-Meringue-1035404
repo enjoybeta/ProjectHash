@@ -1,0 +1,42 @@
+{
+    "nutritionEstimates": [],
+    "totalTime": "40 min",
+    "images": [
+        {
+            "hostedSmallUrl": "http://lh3.ggpht.com/BWlY2TvwDsUt812z9kK6O8GBR4GqbvjuDc9Z6kgHAgz-1xZsjRUipgnhO3453Yu9MGZnQdtx2Qwoivn9py43LA=s90",
+            "hostedMediumUrl": "http://lh3.ggpht.com/BWlY2TvwDsUt812z9kK6O8GBR4GqbvjuDc9Z6kgHAgz-1xZsjRUipgnhO3453Yu9MGZnQdtx2Qwoivn9py43LA=s180",
+            "hostedLargeUrl": "http://lh3.ggpht.com/BWlY2TvwDsUt812z9kK6O8GBR4GqbvjuDc9Z6kgHAgz-1xZsjRUipgnhO3453Yu9MGZnQdtx2Qwoivn9py43LA=s360",
+            "imageUrlsBySize": {
+                "90": "http://lh4.ggpht.com/vmU9QHwGsQb0H6nth3FVYRN7I9v76Dfpd7vXo3xHgUSiQhfbX7lPoQ3YqSkC4So27xI3wyl4Pav24I--lO0fHw=s90-c",
+                "360": "http://lh4.ggpht.com/vmU9QHwGsQb0H6nth3FVYRN7I9v76Dfpd7vXo3xHgUSiQhfbX7lPoQ3YqSkC4So27xI3wyl4Pav24I--lO0fHw=s360-c"
+            }
+        }
+    ],
+    "name": "The Magic of Meringue",
+    "source": {
+        "sourceDisplayName": "Cupcake Project",
+        "sourceSiteUrl": "http://www.cupcakeproject.com",
+        "sourceRecipeUrl": "http://www.cupcakeproject.com/2007/08/coffee-cupcakes-magic-of-meringue.html"
+    },
+    "id": "The-Magic-of-Meringue-1035404",
+    "ingredientLines": [
+        "1 cup egg whites (from approximately 7-8 eggs)",
+        "2 cups sugar",
+        "1 t [coffee extract|http://www.amazon.com/gp/product/B0002PHE8O/104-2558985-5799145"
+    ],
+    "attribution": {
+        "html": "<a href='http://www.yummly.co/recipe/The-Magic-of-Meringue-1035404'>The Magic of Meringue recipe</a> information powered by <img alt='Yummly' src='https://static.yummly.co/api-logo.png'/>",
+        "url": "http://www.yummly.co/recipe/The-Magic-of-Meringue-1035404",
+        "text": "The Magic of Meringue recipes: information powered by Yummly",
+        "logo": "https://static.yummly.co/api-logo.png"
+    },
+    "numberOfServings": 4,
+    "totalTimeInSeconds": 2400,
+    "attributes": {
+        "course": [
+            "Desserts"
+        ]
+    },
+    "flavors": {},
+    "rating": 5
+}

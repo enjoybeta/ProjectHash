@@ -1,0 +1,46 @@
+{
+    "nutritionEstimates": [],
+    "totalTime": "1 hr 5 min",
+    "images": [
+        {
+            "hostedSmallUrl": "https://lh3.googleusercontent.com/QDL1JwDpvwDDWANqigVEFmCFFshdBQadRnAaA8vUtFF9W7fNjl03Kvt5Z7TnqvswxgPABCtyAvxAvC3lWmSDvw=s90",
+            "hostedMediumUrl": "https://lh3.googleusercontent.com/QDL1JwDpvwDDWANqigVEFmCFFshdBQadRnAaA8vUtFF9W7fNjl03Kvt5Z7TnqvswxgPABCtyAvxAvC3lWmSDvw=s180",
+            "hostedLargeUrl": "https://lh3.googleusercontent.com/QDL1JwDpvwDDWANqigVEFmCFFshdBQadRnAaA8vUtFF9W7fNjl03Kvt5Z7TnqvswxgPABCtyAvxAvC3lWmSDvw=s360",
+            "imageUrlsBySize": {
+                "90": "https://lh3.googleusercontent.com/_QV-k1erBfTAc1u7Zdy3p1pdje0V3yjdMrx5-h8IrGdIH51eclAIlhX8zqwkg-MW3ylJfSU-GAym62XylXshJyk=s90-c",
+                "360": "https://lh3.googleusercontent.com/_QV-k1erBfTAc1u7Zdy3p1pdje0V3yjdMrx5-h8IrGdIH51eclAIlhX8zqwkg-MW3ylJfSU-GAym62XylXshJyk=s360-c"
+            }
+        }
+    ],
+    "name": "Pretzel Rolls",
+    "source": {
+        "sourceDisplayName": "Auerbach's Kitchen",
+        "sourceSiteUrl": "auerbachskitchen.com",
+        "sourceRecipeUrl": "https://auerbachskitchen.com/2017/02/13/pretzel-rolls/"
+    },
+    "id": "Pretzel-Rolls-2080840",
+    "ingredientLines": [
+        "5.5 cups all-purpose flour",
+        "2 tsp dry yeast",
+        "1.5 cups water",
+        "1 tsp sugar",
+        "2 tsp salt",
+        "4.5 tbsp baking soda",
+        "1.5 quarts water"
+    ],
+    "attribution": {
+        "html": "<a href='http://www.yummly.co/recipe/Pretzel-Rolls-2080840'>Pretzel Rolls recipe</a> information powered by <img alt='Yummly' src='https://static.yummly.co/api-logo.png'/>",
+        "url": "http://www.yummly.co/recipe/Pretzel-Rolls-2080840",
+        "text": "Pretzel Rolls recipes: information powered by Yummly",
+        "logo": "https://static.yummly.co/api-logo.png"
+    },
+    "numberOfServings": 4,
+    "totalTimeInSeconds": 3900,
+    "attributes": {
+        "course": [
+            "Breads"
+        ]
+    },
+    "flavors": {},
+    "rating": 4
+}

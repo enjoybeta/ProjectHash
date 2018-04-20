@@ -1,0 +1,54 @@
+{
+    "yield": "2",
+    "nutritionEstimates": [],
+    "prepTimeInSeconds": 1200,
+    "totalTime": "50 min",
+    "images": [
+        {
+            "hostedSmallUrl": "http://lh3.googleusercontent.com/KADqRqpBfc-JJdyJV_9PhMS9yvmdFC9GGTzffLonNxrKQIwYaL3WJYM07oS6Q_JrwcAivMEQ6wlC_GflAn8__w=s90",
+            "hostedMediumUrl": "http://lh3.googleusercontent.com/KADqRqpBfc-JJdyJV_9PhMS9yvmdFC9GGTzffLonNxrKQIwYaL3WJYM07oS6Q_JrwcAivMEQ6wlC_GflAn8__w=s180",
+            "hostedLargeUrl": "http://lh3.googleusercontent.com/KADqRqpBfc-JJdyJV_9PhMS9yvmdFC9GGTzffLonNxrKQIwYaL3WJYM07oS6Q_JrwcAivMEQ6wlC_GflAn8__w=s360",
+            "imageUrlsBySize": {
+                "90": "http://lh3.googleusercontent.com/Mdc4rdHeWr7ZL6SuZt9C3G_MfiD3hEQXHyRGihFdZlMA6C608FD4vi3bRsnK-altQrSn4zqA-x6h1yycWk8trg=s90-c",
+                "360": "http://lh3.googleusercontent.com/Mdc4rdHeWr7ZL6SuZt9C3G_MfiD3hEQXHyRGihFdZlMA6C608FD4vi3bRsnK-altQrSn4zqA-x6h1yycWk8trg=s360-c"
+            }
+        }
+    ],
+    "name": "R.o.N.- Rezept ohne Namen",
+    "source": {
+        "sourceDisplayName": "Chefkoch",
+        "sourceSiteUrl": "chefkoch.de",
+        "sourceRecipeUrl": "http://www.chefkoch.de/rezepte/2257741361176848/R-o-N-Rezept-ohne-Namen.html"
+    },
+    "prepTime": "20 Min",
+    "id": "R_o_N_--Rezept-ohne-Namen-916866",
+    "ingredientLines": [
+        "2 Putenschnitzel",
+        "4 m.-gro\u00dfe Kartoffel(n)",
+        "2 Spitzpaprika, rot",
+        "1 Paprikaschote(n), gelb",
+        "2 kleine M\u00f6hre(n)",
+        "2 kleine Petersilienwurzel(n)",
+        "etwas Knollensellerie",
+        "2 Lorbeerbl\u00e4tter",
+        "3 K\u00f6rner Piment",
+        "100 ml Wasser",
+        "1 kleine Zwiebel(n)",
+        "Pfeffer",
+        "Oliven\u00f6l",
+        "Salz"
+    ],
+    "cookTime": "30 Min",
+    "attribution": {
+        "html": "<a href='http://www.yummly.co/recipe/R_o_N_--Rezept-ohne-Namen-916866'>R.o.N.- Rezept ohne Namen recipe</a> information powered by <img alt='Yummly' src='https://static.yummly.co/api-logo.png'/>",
+        "url": "http://www.yummly.co/recipe/R_o_N_--Rezept-ohne-Namen-916866",
+        "text": "R.o.N.- Rezept ohne Namen recipes: information powered by Yummly",
+        "logo": "https://static.yummly.co/api-logo.png"
+    },
+    "numberOfServings": 2,
+    "totalTimeInSeconds": 3000,
+    "attributes": {},
+    "cookTimeInSeconds": 1800,
+    "flavors": {},
+    "rating": 3
+}

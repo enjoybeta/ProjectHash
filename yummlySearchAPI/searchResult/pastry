@@ -1,0 +1,55 @@
+{
+    "criteria": {
+        "q": "p+a+s+t+r+y",
+        "allowedIngredient": null,
+        "excludedIngredient": null
+    },
+    "matches": [
+        {
+            "imageUrlsBySize": {
+                "90": "https://lh3.googleusercontent.com/pifxi9yu2iZaL_t2laKJH5PgFmpwwEsWBy1FUWd4ihgIO9_ODlmQXeMlFUnRsO8tQxsIzClPG4thDSTkdD2lXg=s90-c"
+            },
+            "sourceDisplayName": "2sharemyjoy",
+            "ingredients": [
+                "wheat",
+                "lentils",
+                "apples",
+                "water",
+                "cinnamon",
+                "unsweetened cocoa powder",
+                "stevia",
+                "greek yogurt",
+                "ginger root",
+                "orange",
+                "spinach",
+                "chia seeds",
+                "dark leafy greens",
+                "veggies",
+                "dressing",
+                "hard boiled eggs",
+                "beans"
+            ],
+            "id": "Breakfast-Oats-_320-calories-_-1R_-1Y_-1P_-2263027",
+            "smallImageUrls": [
+                "https://lh3.googleusercontent.com/ldSUSDOd5g-fBe4jCB3fi0axtphe-ST0_d0hmNDkY0W8UDkMwFaHYQ3L-Af-wjbbjqVXOlI3ggiEm5iBxx6h=s90"
+            ],
+            "recipeName": "Breakfast Oats (320 calories | 1R, 1Y, 1P)",
+            "totalTimeInSeconds": 900,
+            "attributes": {
+                "course": [
+                    "Breakfast and Brunch"
+                ]
+            },
+            "flavors": null,
+            "rating": 4
+        }
+    ],
+    "facetCounts": {},
+    "totalMatchCount": 1,
+    "attribution": {
+        "html": "Recipe search powered by <a href='http://www.yummly.co/recipes'><img alt='Yummly' src='https://static.yummly.co/api-logo.png'/></a>",
+        "url": "http://www.yummly.co/recipes/",
+        "text": "Recipe search powered by Yummly",
+        "logo": "https://static.yummly.co/api-logo.png"
+    }
+}

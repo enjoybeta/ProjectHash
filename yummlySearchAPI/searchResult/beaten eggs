@@ -1,0 +1,415 @@
+{
+    "criteria": {
+        "q": "b+e+a+t+e+n+ +e+g+g+s",
+        "allowedIngredient": null,
+        "excludedIngredient": null
+    },
+    "matches": [
+        {
+            "imageUrlsBySize": {
+                "90": "http://lh3.googleusercontent.com/9Ix2L0gTbEgHWrr2rEBgNQRFD4cR5rkgloBOIz5uvetD0-5M7wfxYJsOEXyNqoj2Pfcm7itTdpG12nWLzY066Q=s90-c"
+            },
+            "sourceDisplayName": "TheYummyJourney",
+            "ingredients": [
+                "flour",
+                "butter",
+                "sugar",
+                "baking powder",
+                "baking soda",
+                "salt",
+                "greek yogurt",
+                "eggs",
+                "cold water",
+                "cheddar cheese",
+                "parmesan cheese",
+                "dried parsley",
+                "garlic powder"
+            ],
+            "id": "Cheese-Bomb-Make-10-1253005",
+            "smallImageUrls": [
+                "http://lh3.googleusercontent.com/YDZSSbIPvEoAiCf_65yHF8rq0rRgOkCZl29UdUfG9uVQTBtyQZfxFeF6qvMrfIR6_mRwA22GiVmJIdl0rsWlsw=s90"
+            ],
+            "recipeName": "Cheese Bomb Make 10",
+            "totalTimeInSeconds": 2100,
+            "attributes": {},
+            "flavors": {
+                "sweet": 0.16666666666666666,
+                "piquant": 0.0,
+                "sour": 0.16666666666666666,
+                "salty": 0.8333333333333334,
+                "meaty": 0.8333333333333334,
+                "bitter": 0.8333333333333334
+            },
+            "rating": 4
+        },
+        {
+            "imageUrlsBySize": {
+                "90": "https://lh3.googleusercontent.com/EfY2Uk8bLz8yB5Pj0GjAkyS3VC-YSw4rWe7oYj8iA9z5Q112bGnwgh4GpYw7o-uIMXmTLAu_Sgz_lfG_h8osFg=s90-c"
+            },
+            "sourceDisplayName": "Amanda Mackay",
+            "ingredients": [
+                "rolled oats",
+                "boiling water",
+                "salt",
+                "shortening",
+                "yeast",
+                "warm water",
+                "sugar",
+                "molasses",
+                "flour"
+            ],
+            "id": "Brown-Bread-Recipe-_-Oatmeal-Molasses-_-Heavy-Dense-Bread-2353673",
+            "smallImageUrls": [
+                "https://lh3.googleusercontent.com/olLp9Qc6fzm4bNBdkfHYgZDgbWnzoP6d8gWmne3VJh5Mt9Nnky4uBzuhyqRrGzl1Zrps5gpzI8Z9-kZIZ0_Lew=s90"
+            ],
+            "recipeName": "Brown Bread Recipe | Oatmeal Molasses | Heavy Dense Bread",
+            "totalTimeInSeconds": 5400,
+            "attributes": {
+                "course": [
+                    "Breads"
+                ]
+            },
+            "flavors": {
+                "piquant": 0.0,
+                "meaty": 0.16666666666666666,
+                "bitter": 0.16666666666666666,
+                "sweet": 0.5,
+                "sour": 0.16666666666666666,
+                "salty": 0.5
+            },
+            "rating": 4
+        },
+        {
+            "imageUrlsBySize": {
+                "90": "http://lh6.ggpht.com/YQUpGmXzZIcDXk5Ao59xNjfVZq9W1-_AacQ2UWgajjs21wFhHM4mKoOdZHjjDCL0CPtyprl8LT_IsiA8mEsTSA=s90-c"
+            },
+            "sourceDisplayName": "Memorie di Angelina",
+            "ingredients": [
+                "dried lentils",
+                "rice",
+                "pancetta",
+                "onions",
+                "garlic",
+                "canned tomatoes",
+                "fresh rosemary",
+                "lard",
+                "broth",
+                "olive oil",
+                "grated pecorino",
+                "black pepper"
+            ],
+            "id": "Riso-e-lenticchie-_Rice-and-Lentils_-1009593",
+            "smallImageUrls": [
+                "http://lh4.ggpht.com/fgTd-kN4mQv74LSgE_mnBSVGQ3oKwPYfMS9pTQ-B1W8Qu8S2CL2x6hjOQmM0dXYQFY3xcKbc2xvAZsVBPZ0vVy8=s90"
+            ],
+            "recipeName": "Riso e lenticchie (Rice and Lentils)",
+            "totalTimeInSeconds": 3600,
+            "attributes": {
+                "course": [
+                    "Main Dishes"
+                ]
+            },
+            "flavors": null,
+            "rating": 4
+        },
+        {
+            "imageUrlsBySize": {
+                "90": "http://lh3.googleusercontent.com/7ws9nxJj_j4r9Mp0YNos7XLVbNu-d_0X_2lI2H75RcNGDVCUIR1xjnoiuKNMhVoizLxf0afqcA47YDjLYWg_d2E=s90-c"
+            },
+            "sourceDisplayName": "Oh, Ladycakes",
+            "ingredients": [
+                "all purpose gluten free flour blend",
+                "oat flour",
+                "rolled oats",
+                "xanthan gum",
+                "fine sea salt",
+                "baking powder",
+                "canola oil",
+                "maple syrup",
+                "almond milk",
+                "pure vanilla extract",
+                "sugar"
+            ],
+            "id": "MAPLE-OAT-SCONES-1252509",
+            "smallImageUrls": [
+                "http://lh3.googleusercontent.com/apg-qPJgqSVtk1-YrtkKU3qfuzOQFOjcHElLJJR43Z6KnD50oGN3M9Zf1fsV30rOxgIbXGQetr9979rYGlF8bcI=s90"
+            ],
+            "recipeName": "MAPLE OAT SCONES",
+            "totalTimeInSeconds": 2400,
+            "attributes": {
+                "course": [
+                    "Breads"
+                ],
+                "cuisine": [
+                    "English"
+                ]
+            },
+            "flavors": {
+                "piquant": 0.0,
+                "meaty": 0.3333333333333333,
+                "bitter": 0.8333333333333334,
+                "sweet": 0.6666666666666666,
+                "sour": 0.16666666666666666,
+                "salty": 0.8333333333333334
+            },
+            "rating": 4
+        },
+        {
+            "imageUrlsBySize": {
+                "90": "http://lh3.ggpht.com/5zQTt-Kc61L4JSyaeCs8h4ZyNKFcHZbEty557U_bKfkUv8DVL0IR088lhFCPPqXYchJwozA-Y0JQMQMl2lLO=s90-c"
+            },
+            "sourceDisplayName": "Food52",
+            "ingredients": [
+                "water",
+                "semolina",
+                "butter",
+                "large eggs",
+                "granulated sugar",
+                "salt",
+                "chopped parsley",
+                "grated nutmeg"
+            ],
+            "id": "Semolina-dumplings-324506",
+            "smallImageUrls": [
+                "http://lh5.ggpht.com/SaggDnqTzv3qhx4a3dAS2p_i-67equ_xOVh4wndy0i41qY9xHPDyOxYRHDSBR-bPAyqUWBrVBQf5cpxMy35UmQ=s90"
+            ],
+            "recipeName": "Semolina Dumplings",
+            "totalTimeInSeconds": 1800,
+            "attributes": {
+                "course": [
+                    "Desserts"
+                ]
+            },
+            "flavors": {
+                "piquant": 0.0,
+                "meaty": 0.16666666666666666,
+                "bitter": 0.16666666666666666,
+                "sweet": 0.16666666666666666,
+                "sour": 0.16666666666666666,
+                "salty": 0.16666666666666666
+            },
+            "rating": 3
+        },
+        {
+            "imageUrlsBySize": {
+                "90": "https://lh3.googleusercontent.com/Z1Unq45X0Vff2vLneldj_YBn4nYPK83Sm_zw1l1-t2kpjiJQBOhTNPVZho2A0WhK1IULoOUu-w6bmp3AhjAgAQ=s90-c"
+            },
+            "sourceDisplayName": "Oh, Ladycakes",
+            "ingredients": [
+                "all purpose gluten free flour blend",
+                "oat flour",
+                "rolled oats",
+                "xanthan gum",
+                "fine sea salt",
+                "baking powder",
+                "canola oil",
+                "maple syrup",
+                "almond milk",
+                "pure vanilla extract",
+                "sugar"
+            ],
+            "id": "MAPLE-OAT-SCONES-1946347",
+            "smallImageUrls": [
+                "https://lh3.googleusercontent.com/MyfmlpcwS0Dpwmde-BOyEzWSeI_1Qv8Y3ITWi89X1YakICosZ2dj3LJCyocyuqRXIF-YtJr0kJ4W-CFVViZz7A=s90"
+            ],
+            "recipeName": "MAPLE OAT SCONES",
+            "totalTimeInSeconds": 2400,
+            "attributes": {
+                "course": [
+                    "Breads"
+                ],
+                "cuisine": [
+                    "English"
+                ]
+            },
+            "flavors": {
+                "piquant": 0.0,
+                "meaty": 0.3333333333333333,
+                "bitter": 0.8333333333333334,
+                "sweet": 0.6666666666666666,
+                "sour": 0.16666666666666666,
+                "salty": 0.8333333333333334
+            },
+            "rating": 4
+        },
+        {
+            "imageUrlsBySize": {
+                "90": "https://lh3.googleusercontent.com/Y0KILrS14eARhVWTj8OXJrJLH2sxWJ2s_UVOEmVQ0LjNS9Oi7HgboIFuTrFCyuF3k-ScnkvsCCSDM59J5-e5JgY=s90-c"
+            },
+            "sourceDisplayName": "Paleo-ish",
+            "ingredients": [
+                "lard",
+                "white sugar",
+                "brown sugar",
+                "glucose",
+                "water",
+                "canola oil",
+                "vanilla",
+                "arrowroot starch",
+                "oat flour",
+                "quinoa flour",
+                "baking powder",
+                "baking soda",
+                "table salt",
+                "xanthan gum",
+                "chocolate chips"
+            ],
+            "id": "Paleo-ish-Chocolate-Chip-Cookies-1883541",
+            "smallImageUrls": [
+                "https://lh3.googleusercontent.com/HPxI2BUWD7cf3wkxyYwJPvfLnotzQiasdwRXNkUhrQhlBEqHDyY6az1DoM7gXGzHNyyO3mdDzP-ixhwZsfuR3A=s90"
+            ],
+            "recipeName": "Paleo-ish Chocolate Chip Cookies",
+            "totalTimeInSeconds": 2100,
+            "attributes": {
+                "course": [
+                    "Desserts"
+                ],
+                "cuisine": [
+                    "Kid-Friendly"
+                ]
+            },
+            "flavors": {
+                "piquant": 0.0,
+                "meaty": 0.8333333333333334,
+                "bitter": 0.8333333333333334,
+                "sweet": 0.8333333333333334,
+                "sour": 0.0,
+                "salty": 0.8333333333333334
+            },
+            "rating": 4
+        },
+        {
+            "imageUrlsBySize": {
+                "90": "https://lh3.googleusercontent.com/NB1a9_z17bZxaSbkWBfKCp7virb0BwIDbdF4p08fn0jkQxcirmPTIJsKgqFaKneqH-UF5LaJJ80geRX15vTmrzo=s90-c"
+            },
+            "sourceDisplayName": "West Coast Prime Meats",
+            "ingredients": [
+                "pork loin chops",
+                "salt and ground black pepper",
+                "all-purpose flour",
+                "eggs",
+                "panko breadcrumbs",
+                "canola oil",
+                "white onion",
+                "carrots",
+                "kabocha squash",
+                "russet potatoes",
+                "button mushrooms",
+                "garlic",
+                "plain yogurt",
+                "curry",
+                "water",
+                "salad oil",
+                "baby bok choy",
+                "steamed white rice",
+                "pork chops",
+                "curry sauce",
+                "gari"
+            ],
+            "id": "DUROC-TONKATSU-CURRY-1521242",
+            "smallImageUrls": [
+                "https://lh3.googleusercontent.com/VeghFEx4InlBvpZzyzYnHqT6zh9KQKM7UEw8fYEm6zNx__XRnfyBAGGxfoEL4sE10PcW89WXoWF-uLMCu1ZVw-0=s90"
+            ],
+            "recipeName": "DUROC TONKATSU CURRY",
+            "totalTimeInSeconds": 2700,
+            "attributes": {
+                "course": [
+                    "Main Dishes"
+                ],
+                "cuisine": [
+                    "Asian"
+                ]
+            },
+            "flavors": null,
+            "rating": 3
+        },
+        {
+            "imageUrlsBySize": {
+                "90": "http://lh3.googleusercontent.com/yaGaEjcAtq9hSFHSM9xT_D7W2dLd7a4cD1EycGO5oJtZRntgLGI1O-A61OpZZNgbWDfTwwM8mMRK_AWHODODpg=s90-c"
+            },
+            "sourceDisplayName": "Healthy Slow Cooking",
+            "ingredients": [
+                "sliced almonds",
+                "vodka",
+                "water",
+                "sugar",
+                "brandy",
+                "rosewater",
+                "orange",
+                "almond extract",
+                "xanthan gum",
+                "light rum",
+                "dark rum",
+                "fresh lime juice",
+                "orgeat syrup",
+                "orange cura\u00e7ao",
+                "mint sprigs",
+                "cocktail cherries",
+                "lime wedges"
+            ],
+            "id": "Orgeat-Syrup-from-Shake_-Stir_-Pour-1286726",
+            "smallImageUrls": [
+                "http://lh3.googleusercontent.com/UYnr8mTYzN1Hai4nS5uj_gJesX5zQmStMYR3BSglvNOxb5rhR3-i59-bBL2BKCFH6eIxzpm0Ab28tKrxyapitSo=s90"
+            ],
+            "recipeName": "Orgeat Syrup from Shake, Stir, Pour",
+            "totalTimeInSeconds": 1200,
+            "attributes": {
+                "course": [
+                    "Beverages",
+                    "Cocktails"
+                ]
+            },
+            "flavors": null,
+            "rating": 4
+        },
+        {
+            "imageUrlsBySize": {
+                "90": "http://lh6.ggpht.com/u4E7EVnsQ-zT_WcoxRT4kQj6u_cymYrA45JBga6v3Bbw2ce3LAlOGi_PC3hmZxYk9tzbEHnQXIzqOCQKPZ5b=s90-c"
+            },
+            "sourceDisplayName": "Food52",
+            "ingredients": [
+                "white sugar",
+                "vanilla beans",
+                "whole milk",
+                "corn starch",
+                "fresh bay leaves",
+                "grated nutmeg",
+                "fresh blueberries",
+                "cinnamon sticks",
+                "brown sugar",
+                "heavy cream",
+                "light corn syrup",
+                "cream cheese",
+                "fine sea salt"
+            ],
+            "id": "Vanilla-and-bay-leaf-scented-ice-cream-with-a-blueberry-swirl-331520",
+            "smallImageUrls": [
+                "http://lh5.ggpht.com/tb2bQVc6Qijz4few9SRb7GPJwzLMckLea8_4AX0PCSjOPfsIAYBEhGYs3QRQ2W-oAytcKCE_PIS4XUEVugktRMk=s90"
+            ],
+            "recipeName": "Vanilla and Bay Leaf-Scented Ice Cream with a Blueberry Swirl",
+            "totalTimeInSeconds": 4500,
+            "attributes": {
+                "course": [
+                    "Desserts"
+                ]
+            },
+            "flavors": {
+                "piquant": 0.0,
+                "meaty": 0.16666666666666666,
+                "bitter": 0.16666666666666666,
+                "sweet": 0.6666666666666666,
+                "sour": 0.16666666666666666,
+                "salty": 0.16666666666666666
+            },
+            "rating": 4
+        }
+    ],
+    "facetCounts": {},
+    "totalMatchCount": 29,
+    "attribution": {
+        "html": "Recipe search powered by <a href='http://www.yummly.co/recipes'><img alt='Yummly' src='https://static.yummly.co/api-logo.png'/></a>",
+        "url": "http://www.yummly.co/recipes/",
+        "text": "Recipe search powered by Yummly",
+        "logo": "https://static.yummly.co/api-logo.png"
+    }
+}

@@ -74,7 +74,14 @@
             "recipeName": "Spinat-Ricotta-Klo\u0308\u00dfe in Tomatenso\u00dfe",
             "totalTimeInSeconds": 3000,
             "attributes": {},
-            "flavors": null,
+            "flavors": {
+                "sweet": 0.16666666666666666,
+                "piquant": 0.0,
+                "sour": 0.5,
+                "salty": 0.5,
+                "meaty": 0.16666666666666666,
+                "bitter": 0.5
+            },
             "rating": 3
         },
         {

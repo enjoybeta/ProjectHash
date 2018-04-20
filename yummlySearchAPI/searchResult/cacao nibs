@@ -1,0 +1,339 @@
+{
+    "criteria": {
+        "q": "c+a+c+a+o+ +n+i+b+s",
+        "allowedIngredient": null,
+        "excludedIngredient": null
+    },
+    "matches": [
+        {
+            "imageUrlsBySize": {
+                "90": "https://lh3.googleusercontent.com/tZ6qEB4JH5Yj1B0PlIQNzZtkJJ4vcp60ccBqOPfd_njrtGPgiTzmfqojw_rW4PvPswh1azTtGNpMXK3NN_cQFA=s90-c"
+            },
+            "sourceDisplayName": "Foodagraphy by Chelle",
+            "ingredients": [
+                "plain flour",
+                "powdered milk",
+                "salt",
+                "brown sugar",
+                "instant yeast",
+                "milk",
+                "water",
+                "unsalted butter",
+                "food gel"
+            ],
+            "id": "Rainbow-Cube-Bread-1462315",
+            "smallImageUrls": [
+                "https://lh3.googleusercontent.com/74lkAAwhqcoobpj92x1jBrCI96g3qneDwWi3mEmam85aOXtu4f4_KYxpxefx88uEaSNDk6MB2XZRslLkZEOQCA=s90"
+            ],
+            "recipeName": "Rainbow Cube Bread",
+            "totalTimeInSeconds": 4800,
+            "attributes": {
+                "course": [
+                    "Breads"
+                ]
+            },
+            "flavors": null,
+            "rating": 4
+        },
+        {
+            "imageUrlsBySize": {
+                "90": "https://lh3.googleusercontent.com/pg29-JmSAn1eoMWKfpkSY3k4KJQyFKfbN37lWNAEHBp8qt94kibTNRt8S7qkRJNBeDXqLBp3aD7_C_Zjqp4Tnw=s90-c"
+            },
+            "sourceDisplayName": "House of Joyful Noise",
+            "ingredients": [
+                "all-purpose flour",
+                "sugar",
+                "baking powder",
+                "eggs",
+                "margarine",
+                "vanilla extract",
+                "milk",
+                "confectioners sugar"
+            ],
+            "id": "Pumpkin-Shaped-Cookies-1772058",
+            "smallImageUrls": [
+                "https://lh3.googleusercontent.com/7yMMTmws6pfLu7zh5S-9JGsL8h1gzTQPhZdHDSzSJQ4i5lQPX6sGd3jUmONJNhGOOVWkIBv0GkIFphX0pmdF-oY=s90"
+            ],
+            "recipeName": "Pumpkin Shaped Cookies",
+            "totalTimeInSeconds": 2700,
+            "attributes": {
+                "course": [
+                    "Desserts"
+                ]
+            },
+            "flavors": {
+                "sweet": 0.6666666666666666,
+                "piquant": 0.0,
+                "sour": 0.16666666666666666,
+                "salty": 0.8333333333333334,
+                "meaty": 0.3333333333333333,
+                "bitter": 0.8333333333333334
+            },
+            "rating": 4
+        },
+        {
+            "imageUrlsBySize": {
+                "90": "https://lh3.googleusercontent.com/duOkaLHwdP9N-6sdbcWE1UdTK3t78-4jPychVdakDcmBeA-NeLQ0VjutqzOZSUOmYPXHOifWrPV_jY3rp78m-w=s90-c"
+            },
+            "sourceDisplayName": "Amazing Ribs",
+            "ingredients": [
+                "beef rib roast",
+                "kosher salt",
+                "crust",
+                "beef ribs",
+                "fat",
+                "roast",
+                "onions",
+                "carrots",
+                "celery",
+                "soy sauce",
+                "dried mushrooms",
+                "dry red wine",
+                "bay leaf",
+                "water"
+            ],
+            "id": "The-Science-Of-Cooking-Prime-Rib_-Tenderloin_-And-Other-Beef-Roasts-2289505",
+            "smallImageUrls": [
+                "https://lh3.googleusercontent.com/BOnpSmB2QAUVQwSB2UiNFg0crwu_MSz-mtOkM12iI9tiv-f9QXpR8yaT5HwdR0NXrb5w3cb-I3-8ltIRuIUg1w=s90"
+            ],
+            "recipeName": "The Science Of Cooking Prime Rib, Tenderloin, And Other Beef Roasts",
+            "totalTimeInSeconds": 8280,
+            "attributes": {
+                "course": [
+                    "Main Dishes"
+                ],
+                "cuisine": [
+                    "Barbecue"
+                ],
+                "holiday": [
+                    "Sunday Lunch"
+                ]
+            },
+            "flavors": null,
+            "rating": 4
+        },
+        {
+            "imageUrlsBySize": {
+                "90": "https://lh3.googleusercontent.com/ztJTRzQ17j7IRkgBHIy7O4eBDLfdtnceUMiSnl_wLC5wJrlKF6amubQs5uYCqWWvxz8q-mkTnCOVvJQx83qP0w=s90-c"
+            },
+            "sourceDisplayName": "Mainely Eating",
+            "ingredients": [
+                "butter",
+                "corn syrup",
+                "salt",
+                "ground ginger",
+                "all-purpose flour",
+                "sesame seeds",
+                "lemon olive oil",
+                "ponzu",
+                "soy sauce",
+                "lemon juice",
+                "maldon sea salt",
+                "Kewpie Mayonnaise",
+                "yuzu",
+                "scallions",
+                "avocado",
+                "English cucumber",
+                "wonton wrappers",
+                "potato chips",
+                "soup"
+            ],
+            "id": "Sesame-Canape-Cones-_adapted-from-Wolfgang-Puck_-1517397",
+            "smallImageUrls": [
+                "https://lh3.googleusercontent.com/1hfnZbJn5_xGjdH6fIx4LENZ_diK4oPFl9xETotNMT5uHPpkYiA7nqeroR0ii1uPjEhmnrx53TKEDgx6XSCRkqc=s90"
+            ],
+            "recipeName": "Sesame Canape\u0301 Cones (adapted from Wolfgang Puck)",
+            "totalTimeInSeconds": 2400,
+            "attributes": {
+                "course": [
+                    "Appetizers",
+                    "Lunch"
+                ]
+            },
+            "flavors": null,
+            "rating": 3
+        },
+        {
+            "recipeName": "Raspberry Rhubarb Jam",
+            "ingredients": [
+                "rhubarb",
+                "sugar",
+                "frozen raspberries",
+                "Jell-O Gelatin"
+            ],
+            "totalTimeInSeconds": 1320,
+            "sourceDisplayName": "Food.com",
+            "id": "Raspberry-Rhubarb-Jam-Recipezaar",
+            "rating": 4,
+            "flavors": {
+                "piquant": 0.0,
+                "meaty": 0.16666666666666666,
+                "bitter": 0.16666666666666666,
+                "sweet": 0.8333333333333334,
+                "sour": 0.5,
+                "salty": 0.0
+            },
+            "attributes": {
+                "course": [
+                    "Desserts"
+                ]
+            }
+        },
+        {
+            "recipeName": "Chicago-Style Steak With Bleu Cheese Butter",
+            "ingredients": [
+                "sirloin steak",
+                "worcestershire sauce",
+                "soy sauce",
+                "cooking sherry",
+                "red wine vinegar",
+                "butter",
+                "blue cheese",
+                "green onions"
+            ],
+            "totalTimeInSeconds": 1200,
+            "sourceDisplayName": "Food.com",
+            "id": "Chicago-Style-Steak-With-Bleu-Cheese-Butter-Food_com-125744",
+            "rating": 4,
+            "flavors": null,
+            "attributes": {
+                "course": [
+                    "Main Dishes"
+                ]
+            }
+        },
+        {
+            "imageUrlsBySize": {
+                "90": "http://lh3.googleusercontent.com/zo2PwKS8QcsdjhE0Cm_PWSLlj2nvEQfN1v1tPvcW-hvm7FMXfVpocoD3kkKmNSuImvCdEf7X7Hx_VRpSBfZozA=s90-c"
+            },
+            "sourceDisplayName": "Lecker",
+            "ingredients": [
+                "Mehl",
+                "Salz",
+                "Essig",
+                "\u00d6l",
+                "Tunfisch",
+                "Oliven",
+                "Fr\u00fchlingszwiebelgr\u00fcn",
+                "K\u00e4se",
+                "Pfeffer wei\u00df",
+                "Eigelb",
+                "Milch"
+            ],
+            "id": "Gefullte-Teigtaschen-820002",
+            "smallImageUrls": [
+                "http://lh3.googleusercontent.com/Qx20WJCk9Oe_hvEhM6Jt043fDVKj1YUuipsez_1JDYH_OPN048QE3iut8ybZAmgwTnQ3yEsP6cesffw6dUtB=s90"
+            ],
+            "recipeName": "Gefu\u0308llte Teigtaschen",
+            "totalTimeInSeconds": 5400,
+            "attributes": {},
+            "flavors": {
+                "sweet": 0.16666666666666666,
+                "piquant": 0.5,
+                "sour": 0.16666666666666666,
+                "salty": 0.8333333333333334,
+                "meaty": 0.8333333333333334,
+                "bitter": 0.3333333333333333
+            },
+            "rating": 3
+        },
+        {
+            "imageUrlsBySize": {
+                "90": "http://lh3.googleusercontent.com/ZdwBUVlJo0wHpf9nc5Kl5nMcKqhsNm2fJE7ycygwe-d4K9AJt6YGPbM8-QLXHz_SzFv1ikCzrmfXggrfZN6J=s90-c"
+            },
+            "sourceDisplayName": "Lecker",
+            "ingredients": [
+                "steinpilze",
+                "Schnittlauch",
+                "Eigelb",
+                "Klo\u00dfteig",
+                "Butterschmalz"
+            ],
+            "id": "Steinpilz-Kartoffelplatzchen-843736",
+            "smallImageUrls": [
+                "http://lh3.googleusercontent.com/TGYw6f7j61XleRIfOCar3Fm5eZ7ck4Frm8WjZ-A6gK6KsMQFfreTGPwGWiaY-rh1CLWczvuGWcmXEuiKzJvCIA=s90"
+            ],
+            "recipeName": "Steinpilz-Kartoffelpla\u0308tzchen",
+            "totalTimeInSeconds": 2700,
+            "attributes": {},
+            "flavors": {
+                "sweet": 0.16666666666666666,
+                "piquant": 0.0,
+                "sour": 0.6666666666666666,
+                "salty": 0.16666666666666666,
+                "meaty": 0.8333333333333334,
+                "bitter": 0.16666666666666666
+            },
+            "rating": 3
+        },
+        {
+            "imageUrlsBySize": {
+                "90": "http://lh3.googleusercontent.com/9mCfLdkVN8EjjHgaW_w4eok6que2t7q8xlI5E01alJpGdPWpVvmqu_H9ReT8qFH_ziGlw9X0cCC4K2ntW2qJVw=s90-c"
+            },
+            "sourceDisplayName": "Lecker",
+            "ingredients": [
+                "Filoteig",
+                "Eigelb",
+                "Schlabgobers",
+                "Mehl"
+            ],
+            "id": "Blatterteig-Pasteten-827044",
+            "smallImageUrls": [
+                "http://lh3.googleusercontent.com/SN1tZGa-7hF5LNltQvkPdz_y4QZar9ccxQz1wsabUcMKAvCpGNmoTiECSFtTx-GvxpVOLITOlxCGzCeOp7U_=s90"
+            ],
+            "recipeName": "Bla\u0308tterteig-Pasteten",
+            "totalTimeInSeconds": 2100,
+            "attributes": {
+                "course": [
+                    "Desserts"
+                ]
+            },
+            "flavors": null,
+            "rating": 3
+        },
+        {
+            "imageUrlsBySize": {
+                "90": "http://lh3.googleusercontent.com/D0twXecvHcw4WgLPf8gTRCRPgbzsGTI7C6XHq-gQuw8kK9G9_PbcJEA6flwET61WNpOGnXQ0kpbyTQBx2l9vHw=s90-c"
+            },
+            "sourceDisplayName": "Lecker",
+            "ingredients": [
+                "Salz",
+                "Schweineschmalz",
+                "Mehl",
+                "Eigelb",
+                "Rindfleisch",
+                "Zwiebel",
+                "Kartoffel",
+                "Kreuzk\u00fcmmel",
+                "Chillipulver",
+                "Edels\u00fcsspaprika",
+                "Gem\u00fcsebr\u00fche",
+                "Fr\u00fchlingszwiebelgr\u00fcn"
+            ],
+            "id": "Teigtaschen-Empanadas-Saltenas-844760",
+            "smallImageUrls": [
+                "http://lh3.googleusercontent.com/QUL9ab9PtIG7DBTO49ZFsKP75bNvhIcUlAJtu6jd2abyQRUQNgaETpSRWrGMkYMRPgyd_aocIG3pVW4cqFM3Sfs=s90"
+            ],
+            "recipeName": "Teigtaschen Empanadas Salten\u0303as",
+            "totalTimeInSeconds": 6300,
+            "attributes": {},
+            "flavors": {
+                "sweet": 0.16666666666666666,
+                "piquant": 0.8333333333333334,
+                "sour": 0.3333333333333333,
+                "salty": 0.16666666666666666,
+                "meaty": 0.6666666666666666,
+                "bitter": 0.16666666666666666
+            },
+            "rating": 3
+        }
+    ],
+    "facetCounts": {},
+    "totalMatchCount": 73,
+    "attribution": {
+        "html": "Recipe search powered by <a href='http://www.yummly.co/recipes'><img alt='Yummly' src='https://static.yummly.co/api-logo.png'/></a>",
+        "url": "http://www.yummly.co/recipes/",
+        "text": "Recipe search powered by Yummly",
+        "logo": "https://static.yummly.co/api-logo.png"
+    }
+}

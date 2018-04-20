@@ -1,0 +1,86 @@
+{
+    "criteria": {
+        "q": "i+t+a+l+i+a+n+ +s+e+a+s+o+n+i+n+g",
+        "allowedIngredient": null,
+        "excludedIngredient": null
+    },
+    "matches": [
+        {
+            "imageUrlsBySize": {
+                "90": "https://lh3.googleusercontent.com/dROF_f9xoN65wCDyzrvjgzBQFL_1v01LCg5nTVOMUjvKvYyVxTuEBpSXml8CesRI_sfA0wTHudwRB9W2yA3MtQ=s90-c"
+            },
+            "sourceDisplayName": "A Veggie Venture",
+            "ingredients": [
+                "fresh brussels sprouts",
+                "unsalted butter",
+                "kosher salt",
+                "freshly ground pepper",
+                "heavy cream",
+                "panko",
+                "parmesan cheese"
+            ],
+            "id": "CREAMY-BRUSSELS-SPROUTS-GRATIN-1369758",
+            "smallImageUrls": [
+                "https://lh3.googleusercontent.com/Wa2SWveA4jIF2qHAi0jsJKMT4vVT5q0VjHg-IhD4LzUbo44C0U9Vw6nRijeAuI3kji_AkoIgrnkbr9BQiivS=s90"
+            ],
+            "recipeName": "CREAMY BRUSSELS SPROUTS GRATIN",
+            "totalTimeInSeconds": 1800,
+            "attributes": {
+                "course": [
+                    "Side Dishes"
+                ],
+                "holiday": [
+                    "Sunday Lunch",
+                    "Fall"
+                ]
+            },
+            "flavors": {
+                "piquant": 0.6666666666666666,
+                "meaty": 0.8333333333333334,
+                "bitter": 0.16666666666666666,
+                "sweet": 0.0,
+                "sour": 0.16666666666666666,
+                "salty": 0.8333333333333334
+            },
+            "rating": 4
+        },
+        {
+            "imageUrlsBySize": {
+                "90": "https://lh3.googleusercontent.com/-brYIQsOeZ-gwEDGxyHiVBHGOu8NybhLd23brsld339rD90Kh1l1BMjA1n52cCYd6HZ9kvlTyBmv_rk-fTSD=s90-c"
+            },
+            "sourceDisplayName": "Cafe Delites",
+            "ingredients": [
+                "pasta",
+                "red onion",
+                "tomatoes",
+                "fresh basil leaves",
+                "chicken breasts",
+                "seasoning",
+                "garlic olive oil",
+                "balsamic reduction"
+            ],
+            "id": "Chicken-Bruschetta-Pasta-Salad-2357295",
+            "smallImageUrls": [
+                "https://lh3.googleusercontent.com/JcYC8W_qhK8rmNC6iJpHUM1UHwypRTvsDmqmexFslyBF7f0pvWcvikKk8MZzbfIe4m_keRLwS5_CZ7ER7Z2PXQ=s90"
+            ],
+            "recipeName": "Chicken Bruschetta Pasta Salad",
+            "totalTimeInSeconds": 900,
+            "attributes": {
+                "course": [
+                    "Salads",
+                    "Lunch"
+                ]
+            },
+            "flavors": null,
+            "rating": 4
+        }
+    ],
+    "facetCounts": {},
+    "totalMatchCount": 2,
+    "attribution": {
+        "html": "Recipe search powered by <a href='http://www.yummly.co/recipes'><img alt='Yummly' src='https://static.yummly.co/api-logo.png'/></a>",
+        "url": "http://www.yummly.co/recipes/",
+        "text": "Recipe search powered by Yummly",
+        "logo": "https://static.yummly.co/api-logo.png"
+    }
+}

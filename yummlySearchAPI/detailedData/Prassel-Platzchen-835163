@@ -1,0 +1,55 @@
+{
+    "yield": "Grundrezept f\u00fcr M\u00fcrbeteig",
+    "nutritionEstimates": [],
+    "totalTime": "20 min",
+    "images": [
+        {
+            "hostedSmallUrl": "http://lh3.googleusercontent.com/cAH3mEr85E0mBmwK0edyajVwexjkvrEKpNoA-bs_vlfTJbmPsCefPxbko3W78s0UHhYxiY2Ze18oxbw9YbLJegI=s90",
+            "hostedMediumUrl": "http://lh3.googleusercontent.com/cAH3mEr85E0mBmwK0edyajVwexjkvrEKpNoA-bs_vlfTJbmPsCefPxbko3W78s0UHhYxiY2Ze18oxbw9YbLJegI=s180",
+            "hostedLargeUrl": "http://lh3.googleusercontent.com/cAH3mEr85E0mBmwK0edyajVwexjkvrEKpNoA-bs_vlfTJbmPsCefPxbko3W78s0UHhYxiY2Ze18oxbw9YbLJegI=s360",
+            "imageUrlsBySize": {
+                "90": "http://lh3.googleusercontent.com/uaXWbAyL--E3QBh4URph_LM8-fsItlNwO0Yhi6y-o6hJMvowi_335v_SB_7ftbYY0Et0tu09Y6F14udQhU_yqA=s90-c",
+                "360": "http://lh3.googleusercontent.com/uaXWbAyL--E3QBh4URph_LM8-fsItlNwO0Yhi6y-o6hJMvowi_335v_SB_7ftbYY0Et0tu09Y6F14udQhU_yqA=s360-c"
+            }
+        }
+    ],
+    "name": "Prassel-Pla\u0308tzchen",
+    "source": {
+        "sourceDisplayName": "Lecker",
+        "sourceSiteUrl": "lecker.de",
+        "sourceRecipeUrl": "http://www.lecker.de/rezept/910582/Prassel-Plaetzchen.html"
+    },
+    "id": "Prassel-Platzchen-835163",
+    "ingredientLines": [
+        "Grundrezept f\u00fcr M\u00fcrbeteig",
+        "700 g Mehl",
+        "475 g kalte Butter",
+        "250 g Zucker",
+        "1 P. Vanillin-Zucker",
+        "Salz",
+        "2 Eigelb (Gr. M)",
+        "120g stichfeste saure Sahne.",
+        "125 g + etwas Butter",
+        "200 g + etwas Mehl",
+        "200 g Zucker",
+        "250 g Pflaumenmus",
+        "1 TL gemahlener Zimt",
+        "1/3 Grundrezept M\u00fcrbeteig",
+        "Puderzucker zum Best\u00e4uben"
+    ],
+    "attribution": {
+        "html": "<a href='http://www.yummly.co/recipe/Prassel-Platzchen-835163'>Prassel-Pla\u0308tzchen recipe</a> information powered by <img alt='Yummly' src='https://static.yummly.co/api-logo.png'/>",
+        "url": "http://www.yummly.co/recipe/Prassel-Platzchen-835163",
+        "text": "Prassel-Pla\u0308tzchen recipes: information powered by Yummly",
+        "logo": "https://static.yummly.co/api-logo.png"
+    },
+    "numberOfServings": 4,
+    "totalTimeInSeconds": 1200,
+    "attributes": {
+        "course": [
+            "Desserts"
+        ]
+    },
+    "flavors": {},
+    "rating": 3
+}

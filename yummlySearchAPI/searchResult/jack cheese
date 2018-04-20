@@ -1,0 +1,142 @@
+{
+    "criteria": {
+        "q": "j+a+c+k+ +c+h+e+e+s+e",
+        "allowedIngredient": null,
+        "excludedIngredient": null
+    },
+    "matches": [
+        {
+            "recipeName": "Gingerbread House",
+            "ingredients": [
+                "butter",
+                "dark brown sugar",
+                "light molasses",
+                "cinnamon",
+                "ground ginger",
+                "ground cloves",
+                "baking soda",
+                "all-purpose flour",
+                "water",
+                "white chocolate",
+                "gumdrops",
+                "peppermint",
+                "licorice",
+                "powdered sugar",
+                "large egg whites",
+                "almond extract"
+            ],
+            "totalTimeInSeconds": 5400,
+            "sourceDisplayName": "Food Network",
+            "id": "Gingerbread-House-Food-Network-284013",
+            "rating": 5,
+            "flavors": null,
+            "attributes": {
+                "course": [
+                    "Desserts"
+                ],
+                "holiday": [
+                    "Christmas"
+                ]
+            }
+        },
+        {
+            "imageUrlsBySize": {
+                "90": "http://lh3.googleusercontent.com/PbqFhFgADd5fSRlaSh7cSPcQhmkkvAuMCmEdFaTaXBW7fBhRZVvCs88mgtA7a6FXLW2ZxUHH7t1YcQe6QiUe=s90-c"
+            },
+            "sourceDisplayName": "Lecker",
+            "ingredients": [
+                "Schalotte",
+                "Knoblaucknolle",
+                "Rindsbr\u00fche",
+                "Rotwein",
+                "Essig",
+                "Lorbeerbl\u00e4tter",
+                "Nelke",
+                "Salz",
+                "Pfefferkorn",
+                "Rindsfilet",
+                "Kartoffel",
+                "M\u00f6hre",
+                "Butter",
+                "Pfeffer",
+                "\u00d6l",
+                "Majoran"
+            ],
+            "id": "Pochiertes-Rinderfilet-in-Rotweinsoe-mit-Rostkartoffeln-und-Mohren-_-Variante-836221",
+            "smallImageUrls": [
+                "http://lh3.googleusercontent.com/cc7mB0i5yYu93adsXe93yr0Sw-uThvO7DlYIXiUqXpldS7QTaSh1WZdL0ViI0M6Imtx84JU3Ui5UywNP2gnwCno=s90"
+            ],
+            "recipeName": "Pochiertes Rinderfilet in Rotweinso\u00dfe mit Ro\u0308stkartoffeln und Mo\u0308hren + Variante",
+            "totalTimeInSeconds": 4500,
+            "attributes": {},
+            "flavors": null,
+            "rating": 3
+        },
+        {
+            "imageUrlsBySize": {
+                "90": "http://lh3.googleusercontent.com/CxO_0JaSmAcnDVLgf6FgLfgVwGAHWuJlGR8OsomniWlyQcXhvLxGmLcES2sXsOt6uJ_OTih9aTHEPK6Ft77t=s90-c"
+            },
+            "sourceDisplayName": "Lecker",
+            "ingredients": [
+                "Mandel",
+                "Haferflocken",
+                "Marille",
+                "Butter",
+                "Honig",
+                "Zimt",
+                "M\u00fcsli",
+                "Mehl",
+                "Eiwei\u00df"
+            ],
+            "id": "Aprikosen-Mandel-Musliriegel-848709",
+            "smallImageUrls": [
+                "http://lh3.googleusercontent.com/Oi4fSxHFV-HQxFIY5yN7dl7p0WXv4dLfkLkx17kGvk5h5zP8_9K-ttfuUms_9MbJbvth6W9Q25z2fV9HlM-a=s90"
+            ],
+            "recipeName": "Aprikosen-Mandel-Mu\u0308sliriegel",
+            "totalTimeInSeconds": 1800,
+            "attributes": {},
+            "flavors": {
+                "sweet": 0.6666666666666666,
+                "piquant": 0.0,
+                "sour": 0.16666666666666666,
+                "salty": 0.3333333333333333,
+                "meaty": 0.8333333333333334,
+                "bitter": 0.8333333333333334
+            },
+            "rating": 3
+        },
+        {
+            "imageUrlsBySize": {
+                "90": "http://lh3.googleusercontent.com/4xKDjPNBnYpuSOBRDMzNnFq0Bz7T46bOenvjm7FkRhwPY0e9fzdqaM7mGjuAPWrjwIUuVlqC_DlA8glEE7oPVgA=s90-c"
+            },
+            "sourceDisplayName": "Lecker",
+            "ingredients": [
+                "Haferflocken",
+                "bananenchips",
+                "Butter",
+                "Honig",
+                "M\u00fcsli",
+                "Mehl",
+                "Eiwei\u00df",
+                "Schokolade"
+            ],
+            "id": "Schoko-Bananen-Musliriegel-846332",
+            "smallImageUrls": [
+                "http://lh3.googleusercontent.com/Mn73krNhMSuJ89DjFyvaJIlBsLZCs_YqtKv5NTjcihn5Ohj9skWIuZLvqRiHRFEPB7UltQ_HEFWNNYkFUgkreRI=s90"
+            ],
+            "recipeName": "Schoko-Bananen-Mu\u0308sliriegel",
+            "totalTimeInSeconds": 1800,
+            "attributes": {},
+            "flavors": null,
+            "rating": 3
+        }
+    ],
+    "facetCounts": {},
+    "totalMatchCount": 4,
+    "attribution": {
+        "html": "Recipe search powered by <a href='http://www.yummly.co/recipes'><img alt='Yummly' src='https://static.yummly.co/api-logo.png'/></a>",
+        "url": "http://www.yummly.co/recipes/",
+        "text": "Recipe search powered by Yummly",
+        "logo": "https://static.yummly.co/api-logo.png"
+    }
+}

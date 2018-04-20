@@ -1,0 +1,16 @@
+{
+    "criteria": {
+        "q": "b+o+n+e+l+e+s+s+ +s+k+i+n+l+e+s+s+ +c+h+i+c+k+e+n+ +b+r+e+a+s+t+s",
+        "allowedIngredient": null,
+        "excludedIngredient": null
+    },
+    "matches": [],
+    "facetCounts": {},
+    "totalMatchCount": 0,
+    "attribution": {
+        "html": "Recipe search powered by <a href='http://www.yummly.co/recipes'><img alt='Yummly' src='https://static.yummly.co/api-logo.png'/></a>",
+        "url": "http://www.yummly.co/recipes/",
+        "text": "Recipe search powered by Yummly",
+        "logo": "https://static.yummly.co/api-logo.png"
+    }
+}

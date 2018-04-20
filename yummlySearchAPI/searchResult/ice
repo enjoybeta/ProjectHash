@@ -1,0 +1,349 @@
+{
+    "criteria": {
+        "q": "i+c+e",
+        "allowedIngredient": null,
+        "excludedIngredient": null
+    },
+    "matches": [
+        {
+            "imageUrlsBySize": {
+                "90": "http://lh5.ggpht.com/b6QUxRlcgjFN2RqzTsE0orix0R3NxlOaC64xYhC0PH2iuxvM3Cqri5ugGjuQsZKSOE7N9g-hQSRSgxnnVk1rrg=s90-c"
+            },
+            "sourceDisplayName": "Real Mom Kitchen",
+            "ingredients": [
+                "all-purpose flour",
+                "baking soda",
+                "baking powder",
+                "butter",
+                "white sugar",
+                "eggs",
+                "vanilla extract"
+            ],
+            "id": "Easy-sugar-cookies-369923",
+            "smallImageUrls": [
+                "http://lh6.ggpht.com/MT4joqIt1EzCVdrnDxjT2e87lTCvFoHn9yC9cTdaO7GJexypVNnnOdQZFv_LLp2mlikSaDFRtdVPH9CTF9eBug=s90"
+            ],
+            "recipeName": "Easy Sugar Cookies",
+            "totalTimeInSeconds": 1800,
+            "attributes": {
+                "course": [
+                    "Desserts"
+                ]
+            },
+            "flavors": {
+                "piquant": 0.0,
+                "meaty": 0.6666666666666666,
+                "bitter": 0.16666666666666666,
+                "sweet": 0.8333333333333334,
+                "sour": 0.16666666666666666,
+                "salty": 0.6666666666666666
+            },
+            "rating": 5
+        },
+        {
+            "imageUrlsBySize": {
+                "90": "https://lh3.googleusercontent.com/kW1V0c_D5CTMMQE-_sHsrnt12sDj0kM6njN8xGtN29aguA_Uk7sQHAZVnk0pnbwXMwptGzHrwsuaJ7T84-Oh=s90-c"
+            },
+            "sourceDisplayName": "Nutrition to Fit",
+            "ingredients": [
+                "milk",
+                "old-fashioned oats",
+                "chia seeds",
+                "maple syrup",
+                "turmeric",
+                "pumpkin pie spice"
+            ],
+            "id": "Spiced-Turmeric-Overnight-Oats-2252999",
+            "smallImageUrls": [
+                "https://lh3.googleusercontent.com/tLd2y1XAF9TNd5FFhSHz5oDlq0chwmAEfsWRdR3rm3DfrmMpNsFgJb5NbLMnU52uSHJ0x2bfomdog9-g5mK7Dw=s90"
+            ],
+            "recipeName": "Spiced Turmeric Overnight Oats",
+            "totalTimeInSeconds": 900,
+            "attributes": {
+                "course": [
+                    "Breakfast and Brunch"
+                ]
+            },
+            "flavors": {
+                "piquant": 0.0,
+                "meaty": 0.16666666666666666,
+                "bitter": 0.5,
+                "sweet": 0.5,
+                "sour": 0.16666666666666666,
+                "salty": 0.16666666666666666
+            },
+            "rating": 4
+        },
+        {
+            "imageUrlsBySize": {
+                "90": "https://lh3.googleusercontent.com/JRun7CHys55BZXsDS7Cblvxs3CxBv7CaL_0G5OM88qux3bjHa0aU5utHaz5MslZ4pNuUHrMrnGqW2yJ52qv0Hg=s90-c"
+            },
+            "sourceDisplayName": "Love Foodies",
+            "ingredients": [
+                "softened butter",
+                "milk",
+                "regular sugar",
+                "eggs",
+                "strawberries",
+                "all-purpose flour",
+                "baking powder",
+                "salt",
+                "vanilla extract"
+            ],
+            "id": "Strawberry-Pound-Cake-2161706",
+            "smallImageUrls": [
+                "https://lh3.googleusercontent.com/Z-FK3Emwk1tPG_pZXi-SVmhp_2UxnkeoTQIy9_hPTucsUGP_5VkZf_iFcnfmLfw52PCS1s9uPMTIxctcg7x9=s90"
+            ],
+            "recipeName": "Strawberry Pound Cake",
+            "totalTimeInSeconds": 5400,
+            "attributes": {
+                "course": [
+                    "Desserts",
+                    "Afternoon Tea"
+                ]
+            },
+            "flavors": {
+                "piquant": 0.0,
+                "meaty": 0.3333333333333333,
+                "bitter": 0.16666666666666666,
+                "sweet": 0.6666666666666666,
+                "sour": 0.8333333333333334,
+                "salty": 0.6666666666666666
+            },
+            "rating": 4
+        },
+        {
+            "imageUrlsBySize": {
+                "90": "http://lh6.ggpht.com/TWHuhGaIN5Vo8NCgDRxWeJl2EDFPNJl_EVlnTpRNnWmNnAh9lgs5IeymmiB1yLeqd_dArMDgp0MMU2wrWaQITQ=s90-c"
+            },
+            "sourceDisplayName": "Love Foodies",
+            "ingredients": [
+                "butter",
+                "milk",
+                "regular sugar",
+                "eggs",
+                "poppy seeds",
+                "zest",
+                "plain flour",
+                "baking powder",
+                "salt"
+            ],
+            "id": "Lemon-and-Poppy-Seed-Loaf-969583",
+            "smallImageUrls": [
+                "http://lh3.ggpht.com/hBJyDSQArU9IA-kc4HCEDAp9UMcXL0h4UUZOImOrWgcKFyK0xYjCDsghsUH8mleuSTVDj3esPieI0KRlwQEddg=s90"
+            ],
+            "recipeName": "Lemon and Poppy Seed Loaf",
+            "totalTimeInSeconds": 4500,
+            "attributes": {
+                "course": [
+                    "Desserts",
+                    "Breads"
+                ]
+            },
+            "flavors": {
+                "sweet": 0.8333333333333334,
+                "piquant": 0.0,
+                "sour": 0.16666666666666666,
+                "salty": 0.6666666666666666,
+                "meaty": 0.6666666666666666,
+                "bitter": 0.5
+            },
+            "rating": 4
+        },
+        {
+            "imageUrlsBySize": {
+                "90": "http://lh4.ggpht.com/f5652mqJZlbXMARDgVvUanI2CGEwCfMGuIvrnkUB-4VIwy0tvD6jIsIVaGdCV_tSCZf57KILS8hmgm4-sb3GaA=s90-c"
+            },
+            "sourceDisplayName": "Love Foodies",
+            "ingredients": [
+                "softened butter",
+                "milk",
+                "regular sugar",
+                "eggs",
+                "vanilla extract",
+                "all-purpose flour",
+                "baking powder",
+                "salt"
+            ],
+            "id": "Moist-Vanilla-Pound-_-Loaf-Cake-975612",
+            "smallImageUrls": [
+                "http://lh5.ggpht.com/GQ83QroEIzh9Z6Lm9ykEoVeay7-P1W5PKdLluOM4DS5wbuW0NEB0T7A4j768SpiSRf02drpEgQDuLcEm3e_xNA=s90"
+            ],
+            "recipeName": "Moist Vanilla Pound / Loaf Cake",
+            "totalTimeInSeconds": 4500,
+            "attributes": {
+                "course": [
+                    "Afternoon Tea",
+                    "Desserts"
+                ]
+            },
+            "flavors": null,
+            "rating": 4
+        },
+        {
+            "imageUrlsBySize": {
+                "90": "https://lh3.googleusercontent.com/LCh8xsWfjg03ZHsdG1Y3x-0lMghG8vmm7_m3VhkpRfpZanl6uMhkTvIvA6IVwOcf_gMkg9cblTNlfaAYvoc75A=s90-c"
+            },
+            "sourceDisplayName": "Simple Seasonal",
+            "ingredients": [
+                "champagne",
+                "swizzle sticks",
+                "apple cider",
+                "gummy bears",
+                "granulated sugar",
+                "water"
+            ],
+            "id": "Gummy-Bear-Mocktail-2298154",
+            "smallImageUrls": [
+                "https://lh3.googleusercontent.com/SbLK5l5Q1Dfp76GTdu2lP0j2-n45JVlvmyHvln8rWV5xvFsE5HntLVF_16M6ldSou30_wVPMmT3HG52OaHH37Q=s90"
+            ],
+            "recipeName": "Gummy Bear Mocktail",
+            "totalTimeInSeconds": 1500,
+            "attributes": {
+                "course": [
+                    "Beverages",
+                    "Cocktails"
+                ]
+            },
+            "flavors": null,
+            "rating": 4
+        },
+        {
+            "imageUrlsBySize": {
+                "90": "http://lh4.ggpht.com/zwpcZj6YKN8OgC3FuM5Zts1fbBxLpY-dxz5OzIWaP0QEK08a6uZmVni0itIZbqx-weeaXwbyufCi_jqW4f_BcA=s90-c"
+            },
+            "sourceDisplayName": "Gwen's Nest",
+            "ingredients": [
+                "warm water",
+                "coarse salt",
+                "whole wheat flour",
+                "yeast",
+                "dough",
+                "crust",
+                "wheat"
+            ],
+            "id": "Easy-E-Bread-984635",
+            "smallImageUrls": [
+                "http://lh6.ggpht.com/B__4o0sk8XAghFLArX3_fti__qcP9j8MI2ie992n6J-5t1-Op2EmeRID8NviOyX-e140aY2aUEKlMG5O53J6CA=s90"
+            ],
+            "recipeName": "Easy E Bread",
+            "totalTimeInSeconds": 10800,
+            "attributes": {
+                "course": [
+                    "Breads"
+                ]
+            },
+            "flavors": null,
+            "rating": 4
+        },
+        {
+            "imageUrlsBySize": {
+                "90": "https://lh3.googleusercontent.com/mL9YaNh0f0IbZOVtkwDfOPfWKdf2-hbyGsTsvWYntdniZ9kjOLA75ZPOT5fWwft5jB6ojZTQNQV3-DfD_adoy-Y=s90-c"
+            },
+            "sourceDisplayName": "Cotto e Crudo",
+            "ingredients": [
+                "celery root",
+                "corn flour",
+                "sea salt",
+                "extra-virgin olive oil",
+                "mint leaves",
+                "coriander seeds"
+            ],
+            "id": "Baked-Celeriac-Patties-With-Coriander-And-Mint-1744767",
+            "smallImageUrls": [
+                "https://lh3.googleusercontent.com/QfcTpoTkCa9Ke_o4C-C2g7NECNvnXpdOfLRw5MfYPgBXOxKkg_FQ79SdjQX0SNwZnl0ZQx2sStWdEOlLtrNLwA=s90"
+            ],
+            "recipeName": "Baked Celeriac Patties With Coriander And Mint",
+            "totalTimeInSeconds": 4800,
+            "attributes": {},
+            "flavors": {
+                "sweet": 0.16666666666666666,
+                "piquant": 0.0,
+                "sour": 0.5,
+                "salty": 0.5,
+                "meaty": 0.16666666666666666,
+                "bitter": 0.5
+            },
+            "rating": 4
+        },
+        {
+            "imageUrlsBySize": {
+                "90": "http://lh3.googleusercontent.com/CarPwY9WtMyCJkS-5HhH38ieDQvyREr1yrzMtw6bU78JsKsavT-UBPe5Ol9kps0GVy6czBBfajwOWlTT-Srp_g=s90-c"
+            },
+            "sourceDisplayName": "Delightful E Made",
+            "ingredients": [
+                "skim milk",
+                "strawberries",
+                "greek yogurt",
+                "ice",
+                "frozen strawberries",
+                "light whipped cream"
+            ],
+            "id": "Skinny-Starbucks-Strawberries-and-Cream-Frappuccino-1103075",
+            "smallImageUrls": [
+                "http://lh3.googleusercontent.com/ZJjS_hkl3wQOmwTY30XU_sma2ZvJm3600x3WmkLc8gdLnPLXJ35R0jHDwWJMQD4e6Ka1K7o2Eza--BiOaS_hFPA=s90"
+            ],
+            "recipeName": "Skinny Starbucks Strawberries and Cream Frappuccino",
+            "totalTimeInSeconds": 300,
+            "attributes": {
+                "course": [
+                    "Beverages"
+                ],
+                "cuisine": [
+                    "Kid-Friendly"
+                ]
+            },
+            "flavors": {
+                "piquant": 0.0,
+                "meaty": 0.16666666666666666,
+                "bitter": 0.16666666666666666,
+                "sweet": 0.3333333333333333,
+                "sour": 0.8333333333333334,
+                "salty": 0.16666666666666666
+            },
+            "rating": 4
+        },
+        {
+            "imageUrlsBySize": {
+                "90": "http://lh3.googleusercontent.com/IPmbzVWxHlnHBqRQBYxwCDWTJYVhjvvDUq0iWRQg2mKXs14Btqf17yqUDn2ysh9p8N-0CrCDBJTI4gb9urXtxA=s90-c"
+            },
+            "sourceDisplayName": "Delightful E Made",
+            "ingredients": [
+                "plain greek yogurt",
+                "almond milk",
+                "frozen raspberries",
+                "almonds",
+                "honey",
+                "chia seeds"
+            ],
+            "id": "Raspberry-Almond-Chia-Smoothie---Cooking-for-a-Cure-1116827",
+            "smallImageUrls": [
+                "http://lh3.googleusercontent.com/tO3APUYsA6jdsCr6H5pEwlPNeN4v34hIRqONU8YDT6xmGbRUzbkkDs-ASo9CbT_h46ccenkwx09XsJDMiN6Lmw=s90"
+            ],
+            "recipeName": "Raspberry Almond Chia Smoothie - Cooking for a Cure",
+            "totalTimeInSeconds": 300,
+            "attributes": {
+                "course": [
+                    "Beverages"
+                ]
+            },
+            "flavors": {
+                "piquant": 0.0,
+                "meaty": 0.16666666666666666,
+                "bitter": 0.16666666666666666,
+                "sweet": 0.5,
+                "sour": 0.5,
+                "salty": 0.16666666666666666
+            },
+            "rating": 4
+        }
+    ],
+    "facetCounts": {},
+    "totalMatchCount": 2786,
+    "attribution": {
+        "html": "Recipe search powered by <a href='http://www.yummly.co/recipes'><img alt='Yummly' src='https://static.yummly.co/api-logo.png'/></a>",
+        "url": "http://www.yummly.co/recipes/",
+        "text": "Recipe search powered by Yummly",
+        "logo": "https://static.yummly.co/api-logo.png"
+    }
+}

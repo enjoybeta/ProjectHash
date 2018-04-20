@@ -1,0 +1,383 @@
+{
+    "criteria": {
+        "q": "T+e+i+g",
+        "allowedIngredient": null,
+        "excludedIngredient": null
+    },
+    "matches": [
+        {
+            "imageUrlsBySize": {
+                "90": "https://lh3.googleusercontent.com/JRun7CHys55BZXsDS7Cblvxs3CxBv7CaL_0G5OM88qux3bjHa0aU5utHaz5MslZ4pNuUHrMrnGqW2yJ52qv0Hg=s90-c"
+            },
+            "sourceDisplayName": "Love Foodies",
+            "ingredients": [
+                "softened butter",
+                "milk",
+                "regular sugar",
+                "eggs",
+                "strawberries",
+                "all-purpose flour",
+                "baking powder",
+                "salt",
+                "vanilla extract"
+            ],
+            "id": "Strawberry-Pound-Cake-2161706",
+            "smallImageUrls": [
+                "https://lh3.googleusercontent.com/Z-FK3Emwk1tPG_pZXi-SVmhp_2UxnkeoTQIy9_hPTucsUGP_5VkZf_iFcnfmLfw52PCS1s9uPMTIxctcg7x9=s90"
+            ],
+            "recipeName": "Strawberry Pound Cake",
+            "totalTimeInSeconds": 5400,
+            "attributes": {
+                "course": [
+                    "Desserts",
+                    "Afternoon Tea"
+                ]
+            },
+            "flavors": {
+                "piquant": 0.0,
+                "meaty": 0.3333333333333333,
+                "bitter": 0.16666666666666666,
+                "sweet": 0.6666666666666666,
+                "sour": 0.8333333333333334,
+                "salty": 0.6666666666666666
+            },
+            "rating": 4
+        },
+        {
+            "imageUrlsBySize": {
+                "90": "https://lh3.googleusercontent.com/J4o7kGIrOw3pMEv9-zs1JHy6GuBqDPo6GM20qwVDSvwQFNSTnijSBg7-WuX7aeVstEsrRNcJX2gcWwdFlFifKA=s90-c"
+            },
+            "sourceDisplayName": "Love Foodies",
+            "ingredients": [
+                "milk",
+                "vanilla pods",
+                "corn starch",
+                "sugar",
+                "egg yolks"
+            ],
+            "id": "How-To-Make-Home-Made-Custard-1360046",
+            "smallImageUrls": [
+                "https://lh3.googleusercontent.com/bhSAjM7XxI9ALqvtn4sDwsDpg63jzlr72a4F8ZfPi8PFBecb_MBADGTIDfc2nv3q-c3syIZgAd78V1tDXLsCJg=s90"
+            ],
+            "recipeName": "How To Make Home Made Custard",
+            "totalTimeInSeconds": 1200,
+            "attributes": {
+                "course": [
+                    "Desserts"
+                ]
+            },
+            "flavors": null,
+            "rating": 4
+        },
+        {
+            "imageUrlsBySize": {
+                "90": "https://lh3.googleusercontent.com/pAjDb38CClpzsszVpEq5y0kFse0WQS605ykROpQuymiGR_zpQtMEucxH4yg5cMHa4GyewNjVV7kqbJfLo2HfdQ=s90-c"
+            },
+            "sourceDisplayName": "Scotsman Food and Drink",
+            "ingredients": [
+                "strong white bread flour",
+                "lard",
+                "sugar",
+                "salt",
+                "instant yeast",
+                "cold water",
+                "plain flour",
+                "cones"
+            ],
+            "id": "Recipe-for-Glasgow-Crispy-Morning-Rolls-2363678",
+            "smallImageUrls": [
+                "https://lh3.googleusercontent.com/nWYnAcIWYiuJ8IyjxqFB1evf7x-ajPqs3lge8QkwdhnHbN75HsT4ENdeaBmfZXacdztk6U8t7FjThiCKsD7v=s90"
+            ],
+            "recipeName": "Recipe for Glasgow Crispy Morning Rolls",
+            "totalTimeInSeconds": 4200,
+            "attributes": {
+                "course": [
+                    "Breads"
+                ]
+            },
+            "flavors": {
+                "piquant": 0.0,
+                "meaty": 0.16666666666666666,
+                "bitter": 0.8333333333333334,
+                "sweet": 0.16666666666666666,
+                "sour": 0.0,
+                "salty": 0.8333333333333334
+            },
+            "rating": 4
+        },
+        {
+            "imageUrlsBySize": {
+                "90": "http://lh6.ggpht.com/1oNr7Icsmf6BcN0nf3_hHwSG-FmXU86JEpF7Wjs8v3l9-TcVI8ihkQ1YuQuLotWHkpsjzhsZsoens4ZCJ8cp=s90-c"
+            },
+            "sourceDisplayName": "Love Foodies",
+            "ingredients": [
+                "softened butter",
+                "milk",
+                "regular sugar",
+                "eggs",
+                "all-purpose flour",
+                "baking powder",
+                "salt",
+                "lemon",
+                "juice",
+                "warm water"
+            ],
+            "id": "Moist-Orange-or-Lemon-Pound-_-Loaf-Cake-779282",
+            "smallImageUrls": [
+                "http://lh5.ggpht.com/Ao-vHQSenO9XkUUPHi-qF7t9cE-x_6AnmXxxcUZpD_E7aUgRSzWW2vszCASYsmu9iJjOLHoAT4S-UvsBCzzWKA=s90"
+            ],
+            "recipeName": "Moist Orange or Lemon Pound / Loaf Cake",
+            "totalTimeInSeconds": 5700,
+            "attributes": {
+                "course": [
+                    "Desserts",
+                    "Breads",
+                    "Afternoon Tea"
+                ]
+            },
+            "flavors": {
+                "piquant": 0.0,
+                "meaty": 0.16666666666666666,
+                "bitter": 0.16666666666666666,
+                "sweet": 0.6666666666666666,
+                "sour": 0.8333333333333334,
+                "salty": 0.16666666666666666
+            },
+            "rating": 4
+        },
+        {
+            "imageUrlsBySize": {
+                "90": "http://lh3.ggpht.com/RNehLOAq0ztktcIOVkcaE10hwIR_Qq7pcvevnkFCvI0tTYo0kK9hr5dzD0Jq-QuYgdHyiny5mSRTTyEEmzpYaQ=s90-c"
+            },
+            "sourceDisplayName": "Love Foodies",
+            "ingredients": [
+                "softened butter",
+                "milk",
+                "regular sugar",
+                "light brown sugar",
+                "eggs",
+                "dulce de leche",
+                "plain flour",
+                "baking powder",
+                "salt",
+                "ground cinnamon",
+                "ground nutmeg",
+                "apples",
+                "lemon juice"
+            ],
+            "id": "Moist-Caramel-and-Apple-Loaf-902065",
+            "smallImageUrls": [
+                "http://lh6.ggpht.com/cmv1N7sWtSa6FdX5AbcyfNIll9OzSY2prTVfTLcUui-Ihz7W-WwL3-OpClru-0eT03B-eATDMxL9XBfN9fFCAxM=s90"
+            ],
+            "recipeName": "Moist Caramel and Apple Loaf",
+            "totalTimeInSeconds": 6300,
+            "attributes": {
+                "course": [
+                    "Desserts"
+                ],
+                "cuisine": [
+                    "Kid-Friendly"
+                ]
+            },
+            "flavors": {
+                "sweet": 0.8333333333333334,
+                "piquant": 0.0,
+                "sour": 0.16666666666666666,
+                "salty": 0.5,
+                "meaty": 0.16666666666666666,
+                "bitter": 0.16666666666666666
+            },
+            "rating": 4
+        },
+        {
+            "imageUrlsBySize": {
+                "90": "http://lh6.ggpht.com/4QYXPi7nSONviVwoPYQgtk5rFMsXU3NJMwNoUc2RDH8EZNIi1B4oHgLCi4C6oKKrMUMu5k5Ze12Q3y0chZ0GHw=s90-c"
+            },
+            "sourceDisplayName": "popsugar.com",
+            "ingredients": [
+                "almond meal",
+                "powdered sugar",
+                "large egg whites",
+                "granulated sugar",
+                "vanilla extract",
+                "unsalted butter",
+                "egg yolks",
+                "milk"
+            ],
+            "id": "Basic-French-Macarons-985910",
+            "smallImageUrls": [
+                "http://lh5.ggpht.com/pmlUPK3GhsHWDm-HVA1fw05dvcwmMGHnVDvVkyoaucLZ_CwqyKcc0wcOkhbiOvDuoI333KouI-t-bYlQQBAQCMo=s90"
+            ],
+            "recipeName": "Basic French Macarons",
+            "totalTimeInSeconds": 4500,
+            "attributes": {
+                "course": [
+                    "Desserts"
+                ],
+                "cuisine": [
+                    "French"
+                ]
+            },
+            "flavors": {
+                "sweet": 0.8333333333333334,
+                "piquant": 0.0,
+                "sour": 0.16666666666666666,
+                "salty": 0.16666666666666666,
+                "meaty": 0.6666666666666666,
+                "bitter": 0.16666666666666666
+            },
+            "rating": 3
+        },
+        {
+            "imageUrlsBySize": {
+                "90": "https://lh3.googleusercontent.com/curyewIhrkARH_plYaw5gEGH6VXjuIlaQGJoS0gaItB1R8WL27UXWcxIdCM8MKCDissoGqMl_PIBxblK86Ls5g=s90-c"
+            },
+            "sourceDisplayName": "I am homesteader",
+            "ingredients": [
+                "all-purpose flour",
+                "granulated sugar",
+                "salt",
+                "vegetable shortening",
+                "eggs",
+                "vinegar",
+                "water"
+            ],
+            "id": "Amish-Never-Fail-Pie-Crust-2039093",
+            "smallImageUrls": [
+                "https://lh3.googleusercontent.com/8iELw9TPGOPMZVNvQcFOKyFonR1CjFnmhrM5UAOzMvCJGKaLJ5CgH88P06sBfn_Zkok7ldNhGgzU7K9OT6XQIA=s90"
+            ],
+            "recipeName": "Amish Never Fail Pie Crust",
+            "totalTimeInSeconds": 4500,
+            "attributes": {
+                "course": [
+                    "Desserts"
+                ]
+            },
+            "flavors": {
+                "piquant": 0.0,
+                "meaty": 0.8333333333333334,
+                "bitter": 0.16666666666666666,
+                "sweet": 0.16666666666666666,
+                "sour": 0.16666666666666666,
+                "salty": 0.8333333333333334
+            },
+            "rating": 4
+        },
+        {
+            "imageUrlsBySize": {
+                "90": "https://lh3.googleusercontent.com/k-j3NyLAdN-dsWfJKXdUkIy36ihFglXwyfx88WS0xxYjEB8Fq_iyD1tIw5NP39t3fyY1gsJFPrlxP9lBm5JdLA=s90-c"
+            },
+            "sourceDisplayName": "Minimalist Baker",
+            "ingredients": [
+                "peanut butter",
+                "maple syrup",
+                "protein powder",
+                "gluten",
+                "flax seed meal",
+                "chia seeds",
+                "dried fruit"
+            ],
+            "id": "No-Bake-PB-_-J-Energy-Bites-1977823",
+            "smallImageUrls": [
+                "https://lh3.googleusercontent.com/5Va800OV2Cbp-mKO4CwGJoN2EkXhjYLOOL5ZqiZ91FiBROunLJTqvTfXdqgKToTz62ZY7vFJ1baVccMPubnd=s90"
+            ],
+            "recipeName": "No Bake PB & J Energy Bites",
+            "totalTimeInSeconds": 900,
+            "attributes": {
+                "course": [
+                    "Desserts",
+                    "Lunch",
+                    "Snacks"
+                ]
+            },
+            "flavors": {
+                "piquant": 0.0,
+                "meaty": 0.8333333333333334,
+                "bitter": 0.6666666666666666,
+                "sweet": 0.6666666666666666,
+                "sour": 0.16666666666666666,
+                "salty": 0.16666666666666666
+            },
+            "rating": 4
+        },
+        {
+            "imageUrlsBySize": {
+                "90": "http://lh4.ggpht.com/GsgFF4FWv8_3DcQVk8_wvLNpetL-QKfLMtELfx-OxqWlHSWG4A1gXivVgbpxYZAop6ytbU3cAeVljtMcacn4IEE=s90-c"
+            },
+            "sourceDisplayName": "Kitchen Tigress",
+            "ingredients": [
+                "glutinous rice flour",
+                "rice flour",
+                "sugar",
+                "white sesame seeds",
+                "red bean paste",
+                "vegetable oil"
+            ],
+            "id": "SESAME-BALLS-__-978877",
+            "smallImageUrls": [
+                "http://lh6.ggpht.com/T9wiF2SAYnYV8JhIwwoTOzNS5gjF-TKXhLfC4vrEKxLfl_jwaDuTwpHX-wRGOT-9qOB9kVVnMje1FYnIJJRsNBI=s90"
+            ],
+            "recipeName": "SESAME BALLS (\u714e\u5806)",
+            "totalTimeInSeconds": 3300,
+            "attributes": {
+                "course": [
+                    "Desserts"
+                ]
+            },
+            "flavors": null,
+            "rating": 4
+        },
+        {
+            "imageUrlsBySize": {
+                "90": "https://lh3.googleusercontent.com/8wTkogxa7eC2yPSmziOqfd9o2Hwp5E7fgWaNcBFC1QOkS0VrhlPdRmmlvOjw_178QTcCsUJAXwzRM5ejgnPWhw=s90-c"
+            },
+            "sourceDisplayName": "BigOven",
+            "ingredients": [
+                "unbleached all-purpose flour",
+                "baking soda",
+                "table salt",
+                "unsalted butter",
+                "granulated sugar",
+                "light brown sugar",
+                "pure vanilla extract",
+                "large eggs",
+                "semi-sweet chocolate morsels"
+            ],
+            "id": "Soft-and-Chewy-Chocolate-Chip-Cookies-2359704",
+            "smallImageUrls": [
+                "https://lh3.googleusercontent.com/gekoM0glAVjr_YbbQu-Nv3cxOGiEE4DfK5HJNVdqW0IDvCy2rTlKCbaDESefmKhu0CCWZQWUUelBG2lR92gTFg=s90"
+            ],
+            "recipeName": "Soft and Chewy Chocolate Chip Cookies",
+            "totalTimeInSeconds": 3000,
+            "attributes": {
+                "course": [
+                    "Desserts",
+                    "Afternoon Tea"
+                ],
+                "cuisine": [
+                    "Kid-Friendly"
+                ],
+                "holiday": [
+                    "Christmas"
+                ]
+            },
+            "flavors": {
+                "piquant": 0.0,
+                "meaty": 0.6666666666666666,
+                "bitter": 0.16666666666666666,
+                "sweet": 0.8333333333333334,
+                "sour": 0.0,
+                "salty": 0.5
+            },
+            "rating": 3
+        }
+    ],
+    "facetCounts": {},
+    "totalMatchCount": 408,
+    "attribution": {
+        "html": "Recipe search powered by <a href='http://www.yummly.co/recipes'><img alt='Yummly' src='https://static.yummly.co/api-logo.png'/></a>",
+        "url": "http://www.yummly.co/recipes/",
+        "text": "Recipe search powered by Yummly",
+        "logo": "https://static.yummly.co/api-logo.png"
+    }
+}

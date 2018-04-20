@@ -1,0 +1,53 @@
+{
+    "yield": "Zutaten f\u00fcr 4 Personen:",
+    "nutritionEstimates": [],
+    "totalTime": "1 hr",
+    "images": [
+        {
+            "hostedSmallUrl": "http://lh3.googleusercontent.com/cNyyAyHMoVcwXXkTaqeGrNIMrUXovhfB1uUVUGIRlkR44bifWFwAxRUzqT_PWXWHCXoZNfd9j1fFVjkpCuw3gPA=s90",
+            "hostedMediumUrl": "http://lh3.googleusercontent.com/cNyyAyHMoVcwXXkTaqeGrNIMrUXovhfB1uUVUGIRlkR44bifWFwAxRUzqT_PWXWHCXoZNfd9j1fFVjkpCuw3gPA=s180",
+            "hostedLargeUrl": "http://lh3.googleusercontent.com/cNyyAyHMoVcwXXkTaqeGrNIMrUXovhfB1uUVUGIRlkR44bifWFwAxRUzqT_PWXWHCXoZNfd9j1fFVjkpCuw3gPA=s360",
+            "imageUrlsBySize": {
+                "90": "http://lh3.googleusercontent.com/kdgwCdDMbnQS-GKxl48sL4cHMubS_8DnrKO8zIjL_YTkfqF8CnJ09UR7x3uzY5tBfkm0VoXCGIr-rKYnFgvJ=s90-c",
+                "360": "http://lh3.googleusercontent.com/kdgwCdDMbnQS-GKxl48sL4cHMubS_8DnrKO8zIjL_YTkfqF8CnJ09UR7x3uzY5tBfkm0VoXCGIr-rKYnFgvJ=s360-c"
+            }
+        }
+    ],
+    "name": "Mohndessert mit mu\u0308rben Keksen",
+    "source": {
+        "sourceDisplayName": "Lecker",
+        "sourceSiteUrl": "lecker.de",
+        "sourceRecipeUrl": "http://www.lecker.de/rezept/501126/Mohndessert-mit-muerben-Keksen.html"
+    },
+    "id": "Mohndessert-mit-murben-Keksen-811540",
+    "ingredientLines": [
+        "125 g Mehl",
+        "60 g weiche Butter oder Margarine",
+        "30 g Puderzucker",
+        "2 Eigelb (Gr\u00f6\u00dfe M)",
+        "100 g Rosinen",
+        "2 EL Rum",
+        "150 g gemahlener Mohn (gibt`s z. B. beim B\u00e4cker)",
+        "1/2 l Milch",
+        "175 g fl\u00fcssiger Honig",
+        "1 P\u00e4ckchen Vanillin-Zucker",
+        "100 g gehackte Mandeln",
+        "125 g Schlagsahne",
+        "1 EL Mandelbl\u00e4ttchen"
+    ],
+    "attribution": {
+        "html": "<a href='http://www.yummly.co/recipe/Mohndessert-mit-murben-Keksen-811540'>Mohndessert mit mu\u0308rben Keksen recipe</a> information powered by <img alt='Yummly' src='https://static.yummly.co/api-logo.png'/>",
+        "url": "http://www.yummly.co/recipe/Mohndessert-mit-murben-Keksen-811540",
+        "text": "Mohndessert mit mu\u0308rben Keksen recipes: information powered by Yummly",
+        "logo": "https://static.yummly.co/api-logo.png"
+    },
+    "numberOfServings": 4,
+    "totalTimeInSeconds": 3600,
+    "attributes": {
+        "course": [
+            "Desserts"
+        ]
+    },
+    "flavors": {},
+    "rating": 3
+}

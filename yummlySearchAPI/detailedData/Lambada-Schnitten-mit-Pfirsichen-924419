@@ -1,0 +1,58 @@
+{
+    "yield": "Zutaten f\u00fcr 20 St\u00fccke:",
+    "nutritionEstimates": [],
+    "totalTime": "1 hr",
+    "images": [
+        {
+            "hostedSmallUrl": "http://lh3.googleusercontent.com/fZMgV-2AkpHn6_tONLHkhOXmvBvz3MtnFYt59hZ9I6EziFRFbnm_G7EBuWEruiMrVPGZLF9MvRxI8wLNaJ8fuIM=s90",
+            "hostedMediumUrl": "http://lh3.googleusercontent.com/fZMgV-2AkpHn6_tONLHkhOXmvBvz3MtnFYt59hZ9I6EziFRFbnm_G7EBuWEruiMrVPGZLF9MvRxI8wLNaJ8fuIM=s180",
+            "hostedLargeUrl": "http://lh3.googleusercontent.com/fZMgV-2AkpHn6_tONLHkhOXmvBvz3MtnFYt59hZ9I6EziFRFbnm_G7EBuWEruiMrVPGZLF9MvRxI8wLNaJ8fuIM=s360",
+            "imageUrlsBySize": {
+                "90": "http://lh3.googleusercontent.com/LFw2Le3gXEiIbmBCDjkK07D0Yy3hQ2-EMlWWPBFrMDy22RRK8R2BMiSr8LoYqhghT1guYdJPhWJhDENURJI6=s90-c",
+                "360": "http://lh3.googleusercontent.com/LFw2Le3gXEiIbmBCDjkK07D0Yy3hQ2-EMlWWPBFrMDy22RRK8R2BMiSr8LoYqhghT1guYdJPhWJhDENURJI6=s360-c"
+            }
+        }
+    ],
+    "name": "Lambada-Schnitten mit Pfirsichen",
+    "source": {
+        "sourceDisplayName": "Lecker",
+        "sourceSiteUrl": "lecker.de",
+        "sourceRecipeUrl": "http://www.lecker.de/rezept/685628/Lambada-Schnitten-mit-Pfirsichen.html"
+    },
+    "id": "Lambada-Schnitten-mit-Pfirsichen-924419",
+    "ingredientLines": [
+        "F\u00fcr den Biskuit:",
+        "6 Eier (Gr\u00f6\u00dfe M)",
+        "150 g Zucker",
+        "1 P\u00e4ckchen Vanillin-Zucker",
+        "150 g Mehl",
+        "3/4 P\u00e4ckchen Backpulver",
+        "Zucker zum Bestreuen des Geschirrtuchs",
+        "je 1/2 l Pfirsich- und Maracujasaft",
+        "50 ml frisch gepresster Zitronensaft",
+        "3 P\u00e4ckchen Puddingpulver \"Sahne-Geschmack\" (f\u00fcr je 500 ml Fl\u00fcssigkeit)",
+        "100 g Zucker",
+        "3 Becher (\u00e0 250 g) Schlagsahne",
+        "1 EL Puderzucker",
+        "3 P\u00e4ckchen Sahnefestiger",
+        "150 g Aprikosen-Konfit\u00fcre",
+        "50 g Zartbitter-Kuvert\u00fcre",
+        "3 Pfirsichh\u00e4lften (a.d. Dose)",
+        "nach Belieben Zitronenmelisse und Maracuja"
+    ],
+    "attribution": {
+        "html": "<a href='http://www.yummly.co/recipe/Lambada-Schnitten-mit-Pfirsichen-924419'>Lambada-Schnitten mit Pfirsichen recipe</a> information powered by <img alt='Yummly' src='https://static.yummly.co/api-logo.png'/>",
+        "url": "http://www.yummly.co/recipe/Lambada-Schnitten-mit-Pfirsichen-924419",
+        "text": "Lambada-Schnitten mit Pfirsichen recipes: information powered by Yummly",
+        "logo": "https://static.yummly.co/api-logo.png"
+    },
+    "numberOfServings": 20,
+    "totalTimeInSeconds": 3600,
+    "attributes": {
+        "course": [
+            "Desserts"
+        ]
+    },
+    "flavors": {},
+    "rating": 3
+}

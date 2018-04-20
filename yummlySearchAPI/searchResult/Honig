@@ -1,0 +1,187 @@
+{
+    "criteria": {
+        "q": "H+o+n+i+g",
+        "allowedIngredient": null,
+        "excludedIngredient": null
+    },
+    "matches": [
+        {
+            "imageUrlsBySize": {
+                "90": "https://lh3.googleusercontent.com/e9NRlksVyHFFSwOtfid0SO9jKbRcMY7oPrP4VvVBXJ6R-I9_oWCdoeeysBBZgEwqBOK58tD5I-1mABigEbcisw=s90-c"
+            },
+            "sourceDisplayName": "The Healthy Chef",
+            "ingredients": [
+                "almond meal",
+                "macadamia oil",
+                "honey",
+                "extract",
+                "dark chocolate"
+            ],
+            "id": "Chocolate-Chip-Cookies-1732996",
+            "smallImageUrls": [
+                "https://lh3.googleusercontent.com/HxWrupz4OzQOKMB5ShKhM073dZQg-VjREl9h4qag3S1rirpb_FEGmMJv2lrCfD7K24PoKHUHd4FIFT46gkrxKw=s90"
+            ],
+            "recipeName": "Chocolate Chip Cookies",
+            "totalTimeInSeconds": 2400,
+            "attributes": {
+                "course": [
+                    "Desserts"
+                ]
+            },
+            "flavors": {
+                "piquant": 0.0,
+                "meaty": 0.8333333333333334,
+                "bitter": 0.8333333333333334,
+                "sweet": 0.8333333333333334,
+                "sour": 0.16666666666666666,
+                "salty": 0.16666666666666666
+            },
+            "rating": 3
+        },
+        {
+            "imageUrlsBySize": {
+                "90": "http://lh3.googleusercontent.com/46UKUqBffpCsp_pqZEERg-whlDEQNXaPePFM44y7MFwd9m-cQYv6HPxhPXvRvM1xmaWPzAzal_nd8m9WAIbBdw=s90-c"
+            },
+            "sourceDisplayName": "Lecker",
+            "ingredients": [
+                "Pinienkerne",
+                "Zwiebel",
+                "Knoblaucknolle",
+                "Oregano",
+                "\u00d6l",
+                "Tomatenkonzentrat",
+                "Mehl",
+                "Tomate",
+                "Gem\u00fcsebr\u00fche",
+                "Salz",
+                "Pfeffer",
+                "Kr\u00e4uter",
+                "Blattspinat",
+                "Musskatnuss",
+                "Parmesank\u00e4se",
+                "Ricottak\u00e4se",
+                "Ei",
+                "Eigelb",
+                "Butter"
+            ],
+            "id": "Spinat-Ricotta-Kloe-in-Tomatensoe-842501",
+            "smallImageUrls": [
+                "http://lh3.googleusercontent.com/PFor_SgwtF3mJtm5l8OHeHjrgBbvEwbSfQLZeZrTI9MjfFDPgqY51s-kb8FnbXoIdbnqfOpRwoPvsz7QwFGozA=s90"
+            ],
+            "recipeName": "Spinat-Ricotta-Klo\u0308\u00dfe in Tomatenso\u00dfe",
+            "totalTimeInSeconds": 3000,
+            "attributes": {},
+            "flavors": {
+                "sweet": 0.16666666666666666,
+                "piquant": 0.0,
+                "sour": 0.5,
+                "salty": 0.5,
+                "meaty": 0.16666666666666666,
+                "bitter": 0.5
+            },
+            "rating": 3
+        },
+        {
+            "imageUrlsBySize": {
+                "90": "http://lh3.googleusercontent.com/HwRnTvuKhbyUE4hlv_1XRGSgVocxeSetSLwbbNmOm3W-KDxrWXA0e-zmJMkPJudd0Jqnr-QpG_WXUuvfMETa=s90-c"
+            },
+            "sourceDisplayName": "Chefkoch",
+            "ingredients": [
+                "Weizenmehl",
+                "semolina",
+                "Eigelb",
+                "Ei",
+                "\u00d6l",
+                "Wasser",
+                "Salz"
+            ],
+            "id": "Nudelteig_-selbstgemacht---mein-Grundrezept-957662",
+            "smallImageUrls": [
+                "http://lh3.googleusercontent.com/KesqQ0HLjliYorKD7N3CEf-2VfTE4KZeZy1LkBCu4f79XfptR55fXD_Tf4soOJWUCBjqprX23h1etUib_30hxvI=s90"
+            ],
+            "recipeName": "Nudelteig, selbstgemacht - mein Grundrezept",
+            "totalTimeInSeconds": 1800,
+            "attributes": {},
+            "flavors": {
+                "sweet": 0.16666666666666666,
+                "piquant": 0.0,
+                "sour": 0.0,
+                "salty": 0.16666666666666666,
+                "meaty": 0.5,
+                "bitter": 0.5
+            },
+            "rating": 3
+        },
+        {
+            "imageUrlsBySize": {
+                "90": "http://lh3.googleusercontent.com/JYaHX37mokDFK1y_b69F43Obo06HPwp0C_MvS2Kon8F-G252af35zMd8U4CNTlLFhCn4NH2ocT1ntS0-aUl2Tw=s90-c"
+            },
+            "sourceDisplayName": "Chefkoch",
+            "ingredients": [
+                "Ei",
+                "Pfeffer wei\u00df",
+                "Salz",
+                "Paprikapulver",
+                "Fondor",
+                "Milch",
+                "Schinken",
+                "Salami",
+                "Oliven\u00f6l",
+                "Champignon",
+                "Schnittlauch",
+                "K\u00e4se"
+            ],
+            "id": "Ruhrei-a-la-Maja-955360",
+            "smallImageUrls": [
+                "http://lh3.googleusercontent.com/Ldg29Ecdk6F0TW8xU46435VAXHWiuYv5jzL2eW0L0f7aFqp3lfadFgv0rfIZMPsEURsPjf0NqmCuu_tLdunj=s90"
+            ],
+            "recipeName": "Ru\u0308hrei a la Maja",
+            "totalTimeInSeconds": 900,
+            "attributes": {},
+            "flavors": null,
+            "rating": 3
+        },
+        {
+            "recipeName": "H I M B E E R T O R T E",
+            "ingredients": [
+                "Ei",
+                "Puderzucker",
+                "Vanillezucker",
+                "Mehl",
+                "St\u00e4rke",
+                "Backpulver",
+                "F\u00fcllung",
+                "G\u00f6tterspeise",
+                "Zucker",
+                "K\u00e4se",
+                "Rahm",
+                "Himbeere"
+            ],
+            "totalTimeInSeconds": 7200,
+            "sourceDisplayName": "Lecker",
+            "id": "H-I-M-B-E-E-R-T-O-R-T-E-839122",
+            "rating": 3,
+            "flavors": {
+                "sweet": 0.8333333333333334,
+                "piquant": 0.0,
+                "sour": 0.6666666666666666,
+                "salty": 0.16666666666666666,
+                "meaty": 0.16666666666666666,
+                "bitter": 0.16666666666666666
+            },
+            "attributes": {
+                "course": [
+                    "Desserts"
+                ]
+            }
+        }
+    ],
+    "facetCounts": {},
+    "totalMatchCount": 5,
+    "attribution": {
+        "html": "Recipe search powered by <a href='http://www.yummly.co/recipes'><img alt='Yummly' src='https://static.yummly.co/api-logo.png'/></a>",
+        "url": "http://www.yummly.co/recipes/",
+        "text": "Recipe search powered by Yummly",
+        "logo": "https://static.yummly.co/api-logo.png"
+    }
+}

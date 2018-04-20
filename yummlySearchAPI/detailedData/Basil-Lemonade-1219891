@@ -1,0 +1,44 @@
+{
+    "nutritionEstimates": [],
+    "totalTime": "25 min",
+    "images": [
+        {
+            "hostedSmallUrl": "http://lh3.googleusercontent.com/ZJdqRrBehGnx79kJDKmdmEydW5OZGCQhFFN1fbJXTbXQmL1aixh1CVKcV_LfLJAd8CdYIKQRF0AWwlyI9racZw=s90",
+            "hostedMediumUrl": "http://lh3.googleusercontent.com/ZJdqRrBehGnx79kJDKmdmEydW5OZGCQhFFN1fbJXTbXQmL1aixh1CVKcV_LfLJAd8CdYIKQRF0AWwlyI9racZw=s180",
+            "hostedLargeUrl": "http://lh3.googleusercontent.com/ZJdqRrBehGnx79kJDKmdmEydW5OZGCQhFFN1fbJXTbXQmL1aixh1CVKcV_LfLJAd8CdYIKQRF0AWwlyI9racZw=s360",
+            "imageUrlsBySize": {
+                "90": "http://lh3.googleusercontent.com/K2HsFWsl23uAwZCvJWTgeO879D0YioUzkGgp6ytN8xr_Rw7S8uAJIZ-D4ulYO818NEGN5oTj1XM-J-U5m5mE9g=s90-c",
+                "360": "http://lh3.googleusercontent.com/K2HsFWsl23uAwZCvJWTgeO879D0YioUzkGgp6ytN8xr_Rw7S8uAJIZ-D4ulYO818NEGN5oTj1XM-J-U5m5mE9g=s360-c"
+            }
+        }
+    ],
+    "name": "Basil Lemonade",
+    "source": {
+        "sourceDisplayName": "The Peach Kitchen",
+        "sourceSiteUrl": "thepeachkitchen.com",
+        "sourceRecipeUrl": "http://www.thepeachkitchen.com/2009/12/basil-lemonade/"
+    },
+    "id": "Basil-Lemonade-1219891",
+    "ingredientLines": [
+        "5 cups water",
+        "4 tbsp sugar",
+        "fresh basil leaves",
+        "lots of ice",
+        "juice of 3 lemons"
+    ],
+    "attribution": {
+        "html": "<a href='http://www.yummly.co/recipe/Basil-Lemonade-1219891'>Basil Lemonade recipe</a> information powered by <img alt='Yummly' src='https://static.yummly.co/api-logo.png'/>",
+        "url": "http://www.yummly.co/recipe/Basil-Lemonade-1219891",
+        "text": "Basil Lemonade recipes: information powered by Yummly",
+        "logo": "https://static.yummly.co/api-logo.png"
+    },
+    "numberOfServings": 4,
+    "totalTimeInSeconds": 1500,
+    "attributes": {
+        "course": [
+            "Beverages"
+        ]
+    },
+    "flavors": {},
+    "rating": 4
+}

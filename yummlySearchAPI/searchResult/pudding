@@ -1,0 +1,202 @@
+{
+    "criteria": {
+        "q": "p+u+d+d+i+n+g",
+        "allowedIngredient": null,
+        "excludedIngredient": null
+    },
+    "matches": [
+        {
+            "imageUrlsBySize": {
+                "90": "http://lh6.ggpht.com/kj20zeamH9WudA_X_RDqCC5l4E2_n1FQri4Uyedj9k0BvdzR7l0llWMfqyiaMey4FQydaD0yBHxgiNPlKRQnvA=s90-c"
+            },
+            "sourceDisplayName": "Food52",
+            "ingredients": [
+                "peaches",
+                "peach nectar",
+                "water",
+                "sugar",
+                "flour",
+                "baking soda",
+                "salt",
+                "cardamon",
+                "grated nutmeg",
+                "cinnamon",
+                "buttermilk",
+                "butter",
+                "oats",
+                "brown sugar",
+                "melted butter",
+                "maple syrup",
+                "pecans",
+                "heavy cream"
+            ],
+            "id": "D_u_m_p_-_don_t_-underestimate_-my_-peach_-cake-326533",
+            "smallImageUrls": [
+                "http://lh5.ggpht.com/rhSJ9hntzAEZfHT2sQzCOXwYVrmMVo7fqtFehtcYp4zJYynY_5LCR828Pg0Y8EBSN_ehSoLyHLur5GgPEFyblw=s90"
+            ],
+            "recipeName": "D.U.M.P. (Don't. Underestimate. My. Peach.) Cake",
+            "totalTimeInSeconds": 3600,
+            "attributes": {
+                "course": [
+                    "Desserts"
+                ]
+            },
+            "flavors": null,
+            "rating": 3
+        },
+        {
+            "imageUrlsBySize": {
+                "90": "https://lh3.googleusercontent.com/81JMsEqugZ-K_vA3vW58_StEGsdNrLNZHlJDMyActRfc_1Giu4H1lBJLCuftnc2VrANTRx9qgAUTSzUbMzgjIm0=s90-c"
+            },
+            "sourceDisplayName": "My Diverse Kitchen",
+            "ingredients": [
+                "sugar",
+                "all-purpose flour",
+                "egg yolks",
+                "nutmeg",
+                "coconut",
+                "water",
+                "ghee"
+            ],
+            "id": "Bebinca---A-Goan-Layered-Pudding-2081674",
+            "smallImageUrls": [
+                "https://lh3.googleusercontent.com/1emCh1oAoTNrBSNNMsft1pCJpQTkS5p1K5LYo2p6HVcLcRISGkZUOu7gazQhcnlH7_JcKH1OrWTGucTxTEg3GA=s90"
+            ],
+            "recipeName": "Bebinca - A Goan Layered Pudding",
+            "totalTimeInSeconds": 3000,
+            "attributes": {
+                "course": [
+                    "Desserts"
+                ]
+            },
+            "flavors": {
+                "piquant": 0.0,
+                "meaty": 0.16666666666666666,
+                "bitter": 0.16666666666666666,
+                "sweet": 0.6666666666666666,
+                "sour": 0.16666666666666666,
+                "salty": 0.16666666666666666
+            },
+            "rating": 4
+        },
+        {
+            "imageUrlsBySize": {
+                "90": "https://lh3.googleusercontent.com/0ehwslCkkd5BgzNm6Y8jQHGQNty6TGhy8bOiknRcB_DJRAnRPMiQAfjC6TDc-kMoKTomYr25WnI1qGLnKrmvSw=s90-c"
+            },
+            "sourceDisplayName": "North Dixie Kitchen",
+            "ingredients": [
+                "instant yeast",
+                "yeast",
+                "all-purpose flour",
+                "granulated sugar",
+                "salt",
+                "large eggs",
+                "egg yolks",
+                "vegetable oil",
+                "sesame seeds",
+                "poppy seeds"
+            ],
+            "id": "Salt_-Sesame-Seed-_-Poppy-Seed-Challah-Bread-1586077",
+            "smallImageUrls": [
+                "https://lh3.googleusercontent.com/fA0f_jHbWsT3ojYx3aNgLzny-DdZdCpF8TlpUBSSIZ4agHGlSciR-7o3StDKa0laMILpjU9Qy-Gh-wTz8eU78g=s90"
+            ],
+            "recipeName": "Salt, Sesame Seed & Poppy Seed Challah Bread",
+            "totalTimeInSeconds": 5100,
+            "attributes": {
+                "course": [
+                    "Breads"
+                ],
+                "holiday": [
+                    "Hanukkah"
+                ]
+            },
+            "flavors": {
+                "piquant": 0.0,
+                "meaty": 0.8333333333333334,
+                "bitter": 0.8333333333333334,
+                "sweet": 0.5,
+                "sour": 0.16666666666666666,
+                "salty": 0.8333333333333334
+            },
+            "rating": 4
+        },
+        {
+            "imageUrlsBySize": {
+                "90": "http://lh3.ggpht.com/tBdNCx0gkIpeNpy_YaonoS1uoG6mlVQoA1m7zqgvSXenm816uai7LWxUDPNdaNd9y9RfDrMSfHFfFt4IdbFjzco=s90-c"
+            },
+            "sourceDisplayName": "Food52",
+            "ingredients": [
+                "dough",
+                "warm water",
+                "unsalted butter",
+                "fresh yeast",
+                "brown sugar",
+                "salt",
+                "cayenne pepper",
+                "bread flour",
+                "all-purpose flour",
+                "jalapeno chilies",
+                "caster sugar",
+                "kosher salt",
+                "pretzels",
+                "baking soda",
+                "water",
+                "butter",
+                "mustard"
+            ],
+            "id": "Chile-pretzels-324492",
+            "smallImageUrls": [
+                "http://lh6.ggpht.com/qXTdweiTxT1pnRw2h3IKG6qy9jn0rE7d34QfDJq9jW3ari6teVEKzexzYQObHJvzc69wdyjRJr0DY55_hqTANw=s90"
+            ],
+            "recipeName": "Chile Pretzels",
+            "totalTimeInSeconds": 5100,
+            "attributes": {
+                "course": [
+                    "Breads",
+                    "Lunch"
+                ]
+            },
+            "flavors": {
+                "piquant": 0.8333333333333334,
+                "meaty": 0.16666666666666666,
+                "bitter": 0.6666666666666666,
+                "sweet": 0.16666666666666666,
+                "sour": 0.16666666666666666,
+                "salty": 0.8333333333333334
+            },
+            "rating": 4
+        },
+        {
+            "recipeName": "Buttercup Chocolate Waffles",
+            "ingredients": [
+                "butter",
+                "applesauce",
+                "cocoa powder",
+                "all-purpose flour",
+                "sugar",
+                "eggs",
+                "vanilla extract",
+                "chocolate extract"
+            ],
+            "totalTimeInSeconds": 2100,
+            "sourceDisplayName": "Food.com",
+            "id": "Buttercup-Chocolate-Waffles-Food_com-114710",
+            "rating": 3,
+            "flavors": null,
+            "attributes": {
+                "course": [
+                    "Desserts",
+                    "Breakfast and Brunch"
+                ]
+            }
+        }
+    ],
+    "facetCounts": {},
+    "totalMatchCount": 5,
+    "attribution": {
+        "html": "Recipe search powered by <a href='http://www.yummly.co/recipes'><img alt='Yummly' src='https://static.yummly.co/api-logo.png'/></a>",
+        "url": "http://www.yummly.co/recipes/",
+        "text": "Recipe search powered by Yummly",
+        "logo": "https://static.yummly.co/api-logo.png"
+    }
+}

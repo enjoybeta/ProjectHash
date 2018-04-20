@@ -937,7 +937,11 @@
     },
     "numberOfServings": 4,
     "totalTimeInSeconds": 1800,
-    "attributes": {},
+    "attributes": {
+        "course": [
+            "Salads"
+        ]
+    },
     "flavors": {},
     "rating": 4
 }

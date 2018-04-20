@@ -1,0 +1,406 @@
+{
+    "criteria": {
+        "q": "F+\u00fc+l+l+u+n+g",
+        "allowedIngredient": null,
+        "excludedIngredient": null
+    },
+    "matches": [
+        {
+            "imageUrlsBySize": {
+                "90": "https://lh3.googleusercontent.com/NYiqbItU_wPggBTXQ5Z1k9Xo-JDKfjVrCyqGoBrDWFyTJ6OE-gR95eVDHKxe2T2e3dPcxIHvbRB7g7gMMZ_g5Q=s90-c"
+            },
+            "sourceDisplayName": "Southern Bite",
+            "ingredients": [
+                "cooked chicken",
+                "instant rice",
+                "cream of chicken soup",
+                "sour cream",
+                "diced onions",
+                "diced tomatoes and green chilies",
+                "chicken broth",
+                "fajita seasoning mix",
+                "Mexican cheese blend"
+            ],
+            "id": "Fajita-Chicken-Casserole---Advantium-240-Wall-Oven-Version-2223892",
+            "smallImageUrls": [
+                "https://lh3.googleusercontent.com/YzmEtbtjEmATC_WIWe37Did14KJWg6xVL17gLCL8bSuNhQATGQjpRmK0f6SoR3Ew1VIrDwQI6SGGm2ikhQPe=s90"
+            ],
+            "recipeName": "Fajita Chicken Casserole - Advantium 240 Wall Oven Version",
+            "totalTimeInSeconds": 1500,
+            "attributes": {
+                "course": [
+                    "Main Dishes"
+                ]
+            },
+            "flavors": {
+                "piquant": 0.16666666666666666,
+                "meaty": 0.3333333333333333,
+                "bitter": 0.5,
+                "sweet": 0.16666666666666666,
+                "sour": 0.16666666666666666,
+                "salty": 0.6666666666666666
+            },
+            "rating": 4
+        },
+        {
+            "imageUrlsBySize": {
+                "90": "https://lh3.googleusercontent.com/qZgXRi2M6ZFE7cg12TCftEni5z9vYVmZhPecTSxexgnVbXs05kVA2qH6h362GgF22G7vZC7c7OFXxjITs320Yg=s90-c"
+            },
+            "sourceDisplayName": "Southern Bite",
+            "ingredients": [
+                "self rising flour",
+                "firmly packed brown sugar",
+                "cinnamon",
+                "melted butter",
+                "milk",
+                "eggs",
+                "vanilla",
+                "apples",
+                "chopped pecans",
+                "flour"
+            ],
+            "id": "Apple-Cinnamon-Crunch-Muffins-_Advantium-Recipe_-1820616",
+            "smallImageUrls": [
+                "https://lh3.googleusercontent.com/lpI-67Sp4sZISZDaUKBgsqeailaXNTNzzdvB9snfAEQfwnLXSeqinJ0lhzRLZo4JkHH4rm7BHlpNuHO6z8Xf=s90"
+            ],
+            "recipeName": "Apple Cinnamon Crunch Muffins (Advantium Recipe)",
+            "totalTimeInSeconds": 1440,
+            "attributes": {
+                "course": [
+                    "Breakfast and Brunch",
+                    "Breads"
+                ]
+            },
+            "flavors": {
+                "piquant": 0.0,
+                "meaty": 0.16666666666666666,
+                "bitter": 0.16666666666666666,
+                "sweet": 0.6666666666666666,
+                "sour": 0.16666666666666666,
+                "salty": 0.3333333333333333
+            },
+            "rating": 4
+        },
+        {
+            "imageUrlsBySize": {
+                "90": "https://lh3.googleusercontent.com/9e1QG3AnA-Jtf54eSIo37Vn6EOxpW1iMPM55eSoORLXsfv5TZnqpXY7hc8wTbHeuKpMNrb93Vue7SuXDHTaa=s90-c"
+            },
+            "sourceDisplayName": "Food Network Canada",
+            "ingredients": [
+                "warm water",
+                "milk",
+                "melted butter",
+                "instant yeast",
+                "granulated sugar",
+                "all-purpose flour",
+                "fine salt",
+                "baking soda",
+                "egg yolks",
+                "coarse salt"
+            ],
+            "id": "Soft-Pretzels-1477701",
+            "smallImageUrls": [
+                "https://lh3.googleusercontent.com/lrhAOtkuq2-qYXUWDAO-Zn_5U7NJvYuajWtGKUNl5V_UNcnY-FkNKCQPZEAOF8U5dxFhuplx6AahkA4TP0WpHQ=s90"
+            ],
+            "recipeName": "Soft Pretzels",
+            "totalTimeInSeconds": 4200,
+            "attributes": {
+                "course": [
+                    "Breads",
+                    "Lunch"
+                ]
+            },
+            "flavors": {
+                "piquant": 0.0,
+                "meaty": 0.16666666666666666,
+                "bitter": 0.8333333333333334,
+                "sweet": 0.16666666666666666,
+                "sour": 0.16666666666666666,
+                "salty": 0.8333333333333334
+            },
+            "rating": 3
+        },
+        {
+            "imageUrlsBySize": {
+                "90": "https://lh3.googleusercontent.com/hbpaaZttRFHKg1C5jegjDhZBJwUGRKnKXg5xoOqQZSl833QnMlMhdVccp51YAH7mJlZBrQ63meSOildgJOna=s90-c"
+            },
+            "sourceDisplayName": "USA Rice",
+            "ingredients": [
+                "acorn squash",
+                "olive oil",
+                "gluten",
+                "onions",
+                "red pepper",
+                "brown rice",
+                "gluten free chicken broth",
+                "chopped parsley",
+                "crumbled goat cheese"
+            ],
+            "id": "Stuffed-Acorn-Squash-with-Sausage-and-Rice-1463637",
+            "smallImageUrls": [
+                "https://lh3.googleusercontent.com/d5hGpeKH3c872_BTzYTH-zaFXlTLxf6I80vM3CgLvG5S3jqftfUEL-RHYVKFgsHA5aLqpbKKvepW7_hw1pV37yY=s90"
+            ],
+            "recipeName": "Stuffed Acorn Squash with Sausage and Rice",
+            "totalTimeInSeconds": 5400,
+            "attributes": {
+                "course": [
+                    "Main Dishes"
+                ]
+            },
+            "flavors": null,
+            "rating": 3
+        },
+        {
+            "imageUrlsBySize": {
+                "90": "https://lh3.googleusercontent.com/L5J7ztFobRRTRMmaun7X_xnyPajRBUaHtmujJwhZB8va109k994noNlQhlv13Fzy9w9njL6vBGLqjOPJxI9ZFA=s90-c"
+            },
+            "sourceDisplayName": "USA Rice",
+            "ingredients": [
+                "dried chickpeas",
+                "small onion",
+                "garlic",
+                "fresh parsley",
+                "lemon juice",
+                "ground cumin",
+                "salt",
+                "cayenne pepper",
+                "chickpeas",
+                "brown rice",
+                "vegetable oil",
+                "pita bread",
+                "tomatoes",
+                "cucumber",
+                "diced red onions",
+                "tahini",
+                "water"
+            ],
+            "id": "Falafel-Patties-with-Rice-and-Lemon-Tahini-Sauce-2242253",
+            "smallImageUrls": [
+                "https://lh3.googleusercontent.com/I15O9W7Fsmc4myQDsFu7ij1gmaIQqcplHu6gqB-BntlWTKieoZHhO8iAdGjPjMj2gfJvIz5Zjft0RPiRcQLDqg=s90"
+            ],
+            "recipeName": "Falafel Patties with Rice and Lemon Tahini Sauce",
+            "totalTimeInSeconds": 2100,
+            "attributes": {
+                "course": [
+                    "Main Dishes",
+                    "Lunch"
+                ]
+            },
+            "flavors": {
+                "piquant": 0.5,
+                "meaty": 0.3333333333333333,
+                "bitter": 0.8333333333333334,
+                "sweet": 0.16666666666666666,
+                "sour": 0.5,
+                "salty": 0.8333333333333334
+            },
+            "rating": 3
+        },
+        {
+            "imageUrlsBySize": {
+                "90": "https://lh3.googleusercontent.com/Cwzore1PllY7CAkyQTUExzKwNJrnxeECppzKewqkQzcGTH-o5gSsEeS1ExS7aMA03bFFaUn8hhc1sIcFmuXtkw=s90-c"
+            },
+            "sourceDisplayName": "Asian Food Channel",
+            "ingredients": [
+                "warm water",
+                "milk",
+                "melted butter",
+                "instant yeast",
+                "granulated sugar",
+                "all-purpose flour",
+                "fine salt",
+                "baking soda",
+                "water",
+                "coarse salt"
+            ],
+            "id": "Soft-Pretzels-1392906",
+            "smallImageUrls": [
+                "https://lh3.googleusercontent.com/5mfDgOGmLuP8AKu68Jm2EyADHlY0wwj2wGyFvgrBIRjnCU7BNvAZoTAPcGxPQHIpSbkDZ9cz1qO5B_lG201N=s90"
+            ],
+            "recipeName": "Soft Pretzels",
+            "totalTimeInSeconds": 5100,
+            "attributes": {
+                "course": [
+                    "Breads",
+                    "Lunch"
+                ]
+            },
+            "flavors": {
+                "piquant": 0.0,
+                "meaty": 0.16666666666666666,
+                "bitter": 0.16666666666666666,
+                "sweet": 0.16666666666666666,
+                "sour": 0.16666666666666666,
+                "salty": 0.16666666666666666
+            },
+            "rating": 3
+        },
+        {
+            "imageUrlsBySize": {
+                "90": "https://lh3.googleusercontent.com/5dVXIbYd_bGJ5wjRm-qiykAAW10aM46JPv67YFykR8YaleXaEzxn5SoIxuoslzfK5u-DpIAHPPESG1Tu_yRulQ=s90-c"
+            },
+            "sourceDisplayName": "The Mommypotamus",
+            "ingredients": [
+                "water",
+                "apple cider vinegar",
+                "sea salt",
+                "warm water",
+                "gluten",
+                "maple syrup",
+                "eggs",
+                "cassava root flour",
+                "psyllium husks",
+                "coconut flour",
+                "ghee",
+                "baking soda",
+                "coarse sea salt"
+            ],
+            "id": "Soft-Pretzel-Recipe-_Gluten-Free_-Paleo_-1712013",
+            "smallImageUrls": [
+                "https://lh3.googleusercontent.com/GUF4EIbYJZ7pyYwNo-kOrF-6V3fAaLPi0Wlyf6bOL3ATJgwGdB7UJGkUeYgIvZObdft6JilHXaDuap_hxOLb=s90"
+            ],
+            "recipeName": "Soft Pretzel Recipe (Gluten-Free, Paleo)",
+            "totalTimeInSeconds": 3600,
+            "attributes": {
+                "course": [
+                    "Breads"
+                ]
+            },
+            "flavors": null,
+            "rating": 3
+        },
+        {
+            "imageUrlsBySize": {
+                "90": "https://lh3.googleusercontent.com/t0t4XKBzTJIB_TUGLbp2n7JrmrnYYT0KlkLaVhwe3H3Sq3-MEPbKW9z6_8wezWv2DKqXe3iOznliWpYWcFTX=s90-c"
+            },
+            "sourceDisplayName": "My Best German Recipes",
+            "ingredients": [
+                "flour",
+                "salt",
+                "eggs",
+                "butter",
+                "warm water",
+                "apples",
+                "bread crumbs",
+                "sugar",
+                "raisins",
+                "ground almonds",
+                "vanilla sugar",
+                "cinnamon",
+                "lemon zest",
+                "heavy cream"
+            ],
+            "id": "Ingredients-Authentic-Apple-Strudel-1736690",
+            "smallImageUrls": [
+                "https://lh3.googleusercontent.com/6f4iOCM2RGmZEIJV_-I3WRge4JrBYvHZwJ95BVw7sg8ypCMaw2dWNLXt2rgefR1aL7yd7MjYJFq0AgaOy2KiHA=s90"
+            ],
+            "recipeName": "Ingredients Authentic Apple Strudel",
+            "totalTimeInSeconds": 5400,
+            "attributes": {
+                "course": [
+                    "Desserts"
+                ]
+            },
+            "flavors": null,
+            "rating": 4
+        },
+        {
+            "imageUrlsBySize": {
+                "90": "https://lh3.googleusercontent.com/oOj4bYLmycXornsHJHtg9LuCc3XD8D7bHLsG3rGSSTW26QUWonn-R5SHZg-OJm7cp-BzSpAZ4VU09yIfa7gg2Q=s90-c"
+            },
+            "sourceDisplayName": "Pickles & Honey",
+            "ingredients": [
+                "garlic",
+                "tahini",
+                "fresh lemon juice",
+                "nutritional yeast",
+                "sesame oil",
+                "water",
+                "sea salt",
+                "delicata squash",
+                "fine sea salt",
+                "freshly ground black pepper",
+                "kale",
+                "quinoa",
+                "diced red onions",
+                "chopped celery",
+                "fresh parsley leaves",
+                "dried cranberries",
+                "toasted pumpkinseeds",
+                "dressing"
+            ],
+            "id": "Delicata-Squash_-Quinoa-and-Kale-Salad-1962246",
+            "smallImageUrls": [
+                "https://lh3.googleusercontent.com/fh6i_eQxlPNIGVhIJ0pvnfkNeCjzgto7v5VWMD_K631RcS6KgiLlSmkH5kdX7kMbTYxtlAs3xfusA3pXCQ7f=s90"
+            ],
+            "recipeName": "Delicata Squash, Quinoa and Kale Salad",
+            "totalTimeInSeconds": 3600,
+            "attributes": {
+                "course": [
+                    "Salads"
+                ],
+                "holiday": [
+                    "Fall"
+                ]
+            },
+            "flavors": null,
+            "rating": 4
+        },
+        {
+            "imageUrlsBySize": {
+                "90": "https://lh3.googleusercontent.com/UFMK_Pf5gxgn0AYBGwxe_inIBgpPC-N9Mex-kMPYMuicnn__xRdSAoq6TqA6Rmg5Q2bzPbMBKvtvYBKGr81ZWQ=s90-c"
+            },
+            "sourceDisplayName": "EverythingZommer.com",
+            "ingredients": [
+                "flour tortillas",
+                "vegetable oil",
+                "onions",
+                "garlic",
+                "green pepper",
+                "chili powder",
+                "ground cumin",
+                "dried oregano",
+                "salt",
+                "freshly ground pepper",
+                "diced tomatoes",
+                "wine vinegar",
+                "white rice",
+                "canned black beans",
+                "pickled jalapenos",
+                "white vinegar",
+                "eggs",
+                "avocado",
+                "chopped fresh cilantro"
+            ],
+            "id": "Huevos-Rancheros-Tortilla-Cups-With-Rice-1914542",
+            "smallImageUrls": [
+                "https://lh3.googleusercontent.com/0DZlF2dUt4pu3KQYsjC7NPF7kV7CSN6mQqa9LSNwaIoE8-HZQicsvpSkbz5ESqkBTBW3FrQw-a1D6nRBfslz=s90"
+            ],
+            "recipeName": "Huevos Rancheros Tortilla Cups With Rice",
+            "totalTimeInSeconds": 4200,
+            "attributes": {
+                "cuisine": [
+                    "Mexican",
+                    "Southwestern"
+                ]
+            },
+            "flavors": {
+                "sweet": 0.16666666666666666,
+                "piquant": 0.8333333333333334,
+                "sour": 0.6666666666666666,
+                "salty": 0.3333333333333333,
+                "meaty": 0.16666666666666666,
+                "bitter": 0.5
+            },
+            "rating": 4
+        }
+    ],
+    "facetCounts": {},
+    "totalMatchCount": 17,
+    "attribution": {
+        "html": "Recipe search powered by <a href='http://www.yummly.co/recipes'><img alt='Yummly' src='https://static.yummly.co/api-logo.png'/></a>",
+        "url": "http://www.yummly.co/recipes/",
+        "text": "Recipe search powered by Yummly",
+        "logo": "https://static.yummly.co/api-logo.png"
+    }
+}

@@ -1,0 +1,53 @@
+{
+    "yield": "Zutaten f\u00fcr 12 St\u00fccke:",
+    "nutritionEstimates": [],
+    "totalTime": "1 hr 15 min",
+    "images": [
+        {
+            "hostedSmallUrl": "http://lh3.googleusercontent.com/9fcFq6nTFhkpYs8SlDQVwhlRKQFMK7XbWo7mVvrL8J6pC0VU3fpevLDvPgAqvS0EhN9apHy_3E57wdE7J0zo=s90",
+            "hostedMediumUrl": "http://lh3.googleusercontent.com/9fcFq6nTFhkpYs8SlDQVwhlRKQFMK7XbWo7mVvrL8J6pC0VU3fpevLDvPgAqvS0EhN9apHy_3E57wdE7J0zo=s180",
+            "hostedLargeUrl": "http://lh3.googleusercontent.com/9fcFq6nTFhkpYs8SlDQVwhlRKQFMK7XbWo7mVvrL8J6pC0VU3fpevLDvPgAqvS0EhN9apHy_3E57wdE7J0zo=s360",
+            "imageUrlsBySize": {
+                "90": "http://lh3.googleusercontent.com/g8IuAKh0lzFQQLkV9PUX5rFcOirC5ku2WBaXZZbTjEjJN1kWGcbTCD0__SAWnjs_47CubePpsgqG-PsNSUU9dQ=s90-c",
+                "360": "http://lh3.googleusercontent.com/g8IuAKh0lzFQQLkV9PUX5rFcOirC5ku2WBaXZZbTjEjJN1kWGcbTCD0__SAWnjs_47CubePpsgqG-PsNSUU9dQ=s360-c"
+            }
+        }
+    ],
+    "name": "Frischka\u0308setorte mit bunter Go\u0308tterspeise",
+    "source": {
+        "sourceDisplayName": "Lecker",
+        "sourceSiteUrl": "lecker.de",
+        "sourceRecipeUrl": "http://www.lecker.de/rezept/568383/Frischkaesetorte-mit-bunter-Goetterspeise.html"
+    },
+    "id": "Frischkasetorte-mit-bunter-Gotterspeise-814858",
+    "ingredientLines": [
+        "1 Beutel (f\u00fcr 1/2 l Wasser)G\u00f6tterspeise \"Waldmeister-Geschmack\"",
+        "300 g Zucker",
+        "1 Beutel (f\u00fcr 1/2 l Wasser) G\u00f6tterspeise \"Himbeer-Geschmack\"",
+        "150 g Butter oder Margarine",
+        "200 g Mehl",
+        "1 Beutel (f\u00fcr 1/2 l Wasser) G\u00f6tterspeise \"Zitronen-Geschmack\"",
+        "100 g Doppelrahm-Frischk\u00e4se",
+        "1 P\u00e4ckchen Vanillin-Zucker",
+        "2 EL Zitronensaft",
+        "2 Becher (\u00e0 200 g) Schlagsahne",
+        "Zitronenmelisse zum Verzieren",
+        "Mehl f\u00fcr die Arbeitsfl\u00e4che",
+        "Fett f\u00fcr die Form"
+    ],
+    "attribution": {
+        "html": "<a href='http://www.yummly.co/recipe/Frischkasetorte-mit-bunter-Gotterspeise-814858'>Frischka\u0308setorte mit bunter Go\u0308tterspeise recipe</a> information powered by <img alt='Yummly' src='https://static.yummly.co/api-logo.png'/>",
+        "url": "http://www.yummly.co/recipe/Frischkasetorte-mit-bunter-Gotterspeise-814858",
+        "text": "Frischka\u0308setorte mit bunter Go\u0308tterspeise recipes: information powered by Yummly",
+        "logo": "https://static.yummly.co/api-logo.png"
+    },
+    "numberOfServings": 12,
+    "totalTimeInSeconds": 4500,
+    "attributes": {
+        "course": [
+            "Desserts"
+        ]
+    },
+    "flavors": {},
+    "rating": 3
+}

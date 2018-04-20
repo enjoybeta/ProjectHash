@@ -1,0 +1,354 @@
+{
+    "criteria": {
+        "q": "l+a+r+g+e+ +e+g+g+s",
+        "allowedIngredient": null,
+        "excludedIngredient": null
+    },
+    "matches": [
+        {
+            "imageUrlsBySize": {
+                "90": "http://lh3.googleusercontent.com/_pO6cRtszfDoIu8dGxK65ycb2AA9H7jLsrdQtMpxKXP4mlfQ1b3gJFwDvmf5DQTysTEgs5hTQ0jlFhlVNs3SYw=s90-c"
+            },
+            "sourceDisplayName": "Plain Chicken",
+            "ingredients": [
+                "cornbread",
+                "chili",
+                "bacon",
+                "gratin",
+                "cake",
+                "posole",
+                "tomatoes",
+                "milk",
+                "eggs",
+                "shredded cheddar cheese",
+                "lean ground beef",
+                "taco seasoning",
+                "salsa",
+                "sour cream",
+                "sliced green onions"
+            ],
+            "id": "Taco-Cornbread-Muffins-1070007",
+            "smallImageUrls": [
+                "http://lh3.googleusercontent.com/mx0nfPZ00IFLIkC1Rln7Zxkze2ZMYic5nvN9tPR3AjpzBGsGThlA2pRVo6uXNzhQJM9vMflUvVljC5Rv9KSv=s90"
+            ],
+            "recipeName": "Taco Cornbread Muffins",
+            "totalTimeInSeconds": 2400,
+            "attributes": {
+                "course": [
+                    "Main Dishes",
+                    "Breads"
+                ],
+                "cuisine": [
+                    "Kid-Friendly",
+                    "Mexican"
+                ]
+            },
+            "flavors": null,
+            "rating": 4
+        },
+        {
+            "imageUrlsBySize": {
+                "90": "https://lh3.googleusercontent.com/L3AwgSV5VT-ZQCWeAjas0rcMQQIRKTKGp8X7S45pAPGPhiJNSXy_7Pk09vCHU_cpgao9ReZCHgIM8A-yRAmBsi4=s90-c"
+            },
+            "sourceDisplayName": "Plain Chicken",
+            "ingredients": [
+                "cornbread",
+                "chili",
+                "bacon",
+                "gratin",
+                "cake",
+                "posole",
+                "tomatoes",
+                "milk",
+                "eggs",
+                "shredded cheddar cheese",
+                "lean ground beef",
+                "taco seasoning",
+                "salsa",
+                "sour cream",
+                "sliced green onions"
+            ],
+            "id": "Taco-Cornbread-Muffins-2208091",
+            "smallImageUrls": [
+                "https://lh3.googleusercontent.com/YSjULv2vc7GV3qu4jmKowdFKSzD3nXdiKrEKn8qGuVeV4oTmPIYUBIV69N6bPieU9ztxZRm5IRHjHxb5PvEwfg=s90"
+            ],
+            "recipeName": "Taco Cornbread Muffins",
+            "totalTimeInSeconds": 2400,
+            "attributes": {
+                "course": [
+                    "Breads",
+                    "Main Dishes"
+                ],
+                "cuisine": [
+                    "Kid-Friendly",
+                    "Mexican"
+                ]
+            },
+            "flavors": null,
+            "rating": 4
+        },
+        {
+            "recipeName": "Harvey W.a.l.l.b.a.n.g.e.r. Cake",
+            "ingredients": [
+                "cake mix",
+                "vanilla instant pudding",
+                "eggs",
+                "cooking oil",
+                "orange juice",
+                "Galliano",
+                "vodka",
+                "powdered sugar"
+            ],
+            "totalTimeInSeconds": 3600,
+            "sourceDisplayName": "Food.com",
+            "id": "Harvey-W_a_l_l_b_a_n_g_e_r_-Cake-Food_com-79783",
+            "rating": 4,
+            "flavors": {
+                "piquant": 0.0,
+                "meaty": 0.16666666666666666,
+                "bitter": 0.5,
+                "sweet": 0.8333333333333334,
+                "sour": 0.3333333333333333,
+                "salty": 0.8333333333333334
+            },
+            "attributes": {
+                "course": [
+                    "Desserts"
+                ]
+            }
+        },
+        {
+            "imageUrlsBySize": {
+                "90": "http://lh3.googleusercontent.com/Jjgpg7in6esckLUOpe1STKaEXH4lJhVO2pl4gctG8bbuTdcxXjY1oca2o3VR3yHx3mpTSLMukLgv0Yjc9SmEeA=s90-c"
+            },
+            "sourceDisplayName": "Lecker",
+            "ingredients": [
+                "Himbeere",
+                "Limone",
+                "Zucker",
+                "Sekt",
+                "Minze"
+            ],
+            "id": "Himbeersorbet-817216",
+            "smallImageUrls": [
+                "http://lh3.googleusercontent.com/R5CKuudjzfFP_EWxTNcXlyX7cO0ymcof1kQiqOWDuZ1KgolI4C-RfMSeEtJ0fdD86_pNv4H8fI8QGk_Lgz09Ww=s90"
+            ],
+            "recipeName": "Himbeersorbet",
+            "totalTimeInSeconds": 1800,
+            "attributes": {
+                "course": [
+                    "Desserts"
+                ]
+            },
+            "flavors": {
+                "sweet": 0.5,
+                "piquant": 0.0,
+                "sour": 0.8333333333333334,
+                "salty": 0.0,
+                "meaty": 0.16666666666666666,
+                "bitter": 0.16666666666666666
+            },
+            "rating": 3
+        },
+        {
+            "imageUrlsBySize": {
+                "90": "http://lh3.googleusercontent.com/ufwDdL1vBT90Y1_-pG6HumAG_cNiavXgYiHjCPTjWjfflWi7HQ79PIS21ILQpX-16SrK0eHwLpDWXUN7XJhu1so=s90-c"
+            },
+            "sourceDisplayName": "Lecker",
+            "ingredients": [
+                "Ente",
+                "Salz",
+                "Pfeffer wei\u00df",
+                "Apfelsine",
+                "Orangenkonfit\u00fcre",
+                "H\u00fchnerfond",
+                "Zucker",
+                "Zitronensaft",
+                "Speisest\u00e4rke",
+                "Butter",
+                "Petersile"
+            ],
+            "id": "Ente-a-l_Orange-818534",
+            "smallImageUrls": [
+                "http://lh3.googleusercontent.com/Rs4504I3Iwn1T2My_jXZalIN-eReAIC2NWIEx6ypFRcqxgD0h3DG_bQjEdFG4aHvpHLJ_aHN2Htdv22PzCmYKCk=s90"
+            ],
+            "recipeName": "Ente a\u0300 l`Orange",
+            "totalTimeInSeconds": 7200,
+            "attributes": {},
+            "flavors": null,
+            "rating": 3
+        },
+        {
+            "imageUrlsBySize": {
+                "90": "http://lh3.googleusercontent.com/MFpb_vLc8iBZRoICuM4CjXgLkExTGNouUsrq_BYS6dTFRK6xwv429llCi6OoNMhuGPh2w1lhjPP0sB_cV9fMVg=s90-c"
+            },
+            "sourceDisplayName": "Lecker",
+            "ingredients": [
+                "Bratenfleisch",
+                "Salz",
+                "Pfeffer",
+                "Schalotte",
+                "Zucker",
+                "Essig",
+                "Rosmarin",
+                "Lorbeer",
+                "Petersile"
+            ],
+            "id": "Roastbeef-mit-su-sauren-Schalotten-823689",
+            "smallImageUrls": [
+                "http://lh3.googleusercontent.com/YXZ3w_Ijg8aEg36o4PdxNSKuF_n4d9k6C4ZWSrN1s2_QIlcU1g_2f1kMl2OayOUcJrsPBauxRtlY90d9ywTD2Q=s90"
+            ],
+            "recipeName": "Roastbeef mit su\u0308\u00df-sauren Schalotten",
+            "totalTimeInSeconds": 3600,
+            "attributes": {},
+            "flavors": {
+                "sweet": 0.6666666666666666,
+                "piquant": 0.0,
+                "sour": 0.16666666666666666,
+                "salty": 0.8333333333333334,
+                "meaty": 0.16666666666666666,
+                "bitter": 0.16666666666666666
+            },
+            "rating": 3
+        },
+        {
+            "imageUrlsBySize": {
+                "90": "http://lh3.googleusercontent.com/f0VQfHp5gfnG8PfFXKT5k_ShwZZIWt3a1FrCBTqfSCpYYq1uny9qcieWQJjef6YtnIWQF5McgziMH0nEhT-HtA=s90-c"
+            },
+            "sourceDisplayName": "Lecker",
+            "ingredients": [
+                "Dorschfilet",
+                "Zitronensaft",
+                "Salz",
+                "Pfeffer",
+                "M\u00f6hre",
+                "Selleriegr\u00fcn",
+                "Zwiebel",
+                "Butter",
+                "Tomatenkonzentrat",
+                "Mehl",
+                "Gem\u00fcsebr\u00fche",
+                "Wei\u00dfwein",
+                "semolina",
+                "Petersile"
+            ],
+            "id": "Winzer-Fischsuppe-822888",
+            "smallImageUrls": [
+                "http://lh3.googleusercontent.com/NAhYYRqvz_IX0RyaNB8FDN86C_BWfTZKspxXea4J_MUWA3WCVBKY6SStUdSASh9jmnkolh6ZZo369G_u7ilpcg=s90"
+            ],
+            "recipeName": "Winzer-Fischsuppe",
+            "totalTimeInSeconds": 2400,
+            "attributes": {},
+            "flavors": {
+                "sweet": 0.16666666666666666,
+                "piquant": 0.0,
+                "sour": 0.16666666666666666,
+                "salty": 0.5,
+                "meaty": 0.16666666666666666,
+                "bitter": 0.16666666666666666
+            },
+            "rating": 3
+        },
+        {
+            "imageUrlsBySize": {
+                "90": "http://lh3.googleusercontent.com/Y5Qs66LDClWLajVNTpmVdH4U_Osw5pP8DyOHSu9d7-up0jKzZEc3FuB5WvAub3KfM-91R2sBd6PuYtyy1R05Pw=s90-c"
+            },
+            "sourceDisplayName": "Lecker",
+            "ingredients": [
+                "Semmelbrot",
+                "Milch",
+                "Ei",
+                "Salz",
+                "Pfeffer",
+                "Musskatnuss",
+                "Mehl",
+                "Gans",
+                "Zwiebel",
+                "K\u00fcmmel",
+                "Wei\u00dfkohl",
+                "Kartoffel",
+                "\u00c4pfel",
+                "Weissweinessig",
+                "Petersile"
+            ],
+            "id": "Gans-auf-Weikohl-mit-Semmelknodel-824599",
+            "smallImageUrls": [
+                "http://lh3.googleusercontent.com/EIwayUI1ZKRJIclQMbVOM06tMNRk22f9QnIvRXOj8Jk7jAWrwgwc0mSK5Wq9CBE0bIcI1uQIxCmQPOD2C-ypzhM=s90"
+            ],
+            "recipeName": "Gans auf Wei\u00dfkohl mit Semmelkno\u0308del",
+            "totalTimeInSeconds": 5400,
+            "attributes": {},
+            "flavors": null,
+            "rating": 3
+        },
+        {
+            "imageUrlsBySize": {
+                "90": "http://lh3.googleusercontent.com/tpDqw7H0-Cd-N9j81zfTaghlWvG2V5mrFqBr5335aAPNP9vL4xfkOJxfjGT9pBy-rJHyKfDDHZBo6PO5cSlU5WY=s90-c"
+            },
+            "sourceDisplayName": "Lecker",
+            "ingredients": [
+                "H\u00fchnerfilet",
+                "Sojasauce",
+                "Blumenkohlkopf",
+                "M\u00f6hre",
+                "Lauch",
+                "Chilischote",
+                "\u00d6l",
+                "boullion",
+                "Koriander",
+                "Salz",
+                "Pfeffer",
+                "Petersile"
+            ],
+            "id": "Blumenkohl-Porree-Pfanne-826326",
+            "smallImageUrls": [
+                "http://lh3.googleusercontent.com/9oZbww58heLrF1T9PfThHI-sS5tn7WwiI0xTN05i1aQu5cPG5cGc5hpE4JEadYJJEnQjFdM7pWyctm10Y9aE_rE=s90"
+            ],
+            "recipeName": "Blumenkohl-Porree-Pfanne",
+            "totalTimeInSeconds": 3600,
+            "attributes": {},
+            "flavors": null,
+            "rating": 3
+        },
+        {
+            "imageUrlsBySize": {
+                "90": "http://lh3.googleusercontent.com/ZoMx5LjUdld1BjGsVHJimP6H6rxvjtdGI-RYJW62B2HwUZqoKdzQ7pu0e_kBt-rdISL9qum09E17okjg_vQHLdk=s90-c"
+            },
+            "sourceDisplayName": "Lecker",
+            "ingredients": [
+                "M\u00f6hre",
+                "Lauch",
+                "Zwiebel",
+                "\u00d6l",
+                "Schweinsgulasch",
+                "Tomatenkonzentrat",
+                "Mehl",
+                "Salz",
+                "Pfeffer",
+                "Kuttelkraut",
+                "Rotwein",
+                "boullion",
+                "Lorbeer",
+                "Ei",
+                "Petersile"
+            ],
+            "id": "Fleckerln-mit-Schweinepfeffer-816473",
+            "smallImageUrls": [
+                "http://lh3.googleusercontent.com/1or95QbGITHuPboqqUCJs6ISAdvFgefAWPzuT-qdbEyeEJDrXcaQY7iqO2ui6WkpsjdT1qgpDPblehXIrufTcg=s90"
+            ],
+            "recipeName": "Fleckerln mit Schweinepfeffer",
+            "totalTimeInSeconds": 12600,
+            "attributes": {},
+            "flavors": null,
+            "rating": 3
+        }
+    ],
+    "facetCounts": {},
+    "totalMatchCount": 23,
+    "attribution": {
+        "html": "Recipe search powered by <a href='http://www.yummly.co/recipes'><img alt='Yummly' src='https://static.yummly.co/api-logo.png'/></a>",
+        "url": "http://www.yummly.co/recipes/",
+        "text": "Recipe search powered by Yummly",
+        "logo": "https://static.yummly.co/api-logo.png"
+    }
+}

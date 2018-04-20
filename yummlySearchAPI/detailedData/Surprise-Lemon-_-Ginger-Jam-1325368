@@ -1,0 +1,40 @@
+{
+    "yield": "makes about 3 x 1lb jars)",
+    "nutritionEstimates": [],
+    "totalTime": "55 min",
+    "images": [
+        {
+            "hostedSmallUrl": "http://lh3.googleusercontent.com/KuTTHvjnj5mN1dtIMQnA8SpcPVQHEsJgXopJa6E6YuZ5WW_Gk1zdA8RcfC0KI-vDcuqOl5z9jN9cUE78rbwJmYE=s90",
+            "hostedMediumUrl": "http://lh3.googleusercontent.com/KuTTHvjnj5mN1dtIMQnA8SpcPVQHEsJgXopJa6E6YuZ5WW_Gk1zdA8RcfC0KI-vDcuqOl5z9jN9cUE78rbwJmYE=s180",
+            "hostedLargeUrl": "http://lh3.googleusercontent.com/KuTTHvjnj5mN1dtIMQnA8SpcPVQHEsJgXopJa6E6YuZ5WW_Gk1zdA8RcfC0KI-vDcuqOl5z9jN9cUE78rbwJmYE=s360",
+            "imageUrlsBySize": {
+                "90": "https://lh3.googleusercontent.com/jGWoYqXzpoo2M2U1C3uU4LkXgceByQkNCfLLskmcWjGGbhHpQzSWVud_HXqCeEDA2wcW1P4MCsFmphzTspc89g=s90-c",
+                "360": "https://lh3.googleusercontent.com/jGWoYqXzpoo2M2U1C3uU4LkXgceByQkNCfLLskmcWjGGbhHpQzSWVud_HXqCeEDA2wcW1P4MCsFmphzTspc89g=s360-c"
+            }
+        }
+    ],
+    "name": "Surprise Lemon & Ginger Jam",
+    "source": {
+        "sourceDisplayName": "Meanderings through my cookbook",
+        "sourceSiteUrl": "hopeeternalcookbook.wordpress.com",
+        "sourceRecipeUrl": "https://hopeeternalcookbook.wordpress.com/2010/10/15/lemon-ginger-jam/"
+    },
+    "id": "Surprise-Lemon-_-Ginger-Jam-1325368",
+    "ingredientLines": [
+        "1.25kg marrow or courgette (peeled, deseeded and in small dice)",
+        "1.25kg white sugar",
+        "3 lemons",
+        "90g fresh root ginger (peeled and grated)"
+    ],
+    "attribution": {
+        "html": "<a href='http://www.yummly.co/recipe/Surprise-Lemon-_-Ginger-Jam-1325368'>Surprise Lemon &amp; Ginger Jam recipe</a> information powered by <img alt='Yummly' src='https://static.yummly.co/api-logo.png'/>",
+        "url": "http://www.yummly.co/recipe/Surprise-Lemon-_-Ginger-Jam-1325368",
+        "text": "Surprise Lemon &amp; Ginger Jam recipes: information powered by Yummly",
+        "logo": "https://static.yummly.co/api-logo.png"
+    },
+    "numberOfServings": 3,
+    "totalTimeInSeconds": 3300,
+    "attributes": {},
+    "flavors": {},
+    "rating": 4
+}

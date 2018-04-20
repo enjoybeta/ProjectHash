@@ -1,0 +1,341 @@
+{
+    "criteria": {
+        "q": "c+o+r+n",
+        "allowedIngredient": null,
+        "excludedIngredient": null
+    },
+    "matches": [
+        {
+            "imageUrlsBySize": {
+                "90": "https://lh3.googleusercontent.com/9S2DJpoW1j1tRkH1-6nK8oCOIsWQEh7DgPLeLAEfmGleMkP94R8oySG2YLX0rG-Z15xAdtjVTMSdCw-puFvzdg=s90-c"
+            },
+            "sourceDisplayName": "Cooking at Home",
+            "ingredients": [
+                "crushed pretzels",
+                "white sugar",
+                "butter",
+                "cream cheese",
+                "frozen whipped topping",
+                "Jell-O Gelatin",
+                "boiling water",
+                "frozen strawberries"
+            ],
+            "id": "Judy_s-Strawberry-Pretzel-Salad-2397018",
+            "smallImageUrls": [
+                "https://lh3.googleusercontent.com/Rk3uK0Q_CnzqC1CCd0P5utaL8ePYaLNNGy0shNuOFYIbmm2Vnms3DLumfy_hy_qzdPxURR1I_SAhFFwd7BWzVA=s90"
+            ],
+            "recipeName": "Judy's Strawberry Pretzel Salad",
+            "totalTimeInSeconds": 4800,
+            "attributes": {
+                "course": [
+                    "Desserts"
+                ],
+                "cuisine": [
+                    "Kid-Friendly"
+                ]
+            },
+            "flavors": {
+                "piquant": 0.0,
+                "meaty": 0.16666666666666666,
+                "bitter": 0.16666666666666666,
+                "sweet": 0.6666666666666666,
+                "sour": 0.5,
+                "salty": 0.3333333333333333
+            },
+            "rating": 4
+        },
+        {
+            "imageUrlsBySize": {
+                "90": "https://lh3.googleusercontent.com/VjbarTXBBZ_vH5rhIyS97dCmAksNEtB7jTcxMxxrysSXjBGXpvfoI9uVil9IJqy5trbFJhBjeMF_6dUyHjGZ1Q=s90-c"
+            },
+            "sourceDisplayName": "Cooking at Home",
+            "ingredients": [
+                "crushed pretzels",
+                "white sugar",
+                "butter",
+                "cream cheese",
+                "frozen whipped topping",
+                "strawberries",
+                "boiling water",
+                "frozen strawberries"
+            ],
+            "id": "Judy_s-Strawberry-Pretzel-Salad-1741461",
+            "smallImageUrls": [
+                "https://lh3.googleusercontent.com/QE8Zl6qVTV8GWXaNs-vize8DK3Y_aVeGKsvdtNO-SGitQRVtbR6pRyOO4nc1sTyXaJUuo_EAOjpTwxFcrV9r9Q=s90"
+            ],
+            "recipeName": "Judy's Strawberry Pretzel Salad",
+            "totalTimeInSeconds": 4800,
+            "attributes": {
+                "course": [
+                    "Desserts"
+                ],
+                "cuisine": [
+                    "Kid-Friendly"
+                ]
+            },
+            "flavors": {
+                "piquant": 0.0,
+                "meaty": 0.16666666666666666,
+                "bitter": 0.16666666666666666,
+                "sweet": 0.6666666666666666,
+                "sour": 0.6666666666666666,
+                "salty": 0.16666666666666666
+            },
+            "rating": 4
+        },
+        {
+            "imageUrlsBySize": {
+                "90": "http://lh3.ggpht.com/PHEdhp3vEBL03DR87dhrELeLOr6EkXNqnnYGgmNp8YBiqLqNtSeRuU46hE--mvksRF3JMUlcLaoQ4QWv2YWhdA=s90-c"
+            },
+            "sourceDisplayName": "AllRecipes",
+            "ingredients": [
+                "white sugar",
+                "heavy cream",
+                "baking soda",
+                "butter",
+                "vanilla extract",
+                "pecan halves"
+            ],
+            "id": "Aunt-Bill_s-Brown-Candy-Allrecipes",
+            "smallImageUrls": [
+                "http://lh3.ggpht.com/0nno8jMU3PHuSx6t7BE0q1k1soA6OGe1nAIe7c4-CqDc4na9Ji7COVRWDqxFlhAR0hM5uNOdFkLGEGIa1R4tAN0=s90"
+            ],
+            "recipeName": "Aunt Bill's Brown Candy",
+            "totalTimeInSeconds": 7200,
+            "attributes": {
+                "course": [
+                    "Desserts"
+                ],
+                "holiday": [
+                    "Christmas"
+                ]
+            },
+            "flavors": null,
+            "rating": 5
+        },
+        {
+            "imageUrlsBySize": {
+                "90": "https://lh3.googleusercontent.com/MXPzJs56tbeVR2iVArxWQ344JT9IPMciYayGyb6OjnXIXHRNjkJkiALVHwb48er8_MkWLDgTbM7pcxLtCD4OVA=s90-c"
+            },
+            "sourceDisplayName": "Gemma's Bigger Bolder Baking",
+            "ingredients": [
+                "cake flour",
+                "granulated sugar",
+                "baking powder",
+                "salt",
+                "large egg whites",
+                "eggs",
+                "buttermilk",
+                "pure vanilla extract",
+                "unsalted butter",
+                "lemon curd",
+                "vanilla extract"
+            ],
+            "id": "Lemon-Meringue-Cake-2367088",
+            "smallImageUrls": [
+                "https://lh3.googleusercontent.com/Av42Ai4yDUw1OobINgggQonZKLaqm3IQc5gBbejvlm2tZjwMycg6neOyFGNB6vBLBU1S1qeSgjrqcf1E2Hov0A=s90"
+            ],
+            "recipeName": "Lemon Meringue Cake",
+            "totalTimeInSeconds": 3600,
+            "attributes": {
+                "course": [
+                    "Afternoon Tea",
+                    "Desserts"
+                ]
+            },
+            "flavors": null,
+            "rating": 4
+        },
+        {
+            "imageUrlsBySize": {
+                "90": "https://lh3.googleusercontent.com/zIPKrJQS6ZxW_GRMUG5PuHT-PI7EGQcqQkURvRVRVJA6xHhHH3jq3gMaCjsqPJZkFgwuFi3vwg2OGzDdk2iALA=s90-c"
+            },
+            "sourceDisplayName": "Candis",
+            "ingredients": [
+                "new potatoes",
+                "oil",
+                "chicken breast fillets",
+                "onions",
+                "garlic",
+                "turmeric",
+                "chili powder",
+                "ground cumin",
+                "ground coriander",
+                "low sodium salt",
+                "chopped tomatoes",
+                "fresh coriander",
+                "natural yogurt"
+            ],
+            "id": "Baked-chicken-_-Bombay-potatoes-2092262",
+            "smallImageUrls": [
+                "https://lh3.googleusercontent.com/Jaf1YigHZ2G_gqqXWkUWjftHZ5FU-cUj3Pvp5TMZ2fJB0A2kuni9k5D66XvQLPXjF_OKpiRVjZ4mVueFRb7NLA=s90"
+            ],
+            "recipeName": "Baked chicken & Bombay potatoes",
+            "totalTimeInSeconds": 900,
+            "attributes": {
+                "course": [
+                    "Main Dishes"
+                ]
+            },
+            "flavors": {
+                "piquant": 0.16666666666666666,
+                "meaty": 0.16666666666666666,
+                "bitter": 0.16666666666666666,
+                "sweet": 0.16666666666666666,
+                "sour": 0.6666666666666666,
+                "salty": 0.16666666666666666
+            },
+            "rating": 3
+        },
+        {
+            "imageUrlsBySize": {
+                "90": "https://lh3.googleusercontent.com/tZ6qEB4JH5Yj1B0PlIQNzZtkJJ4vcp60ccBqOPfd_njrtGPgiTzmfqojw_rW4PvPswh1azTtGNpMXK3NN_cQFA=s90-c"
+            },
+            "sourceDisplayName": "Foodagraphy by Chelle",
+            "ingredients": [
+                "plain flour",
+                "powdered milk",
+                "salt",
+                "brown sugar",
+                "instant yeast",
+                "milk",
+                "water",
+                "unsalted butter",
+                "food gel"
+            ],
+            "id": "Rainbow-Cube-Bread-1462315",
+            "smallImageUrls": [
+                "https://lh3.googleusercontent.com/74lkAAwhqcoobpj92x1jBrCI96g3qneDwWi3mEmam85aOXtu4f4_KYxpxefx88uEaSNDk6MB2XZRslLkZEOQCA=s90"
+            ],
+            "recipeName": "Rainbow Cube Bread",
+            "totalTimeInSeconds": 4800,
+            "attributes": {
+                "course": [
+                    "Breads"
+                ]
+            },
+            "flavors": null,
+            "rating": 4
+        },
+        {
+            "recipeName": "C.o.r.n. Hash",
+            "ingredients": [
+                "vegetable oil",
+                "brats",
+                "white onion",
+                "hash brown potatoes",
+                "salt",
+                "ground black pepper",
+                "garlic powder",
+                "mixed vegetables",
+                "shredded sharp cheddar cheese"
+            ],
+            "totalTimeInSeconds": 2100,
+            "sourceDisplayName": "Food.com",
+            "id": "C_o_r_n_-Hash-Recipezaar",
+            "rating": 4,
+            "flavors": null,
+            "attributes": {
+                "course": [
+                    "Main Dishes"
+                ],
+                "cuisine": [
+                    "Kid-Friendly"
+                ]
+            }
+        },
+        {
+            "recipeName": "C. O. R. N. Chicken Noodle Soup",
+            "ingredients": [
+                "margarine",
+                "finely chopped onion",
+                "chicken broth",
+                "cooked chicken",
+                "salt",
+                "ground black pepper",
+                "poultry seasoning",
+                "garlic powder",
+                "vegetables",
+                "pasta"
+            ],
+            "totalTimeInSeconds": 3300,
+            "sourceDisplayName": "Food.com",
+            "id": "C_-O_-R_-N_-Chicken-Noodle-Soup-Recipezaar",
+            "rating": 4,
+            "flavors": {
+                "piquant": 0.0,
+                "meaty": 0.16666666666666666,
+                "bitter": 0.16666666666666666,
+                "sweet": 0.16666666666666666,
+                "sour": 0.16666666666666666,
+                "salty": 0.16666666666666666
+            },
+            "attributes": {
+                "course": [
+                    "Soups"
+                ]
+            }
+        },
+        {
+            "recipeName": "Chicago-Style Steak With Bleu Cheese Butter",
+            "ingredients": [
+                "sirloin steak",
+                "worcestershire sauce",
+                "soy sauce",
+                "cooking sherry",
+                "red wine vinegar",
+                "butter",
+                "blue cheese",
+                "green onions"
+            ],
+            "totalTimeInSeconds": 1200,
+            "sourceDisplayName": "Food.com",
+            "id": "Chicago-Style-Steak-With-Bleu-Cheese-Butter-Food_com-125744",
+            "rating": 4,
+            "flavors": null,
+            "attributes": {
+                "course": [
+                    "Main Dishes"
+                ]
+            }
+        },
+        {
+            "recipeName": "Pancakes (mmm-mmm) From Canadian version Five Roses Cook Book",
+            "ingredients": [
+                "flour",
+                "sugar",
+                "baking powder",
+                "salt",
+                "milk",
+                "eggs",
+                "butter",
+                "vanilla"
+            ],
+            "totalTimeInSeconds": 2100,
+            "sourceDisplayName": "MyRecipes",
+            "id": "Pancakes-_mmm-mmm_-From-Canadian-version-Five-Roses-Cook-Book-1310228",
+            "rating": 3,
+            "flavors": {
+                "piquant": 0.0,
+                "meaty": 0.16666666666666666,
+                "bitter": 0.8333333333333334,
+                "sweet": 0.5,
+                "sour": 0.16666666666666666,
+                "salty": 0.8333333333333334
+            },
+            "attributes": {
+                "course": [
+                    "Breakfast and Brunch"
+                ]
+            }
+        }
+    ],
+    "facetCounts": {},
+    "totalMatchCount": 20,
+    "attribution": {
+        "html": "Recipe search powered by <a href='http://www.yummly.co/recipes'><img alt='Yummly' src='https://static.yummly.co/api-logo.png'/></a>",
+        "url": "http://www.yummly.co/recipes/",
+        "text": "Recipe search powered by Yummly",
+        "logo": "https://static.yummly.co/api-logo.png"
+    }
+}

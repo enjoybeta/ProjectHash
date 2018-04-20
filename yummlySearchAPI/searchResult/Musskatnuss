@@ -1,0 +1,57 @@
+{
+    "criteria": {
+        "q": "M+u+s+s+k+a+t+n+u+s+s",
+        "allowedIngredient": null,
+        "excludedIngredient": null
+    },
+    "matches": [
+        {
+            "imageUrlsBySize": {
+                "90": "http://lh5.ggpht.com/jdfknEzvSRCEmBulnkVn4dlnS_9zmHc9wN9tnDIktXg2RjK9cR9U9lWx-p0AHdmizc8f3NQXE7HbudgGO9XV=s90-c"
+            },
+            "sourceDisplayName": "uTry.it",
+            "ingredients": [
+                "eggs",
+                "water",
+                "light soy sauce",
+                "dark soy sauce",
+                "star anise",
+                "black tea",
+                "cinnamon sticks",
+                "turbinado",
+                "Chinese five-spice powder",
+                "coarse salt",
+                "freshly ground pepper"
+            ],
+            "id": "Chinese-Tea-Eggs-__-930830",
+            "smallImageUrls": [
+                "http://lh6.ggpht.com/XmMzfsw7IKaJXERulgy6RF9bz5MLFgGfNf3sKtxJ7mUqzrMQEC1hRaJMtHz_ad_Q-mSWmEIPhXccwSjBc67zHQ=s90"
+            ],
+            "recipeName": "Chinese Tea Eggs (\u7cd6\u5fc3\u8336\u8449\u86cb)",
+            "totalTimeInSeconds": 1800,
+            "attributes": {
+                "course": [
+                    "Lunch",
+                    "Breakfast and Brunch"
+                ],
+                "cuisine": [
+                    "Chinese",
+                    "Asian"
+                ],
+                "holiday": [
+                    "Chinese New Year"
+                ]
+            },
+            "flavors": null,
+            "rating": 4
+        }
+    ],
+    "facetCounts": {},
+    "totalMatchCount": 1,
+    "attribution": {
+        "html": "Recipe search powered by <a href='http://www.yummly.co/recipes'><img alt='Yummly' src='https://static.yummly.co/api-logo.png'/></a>",
+        "url": "http://www.yummly.co/recipes/",
+        "text": "Recipe search powered by Yummly",
+        "logo": "https://static.yummly.co/api-logo.png"
+    }
+}

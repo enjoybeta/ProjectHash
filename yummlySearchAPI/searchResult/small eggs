@@ -1,0 +1,377 @@
+{
+    "criteria": {
+        "q": "s+m+a+l+l+ +e+g+g+s",
+        "allowedIngredient": null,
+        "excludedIngredient": null
+    },
+    "matches": [
+        {
+            "imageUrlsBySize": {
+                "90": "https://lh3.googleusercontent.com/N91IAK1RClfjj3LsVpXOdMSD3Y-VB_gmoplGaIxTb9FxtKmbLh510dE7jMV09ARS5usXIFARswMIKyklvxIXtQ=s90-c"
+            },
+            "sourceDisplayName": "Humblebee and Me",
+            "ingredients": [
+                "oil",
+                "vitamin e",
+                "bergamot",
+                "ginger",
+                "nutmeg"
+            ],
+            "id": "Spiced-Bergamot-Beard-Oil-1484235",
+            "smallImageUrls": [
+                "https://lh3.googleusercontent.com/lxH-GnTKlxFw4FHatvzcUB-fZaCmlljHQwkEmdbQw3H6-xM-M9L0BYTdyMIJKAAcRdQDkgxqkvJjlY0iXnMa4Ik=s90"
+            ],
+            "recipeName": "Spiced Bergamot Beard Oil",
+            "totalTimeInSeconds": 900,
+            "attributes": {
+                "course": [
+                    "Beverages"
+                ]
+            },
+            "flavors": null,
+            "rating": 4
+        },
+        {
+            "imageUrlsBySize": {
+                "90": "https://lh3.googleusercontent.com/4ZsJj334LbiDGkE8zpAs8GzRr3wb9NtguBvp32JYsXkJjsD6obUtKTzHa1kuqHP0yTOxO3_Yw9Vjz0wUZy2sFg=s90-c"
+            },
+            "sourceDisplayName": "Think Beef",
+            "ingredients": [
+                "beef",
+                "garlic",
+                "ground pepper",
+                "sea salt"
+            ],
+            "id": "Wine-_n-Dine-Peppercorn-Roast-Beef-2309665",
+            "smallImageUrls": [
+                "https://lh3.googleusercontent.com/3eEb6KlKlYw4ntuWZPj0ysQD4o2NpIwehaND7rKWTpEDRBNIY6lhQ8VKAA_xk3eS_rCagxqyJ7eEaAM62nZW=s90"
+            ],
+            "recipeName": "Wine 'n Dine Peppercorn Roast Beef",
+            "totalTimeInSeconds": 8400,
+            "attributes": {
+                "course": [
+                    "Main Dishes"
+                ],
+                "holiday": [
+                    "Sunday Lunch"
+                ]
+            },
+            "flavors": {
+                "piquant": 0.3333333333333333,
+                "meaty": 0.8333333333333334,
+                "bitter": 0.16666666666666666,
+                "sweet": 0.0,
+                "sour": 0.16666666666666666,
+                "salty": 0.16666666666666666
+            },
+            "rating": 4
+        },
+        {
+            "imageUrlsBySize": {
+                "90": "https://lh3.googleusercontent.com/9svtExcN05IwUg9G1ztB97EKaC_iMmT9xB55N0DzIiTHURRBf3Uc1NJkquqam9KSrbB5bTQAzusxUk9kGDFEV_s=s90-c"
+            },
+            "sourceDisplayName": "Leckerbiss",
+            "ingredients": [
+                "kidney beans",
+                "corn flour",
+                "spelt flour",
+                "teas",
+                "zucchini",
+                "onions",
+                "water"
+            ],
+            "id": "Sauerkraut-a-la-Jamaicana-2082401",
+            "smallImageUrls": [
+                "https://lh3.googleusercontent.com/ThYbZtppqX-uIZCEicTkLtGwbB2XZh63u9LgrgtDdenJrePQsQ5UkzGsj6QDcVRiym6wJi2BmJUiONAfNI3o=s90"
+            ],
+            "recipeName": "Sauerkraut a la Jamaicana",
+            "totalTimeInSeconds": 3300,
+            "attributes": {},
+            "flavors": null,
+            "rating": 4
+        },
+        {
+            "imageUrlsBySize": {
+                "90": "https://lh3.googleusercontent.com/qV6AOjF-Ya_PQBekr_JP1DQtA4DUFBHuzibJRb5_Gbcj9CnIdfHnCyFYfbGSpWveqjZRMT8qL-scyF9cQlmLOw=s90-c"
+            },
+            "sourceDisplayName": "Foods from Africa",
+            "ingredients": [
+                "basmati rice",
+                "tomato passata",
+                "red bell pepper",
+                "onions",
+                "garlic cloves",
+                "extra-virgin olive oil",
+                "smoked paprika",
+                "chicken stock cubes",
+                "salt",
+                "spices",
+                "water"
+            ],
+            "id": "West-African-Basmati-Jollof-Rice-1831620",
+            "smallImageUrls": [
+                "https://lh3.googleusercontent.com/iIus1kgpjtLNdTNiTOFh5E-Fa_3_3Iv-COHMxgTU459FbwfivwVB1sdG9squFmXwVlam9NT14j64z8xUwlTLyA=s90"
+            ],
+            "recipeName": "West African Basmati Jollof Rice",
+            "totalTimeInSeconds": 4200,
+            "attributes": {
+                "course": [
+                    "Main Dishes"
+                ]
+            },
+            "flavors": {
+                "piquant": 0.3333333333333333,
+                "meaty": 0.16666666666666666,
+                "bitter": 0.3333333333333333,
+                "sweet": 0.3333333333333333,
+                "sour": 0.8333333333333334,
+                "salty": 0.8333333333333334
+            },
+            "rating": 4
+        },
+        {
+            "imageUrlsBySize": {
+                "90": "https://lh3.googleusercontent.com/HzV_yPNC-fGYt9_JPRD4nRWGGIqMg7d_ctNv-cdWnBmeJ7zhE5Ct3VqbMl9y-CuoCVVkgrYvrwVNoHDLYjf3=s90-c"
+            },
+            "sourceDisplayName": "A Garden for the House",
+            "ingredients": [
+                "yellow apples",
+                "lemon",
+                "ground cinnamon",
+                "sugar",
+                "flour",
+                "baking powder",
+                "salt",
+                "nutmeg",
+                "unsalted butter",
+                "large eggs",
+                "vegetable oil",
+                "pure vanilla extract"
+            ],
+            "id": "Rustic-Apple-Cake-1344770",
+            "smallImageUrls": [
+                "https://lh3.googleusercontent.com/k_n1_zGD1NXDkD7eQOK_tOZeAlKQSEeVtjlGCJtJnROtSJmQ8JFhD6U_rnGgLGTUwOX8sZY3YQum7ZCLfiDhiw4=s90"
+            ],
+            "recipeName": "Rustic Apple Cake",
+            "totalTimeInSeconds": 3900,
+            "attributes": {
+                "course": [
+                    "Desserts"
+                ]
+            },
+            "flavors": {
+                "piquant": 0.0,
+                "meaty": 0.16666666666666666,
+                "bitter": 0.16666666666666666,
+                "sweet": 0.8333333333333334,
+                "sour": 0.3333333333333333,
+                "salty": 0.16666666666666666
+            },
+            "rating": 4
+        },
+        {
+            "imageUrlsBySize": {
+                "90": "https://lh3.googleusercontent.com/n8WKLMQhKJqdMFS_NQQGIvSXMsan5nbRFC-t-659C5W8rx-cGUKhkCP-AteHihxdf1baXt26CBYlI6dqetICog=s90-c"
+            },
+            "sourceDisplayName": "Evergreen Kitchen",
+            "ingredients": [
+                "neutral oil",
+                "yellow onion",
+                "garlic",
+                "carrots",
+                "cremini mushrooms",
+                "leeks",
+                "brown rice flour",
+                "vegetable stock",
+                "almond milk",
+                "baby potatoes",
+                "fresh thyme",
+                "lacinato kale",
+                "frozen peas",
+                "salt",
+                "chickpeas"
+            ],
+            "id": "VEGGIE-POT-PIES-WITH-CRISPY-POTATOES-2313196",
+            "smallImageUrls": [
+                "https://lh3.googleusercontent.com/5p1GLnb54U5iW0D8P0KPpc29cMZ1D927AuGM5LVoEIMn4RXb101yx_thsQAz_MrgTltLl-BJ737Ci49ym9sDKT8=s90"
+            ],
+            "recipeName": "VEGGIE POT PIES WITH CRISPY POTATOES",
+            "totalTimeInSeconds": 5100,
+            "attributes": {
+                "course": [
+                    "Main Dishes"
+                ]
+            },
+            "flavors": {
+                "piquant": 0.0,
+                "meaty": 0.16666666666666666,
+                "bitter": 0.5,
+                "sweet": 0.16666666666666666,
+                "sour": 0.6666666666666666,
+                "salty": 0.5
+            },
+            "rating": 4
+        },
+        {
+            "imageUrlsBySize": {
+                "90": "http://lh3.googleusercontent.com/EzbP-XHYQObOnFUotv5QS0vnxN5n_hboxDzg83CqwjIgo4ghOXzl9qNExNaHThbGDtSVNY2v0KbqHRMLGbc73w=s90-c"
+            },
+            "sourceDisplayName": "Kiwi & Bean",
+            "ingredients": [
+                "cooking oil",
+                "onions",
+                "garlic",
+                "vegetables",
+                "chili powder",
+                "ground cumin",
+                "crushed tomatoes",
+                "liquid",
+                "beans",
+                "frozen corn",
+                "sliced black olives"
+            ],
+            "id": "Fridge-Clearing-Veggie-Chili-1059871",
+            "smallImageUrls": [
+                "http://lh3.googleusercontent.com/BQGuUdmjtO-H1SuOwTNBVbnC2o2Pdk1jNbCUPYy9o7VDz73ZfWF35wPPDgYDCQTGuGy8Md9QVhNP4ep2__juRA=s90"
+            ],
+            "recipeName": "Fridge Clearing Veggie Chili",
+            "totalTimeInSeconds": 3000,
+            "attributes": {
+                "course": [
+                    "Main Dishes"
+                ]
+            },
+            "flavors": {
+                "piquant": 0.5,
+                "meaty": 0.16666666666666666,
+                "bitter": 0.16666666666666666,
+                "sweet": 0.16666666666666666,
+                "sour": 0.5,
+                "salty": 0.16666666666666666
+            },
+            "rating": 4
+        },
+        {
+            "imageUrlsBySize": {
+                "90": "https://lh3.googleusercontent.com/AhJ3yQOH0MvPw0RHKJmeJl-Tt7Y8_iwEMu5hGsX-WQGZdDrUhR1kUTdJYMpq4cyqdonGWpnAy9z2Un9s32gj3w=s90-c"
+            },
+            "sourceDisplayName": "Reader's Digest.ca",
+            "ingredients": [
+                "sweet potatoes",
+                "olive oil",
+                "salt",
+                "lasagna noodles",
+                "vegetable oil",
+                "all-purpose flour",
+                "milk",
+                "pepper",
+                "nutmeg",
+                "cayenne",
+                "cheese",
+                "parmigiano reggiano cheese"
+            ],
+            "id": "Sweet-Potato-Lasagna-2060559",
+            "smallImageUrls": [
+                "https://lh3.googleusercontent.com/numcJmyejJVZUJfhPzYKqHxQxcvxzAL8CaB6iP0huymGqadIbOujHTpSssFDmQo5hTuW716NiyYllIDRYEtusg=s90"
+            ],
+            "recipeName": "Sweet Potato Lasagna",
+            "totalTimeInSeconds": 3600,
+            "attributes": {
+                "course": [
+                    "Main Dishes"
+                ]
+            },
+            "flavors": null,
+            "rating": 3
+        },
+        {
+            "imageUrlsBySize": {
+                "90": "http://lh3.googleusercontent.com/_pO6cRtszfDoIu8dGxK65ycb2AA9H7jLsrdQtMpxKXP4mlfQ1b3gJFwDvmf5DQTysTEgs5hTQ0jlFhlVNs3SYw=s90-c"
+            },
+            "sourceDisplayName": "Plain Chicken",
+            "ingredients": [
+                "cornbread",
+                "chili",
+                "bacon",
+                "gratin",
+                "cake",
+                "posole",
+                "tomatoes",
+                "milk",
+                "eggs",
+                "shredded cheddar cheese",
+                "lean ground beef",
+                "taco seasoning",
+                "salsa",
+                "sour cream",
+                "sliced green onions"
+            ],
+            "id": "Taco-Cornbread-Muffins-1070007",
+            "smallImageUrls": [
+                "http://lh3.googleusercontent.com/mx0nfPZ00IFLIkC1Rln7Zxkze2ZMYic5nvN9tPR3AjpzBGsGThlA2pRVo6uXNzhQJM9vMflUvVljC5Rv9KSv=s90"
+            ],
+            "recipeName": "Taco Cornbread Muffins",
+            "totalTimeInSeconds": 2400,
+            "attributes": {
+                "course": [
+                    "Main Dishes",
+                    "Breads"
+                ],
+                "cuisine": [
+                    "Kid-Friendly",
+                    "Mexican"
+                ]
+            },
+            "flavors": null,
+            "rating": 4
+        },
+        {
+            "imageUrlsBySize": {
+                "90": "https://lh3.googleusercontent.com/uDaVR5tT_xlqjBKBU8KMlbKP7SDGsMNs1x2RBjqr-Gw9E0MrX_eXgOfWKM82TXX4T_Xn_kDHqT30l84yw60wsQ=s90-c"
+            },
+            "sourceDisplayName": "Think Beef",
+            "ingredients": [
+                "plain yogurt",
+                "garlic",
+                "small onion",
+                "gingerroot",
+                "fresh lemon juice",
+                "hot curry powder",
+                "chili powder",
+                "salt",
+                "marinating steak",
+                "cauliflower",
+                "dipping sauce"
+            ],
+            "id": "Bombay-Beef-2309673",
+            "smallImageUrls": [
+                "https://lh3.googleusercontent.com/S-LtR9kdZ0FZPmCoPKxiEDdpj6AR8u-A7QaAbWTfcxUnaWzs75tplNerPKGrLQSM_aVN6P5zuAkrk5imW-U8=s90"
+            ],
+            "recipeName": "Bombay Beef",
+            "totalTimeInSeconds": 3300,
+            "attributes": {
+                "course": [
+                    "Main Dishes",
+                    "Lunch"
+                ]
+            },
+            "flavors": {
+                "piquant": 0.5,
+                "meaty": 0.16666666666666666,
+                "bitter": 0.8333333333333334,
+                "sweet": 0.3333333333333333,
+                "sour": 0.8333333333333334,
+                "salty": 0.8333333333333334
+            },
+            "rating": 4
+        }
+    ],
+    "facetCounts": {},
+    "totalMatchCount": 2512,
+    "attribution": {
+        "html": "Recipe search powered by <a href='http://www.yummly.co/recipes'><img alt='Yummly' src='https://static.yummly.co/api-logo.png'/></a>",
+        "url": "http://www.yummly.co/recipes/",
+        "text": "Recipe search powered by Yummly",
+        "logo": "https://static.yummly.co/api-logo.png"
+    }
+}

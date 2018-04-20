@@ -1,0 +1,249 @@
+{
+    "criteria": {
+        "q": "l+i+n+g+u+i+n+i",
+        "allowedIngredient": null,
+        "excludedIngredient": null
+    },
+    "matches": [
+        {
+            "recipeName": "Spinach and Anchovy Pie (Torta Ta L-Ispinaci U Ncova)",
+            "ingredients": [
+                "flour",
+                "fine sea salt",
+                "yeast",
+                "caster sugar",
+                "water",
+                "black olives",
+                "anchovies",
+                "white onion",
+                "olive oil",
+                "dried basil",
+                "fresh spinach leaves",
+                "salt",
+                "pepper"
+            ],
+            "totalTimeInSeconds": 5400,
+            "sourceDisplayName": "Food.com",
+            "id": "Spinach-and-Anchovy-Pie-_Torta-Ta-L-Ispinaci-U-Ncova_-Food_com-131583",
+            "rating": 3,
+            "flavors": {
+                "piquant": 0.0,
+                "meaty": 0.16666666666666666,
+                "bitter": 0.5,
+                "sweet": 0.16666666666666666,
+                "sour": 0.5,
+                "salty": 0.8333333333333334
+            },
+            "attributes": {
+                "course": [
+                    "Main Dishes"
+                ]
+            }
+        },
+        {
+            "imageUrlsBySize": {
+                "90": "http://lh3.googleusercontent.com/spLEK24HqOJSiRCZsRpwPS-POj4ozbB_4EsTgW2kx8vVaG_Y7-LuOAIbSUoO-ZD5cyHaB7z3H60afRy93TMHqLM=s90-c"
+            },
+            "sourceDisplayName": "Lecker",
+            "ingredients": [
+                "Milch",
+                "Butter",
+                "vanillearoma",
+                "Mehl",
+                "Zucker",
+                "Ei",
+                "Rum",
+                "Erdbeere",
+                "Rahm",
+                "Bourbon-Vanillezucker"
+            ],
+            "id": "Canneles-de-Bordeaux-847903",
+            "smallImageUrls": [
+                "http://lh3.googleusercontent.com/okKxwm4KJauSZ5YHy1Jr4Jnp88o9gvGcLWXsoJfN6bWjIrkhXAX50g2HA9vbcxAFW3IOWeQuTKc7egQewPhMmg=s90"
+            ],
+            "recipeName": "Cannele\u0301s de Bordeaux",
+            "totalTimeInSeconds": 4500,
+            "attributes": {},
+            "flavors": {
+                "sweet": 0.5,
+                "piquant": 0.0,
+                "sour": 0.8333333333333334,
+                "salty": 0.16666666666666666,
+                "meaty": 0.16666666666666666,
+                "bitter": 0.16666666666666666
+            },
+            "rating": 3
+        },
+        {
+            "imageUrlsBySize": {
+                "90": "http://lh3.googleusercontent.com/t1BD3nFdnAfYhika4_wBjUaHm0ggDn3gum0spPaosYKKW25n04sw18q4RsSRjEatlzQBFaNYvibEhZbnR77LKQ=s90-c"
+            },
+            "sourceDisplayName": "Lecker",
+            "ingredients": [
+                "Wasser",
+                "riesling",
+                "H\u00fchnerbrustfilet",
+                "Lorbeer",
+                "M\u00f6hre",
+                "Lauch",
+                "Butter",
+                "Mehl",
+                "Kochfl\u00fcssigkeit",
+                "Pfeffer",
+                "Eigelb",
+                "Rahm",
+                "Zitronensaft",
+                "So\u00dfe",
+                "Champignon",
+                "Spargelspitzen"
+            ],
+            "id": "Huhnerfrikassee-841221",
+            "smallImageUrls": [
+                "http://lh3.googleusercontent.com/Liq2wnywF6absbqY12-mlKW59mSaiaW7zUGBnVZYnOnEvzQSbz7jGn4Z0P4rRWCWPnVrkiZhvuv0jZMFjsYe=s90"
+            ],
+            "recipeName": "Hu\u0308hnerfrikassee",
+            "totalTimeInSeconds": 2400,
+            "attributes": {},
+            "flavors": {
+                "sweet": 0.16666666666666666,
+                "piquant": 0.0,
+                "sour": 0.16666666666666666,
+                "salty": 0.3333333333333333,
+                "meaty": 0.16666666666666666,
+                "bitter": 0.16666666666666666
+            },
+            "rating": 3
+        },
+        {
+            "imageUrlsBySize": {
+                "90": "http://lh3.googleusercontent.com/CBBsWPg9AQjeeE5ghCsPRG3tQXcElniqaTgpRIslizU9rmHBcmKB2kSi3Yj6XEr7BDGgieM9htIjWxsYPv-i=s90-c"
+            },
+            "sourceDisplayName": "Lecker",
+            "ingredients": [
+                "broccoli",
+                "M\u00f6hre",
+                "Fr\u00fchlingszwiebelgr\u00fcn",
+                "\u00d6l",
+                "Gem\u00fcsebr\u00fche",
+                "Petersile",
+                "Milch",
+                "Streichk\u00e4se",
+                "Sossenpulver",
+                "Salz"
+            ],
+            "id": "Gemuseplatte-mit-Kasesoe-832515",
+            "smallImageUrls": [
+                "http://lh3.googleusercontent.com/y5D76YrOdHp9ud1y3RvEBpV-CQAk_g44zRLvJAwG95BKOAZL_brB8ZkQkZkWUTerOmZRNxdrrH6i9La8Vi1XkQ=s90"
+            ],
+            "recipeName": "Gemu\u0308seplatte mit Ka\u0308seso\u00dfe",
+            "totalTimeInSeconds": 1800,
+            "attributes": {},
+            "flavors": null,
+            "rating": 3
+        },
+        {
+            "imageUrlsBySize": {
+                "90": "http://lh3.googleusercontent.com/RlRiVfYtozvY9WycqLb2BBjUhSYfmfcdtq3d5GHsyYPZI_Qrm3tKu6zaTuZtQSRtBuH7Nnjtn94Chd8bVLQS=s90-c"
+            },
+            "sourceDisplayName": "Chefkoch",
+            "ingredients": [
+                "Kohlrabi",
+                "Zwiebel",
+                "Kartoffel",
+                "\u00d6l",
+                "Gem\u00fcsebr\u00fche",
+                "Pfeffer",
+                "Eigelb",
+                "Rahm",
+                "K\u00e4se",
+                "Lustock",
+                "Mehl",
+                "Salz"
+            ],
+            "id": "Kohlrabieintopf-mit-Kase-798114",
+            "smallImageUrls": [
+                "http://lh3.googleusercontent.com/pdPKwIHCmAou7DKovLkZ0ylu0YnoC0_XwTZqt_PUnvdQwLH5xYQ-fxFNWkVlblrtczE51RmMiYTVLvaNpbYz=s90"
+            ],
+            "recipeName": "Kohlrabieintopf mit Ka\u0308se",
+            "totalTimeInSeconds": 1200,
+            "attributes": {},
+            "flavors": {
+                "sweet": 0.16666666666666666,
+                "piquant": 0.0,
+                "sour": 0.8333333333333334,
+                "salty": 0.16666666666666666,
+                "meaty": 0.16666666666666666,
+                "bitter": 0.3333333333333333
+            },
+            "rating": 3
+        },
+        {
+            "recipeName": "Apfel-To\u0308rtchen mit Weinschaum",
+            "ingredients": [
+                "\u00c4pfel",
+                "Zitronensaft",
+                "Zucker",
+                "Mohn",
+                "Butter",
+                "Fett",
+                "Salz",
+                "Backpulver",
+                "Mehl",
+                "Wei\u00dfwein"
+            ],
+            "totalTimeInSeconds": 3600,
+            "sourceDisplayName": "Lecker",
+            "id": "Apfel-Tortchen-mit-Weinschaum-833525",
+            "rating": 3,
+            "flavors": {
+                "sweet": 0.8333333333333334,
+                "piquant": 0.0,
+                "sour": 0.16666666666666666,
+                "salty": 0.16666666666666666,
+                "meaty": 0.16666666666666666,
+                "bitter": 0.16666666666666666
+            },
+            "attributes": {
+                "course": [
+                    "Desserts"
+                ]
+            }
+        },
+        {
+            "recipeName": "Windbeutel-Torte",
+            "ingredients": [
+                "Zucker",
+                "Salz",
+                "Butter",
+                "Mehl",
+                "Ei",
+                "Backpulver",
+                "Vanilleschote",
+                "Speisequark",
+                "Schlabgobers",
+                "Weichsel",
+                "Tortenguss",
+                "Puderzucker",
+                "Zitronenmelisse"
+            ],
+            "totalTimeInSeconds": 5400,
+            "sourceDisplayName": "Lecker",
+            "id": "Windbeutel-Torte-927441",
+            "rating": 3,
+            "flavors": null,
+            "attributes": {
+                "course": [
+                    "Desserts"
+                ]
+            }
+        }
+    ],
+    "facetCounts": {},
+    "totalMatchCount": 7,
+    "attribution": {
+        "html": "Recipe search powered by <a href='http://www.yummly.co/recipes'><img alt='Yummly' src='https://static.yummly.co/api-logo.png'/></a>",
+        "url": "http://www.yummly.co/recipes/",
+        "text": "Recipe search powered by Yummly",
+        "logo": "https://static.yummly.co/api-logo.png"
+    }
+}

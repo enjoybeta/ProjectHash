@@ -1,0 +1,49 @@
+{
+    "yield": "Zutaten f\u00fcr 12 St\u00fcck:",
+    "nutritionEstimates": [],
+    "totalTime": "1 hr 15 min",
+    "images": [
+        {
+            "imageUrlsBySize": {
+                "90": "null=s90-c",
+                "360": "null=s360-c"
+            }
+        }
+    ],
+    "name": "Apfel-Streusel-Muffins",
+    "source": {
+        "sourceDisplayName": "Lecker",
+        "sourceSiteUrl": "lecker.de",
+        "sourceRecipeUrl": "http://www.lecker.de/rezept/897484/Apfel-Streusel-Muffins.html"
+    },
+    "id": "Apfel-Streusel-Muffins-836182",
+    "ingredientLines": [
+        "Fett u. etwas Mehl f\u00fcrs Blech",
+        "200 g Butter, 225 g Mehl",
+        "1 gestrichener TL Backpulver",
+        "100 g gemahlene Mandeln (ohne Haut)",
+        "30 g bl\u00fctenzarte Haferflocken",
+        "150 g + 75 g Zucker",
+        "2 P. Vanillin-Zucker, 1 Pr. Salz",
+        "1/2 TL Zimt, 750 g \u00c4pfel",
+        "1 geh. TL Speisest\u00e4rke",
+        "1/8 l Apfelsaft, 2 EL Zitronensaft",
+        "abgeriebene Schale von 1 unbehandelten Zitrone",
+        "evtl. Cr\u00e8me fra\u00eeche, Apfelspalten u. Minze zum Verzieren"
+    ],
+    "attribution": {
+        "html": "<a href='http://www.yummly.co/recipe/Apfel-Streusel-Muffins-836182'>Apfel-Streusel-Muffins recipe</a> information powered by <img alt='Yummly' src='https://static.yummly.co/api-logo.png'/>",
+        "url": "http://www.yummly.co/recipe/Apfel-Streusel-Muffins-836182",
+        "text": "Apfel-Streusel-Muffins recipes: information powered by Yummly",
+        "logo": "https://static.yummly.co/api-logo.png"
+    },
+    "numberOfServings": 12,
+    "totalTimeInSeconds": 4500,
+    "attributes": {
+        "course": [
+            "Desserts"
+        ]
+    },
+    "flavors": {},
+    "rating": 3
+}

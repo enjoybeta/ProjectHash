@@ -6,37 +6,6 @@
     },
     "matches": [
         {
-            "imageUrlsBySize": {
-                "90": "https://lh3.googleusercontent.com/NgXGRt_e4GVBLalRDdnZ2wiw_GII8GZkmt-SGoWuHwsiqeSoG9aw99y9KtoFxQzOSfE2cknVdm83AuSeAX3uTY4=s90-c"
-            },
-            "sourceDisplayName": "George Eats",
-            "ingredients": [
-                "oat flour",
-                "almond meal",
-                "millet flour",
-                "coconut oil",
-                "eggs",
-                "salt",
-                "pumpkin",
-                "figs",
-                "milk",
-                "ricotta",
-                "garlic",
-                "basil",
-                "pepper",
-                "goat cheese"
-            ],
-            "id": "Gluten-Free-Pumpkin_-Basil_-Goats-Cheese-And-Fig-Tart-1382902",
-            "smallImageUrls": [
-                "https://lh3.googleusercontent.com/T9LKiyw-hsG2tdp17prQ5UJVx1S4aMD_OMwXfvuq9pG7Y8iy3fKxp5ohQ2DpyONBBtUeVGxvRTJKdPVHxz9ZqQ=s90"
-            ],
-            "recipeName": "Gluten Free Pumpkin, Basil, Goats Cheese And Fig Tart",
-            "totalTimeInSeconds": 4500,
-            "attributes": {},
-            "flavors": null,
-            "rating": 4
-        },
-        {
             "recipeName": "Wendy Richard's Chili Recipe - the Best Chili Ever!!!!!!!!!!!!!!",
             "ingredients": [
                 "lean ground beef",
@@ -75,48 +44,6 @@
             }
         },
         {
-            "imageUrlsBySize": {
-                "90": "https://lh3.googleusercontent.com/rVWQNuzjAScnQ3uZKkahCluY9VRDzoD-0o-8pIVfL04C0OodRYbQoAg1Mm1jGo7l2Wn876QON1HhUyHbTl81OuY=s90-c"
-            },
-            "sourceDisplayName": "George Eats",
-            "ingredients": [
-                "oat flour",
-                "almond meal",
-                "millet flour",
-                "coconut oil",
-                "eggs",
-                "salt",
-                "pumpkin",
-                "figs",
-                "milk",
-                "ricotta",
-                "garlic",
-                "basil",
-                "pepper",
-                "goat cheese"
-            ],
-            "id": "Gluten-Free-Pumpkin_-Basil_-Goats-Cheese-And-Fig-Tart-1905469",
-            "smallImageUrls": [
-                "https://lh3.googleusercontent.com/tuY8zBP2lHkhJriiMGok9sBGRb-CsY2uKyzXiFlGFUedujbSxNtWSP3UTXIrPii444mORrkqBjvhNqZ3tmUIWw=s90"
-            ],
-            "recipeName": "Gluten Free Pumpkin, Basil, Goats Cheese And Fig Tart",
-            "totalTimeInSeconds": 4500,
-            "attributes": {
-                "course": [
-                    "Main Dishes"
-                ]
-            },
-            "flavors": {
-                "piquant": 0.0,
-                "meaty": 0.6666666666666666,
-                "bitter": 0.6666666666666666,
-                "sweet": 0.16666666666666666,
-                "sour": 0.3333333333333333,
-                "salty": 0.16666666666666666
-            },
-            "rating": 4
-        },
-        {
             "recipeName": "H I M B E E R T O R T E",
             "ingredients": [
                 "Ei",
@@ -136,12 +63,23 @@
             "sourceDisplayName": "Lecker",
             "id": "H-I-M-B-E-E-R-T-O-R-T-E-839122",
             "rating": 3,
-            "flavors": null,
-            "attributes": {}
+            "flavors": {
+                "sweet": 0.8333333333333334,
+                "piquant": 0.0,
+                "sour": 0.6666666666666666,
+                "salty": 0.16666666666666666,
+                "meaty": 0.16666666666666666,
+                "bitter": 0.16666666666666666
+            },
+            "attributes": {
+                "course": [
+                    "Desserts"
+                ]
+            }
         }
     ],
     "facetCounts": {},
-    "totalMatchCount": 4,
+    "totalMatchCount": 2,
     "attribution": {
         "html": "Recipe search powered by <a href='http://www.yummly.co/recipes'><img alt='Yummly' src='https://static.yummly.co/api-logo.png'/></a>",
         "url": "http://www.yummly.co/recipes/",

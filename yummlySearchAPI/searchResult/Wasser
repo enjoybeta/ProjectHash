@@ -1,0 +1,326 @@
+{
+    "criteria": {
+        "q": "W+a+s+s+e+r",
+        "allowedIngredient": null,
+        "excludedIngredient": null
+    },
+    "matches": [
+        {
+            "imageUrlsBySize": {
+                "90": "https://lh3.googleusercontent.com/HgdP9aqvIvNXVDM6M0-2F4X2gFIM0Nc1YRcy016eQumZtyO0ZMMqeNX12lzn8N8vZr56pn62stXpdUxevVh7VeY=s90-c"
+            },
+            "sourceDisplayName": "Gigi Eats Celebrities",
+            "ingredients": [
+                "sweet potatoes",
+                "sugar",
+                "hickory smoke",
+                "beef brisket",
+                "bbq sauce",
+                "spinach"
+            ],
+            "id": "Nacho-Average-B_R_I_S_K_E_T_-1952403",
+            "smallImageUrls": [
+                "https://lh3.googleusercontent.com/MrXnL83XjSwGVTFf2xMbAMU45DSUoC6Ti5Aws3HW0k_1DXt5ZpEhn-QiyyHKafCLKQOJxwr6PvUjDjrpNJEhWw=s90"
+            ],
+            "recipeName": "Nacho Average B.R.I.S.K.E.T.",
+            "totalTimeInSeconds": 1800,
+            "attributes": {
+                "course": [
+                    "Main Dishes"
+                ]
+            },
+            "flavors": null,
+            "rating": 4
+        },
+        {
+            "imageUrlsBySize": {
+                "90": "https://lh3.googleusercontent.com/qeDIe-xiC7pDk6amfau3IQJNWuOj8rAA_n6hp6-lnb0GUWKCEE3mksdcG3qOifmAGa1cn2un2Vd_6YsaF5O9=s90-c"
+            },
+            "sourceDisplayName": "eHow",
+            "ingredients": [
+                "rolled oats",
+                "whole milk",
+                "pure vanilla extract",
+                "light brown sugar",
+                "ground cinnamon",
+                "sea salt"
+            ],
+            "id": "How-to-Make-Overnight-Oatmeal-1993862",
+            "smallImageUrls": [
+                "https://lh3.googleusercontent.com/TE3MpcFW98NrUcfbu5ABXb8AwYiSGraBjLf-2dqZcLXYITiOjB9wn9BW25zxbBakOog2OScjDLLea3yGuoDlOw=s90"
+            ],
+            "recipeName": "How to Make Overnight Oatmeal",
+            "totalTimeInSeconds": 1500,
+            "attributes": {
+                "course": [
+                    "Breakfast and Brunch"
+                ]
+            },
+            "flavors": null,
+            "rating": 3
+        },
+        {
+            "imageUrlsBySize": {
+                "90": "https://lh3.googleusercontent.com/aB21zgnr4xTpNRz3knLA3rO2Fkq1EW9-7fUyfK9zCdIrNNeI699Is4eegmJHVwJAeFFceSnMqGFd0whyQGf9rg=s90-c"
+            },
+            "sourceDisplayName": "Grounded And Surrounded",
+            "ingredients": [
+                "avocado",
+                "roma tomatoes",
+                "red onion",
+                "lime juice",
+                "hot sauce",
+                "sea salt",
+                "garlic powder"
+            ],
+            "id": "The-Best-Guacamole-E_V_E_R_-1541651",
+            "smallImageUrls": [
+                "https://lh3.googleusercontent.com/SvR_KxwYxfrAaIcywvYHRsFZkMo5-FVYMJ_Ipz6DqVEMqhiqhMPTcNSgX2XFvemGpZzj-aOZhxRnlO-mO4Ma7g=s90"
+            ],
+            "recipeName": "The Best Guacamole E.V.E.R.",
+            "totalTimeInSeconds": 1200,
+            "attributes": {
+                "course": [
+                    "Appetizers",
+                    "Lunch"
+                ]
+            },
+            "flavors": {
+                "piquant": 0.3333333333333333,
+                "meaty": 0.3333333333333333,
+                "bitter": 0.8333333333333334,
+                "sweet": 0.16666666666666666,
+                "sour": 0.8333333333333334,
+                "salty": 0.16666666666666666
+            },
+            "rating": 4
+        },
+        {
+            "imageUrlsBySize": {
+                "90": "https://lh3.googleusercontent.com/LZOaQ_6iR__PJ6og4aOWjqhX4vDwJMYE2hnBGawGgI48XJbDBbxo1dQy12vNxhst2fksS2MF5cT2wFwibRlDKvk=s90-c"
+            },
+            "sourceDisplayName": "Diethood",
+            "ingredients": [
+                "Pillsbury\u00ae Moist Supreme\u00ae Funfetti\u00ae Cake Mix",
+                "baking powder",
+                "eggs",
+                "canola oil",
+                "vanilla",
+                "sprinkles"
+            ],
+            "id": "Cake-Batter-Funfetti-Cookies-2364954",
+            "smallImageUrls": [
+                "https://lh3.googleusercontent.com/b-rz2fYoK9chszeG2sc1W1a0JUj_FDyJKywB319-wfp3btWqkowwV0OCbwXoE4H-dL1UpHl0ihjNF0REu-3I=s90"
+            ],
+            "recipeName": "Cake Batter Funfetti Cookies",
+            "totalTimeInSeconds": 1140,
+            "attributes": {
+                "course": [
+                    "Desserts"
+                ]
+            },
+            "flavors": {
+                "piquant": 0.0,
+                "meaty": 0.8333333333333334,
+                "bitter": 0.8333333333333334,
+                "sweet": 0.3333333333333333,
+                "sour": 0.16666666666666666,
+                "salty": 0.8333333333333334
+            },
+            "rating": 4
+        },
+        {
+            "imageUrlsBySize": {
+                "90": "https://lh3.googleusercontent.com/MSNgN7s8kgVameNlbVabe0e5BDf7x-9HNBFOWKxHLk4Hhl5130KN4an7iRzor0oc2aVA0mVn5v3aG5e3wge_Xg=s90-c"
+            },
+            "sourceDisplayName": "I Should Be Mopping the Floor",
+            "ingredients": [
+                "sandwiches",
+                "cool whip",
+                "caramel ice cream topping",
+                "ice cream"
+            ],
+            "id": "10-Minute-Layered-Ice-Cream-Cake-_easydessert-1914028",
+            "smallImageUrls": [
+                "https://lh3.googleusercontent.com/t9uQksw-8vAc7i8sB2RiuybQLR-JYEt-LA3HgZHHsVITAFLuQplS9aJpBCa39DNiyLt7xsgn9JF4cnfNifgWMg=s90"
+            ],
+            "recipeName": "10-Minute Layered Ice Cream Cake #easydessert",
+            "totalTimeInSeconds": 1500,
+            "attributes": {
+                "course": [
+                    "Desserts"
+                ]
+            },
+            "flavors": null,
+            "rating": 4
+        },
+        {
+            "imageUrlsBySize": {
+                "90": "https://lh3.googleusercontent.com/dts0_44ZxUBuWbAn-xLZp-7mlR9qv1HyTCEGfs7U68cAT-6h6MAM2oNXhlIHflkM8rLbCXB7FeuIuNj5qziUuQ=s90-c"
+            },
+            "sourceDisplayName": "Jennifer Bakes",
+            "ingredients": [
+                "avocado",
+                "roma tomatoes",
+                "red onion",
+                "chopped cilantro",
+                "lime",
+                "salt",
+                "garlic cloves",
+                "jalapeno chilies"
+            ],
+            "id": "The-BEST-Guacamole-E_V_E_R_-2154988",
+            "smallImageUrls": [
+                "https://lh3.googleusercontent.com/BoHhxqaBe2QrAORjQG8NOUAeEL9s8sONCLYSUGZoBFCqxEZbeU1mSnhotSFIOA9xq_gGTG5TQ9o77ZzZC3E0A9I=s90"
+            ],
+            "recipeName": "The BEST Guacamole E.V.E.R!",
+            "totalTimeInSeconds": 900,
+            "attributes": {
+                "course": [
+                    "Appetizers"
+                ],
+                "cuisine": [
+                    "Mexican"
+                ]
+            },
+            "flavors": null,
+            "rating": 4
+        },
+        {
+            "imageUrlsBySize": {
+                "90": "http://lh3.googleusercontent.com/dfubFkfAG4GOK6Ni7kysiZFk_E0GkmJZIva4cS_7FkDXRswIdmj7rRrYD8_jAi-GEi2W4J69_htlRiEax8HqgA=s90-c"
+            },
+            "sourceDisplayName": "Young and Raw",
+            "ingredients": [
+                "frozen banana",
+                "water",
+                "coconut milk yogurt",
+                "vanilla",
+                "lemon juice",
+                "grated lemon zest",
+                "chia seeds",
+                "vanilla extract",
+                "ice",
+                "lemon zest",
+                "coconut",
+                "sliced almonds"
+            ],
+            "id": "Angela-Simpson-1257461",
+            "smallImageUrls": [
+                "http://lh3.googleusercontent.com/SUswD6BbnOHEFXR10j35fczV9SxdWn_q8AuzrsZ6dVc3vVQegPdkqVeKB2-Hn0cKKSsqq5W7MN0Wyw8rTfOTIQ=s90"
+            ],
+            "recipeName": "Angela Simpson",
+            "totalTimeInSeconds": 1200,
+            "attributes": {},
+            "flavors": null,
+            "rating": 3
+        },
+        {
+            "imageUrlsBySize": {
+                "90": "http://lh3.googleusercontent.com/eMZY-AkiYYRAYAC8m5CIHwqPGAgC4EwZbK5D84pX4bJPsJ1pduyMHhKLrVzG6gjSdiAiNtGl5LqYC2Zank27=s90-c"
+            },
+            "sourceDisplayName": "Kids Activities Blog",
+            "ingredients": [
+                "eggs",
+                "buttermilk",
+                "flour",
+                "baking soda",
+                "salt",
+                "sugar",
+                "butter",
+                "bananas",
+                "chocolate spread"
+            ],
+            "id": "Pancake-Roll-Ups-The-Kid-Style-1289760",
+            "smallImageUrls": [
+                "http://lh3.googleusercontent.com/tuYfkUZNa0qOQE4KZdXqFTmUZGYG4jwTO3VHsiuWcNZfzD3qeDfEBxpWBsMYBVdlRxO53pRS_gATjAc5E1cI=s90"
+            ],
+            "recipeName": "Pancake Roll Ups The Kid Style",
+            "totalTimeInSeconds": 1800,
+            "attributes": {
+                "course": [
+                    "Desserts",
+                    "Lunch",
+                    "Breakfast and Brunch"
+                ],
+                "cuisine": [
+                    "Kid-Friendly"
+                ]
+            },
+            "flavors": null,
+            "rating": 4
+        },
+        {
+            "imageUrlsBySize": {
+                "90": "https://lh3.googleusercontent.com/YmePseYOtRYQZaRtZNo8-kgCYbziIDo0IeBOjZnvfXkKhH9241HV07pU5YJmux7Jas5ys6kOH5LT1k0TAeOaAw=s90-c"
+            },
+            "sourceDisplayName": "Flair Project",
+            "ingredients": [
+                "strawberries",
+                "white sugar",
+                "pink peppercorns",
+                "water"
+            ],
+            "id": "STRAWBERRY-PINK-PEPPERCORN-VIRGIN-SHRUB-2124361",
+            "smallImageUrls": [
+                "https://lh3.googleusercontent.com/o2ghmiTOZz3f8iDuFKJXSlrDzbnsDJ9M0xKN6_n4ChF2KiPwBI8WM9rlv3Y1v572izrtVi_JPBbMWF43RLVY=s90"
+            ],
+            "recipeName": "STRAWBERRY-PINK PEPPERCORN VIRGIN SHRUB",
+            "totalTimeInSeconds": 2400,
+            "attributes": {
+                "course": [
+                    "Beverages"
+                ]
+            },
+            "flavors": {
+                "piquant": 0.6666666666666666,
+                "meaty": 0.0,
+                "bitter": 0.0,
+                "sweet": 0.6666666666666666,
+                "sour": 0.8333333333333334,
+                "salty": 0.0
+            },
+            "rating": 3
+        },
+        {
+            "imageUrlsBySize": {
+                "90": "http://lh3.ggpht.com/6BbycCBOwEMlzZpAEInu0IKVpW3C7Oz235eKKy04XI-5cAiCTn0JWAUoWH7t8VFnihPVzHX8xLxnL-df5FxsIPk=s90-c"
+            },
+            "sourceDisplayName": "Meaningful Eats",
+            "ingredients": [
+                "quinoa",
+                "water",
+                "salt",
+                "eggs",
+                "vanilla almondmilk",
+                "maple syrup",
+                "coconut oil",
+                "vanilla extract",
+                "cinnamon",
+                "turbinado"
+            ],
+            "id": "Spiceandmore-576784",
+            "smallImageUrls": [
+                "http://lh3.ggpht.com/2NYvhKWuuMjWwlt0uM4Mt-y6kxKtIRahBnQ7CJo8MI5wAusYDFL2zaUMf0EiXH-AQOIHIBNjy2Fmqav9OGS_3w=s90"
+            ],
+            "recipeName": "Spiceandmore",
+            "totalTimeInSeconds": 2400,
+            "attributes": {
+                "course": [
+                    "Desserts",
+                    "Breakfast and Brunch"
+                ]
+            },
+            "flavors": null,
+            "rating": 4
+        }
+    ],
+    "facetCounts": {},
+    "totalMatchCount": 101,
+    "attribution": {
+        "html": "Recipe search powered by <a href='http://www.yummly.co/recipes'><img alt='Yummly' src='https://static.yummly.co/api-logo.png'/></a>",
+        "url": "http://www.yummly.co/recipes/",
+        "text": "Recipe search powered by Yummly",
+        "logo": "https://static.yummly.co/api-logo.png"
+    }
+}

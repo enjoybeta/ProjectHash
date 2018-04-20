@@ -1,0 +1,47 @@
+{
+    "yield": "Makes about 4 servings.",
+    "nutritionEstimates": [],
+    "prepTimeInSeconds": 600,
+    "totalTime": "45 min",
+    "images": [
+        {
+            "hostedSmallUrl": "https://lh3.googleusercontent.com/5PMXul8zRU8A7ikujld9Ei9G6e3-o8M149H3gLQM8CHPv7esprfnYYP9MWsMl0ORhqJ050nv12AWQpJdSFknFg=s90",
+            "hostedMediumUrl": "https://lh3.googleusercontent.com/5PMXul8zRU8A7ikujld9Ei9G6e3-o8M149H3gLQM8CHPv7esprfnYYP9MWsMl0ORhqJ050nv12AWQpJdSFknFg=s180",
+            "hostedLargeUrl": "https://lh3.googleusercontent.com/5PMXul8zRU8A7ikujld9Ei9G6e3-o8M149H3gLQM8CHPv7esprfnYYP9MWsMl0ORhqJ050nv12AWQpJdSFknFg=s360",
+            "imageUrlsBySize": {
+                "90": "https://lh3.googleusercontent.com/p37ZIZ0SQAaQ9cqKZZ44YFrP5T0DkzAP4lap0vOxArF0W7TKg28eSUIXCnVfbu01gTUIoQCTS52vHtCRPu83=s90-c",
+                "360": "https://lh3.googleusercontent.com/p37ZIZ0SQAaQ9cqKZZ44YFrP5T0DkzAP4lap0vOxArF0W7TKg28eSUIXCnVfbu01gTUIoQCTS52vHtCRPu83=s360-c"
+            }
+        }
+    ],
+    "name": "Easy Baked Pesto Chicken",
+    "source": {
+        "sourceDisplayName": "Kalyn's Kitchen",
+        "sourceSiteUrl": "http://www.kalynskitchen.com",
+        "sourceRecipeUrl": "https://kalynskitchen.com/easy-recipe-for-baked-pesto-chicken/"
+    },
+    "prepTime": "10 Min",
+    "id": "Easy-Baked-Pesto-Chicken-2220875",
+    "ingredientLines": [
+        "4 boneless, skinless chicken breasts",
+        "salt and fresh ground black pepper for seasoning chicken",
+        "salt and fresh ground black pepper for seasoning chicken",
+        "1/2 cup basil pesto (I used my homemade Basil Pesto with Lemon, but you can use\u00a0purchased basil pesto.)",
+        "2 oz. (1/2 cup) grated low-fat mozzarella cheese (or more if you like it cheesy!)"
+    ],
+    "attribution": {
+        "html": "<a href='http://www.yummly.co/recipe/Easy-Baked-Pesto-Chicken-2220875'>Easy Baked Pesto Chicken recipe</a> information powered by <img alt='Yummly' src='https://static.yummly.co/api-logo.png'/>",
+        "url": "http://www.yummly.co/recipe/Easy-Baked-Pesto-Chicken-2220875",
+        "text": "Easy Baked Pesto Chicken recipes: information powered by Yummly",
+        "logo": "https://static.yummly.co/api-logo.png"
+    },
+    "numberOfServings": 4,
+    "totalTimeInSeconds": 2700,
+    "attributes": {
+        "course": [
+            "Main Dishes"
+        ]
+    },
+    "flavors": {},
+    "rating": 4
+}

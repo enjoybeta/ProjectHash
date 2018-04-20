@@ -1,0 +1,52 @@
+{
+    "yield": "Zutaten f\u00fcr 4 Personen:",
+    "nutritionEstimates": [],
+    "totalTime": "1 hr 30 min",
+    "images": [
+        {
+            "hostedSmallUrl": "http://lh3.googleusercontent.com/EIwayUI1ZKRJIclQMbVOM06tMNRk22f9QnIvRXOj8Jk7jAWrwgwc0mSK5Wq9CBE0bIcI1uQIxCmQPOD2C-ypzhM=s90",
+            "hostedMediumUrl": "http://lh3.googleusercontent.com/EIwayUI1ZKRJIclQMbVOM06tMNRk22f9QnIvRXOj8Jk7jAWrwgwc0mSK5Wq9CBE0bIcI1uQIxCmQPOD2C-ypzhM=s180",
+            "hostedLargeUrl": "http://lh3.googleusercontent.com/EIwayUI1ZKRJIclQMbVOM06tMNRk22f9QnIvRXOj8Jk7jAWrwgwc0mSK5Wq9CBE0bIcI1uQIxCmQPOD2C-ypzhM=s360",
+            "imageUrlsBySize": {
+                "90": "http://lh3.googleusercontent.com/Y5Qs66LDClWLajVNTpmVdH4U_Osw5pP8DyOHSu9d7-up0jKzZEc3FuB5WvAub3KfM-91R2sBd6PuYtyy1R05Pw=s90-c",
+                "360": "http://lh3.googleusercontent.com/Y5Qs66LDClWLajVNTpmVdH4U_Osw5pP8DyOHSu9d7-up0jKzZEc3FuB5WvAub3KfM-91R2sBd6PuYtyy1R05Pw=s360-c"
+            }
+        }
+    ],
+    "name": "Gans auf Wei\u00dfkohl mit Semmelkno\u0308del",
+    "source": {
+        "sourceDisplayName": "Lecker",
+        "sourceSiteUrl": "lecker.de",
+        "sourceRecipeUrl": "http://www.lecker.de/rezept/696712/Gans-auf-Weisskohl-mit-Semmelknoedel.html"
+    },
+    "id": "Gans-auf-Weikohl-mit-Semmelknodel-824599",
+    "ingredientLines": [
+        "5 Br\u00f6tchen (ca. 250 g) vom Vortag",
+        "1/4 l Milch",
+        "2 Eier (Gr\u00f6\u00dfe M)",
+        "Salz",
+        "Pfeffer",
+        "geriebene Muskatnuss",
+        "30 g Mehl",
+        "1 kleine Gans (ca. 3 kg)",
+        "2 Zwiebeln",
+        "K\u00fcmmel",
+        "600 g Wei\u00dfkohl",
+        "100 g Kartoffeln",
+        "1 kleiner Apfel (ca. 100 g)",
+        "1 EL Wei\u00dfweinessig",
+        "Mehl f\u00fcr die Arbeitsfl\u00e4che",
+        "1 Bund Petersilie"
+    ],
+    "attribution": {
+        "html": "<a href='http://www.yummly.co/recipe/Gans-auf-Weikohl-mit-Semmelknodel-824599'>Gans auf Wei&szlig;kohl mit Semmelkno\u0308del recipe</a> information powered by <img alt='Yummly' src='https://static.yummly.co/api-logo.png'/>",
+        "url": "http://www.yummly.co/recipe/Gans-auf-Weikohl-mit-Semmelknodel-824599",
+        "text": "Gans auf Wei&szlig;kohl mit Semmelkno\u0308del recipes: information powered by Yummly",
+        "logo": "https://static.yummly.co/api-logo.png"
+    },
+    "numberOfServings": 4,
+    "totalTimeInSeconds": 5400,
+    "attributes": {},
+    "flavors": {},
+    "rating": 3
+}
