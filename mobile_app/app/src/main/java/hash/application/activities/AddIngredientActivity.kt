@@ -9,13 +9,13 @@ import hash.application.dataType.Ingredient
 import hash.application.managers.IngredientManager
 import kotlinx.android.synthetic.main.activity_add_recipe.*
 
-class AddRecipeActivity : AppCompatActivity() {
+class AddIngredientActivity : AppCompatActivity() {
 
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_add_recipe)
 
-        val unitArray = arrayOf("", "Bag", "Basket", "Bottle", "Cup", "Teaspoon")
+        val unitArray = arrayOf("", "bag", "basket", "bottle", "cup", "fl oz", "g", "gal", "kg", "litre", "mg", "ml", "oz", "pint", "pound", "quart", "tablespoon", "teaspoon")
         spinner.adapter = ArrayAdapter(this, android.R.layout.simple_spinner_dropdown_item, unitArray)
 
         button_add.setOnClickListener {
