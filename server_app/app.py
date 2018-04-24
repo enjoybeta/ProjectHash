@@ -1,40 +1,41 @@
 from flask import Flask,request
 import json
+import datetime
 from apscheduler.schedulers.background import BackgroundScheduler
 from search1_serving import search_serving
 from search2_keyword import search_keyword
 from user_manager import sign_up,login,upload,download
 from random_today import random_today
 
+todayStr1 = " "
+todayStr2 = " "
+todayStr3 = " "
+todayStr4 = " "
+print("Init today's suggestions")
+
 app = Flask(__name__)
-sched = BackgroundScheduler(daemon=True)
-sched.add_job(updateTodaysRecipe,'cron',CronTrigger.from_crontab('0 0 * * *'),jitter=0)
-sched.start()
-today1 = ""
-today2 = ""
-today3 = ""
-today4 = ""
 
 @app.route("/")
 def guidance():
     return "/today1 /today2 /today3 /today4 /search"
-    
+
 @app.route("/today1")
 def today1():
-    return today1
-    
+    print("["+todayStr1+"]")
+    return todayStr1
+
 @app.route("/today2")
 def today2():
-    return today2
-    
+    return todayStr2
+
 @app.route("/today3")
 def today3():
-    return today3
-    
+    return todayStr3
+
 @app.route("/today4")
 def today4():
-    return today4
-    
+    return todayStr4
+
 @app.route('/searchPrecise', methods=['POST', 'GET'])
 def search_precise():
     if request.method == 'POST':
@@ -116,12 +117,23 @@ def validate_json(data):
         return False
     return True
 
-def updateTodaysRecipe(data):
+#update user suggestion on daily basis
+def update_today():
     jsonArray = json.loads(random_today())
-    today1 = jsonArray[0]
-    today2 = jsonArray[1]
-    today3 = jsonArray[2]
-    today4 = jsonArray[3]
+    global todayStr1
+    global todayStr2
+    global todayStr3
+    global todayStr4
+    todayStr1 = json.dumps(jsonArray[0])
+    todayStr2 = json.dumps(jsonArray[1])
+    todayStr3 = json.dumps(jsonArray[2])
+    todayStr4 = json.dumps(jsonArray[3])
+    print("Updated today's suggestion at" , datetime.datetime.now())
+
+sched = BackgroundScheduler(daemon=True)
+sched.add_job(update_today,'cron',day=1,jitter=0)
+sched.start()
+update_today()
 
 if __name__ == "__main__":
     app.run(host='127.0.0.1')
