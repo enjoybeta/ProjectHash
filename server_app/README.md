@@ -1,5 +1,6 @@
 # Server application for Hash
 ## Environment Requirement
+### Linux applications
 name | version
 ------------ | -------------
 Ubuntu | 16.04.4 LTS
@@ -7,6 +8,15 @@ Nginx | 1.10.3
 Gunicorn | 19.7.1
 Cassandra | 3.11.2
 Python | 3.5.2
+Pip | 10.0.1
+
+### Python moduless
+name | version
+------------ | -------------
+Apscheduler | 3.5.1
+Cassandra-driver | 3.13.0
+Flask | 0.12.2
+
 ##### Reminder: system needs at least 2GiB memory to run Cassandra smoothly
 
 ## How to initalize web service (WSGI)?
