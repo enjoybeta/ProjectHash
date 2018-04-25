@@ -43,18 +43,30 @@ class Fragment1 : Fragment() {
         var recipe3: Recipe? = null
         var recipe4: Recipe? = null
         // get data from server
-        val webThread = Thread(Runnable {
+        val webThread1 = Thread(Runnable {
             val dataStr1: String = WebManager.getToday1()
-            val dataStr2: String = WebManager.getToday2()
-            val dataStr3: String = WebManager.getToday3()
-            val dataStr4: String = WebManager.getToday4()
             recipe1 = Gson().fromJson(dataStr1, Recipe::class.java)
+        })
+        val webThread2 = Thread(Runnable {
+            val dataStr2: String = WebManager.getToday2()
             recipe2 = Gson().fromJson(dataStr2, Recipe::class.java)
+        })
+        val webThread3 = Thread(Runnable {
+            val dataStr3: String = WebManager.getToday3()
             recipe3 = Gson().fromJson(dataStr3, Recipe::class.java)
+        })
+        val webThread4 = Thread(Runnable {
+            val dataStr4: String = WebManager.getToday4()
             recipe4 = Gson().fromJson(dataStr4, Recipe::class.java)
         })
-        webThread.start()
-        webThread.join()
+        webThread1.start()
+        webThread2.start()
+        webThread3.start()
+        webThread4.start()
+        webThread1.join()
+        webThread2.join()
+        webThread3.join()
+        webThread4.join()
         // load image to the view
         Picasso.with(activity).load(recipe1!!.imageURLs).into(imageView1)
         Picasso.with(activity).load(recipe2!!.imageURLs).into(imageView2)

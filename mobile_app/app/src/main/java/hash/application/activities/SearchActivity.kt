@@ -4,6 +4,7 @@ import android.content.Intent
 import android.support.v7.app.AppCompatActivity
 import android.os.Bundle
 import android.util.Log
+import android.widget.Toast
 import com.google.gson.Gson
 import hash.application.R
 import hash.application.dataType.Recipe
@@ -30,6 +31,9 @@ class SearchActivity : AppCompatActivity() {
         if (recipes == null) {
             Log.e("log_SearchActivity", "recipes is null")
             throw Exception("recipes is null")
+        }
+        if (recipes.size == 0) {
+            Toast.makeText(this, "Can't find any search result, press back to return", Toast.LENGTH_LONG).show()
         }
         val adapter = CustomRecipeAdapter(this, recipes)
         listView1.adapter = adapter//attach the custom adapter on the listview
