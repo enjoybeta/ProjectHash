@@ -21,7 +21,6 @@ def guidance():
 
 @app.route("/today1")
 def today1():
-    print("["+todayStr1+"]")
     return todayStr1
 
 @app.route("/today2")
