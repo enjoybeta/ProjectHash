@@ -3,6 +3,7 @@ import json
 import cassandra
 from cassandra.cluster import Cluster
 import random
+import datetime
 
 ''' python function to randomly choose four recipes from database for the homepage recommandation'''
 def random_today():
@@ -26,12 +27,18 @@ def random_today():
 						'instructionurl': row.instruction}
 		recipe_list.append(recipe_data)
 	return_list = []
-	#randomly choose four recipes
+	#set the day of year as the seed for random shuffle
+	seed = int(datetime.date.today().strftime("%j"))
+	random.seed(seed)
+	#shuffle the list
+	random.shuffle(recipe_list)
+	#add four recipes to return list
+	i = 0
 	while len(return_list) < 4:
-		random_recipe = random.choice(recipe_list)
 		#avoid duplicate and recipes taht doesn't have image
-		if random_recipe not in return_list and random_recipe['imageURLs'] is not None:
-			return_list.append(random_recipe)
+		if recipe_list[i] not in return_list and recipe_list[i]['imageURLs'] is not None:
+			return_list.append(recipe_list[i])
+		i += 1
 	json_return = json.dumps(return_list)
 	#close database connection
 	cluster.shutdown()
