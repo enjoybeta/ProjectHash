@@ -11,7 +11,7 @@ todayStr1 = " "
 todayStr2 = " "
 todayStr3 = " "
 todayStr4 = " "
-print("Init today's suggestions")
+print("Initialize today's suggestions")
 
 app = Flask(__name__)
 
@@ -130,7 +130,7 @@ def update_today():
     print("Updated today's suggestion at" , datetime.datetime.now())
 
 sched = BackgroundScheduler(daemon=True)
-sched.add_job(update_today,'cron',day=1,jitter=0)
+sched.add_job(update_today,'cron',minute=1,hour=0,jitter=0)
 sched.start()
 update_today()
 
