@@ -26,7 +26,7 @@ class CustomRecipeAdapter(context: Context, fav: ArrayList<Recipe>) :
 
     override fun getView(position: Int, convertView: View?, parent: ViewGroup): View {
         val view: View?
-        val recipe : Recipe = getItem(position)
+        val recipe: Recipe = getItem(position)
         val viewHolder: ViewHolder
         if (convertView == null) {
             viewHolder = ViewHolder()
@@ -39,7 +39,12 @@ class CustomRecipeAdapter(context: Context, fav: ArrayList<Recipe>) :
             viewHolder = view.tag as ViewHolder
         }
         viewHolder.name!!.text = recipe.name
-        Picasso.with(context).load(recipe.imageURLs).into(viewHolder.image)
+        if (recipe.imageURLs == null) {
+            //load "not unavailable"
+            Picasso.with(context).load("https://vignette.wikia.nocookie.net/janethevirgin/images/4/42/Image-not-available_1.jpg/revision/latest?cb=20150721102313").into(viewHolder.image)
+        } else {
+            Picasso.with(context).load(recipe.imageURLs).into(viewHolder.image)
+        }
         return view!!
     }
 

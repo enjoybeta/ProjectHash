@@ -15,15 +15,14 @@ android {
         multiDexEnabled true
     }
     buildTypes {
-        release {
-            minifyEnabled true
-            shrinkResources true
-            proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.pro'
-        }
         debug {
             debuggable true
             minifyEnabled false
             proguardFiles getDefaultProguardFile('proguard-android.txt')
+        }
+        release {
+            minifyEnabled false
+            proguardFiles getDefaultProguardFile('proguard-android-optimize.txt'), 'proguard-rules.pro'
         }
     }
     compileOptions {
@@ -31,6 +30,8 @@ android {
         sourceCompatibility JavaVersion.VERSION_1_8
     }
     dexOptions {
+    }
+    productFlavors {
     }
 }
 
@@ -40,13 +41,11 @@ dependencies {
     implementation 'com.android.support:design:27.1.1'
     implementation 'com.android.support:support-v4:27.1.1'
     implementation 'com.android.support.constraint:constraint-layout:1.1.0'
-
     testImplementation 'junit:junit:4.12'
-    testImplementation "org.mockito:mockito-core:2.18.0"
+    testImplementation 'org.mockito:mockito-core:2.18.0'
     testImplementation 'org.mockito:mockito-inline:2.18.0'
-    androidTestImplementation 'com.android.support.test:runner:1.0.1'
-    androidTestImplementation 'com.android.support.test:rules:1.0.1'
-
+    androidTestImplementation 'com.android.support.test:runner:1.0.2'
+    androidTestImplementation 'com.android.support.test:rules:1.0.2'
     implementation "org.jetbrains.kotlin:kotlin-stdlib-jdk7:$kotlin_version"
     implementation 'com.squareup.picasso:picasso:2.5.2'
     implementation 'com.google.code.gson:gson:2.8.2'

@@ -14,7 +14,7 @@ import kotlinx.android.synthetic.main.activity_login.*
 class LoginActivity: Activity() {
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
-        setContentView(R.layout.activity_login)//initalize layout
+        setContentView(R.layout.activity_login)//initialize layout
     }
 
     override fun onStart() {

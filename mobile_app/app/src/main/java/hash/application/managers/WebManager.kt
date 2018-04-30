@@ -18,15 +18,18 @@ object WebManager {
 
     private val client: OkHttpClient = OkHttpClient()
 
-    init {
+    //validate conenction to server
+    fun proofConnection(): Boolean {
         try {
             val request = Request.Builder()
                     .url("$serverAddress/")
                     .build()
-            val response: Response = client.newCall(request).execute()//synchronous
+            client.newCall(request).execute()
         } catch (e: Exception) {
             Log.e("log_WebManager", e.stackTrace.toString())
+            return false
         }
+        return true
     }
 
     // first recipe suggestion for today
