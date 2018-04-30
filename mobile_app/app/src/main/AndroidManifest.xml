@@ -24,7 +24,7 @@
             android:name=".activities.ViewDish"
             android:label="@string/app_name" />
         <activity android:name=".activities.SearchActivity" />
-        <activity android:name=".activities.AddRecipeActivity"></activity>
+        <activity android:name=".activities.AddIngredientActivity" />
         <activity android:name=".activities.LoginActivity"/>
         <activity android:name=".activities.SignupActivity"/>
     </application>

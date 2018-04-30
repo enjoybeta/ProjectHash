@@ -8,7 +8,7 @@ import android.view.LayoutInflater
 import android.view.View
 import android.view.ViewGroup
 import android.widget.Toast
-import hash.application.activities.AddRecipeActivity
+import hash.application.activities.AddIngredientActivity
 import hash.application.R
 import hash.application.dataType.Ingredient
 import hash.application.helpers.CustomIngredientAdapter
@@ -46,7 +46,7 @@ class Fragment3 : Fragment() {
         }
 
         button1.setOnClickListener{
-            val intent = Intent(context, AddRecipeActivity::class.java)
+            val intent = Intent(context, AddIngredientActivity::class.java)
             startActivity(intent)
         }
     }

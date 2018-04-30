@@ -1,42 +1,40 @@
 from flask import Flask,request
 import json
+import datetime
+from apscheduler.schedulers.background import BackgroundScheduler
 from search1_serving import search_serving
 from search2_keyword import search_keyword
-from user_manager import sign_up
-from user_manager import login
-from user_manager import upload
-from user_manager import download
+from user_manager import sign_up,login,upload,download
+from random_today import random_today
+
+todayStr1 = " "
+todayStr2 = " "
+todayStr3 = " "
+todayStr4 = " "
+print("Initialize today's suggestions")
 
 app = Flask(__name__)
 
 @app.route("/")
 def guidance():
     return "/today1 /today2 /today3 /today4 /search"
-    
+
 @app.route("/today1")
 def today1():
-    with open ("../Database/examples/1.json", "r") as myfile:
-        data=myfile.readline()
-    return data
-    
+    return todayStr1
+
 @app.route("/today2")
 def today2():
-    with open ("../Database/examples/2.json", "r") as myfile:
-        data=myfile.readline()
-    return data
-    
+    return todayStr2
+
 @app.route("/today3")
 def today3():
-    with open ("../Database/examples/3.json", "r") as myfile:
-        data=myfile.readline()
-    return data
-    
+    return todayStr3
+
 @app.route("/today4")
 def today4():
-    with open ("../Database/examples/4.json", "r") as myfile:
-        data=myfile.readline()
-    return data
-    
+    return todayStr4
+
 @app.route('/searchPrecise', methods=['POST', 'GET'])
 def search_precise():
     if request.method == 'POST':
@@ -117,6 +115,24 @@ def validate_json(data):
         print("Not valid Json")
         return False
     return True
+
+#update user suggestion on daily basis
+def update_today():
+    jsonArray = json.loads(random_today())
+    global todayStr1
+    global todayStr2
+    global todayStr3
+    global todayStr4
+    todayStr1 = json.dumps(jsonArray[0])
+    todayStr2 = json.dumps(jsonArray[1])
+    todayStr3 = json.dumps(jsonArray[2])
+    todayStr4 = json.dumps(jsonArray[3])
+    print("Updated today's suggestion at" , datetime.datetime.now())
+
+sched = BackgroundScheduler(daemon=True)
+sched.add_job(update_today,'cron',minute=1,hour=0,jitter=0)
+sched.start()
+update_today()
 
 if __name__ == "__main__":
     app.run(host='127.0.0.1')

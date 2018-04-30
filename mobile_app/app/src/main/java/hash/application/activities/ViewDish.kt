@@ -4,6 +4,7 @@ import android.os.Bundle
 import android.app.Activity
 import android.content.Intent
 import android.net.Uri
+import android.support.v4.content.ContextCompat
 import android.util.Log
 import android.widget.Toast
 import com.squareup.picasso.Picasso
@@ -49,19 +50,19 @@ class ViewDish : Activity() {
         //setup the favorite button
         var favState: Boolean = FavoriteManager.findRecipeById(bundle.getString("id"))
         if (favState) {
-            favView.setImageDrawable(resources.getDrawable(R.drawable.ic_favorite_red_24dp))
+            favView.setImageDrawable(ContextCompat.getDrawable(this, R.drawable.ic_favorite_red_24dp))
         } else {
-            favView.setImageDrawable(resources.getDrawable(R.drawable.ic_favorite_border_black_24dp))
+            favView.setImageDrawable(ContextCompat.getDrawable(this, R.drawable.ic_favorite_border_black_24dp))
         }
         favView.setOnClickListener {
             favState = if (favState) {
                 //remove the favorite
-                favView.setImageDrawable(resources.getDrawable(R.drawable.ic_favorite_border_black_24dp))
+                favView.setImageDrawable(ContextCompat.getDrawable(this, R.drawable.ic_favorite_border_black_24dp))
                 FavoriteManager.removeRecipeByID(bundle.getString("id"))
                 false
             } else {
                 //add the favorite
-                favView.setImageDrawable(resources.getDrawable(R.drawable.ic_favorite_red_24dp))
+                favView.setImageDrawable(ContextCompat.getDrawable(this, R.drawable.ic_favorite_red_24dp))
                 val tmp = Recipe(
                         bundle.getString("name"),
                         bundle.getString("id"),
