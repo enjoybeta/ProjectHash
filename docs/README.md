@@ -2,6 +2,7 @@
 
 A recipe suggestion application for Android, written in Kotlin.
 
+Developed by Team Hash
 
 Members: Jinwei Shen, Jiashun Gou, Junhao Xu, Xiuqi Li
 
