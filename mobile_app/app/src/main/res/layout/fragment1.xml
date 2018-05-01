@@ -1,86 +1,138 @@
-<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+<android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:app="http://schemas.android.com/apk/res-auto"
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent">
 
-    <FrameLayout
-        android:id="@+id/container_frame_layout"
-        android:layout_width="match_parent"
-        android:layout_height="match_parent" />
+    <android.support.constraint.Guideline
+        android:id="@+id/guideline_vertical_photo_1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        app:layout_constraintGuide_percent=".05" />
+
+    <android.support.constraint.Guideline
+        android:id="@+id/guideline_vertical_photo_2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        app:layout_constraintGuide_percent=".5" />
+
+    <android.support.constraint.Guideline
+        android:id="@+id/guideline_vertical_photo_3"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        app:layout_constraintGuide_percent=".95" />
+
+    <android.support.constraint.Guideline
+        android:id="@+id/guideline_horizontal_search_1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        app:layout_constraintGuide_percent="0" />
+
+    <android.support.constraint.Guideline
+        android:id="@+id/guideline_horizontal_search_2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        app:layout_constraintGuide_percent=".1" />
+
+    <android.support.constraint.Guideline
+        android:id="@+id/guideline_horizontal_text"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        app:layout_constraintGuide_percent=".18" />
+
+    <android.support.constraint.Guideline
+        android:id="@+id/guideline_horizontal_photo_1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        app:layout_constraintGuide_percent=".3" />
+
+    <android.support.constraint.Guideline
+        android:id="@+id/guideline_horizontal_photo_2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        app:layout_constraintGuide_percent=".5" />
+
+    <android.support.constraint.Guideline
+        android:id="@+id/guideline_horizontal_photo_3"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        app:layout_constraintGuide_percent=".7" />
 
     <android.support.v7.widget.Toolbar
         android:id="@+id/toolbar"
         android:layout_width="match_parent"
-        android:layout_height="wrap_content"
-        android:layout_alignParentStart="true"
-        android:layout_alignParentTop="true"
+        android:layout_height="0dp"
         android:background="@color/colorPrimary"
-        android:minHeight="?android:attr/actionBarSize"/>
+        app:layout_constraintBottom_toBottomOf="@+id/guideline_horizontal_search_2"
+        app:layout_constraintTop_toTopOf="@+id/guideline_horizontal_search_1" />
 
     <SearchView
         android:id="@+id/searchView"
         android:layout_width="match_parent"
-        android:layout_height="50dp" />
+        android:layout_height="0dp"
+        app:layout_constraintBottom_toBottomOf="@+id/guideline_horizontal_search_2"
+        app:layout_constraintTop_toTopOf="@+id/guideline_horizontal_search_1" />
 
     <TextView
         android:id="@+id/textView"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:layout_below="@+id/toolbar"
-        android:layout_centerHorizontal="true"
-        android:layout_marginTop="12dp"
         android:fontFamily="cursive"
         android:text="@string/today_s_special"
-        android:textSize="30sp" />
+        android:textSize="30sp"
+        app:layout_constraintTop_toTopOf="@+id/guideline_horizontal_text"
+        app:layout_constraintLeft_toLeftOf="parent"
+        app:layout_constraintRight_toRightOf="parent"/>
 
     <ImageView
         android:id="@+id/imageView1"
-        android:layout_width="175dp"
-        android:layout_height="wrap_content"
-        android:layout_below="@+id/textView"
-        android:layout_marginTop="60dp"
-        android:layout_marginStart="30dp"
-        android:adjustViewBounds="true"
-        android:cropToPadding="false"
-        android:scaleType="fitXY"
+        android:layout_width="0dp"
+        android:layout_height="0dp"
         android:clickable="true"
         android:focusable="true"
-        android:src="@drawable/image_item1" />
+        android:src="@drawable/image_item1"
+        app:layout_constraintBottom_toBottomOf="@+id/guideline_horizontal_photo_2"
+        app:layout_constraintLeft_toLeftOf="@+id/guideline_vertical_photo_1"
+        app:layout_constraintRight_toRightOf="@+id/guideline_vertical_photo_2"
+        app:layout_constraintTop_toTopOf="@+id/guideline_horizontal_photo_1" />
 
     <ImageView
         android:id="@+id/imageView2"
-        android:layout_width="175dp"
-        android:layout_height="wrap_content"
-        android:layout_alignParentEnd="true"
-        android:layout_alignTop="@+id/imageView1"
-        android:layout_marginEnd="30dp"
-        android:adjustViewBounds="true"
-        android:cropToPadding="false"
-        android:scaleType="fitXY"
-        android:src="@drawable/image_item1" />
+        android:layout_width="0dp"
+        android:layout_height="0dp"
+        android:src="@drawable/image_item1"
+        app:layout_constraintBottom_toBottomOf="@+id/guideline_horizontal_photo_2"
+        app:layout_constraintLeft_toLeftOf="@+id/guideline_vertical_photo_2"
+        app:layout_constraintRight_toRightOf="@+id/guideline_vertical_photo_3"
+        app:layout_constraintTop_toTopOf="@+id/guideline_horizontal_photo_1" />
 
     <ImageView
         android:id="@+id/imageView3"
-        android:layout_width="175dp"
-        android:layout_height="wrap_content"
-        android:layout_below="@+id/imageView1"
-        android:layout_marginTop="30dp"
-        android:layout_toStartOf="@+id/imageView4"
-        android:adjustViewBounds="true"
-        android:cropToPadding="false"
-        android:scaleType="fitXY"
-        android:src="@drawable/image_item1" />
+        android:layout_width="0dp"
+        android:layout_height="0dp"
+        android:src="@drawable/image_item1"
+        app:layout_constraintBottom_toBottomOf="@+id/guideline_horizontal_photo_3"
+        app:layout_constraintLeft_toLeftOf="@+id/guideline_vertical_photo_1"
+        app:layout_constraintRight_toRightOf="@+id/guideline_vertical_photo_2"
+        app:layout_constraintTop_toTopOf="@+id/guideline_horizontal_photo_2" />
 
     <ImageView
         android:id="@+id/imageView4"
-        android:layout_width="175dp"
-        android:layout_height="wrap_content"
-        android:layout_alignTop="@+id/imageView3"
-        android:layout_toEndOf="@+id/imageView1"
-        android:adjustViewBounds="true"
-        android:cropToPadding="false"
-        android:scaleType="fitXY"
-        android:src="@drawable/image_item1" />
+        android:layout_width="0dp"
+        android:layout_height="0dp"
+        android:src="@drawable/image_item1"
+        app:layout_constraintBottom_toBottomOf="@+id/guideline_horizontal_photo_3"
+        app:layout_constraintLeft_toLeftOf="@+id/guideline_vertical_photo_2"
+        app:layout_constraintRight_toRightOf="@+id/guideline_vertical_photo_3"
+        app:layout_constraintTop_toTopOf="@+id/guideline_horizontal_photo_2" />
 
-</RelativeLayout>
+</android.support.constraint.ConstraintLayout>
