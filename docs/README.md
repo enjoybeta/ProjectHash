@@ -7,16 +7,16 @@ Since the server is not free, the server will shut down from 05/12/2018.
 After that, you should use your own server to make sure the app can work.
 
 # App Demo
-![Image of Home](./Pictures/Home.JPG)
 ### Home
-![Image of Home](./Pictures/Suggestion.JPG)
+![Image of Home](./Pictures/Home.JPG)
 ### Suggestion
-![Image of Home](./Pictures/Ingredients.JPG)
+![Image of Home](./Pictures/Suggestion.JPG)
 ### Ingredients
-![Image of Home](./Pictures/Favorite.JPG)
+![Image of Home](./Pictures/Ingredients.JPG)
 ### Favorite
-![Image of Home](./Pictures/Profile.JPG)
+![Image of Home](./Pictures/Favorite.JPG)
 ### Profile
+![Image of Home](./Pictures/Profile.JPG)
 
 ## Team
 Developed by Team Hash
