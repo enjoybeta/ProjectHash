@@ -2,6 +2,9 @@
 
 A recipe suggestion application for Android, written in Kotlin.
 
+# Attention
+Since the server is not free, the server will shut down from 05/12/2018.
+After that, you should use your own server to make sure the app can work.
 
 ## Team
 Developed by Team Hash
