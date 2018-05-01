@@ -10,13 +10,15 @@ After that, you should use your own server to make sure the app can work.
 ### Home
 ![Image of Home](./Pictures/Home.JPG)
 ### Suggestion
-![Image of Home](./Pictures/Suggestion.JPG)
+![Image of Suggestion](./Pictures/Suggestion.JPG)
 ### Ingredients
-![Image of Home](./Pictures/Ingredients.JPG)
+![Image of Ingredients](./Pictures/Ingredients.JPG)
 ### Favorite
-![Image of Home](./Pictures/Favorite.JPG)
+![Image of Favorite](./Pictures/Favorite.JPG)
 ### Profile
-![Image of Home](./Pictures/Profile.JPG)
+![Image of Profile](./Pictures/Profile.JPG)
+### Profile after log in
+![Image of Profile After Log In](./Pictures/ProfileLogin.JPG)
 
 ## Team
 Developed by Team Hash
@@ -34,7 +36,7 @@ check Readme under mobile_app folder
 This is the source of recipes. The detailed data of each recipe is in detailedData folder
 and all search results are in searchResult folder.
 
-### How to use getData.py?
+#### How to use getData.py?
 The getData.py will get recipes from Yummly API. To get recipes, you should first apply for the API and get the keys. Then in getData.py file, fill in the API information. Then run this file with python 3. The result will be saved in detailedData folder and searchResult folder.
 
 # Liscence
