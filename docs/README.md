@@ -6,6 +6,9 @@ A recipe suggestion application for Android, written in Kotlin.
 Since the server is not free, the server will shut down from 05/12/2018.
 After that, you should use your own server to make sure the app can work.
 
+# App Download
+https://github.com/HarryXu12138/ProjectHash/releases/download/v1.3.5/app-release.apk
+
 # App Demo
 ### Home
 ![Image of Home](./Pictures/Home.JPG)
