@@ -12,16 +12,15 @@ After that, you should use your own server to make sure the app can work.
 ## How to install
 #### Download installer on the phone
 1. Click on the .apk file downloaded.
-2. Click install.
-3. Done!
+2. Enable 'Install from unknown souce'.
+3. Click install.
+4. Done!
 
 #### Download installer on the computer
 1. Connect the android phone to the computer via USB.
-2. Enable 'Install from unknown souce'.
-3. Drag the .apk file to the phone folder
-4. Open the .apk file on the phone using file manager app.
-5. Click install.
-6. Done!
+2. Drag the .apk file to the phone folder.
+3. Follow the instructions above about install on the phone.
+4. Done!
 
 # Demo
 ### Home
