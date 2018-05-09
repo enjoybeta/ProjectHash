@@ -1,0 +1,26 @@
+matrix:
+  include:
+    - language: python
+      python: 3.5.2
+      before_script:
+        - cd server_app
+      install:
+        - pip install -r requirements.txt  
+      script:
+        - pytest
+
+    - language: android
+      jdk: oraclejdk8
+      android:
+        components:
+          - tools
+          - android-27
+          - build-tools-27.0.3
+      before_script:
+        - cd mobile_app/app
+      script:
+        #- ./gradlew build app
+
+notifications:
+  email:
+    - goujiashun@gmail.com
