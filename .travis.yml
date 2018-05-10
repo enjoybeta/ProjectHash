@@ -15,7 +15,8 @@ matrix:
       before_script:
         - cd server_app
       script:
-        #- pytest
+        - python -V
+        - python user_manager_test.py
 
     - language: android
       jdk: oraclejdk8
@@ -25,7 +26,7 @@ matrix:
           - android-27
           - build-tools-27.0.3
       before_script:
-        - cd mobile_app/app
+        - cd mobile_app
       script:
         #- ./gradlew build app
 
