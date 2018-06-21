@@ -2,10 +2,10 @@ from flask import Flask,request
 import json
 import datetime
 from apscheduler.schedulers.background import BackgroundScheduler
-from search1_serving import search_serving
-from search2_keyword import search_keyword
-from user_manager import sign_up,login,upload,download
-from random_today import random_today
+from helpers/search1_serving import search_serving
+from helpers/search2_keyword import search_keyword
+from helpers/user_manager import sign_up,login,upload,download
+from helpers/random_today import random_today
 
 todayStr1 = " "
 todayStr2 = " "

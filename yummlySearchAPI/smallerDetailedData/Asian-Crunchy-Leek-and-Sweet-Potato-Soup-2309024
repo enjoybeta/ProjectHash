@@ -1,0 +1,59 @@
+{
+    "nutritionEstimates": [],
+    "totalTime": "1 hr 20 min",
+    "images": [
+        {
+            "hostedSmallUrl": "https://lh3.googleusercontent.com/Wh27sUsR1rWpBU13C4EDTMR6nORqJWTN1IpoDZecG816e68kRiHlrSBsYaFznXeiQRuEsZfyRSgGtqY32g4BOg=s90",
+            "hostedMediumUrl": "https://lh3.googleusercontent.com/Wh27sUsR1rWpBU13C4EDTMR6nORqJWTN1IpoDZecG816e68kRiHlrSBsYaFznXeiQRuEsZfyRSgGtqY32g4BOg=s180",
+            "hostedLargeUrl": "https://lh3.googleusercontent.com/Wh27sUsR1rWpBU13C4EDTMR6nORqJWTN1IpoDZecG816e68kRiHlrSBsYaFznXeiQRuEsZfyRSgGtqY32g4BOg=s360",
+            "imageUrlsBySize": {
+                "90": "https://lh3.googleusercontent.com/kFGhE5A_GRK71-zYivUgb-xeE55RDkn2LOyEB2V2ow1gixZTTSB8rJA9Me8Sp9_7NTvk9an8lJXWUNMR_p_0gQ=s90-c",
+                "360": "https://lh3.googleusercontent.com/kFGhE5A_GRK71-zYivUgb-xeE55RDkn2LOyEB2V2ow1gixZTTSB8rJA9Me8Sp9_7NTvk9an8lJXWUNMR_p_0gQ=s360-c"
+            }
+        }
+    ],
+    "name": "Asian Crunchy Leek and Sweet Potato Soup",
+    "source": {
+        "sourceDisplayName": "Narin's World of Taste",
+        "sourceSiteUrl": "taste.narin.com",
+        "sourceRecipeUrl": "http://taste.narin.com/asian-crunchy-leek-and-sweet-potato-soup/4424"
+    },
+    "id": "Asian-Crunchy-Leek-and-Sweet-Potato-Soup-2309024",
+    "ingredientLines": [
+        "350 g / 0.77 lbs leek",
+        "500 g / 1.1 lbs sweet potatoes",
+        "1 carrot",
+        "40 g / 1 1/2 oz ginger root, 5 \u2013 6 cm (about 2.5 inches)",
+        "1 l / 4 1/3 cups Homemade Vegetable Broth or organic bought broth",
+        "240 ml / 1 cup reduced fat coconut cream or coconut milk",
+        "1 tbsp coconut oil",
+        "1 tsp red curry paste (optional)",
+        "salt and pepper to taste",
+        "salt and pepper to taste",
+        "250 g / 0.55 lbs leek",
+        "1 tsp paprika powder",
+        "1 tsp olive oil",
+        "1 tsp cumin",
+        "1 tsp chili powder",
+        "salt and pepper",
+        "salt and pepper"
+    ],
+    "attribution": {
+        "html": "<a href='http://www.yummly.co/recipe/Asian-Crunchy-Leek-and-Sweet-Potato-Soup-2309024'>Asian Crunchy Leek and Sweet Potato Soup recipe</a> information powered by <img alt='Yummly' src='https://static.yummly.co/api-logo.png'/>",
+        "url": "http://www.yummly.co/recipe/Asian-Crunchy-Leek-and-Sweet-Potato-Soup-2309024",
+        "text": "Asian Crunchy Leek and Sweet Potato Soup recipes: information powered by Yummly",
+        "logo": "https://static.yummly.co/api-logo.png"
+    },
+    "numberOfServings": 4,
+    "totalTimeInSeconds": 4800,
+    "attributes": {
+        "course": [
+            "Soups"
+        ],
+        "cuisine": [
+            "Asian"
+        ]
+    },
+    "flavors": {},
+    "rating": 4
+}
