@@ -15,7 +15,7 @@ matrix:
       before_script:
         - cd server_app
         - python -V
-        - python test/initCasasndra.py
+        - python test/initCassandra.py
         # need to initalize database for testing
       script:
         - python test/user_manager_test.py
