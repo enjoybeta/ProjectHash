@@ -4,7 +4,7 @@ import sys
 from cassandra.cluster import Cluster
 import os
 
-def main(){
+def main():
 	#create database connection
 	cluster = Cluster()
 	#use keyspace 'hash'
@@ -50,7 +50,6 @@ def main(){
 
 	#close database connection
 	cluster.shutdown()
-}
 
 if __name__ == '__main__':
     main()

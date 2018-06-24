@@ -11,12 +11,11 @@ import java.io.File
  */
 //use Singleton by object
 object IngredientManager {
-    private lateinit var ing: Ingredients
+    private var ing: Ingredients = Ingredients()
     private lateinit var dir: File
     private const val fileName = "ingredients.dat"
 
     fun initFromFile(_dir: File) {
-        ing = Ingredients()
         dir = _dir
         val dataFile = FileManager(dir, fileName)
         if (!dataFile.checkFile()) {

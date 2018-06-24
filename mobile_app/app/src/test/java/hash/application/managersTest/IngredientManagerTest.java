@@ -14,18 +14,22 @@ import static org.junit.Assert.*;
 
 public class IngredientManagerTest {
     // Get the singleton first
-    IngredientManager manager = IngredientManager.INSTANCE;
+    private IngredientManager manager = IngredientManager.INSTANCE;
 
     @Before
     public void runBeforeTestMethod() {
         File file = new File("./");
-        manager.initFromFile(file);
+        try {
+            manager.initFromFile(file);
+        } catch (Exception e) {
+            System.err.print("manager init failed");
+        }
     }
 
     // Test the addIngredient function and some get functions
     @Test
     public void addIngredientTest() {
-        Ingredient a = new Ingredient("Potato",-1, "kilogram");
+        Ingredient a = new Ingredient("Potato", -1, "kilogram");
         Ingredient b = new Ingredient("Mushroom", 20, "box");
         Ingredient c = new Ingredient("Harry", 2, "sjw");
         manager.addIngredient(a);
@@ -49,14 +53,13 @@ public class IngredientManagerTest {
     // Test the removeIngredientByName function
     @Test
     public void removeIngredientByNameTest() {
-        Ingredient a = new Ingredient("Potato",-1, "kilogram");
+        Ingredient a = new Ingredient("Potato", -1, "kilogram");
         Ingredient b = new Ingredient("Mushroom", 20, "box");
         Ingredient c = new Ingredient("Harry", 2, "sjw");
         manager.addIngredient(a);
         manager.addIngredient(b);
         manager.addIngredient(c);
         assertTrue(manager.removeIngredientByName("Potato"));
-        Boolean x = manager.findIngredientByName("Potato");
         assertFalse(manager.findIngredientByName("Potato"));
         assertTrue(manager.findIngredientByName("Mushroom"));
         assertTrue(manager.findIngredientByName("Harry"));
