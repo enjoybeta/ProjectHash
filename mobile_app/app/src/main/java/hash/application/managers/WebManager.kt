@@ -24,7 +24,10 @@ object WebManager {
             val request = Request.Builder()
                     .url("$serverAddress/")
                     .build()
-            client.newCall(request).execute()
+            val response = client.newCall(request).execute()
+            if (response.body()!!.string() != "HASH is Online") {
+                return false
+            }
         } catch (e: Exception) {
             Log.e("log_WebManager", e.stackTrace.toString())
             return false
